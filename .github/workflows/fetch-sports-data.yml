@@ -26,9 +26,13 @@ jobs:
     - name: Run data fetcher
       run: node ./get-match-list.js
       
-    - name: Commit and push if changed
+    - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add sports-data-latest.json
-        git diff --staged --quiet || (git commit -m "Update sports data [skip ci]" && git push)
+        # 直接提交，不检查变化
+        git commit -m "Update sports data [skip ci]" || exit 0
+        
+    - name: Push changes
+      run: git push
