@@ -126,7 +126,6 @@ async function fetchAndProcessData() {
         
         const mergedMatch = {
           mgdbId: match.mgdbId,
-          date: match.date,
           pID: match.pID,
           title: match.title,
           keyword: match.keyword,
