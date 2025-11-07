@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-07 17:49:44",
+  "updateTime": "2025-11-07 18:43:28",
   "data": [
     {
       "mgdbId": "120000559302",
@@ -217,7 +217,7 @@
     {
       "mgdbId": "120000559304",
       "pID": "959758425",
-      "title": "WTT法兰克福冠军赛Day4晚间场",
+      "title": "1/8决赛：强强对决！奥恰PK张本智和",
       "keyword": "11月07日19:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -225,7 +225,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/06/6V0RLBIMDRQ1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "WTT法兰克福冠军赛Day4晚间场",
+      "pkInfoTitle": "1/8决赛：强强对决！奥恰PK张本智和",
       "modifyTitle": "WTT法兰克福冠军赛：男女单打1/8决赛",
       "presenters": "小马哥",
       "matchInfo": {
@@ -389,7 +389,7 @@
     {
       "mgdbId": "120000559643",
       "pID": "959785919",
-      "title": "萨巴伦卡PK阿尼西莫娃",
+      "title": "萨巴伦卡PK阿尼西莫娃 莱巴金娜出战",
       "keyword": "11月07日20:30",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -397,7 +397,7 @@
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SGJ1DRR45.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/3/7/1000000012341069e1a8.jpg",
-      "pkInfoTitle": "萨巴伦卡PK阿尼西莫娃",
+      "pkInfoTitle": "萨巴伦卡PK阿尼西莫娃 莱巴金娜出战",
       "modifyTitle": "WTA年终总决赛半决赛：萨巴伦卡PK阿尼西莫娃 莱巴金娜出战",
       "presenters": "佟艺 蔡凯臣 李宁 邱超 鸿昆 单文强 刘钟鸣",
       "matchInfo": {
@@ -409,12 +409,12 @@
           "name": "赛场原声"
         },
         {
-          "pID": "959785932",
-          "name": "英文原声"
-        },
-        {
           "pID": "959785971",
           "name": "佟艺 蔡凯臣"
+        },
+        {
+          "pID": "959785932",
+          "name": "英文原声"
         },
         {
           "pID": "959786078",
@@ -427,14 +427,6 @@
         {
           "pID": "959786147",
           "name": "单文强 刘钟鸣"
-        },
-        {
-          "pID": "960010539",
-          "name": "佟艺 蔡凯臣"
-        },
-        {
-          "pID": "960010560",
-          "name": "佟艺 李宁"
         }
       ]
     }
