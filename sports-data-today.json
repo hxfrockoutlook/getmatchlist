@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-08 00:47:45",
+  "updateTime": "2025-11-08 01:36:18",
   "data": [
     {
       "mgdbId": "120000559305",
@@ -8,7 +8,7 @@
       "title": "1/8决赛：松岛辉空冲8强 美和压台登场",
       "keyword": "11月08日01:30",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SIQQG7JR2.png",
@@ -1262,11 +1262,15 @@
       "nodes": [
         {
           "pID": "959999055",
-          "name": "吴奕博"
+          "name": "吴���博"
         },
         {
           "pID": "959999013",
           "name": "赛场原声"
+        },
+        {
+          "pID": "959999055",
+          "name": "吴奕博"
         }
       ]
     },
@@ -1301,7 +1305,7 @@
     {
       "mgdbId": "120000542902",
       "pID": "960006538",
-      "title": "德甲���赛",
+      "title": "德甲联赛",
       "keyword": "11月08日22:30",
       "sportItemId": "1",
       "matchStatus": "0",
