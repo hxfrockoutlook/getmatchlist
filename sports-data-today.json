@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-08 05:50:02",
+  "updateTime": "2025-11-08 06:38:24",
   "data": [
     {
       "mgdbId": "120000559305",
@@ -120,7 +120,7 @@
       "title": "西甲联赛",
       "keyword": "11月08日04:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "曼努埃尔·马丁内斯·巴莱罗市政体育场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543903/202511070957_531380_H169_1080.webp",
@@ -1262,15 +1262,11 @@
       "nodes": [
         {
           "pID": "959999055",
-          "name": "吴���博"
+          "name": "吴奕博"
         },
         {
           "pID": "959999013",
           "name": "赛场原声"
-        },
-        {
-          "pID": "959999055",
-          "name": "吴奕博"
         }
       ]
     },
