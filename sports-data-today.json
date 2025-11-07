@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-07 12:47:20",
+  "updateTime": "2025-11-07 13:41:11",
   "data": [
     {
       "mgdbId": "120000559302",
@@ -80,7 +80,7 @@
     },
     {
       "mgdbId": "120000546659",
-      "pID": "960009035",
+      "pID": "960009931",
       "title": "NBA常规赛",
       "keyword": "11月07日10:00",
       "sportItemId": "2",
@@ -109,8 +109,8 @@
           "name": "英文原声"
         },
         {
-          "pID": "960009035",
-          "name": "宣泄！格林三分命中后怒吼 布克欣慰一笑"
+          "pID": "960009931",
+          "name": "25/26赛季NBA常规赛全场集锦：快船102:115太阳（20251107）"
         }
       ]
     },
@@ -371,7 +371,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "湖南省足球联赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000551401/202510021731_561205_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SFTA4Q6LI.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/4/100000001316106bfe97.png",
       "pkInfoTitle": "衡阳vs永州",
       "modifyTitle": "湖南省足球联赛",
@@ -427,6 +427,14 @@
         {
           "pID": "959786147",
           "name": "单文强 刘钟鸣"
+        },
+        {
+          "pID": "960010539",
+          "name": "佟艺 蔡凯臣"
+        },
+        {
+          "pID": "960010560",
+          "name": "佟艺 李宁"
         }
       ]
     }
