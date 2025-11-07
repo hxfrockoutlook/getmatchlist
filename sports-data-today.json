@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-07 07:47:45",
+  "updateTime": "2025-11-07 11:36:13",
   "data": [
     {
       "mgdbId": "120000559302",
@@ -27,10 +27,6 @@
         {
           "pID": "959758374",
           "name": "英文解说"
-        },
-        {
-          "pID": "960002883",
-          "name": "回看"
         }
       ]
     },
@@ -40,7 +36,7 @@
       "title": "匹克球中巡赛双一千赛超燃对决",
       "keyword": "11月07日08:30",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "中国匹克球巡回赛",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/05/6V0QN4RN5DH8.png",
@@ -64,7 +60,7 @@
       "title": "云上小湾鲈钓精英赛Day4",
       "keyword": "11月07日09:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "云上小湾杯",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/06/6V0RJ4S58IT3.png",
@@ -88,7 +84,7 @@
       "title": "NBA常规赛",
       "keyword": "11月07日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "凤凰城竞技场",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/06/6V0RM2IMJFLR.jpg",
@@ -117,7 +113,7 @@
     {
       "mgdbId": "120000554838",
       "pID": "959535309",
-      "title": "赵心童PK吴宜泽（第一阶段）",
+      "title": "中国德比！赵心童PK吴宜泽(第一阶段)",
       "keyword": "11月07日14:00",
       "sportItemId": "8",
       "matchStatus": "0",
@@ -125,20 +121,20 @@
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/06/6V0RKHUHEB7H.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童PK吴宜泽（第一阶段）",
-      "modifyTitle": "斯诺克国际锦标赛半决赛：赵心童PK吴宜泽（第一阶段）",
+      "pkInfoTitle": "中国德比！赵心童PK吴宜泽(第一阶段)",
+      "modifyTitle": "斯诺克国际锦标赛半决赛：中国德比！赵心童PK吴宜泽(第一阶段)",
       "presenters": "秦正",
       "matchInfo": {
         "time": "11月07日14:00"
       },
       "nodes": [
         {
-          "pID": "959535309",
-          "name": "1号桌"
-        },
-        {
           "pID": "959535317",
           "name": "秦正"
+        },
+        {
+          "pID": "959535309",
+          "name": "1号桌"
         }
       ]
     },
@@ -289,28 +285,28 @@
     {
       "mgdbId": "120000554839",
       "pID": "959535341",
-      "title": "赵心童PK吴宜泽（第二阶段）",
+      "title": "中国德比！赵心童PK吴宜泽(第二阶段)",
       "keyword": "11月07日19:30",
       "sportItemId": "8",
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "斯诺克",
-      "padImg": "",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SIFEUEAV1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "赵心童PK吴宜泽（第二阶段）",
-      "modifyTitle": "斯诺克国际锦标赛半决赛：赵心童PK吴宜泽（第二阶段）",
+      "pkInfoTitle": "中国德比！赵心童PK吴宜泽(第二阶段)",
+      "modifyTitle": "斯诺克国际锦标赛半决赛：中国德比！赵心童PK吴宜泽(第二阶段)",
       "presenters": "朱蒙",
       "matchInfo": {
         "time": "11月07日19:30"
       },
       "nodes": [
         {
-          "pID": "959535341",
-          "name": "1号桌"
-        },
-        {
           "pID": "959535350",
           "name": "朱蒙"
+        },
+        {
+          "pID": "959535341",
+          "name": "1号桌"
         }
       ]
     },
