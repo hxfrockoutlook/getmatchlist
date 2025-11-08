@@ -1,11 +1,11 @@
 {
   "success": true,
-  "updateTime": "2025-11-08 16:44:00",
+  "updateTime": "2025-11-08 17:33:26",
   "data": [
     {
       "mgdbId": "120000559305",
       "pID": "959758522",
-      "title": "WTT法兰克福冠军赛Day4夜间场",
+      "title": "松岛辉空三局速胜 张本美和晋级",
       "keyword": "11月08日01:30",
       "sportItemId": "7",
       "matchStatus": "2",
@@ -13,7 +13,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDV5BTHCM.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "WTT法兰克福冠军赛Day4夜间场",
+      "pkInfoTitle": "松岛辉空三局速胜 张本美和晋级",
       "modifyTitle": "WTT法兰克福冠军赛：男女单打1/8决赛",
       "presenters": "",
       "matchInfo": {
@@ -489,16 +489,16 @@
     {
       "mgdbId": "120000554840",
       "pID": "960016516",
-      "title": "苏格兰德比！希金斯vs马奎尔(第一阶段)",
+      "title": "巫师轰出6连鞭！第一阶段希金斯6-2马奎尔",
       "keyword": "11月08日14:00",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SITD98O04.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2024/1/16/100000001001106678f6.jpg",
-      "pkInfoTitle": "苏格兰德比！希金斯vs马奎尔(第一阶段)",
-      "modifyTitle": "斯诺克国际锦标赛半决赛第二场：苏格兰德比！希金斯vs马奎尔(第一阶段)",
+      "pkInfoTitle": "巫师轰出6连鞭！第一阶段希金斯6-2马奎尔",
+      "modifyTitle": "巫师轰出6连鞭！第一阶段希金斯6-2马奎尔",
       "presenters": "丁文钧 朱峰立",
       "matchInfo": {
         "time": "11月08日14:00"
@@ -539,10 +539,6 @@
         {
           "pID": "960008781",
           "name": "解说"
-        },
-        {
-          "pID": "960008759",
-          "name": "2025中甲第30轮: 深圳青年人VS青岛红狮(官方解说)"
         }
       ]
     },
@@ -567,10 +563,6 @@
         {
           "pID": "960008759",
           "name": "解说"
-        },
-        {
-          "pID": "960008781",
-          "name": "2025中甲第30轮: 陕西联合VS广西平果(官方解说)"
         }
       ]
     },
@@ -578,9 +570,9 @@
       "mgdbId": "120000536710",
       "pID": "960008723",
       "title": "中甲联赛",
-      "keyword": "11月08日 14:30",
+      "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "嘉定体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDSJ6NQOQ.png",
@@ -589,16 +581,12 @@
       "modifyTitle": "中甲联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月08日 14:30"
+        "time": "11月08日14:30"
       },
       "nodes": [
         {
           "pID": "960008723",
           "name": "解说"
-        },
-        {
-          "pID": "960008583",
-          "name": "2025中甲第30轮: 广东广州豹VS南通支云(官方解说)"
         }
       ]
     },
@@ -695,10 +683,6 @@
         {
           "pID": "960008583",
           "name": "解说"
-        },
-        {
-          "pID": "960008723",
-          "name": "2025中甲第30轮: 上海嘉定汇龙VS重庆铜梁龙(官方解说)"
         }
       ]
     },
@@ -708,7 +692,7 @@
       "title": "中甲联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "铁西体育场",
       "competitionName": "中甲",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDS6POUON.png",
@@ -732,7 +716,7 @@
       "title": "达州川汉子队 VS 南充丝绸源点队",
       "keyword": "11月08日 15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "四川省城市足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000550307/202509231501_718656_H169_1080.webp",
@@ -756,7 +740,7 @@
       "title": "湖南省足球联赛",
       "keyword": "11月08日 15:00",
       "sportItemId": "1",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "湖南省足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000551402/202510021730_240024_H169_1080.webp",
@@ -877,7 +861,7 @@
     {
       "mgdbId": "120000559306",
       "pID": "959758587",
-      "title": "1/4决赛：迪亚兹激战早田 松岛接台",
+      "title": "迪亚兹VS早田希娜 松岛激战奥恰",
       "keyword": "11月08日19:00",
       "sportItemId": "7",
       "matchStatus": "0",
@@ -885,7 +869,7 @@
       "competitionName": "WTT",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TFRGLNPBN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "1/4决赛：迪亚兹激战早田 松岛接台",
+      "pkInfoTitle": "迪亚兹VS早田希娜 松岛激战奥恰",
       "modifyTitle": "WTT法兰克福冠军赛：男女单打1/4决赛",
       "presenters": "肖扬",
       "matchInfo": {
