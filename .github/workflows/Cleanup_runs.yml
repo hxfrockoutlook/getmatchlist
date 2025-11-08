@@ -20,7 +20,7 @@ jobs:
       - name: Cleanup old workflow runs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          KEEP_DAYS: 3
+          KEEP_DAYS: 1
           OWNER: ${{ github.repository_owner }}
           REPO: ${{ github.repository }}
         run: |
