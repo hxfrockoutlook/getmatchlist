@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-08 19:49:17",
+  "updateTime": "2025-11-08 21:10:06",
   "data": [
     {
       "mgdbId": "120000559305",
@@ -808,14 +808,14 @@
     },
     {
       "mgdbId": "120000554929",
-      "pID": "959543013",
+      "pID": "960043060",
       "title": "东亚超级联赛",
       "keyword": "11月08日 18:10",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "东亚超级联赛",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDIJ502OD.png",
+      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000554929/202510241510_845338_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
       "pkInfoTitle": "马尼拉电气vs桃园璞园领航猿",
       "modifyTitle": "东亚超级联赛",
@@ -827,6 +827,10 @@
         {
           "pID": "959543013",
           "name": "清流播出1"
+        },
+        {
+          "pID": "960043060",
+          "name": "25/26东亚超级联赛全场集锦：马尼拉电气vs桃园璞园领航猿"
         }
       ]
     },
@@ -861,15 +865,15 @@
     {
       "mgdbId": "120000559306",
       "pID": "959758587",
-      "title": "迪亚兹VS早田希娜 松岛激战奥恰",
+      "title": "早田希娜4-1迪亚兹 申裕斌出战",
       "keyword": "11月08日19:00",
       "sportItemId": "7",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTT",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TFRGLNPBN.jpg",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TER9DTBCH.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/9/28/1000000004041064e35e.png",
-      "pkInfoTitle": "迪亚兹VS早田希娜 松岛激战奥恰",
+      "pkInfoTitle": "早田希娜4-1迪亚兹 申裕斌出战",
       "modifyTitle": "WTT法兰克福冠军赛：男女单打1/4决赛",
       "presenters": "肖扬",
       "matchInfo": {
@@ -900,7 +904,7 @@
       "title": "苏格兰德比！希金斯vs马奎尔(第二阶段)",
       "keyword": "11月08日19:30",
       "sportItemId": "8",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TG5AF7MLB.png",
@@ -1118,7 +1122,7 @@
       "mgdbId": "120000560290",
       "pID": "959998966",
       "title": "英女超",
-      "keyword": "11月08日20:00",
+      "keyword": "11月08日 20:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -1129,7 +1133,7 @@
       "modifyTitle": "英女超",
       "presenters": "刘畅",
       "matchInfo": {
-        "time": "11月08日20:00"
+        "time": "11月08日 20:00"
       },
       "nodes": [
         {
@@ -1146,7 +1150,7 @@
       "mgdbId": "120000560291",
       "pID": "959999007",
       "title": "英女超",
-      "keyword": "11月08日20:00",
+      "keyword": "11月08日 20:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -1157,7 +1161,7 @@
       "modifyTitle": "英女超",
       "presenters": "刘焕",
       "matchInfo": {
-        "time": "11月08日20:00"
+        "time": "11月08日 20:00"
       },
       "nodes": [
         {
@@ -1197,12 +1201,12 @@
           "name": "球星视角"
         },
         {
-          "pID": "959997630",
-          "name": "英文原声"
-        },
-        {
           "pID": "959997611",
           "name": "赛场原声"
+        },
+        {
+          "pID": "959997630",
+          "name": "英文原声"
         }
       ]
     },
@@ -1212,7 +1216,7 @@
       "title": "西甲联赛",
       "keyword": "11月08日21:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "蒙蒂利维市政球场",
       "competitionName": "西甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543433/202507102051_857950_H169_1080.webp",
@@ -1240,7 +1244,7 @@
       "title": "萨巴伦卡PK莱巴金娜争夺年终冠军",
       "keyword": "11月08日21:00",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TFJ8J3HNK.jpg",
@@ -1257,12 +1261,12 @@
           "name": "单文强 鸿昆"
         },
         {
-          "pID": "959786292",
-          "name": "李宁 刘钟鸣"
-        },
-        {
           "pID": "959786220",
           "name": "赛场原声"
+        },
+        {
+          "pID": "959786292",
+          "name": "李宁 刘钟鸣"
         },
         {
           "pID": "959786240",
@@ -1301,7 +1305,7 @@
     {
       "mgdbId": "120000543171",
       "pID": "959999055",
-      "title": "意甲联赛",
+      "title": "意��联赛",
       "keyword": "11月08日22:00",
       "sportItemId": "1",
       "matchStatus": "0",
