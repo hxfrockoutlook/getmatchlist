@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-08 13:37:38",
+  "updateTime": "2025-11-08 13:50:08",
   "data": [
     {
       "mgdbId": "120000559305",
@@ -428,7 +428,7 @@
     },
     {
       "mgdbId": "120000546669",
-      "pID": "960035791",
+      "pID": "960036308",
       "title": "NBANBA杯",
       "keyword": "11月08日11:00",
       "sportItemId": "2",
@@ -451,20 +451,16 @@
         {
           "pID": "959854793",
           "name": "英文原声"
-        },
-        {
-          "pID": "960035791",
-          "name": "上头了！威少拦腰摁倒空中的米切尔被吹一级恶意"
         }
       ]
     },
     {
       "mgdbId": "120000546670",
-      "pID": "959854688",
+      "pID": "960035291",
       "title": "NBANBA杯",
       "keyword": "11月08日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "波尔体育馆",
       "competitionName": "NBA",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TD0EEF0O0.jpg",
@@ -1313,7 +1309,7 @@
       "keyword": "11月08日22:00",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "朱塞佩·西尼加利亚体育场",
+      "matchField": "朱塞佩·西尼加利亚��育场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543171/202507101946_306496_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
