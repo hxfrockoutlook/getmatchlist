@@ -1,8 +1,10 @@
 name: Precise Sports Data Fetch
 
 on:
-  repository_dispatch:
-    types: [scheduled-update]
+  push:
+    branches: [ main ]
+    paths:
+      - '.trigger-update'
   workflow_dispatch:
 
 jobs:
@@ -14,7 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        token: ${{ secrets.CRON }}  # 使用PAT而不是GITHUB_TOKEN
+        token: ${{ secrets.GITHUB_TOKEN }}
         
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -33,4 +35,6 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add sports-data-latest.json
+        # 删除触发文件
+        git rm -f .trigger-update || true
         git diff --staged --quiet || (git commit -m "Update sports data [skip ci]" && git push)
