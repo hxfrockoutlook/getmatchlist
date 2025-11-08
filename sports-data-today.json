@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-08 14:51:06",
+  "updateTime": "2025-11-08 15:31:05",
   "data": [
     {
       "mgdbId": "120000559305",
@@ -505,12 +505,12 @@
       },
       "nodes": [
         {
-          "pID": "959535366",
-          "name": "1号桌"
-        },
-        {
           "pID": "960016516",
           "name": "丁文钧"
+        },
+        {
+          "pID": "959535366",
+          "name": "1号桌"
         },
         {
           "pID": "959535387",
@@ -539,6 +539,10 @@
         {
           "pID": "960008781",
           "name": "解说"
+        },
+        {
+          "pID": "960008759",
+          "name": "2025中甲第30轮: 深圳青年人VS青岛红狮(官方解说)"
         }
       ]
     },
@@ -563,6 +567,10 @@
         {
           "pID": "960008759",
           "name": "解说"
+        },
+        {
+          "pID": "960008781",
+          "name": "2025中甲第30轮: 陕西联合VS广西平果(官方解说)"
         }
       ]
     },
@@ -570,7 +578,7 @@
       "mgdbId": "120000536710",
       "pID": "960008723",
       "title": "中甲联赛",
-      "keyword": "11月08日 14:30",
+      "keyword": "11月08日14:30",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "嘉定体育场",
@@ -581,12 +589,16 @@
       "modifyTitle": "中甲联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月08日 14:30"
+        "time": "11月08日14:30"
       },
       "nodes": [
         {
           "pID": "960008723",
           "name": "解说"
+        },
+        {
+          "pID": "960008583",
+          "name": "2025中甲第30轮: 广东广州豹VS南通支云(官方解说)"
         }
       ]
     },
@@ -594,7 +606,7 @@
       "mgdbId": "120000536711",
       "pID": "960008686",
       "title": "中甲联赛",
-      "keyword": "11月08日 14:30",
+      "keyword": "11月08日14:30",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "裕彤国际体育中心",
@@ -605,7 +617,7 @@
       "modifyTitle": "中甲联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月08日 14:30"
+        "time": "11月08日14:30"
       },
       "nodes": [
         {
@@ -683,6 +695,10 @@
         {
           "pID": "960008583",
           "name": "解说"
+        },
+        {
+          "pID": "960008723",
+          "name": "2025中甲第30轮: 上海嘉定汇龙VS重庆铜梁龙(官方解说)"
         }
       ]
     },
@@ -714,7 +730,7 @@
       "mgdbId": "120000550307",
       "pID": "958252764",
       "title": "达州川汉子队 VS 南充丝绸源点队",
-      "keyword": "11月08日15:00",
+      "keyword": "11月08日 15:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -725,7 +741,7 @@
       "modifyTitle": "达州川汉子队 VS 南充丝绸源点队",
       "presenters": "",
       "matchInfo": {
-        "time": "11月08日15:00"
+        "time": "11月08日 15:00"
       },
       "nodes": [
         {
@@ -738,9 +754,9 @@
       "mgdbId": "120000551402",
       "pID": "958971987",
       "title": "湖南省足球联赛",
-      "keyword": "11月08日15:00",
+      "keyword": "11月08日 15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "湖南省足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000551402/202510021730_240024_H169_1080.webp",
@@ -749,7 +765,7 @@
       "modifyTitle": "湖南省足球联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月08日15:00"
+        "time": "11月08日 15:00"
       },
       "nodes": [
         {
@@ -764,7 +780,7 @@
       "title": "PWC中国区封闭预选赛Day1",
       "keyword": "11月08日15:00",
       "sportItemId": "10",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "PWC完美世界CS挑战赛",
       "padImg": "",
@@ -815,7 +831,7 @@
       "matchStatus": "0",
       "matchField": "",
       "competitionName": "东亚超级联赛",
-      "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000554929/202510241510_845338_H169_1080.webp",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDIJ502OD.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/10/3/100000001347106aef35.png",
       "pkInfoTitle": "马尼拉电气vs桃园璞园领航猿",
       "modifyTitle": "东亚超级联赛",
