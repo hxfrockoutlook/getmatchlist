@@ -1,10 +1,8 @@
 name: Precise Sports Data Fetch
 
 on:
-  push:
-    branches: [ main ]
-    paths:
-      - '.trigger-update'
+  repository_dispatch:
+    types: [scheduled-update]
   workflow_dispatch:
 
 jobs:
@@ -22,7 +20,6 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        cache: 'npm'
         
     - name: Delete old data file
       run: rm -f sports-data-latest.json
@@ -35,6 +32,4 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add sports-data-latest.json
-        # 删除触发文件
-        git rm -f .trigger-update || true
         git diff --staged --quiet || (git commit -m "Update sports data [skip ci]" && git push)
