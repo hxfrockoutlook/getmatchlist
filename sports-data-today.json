@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updateTime": "2025-11-08 13:50:08",
+  "updateTime": "2025-11-08 14:51:06",
   "data": [
     {
       "mgdbId": "120000559305",
@@ -456,7 +456,7 @@
     },
     {
       "mgdbId": "120000546670",
-      "pID": "960035291",
+      "pID": "960036813",
       "title": "NBANBA杯",
       "keyword": "11月08日11:00",
       "sportItemId": "2",
@@ -483,20 +483,16 @@
         {
           "pID": "959854749",
           "name": "英文原声"
-        },
-        {
-          "pID": "960035291",
-          "name": "燃爆全场！戈登连续变向中路滑翔劈扣波斯特"
         }
       ]
     },
     {
       "mgdbId": "120000554840",
-      "pID": "959535366",
+      "pID": "960016516",
       "title": "苏格兰德比！希金斯vs马奎尔(第一阶段)",
       "keyword": "11月08日14:00",
       "sportItemId": "8",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "斯诺克",
       "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/07/6V0SITD98O04.png",
@@ -509,16 +505,16 @@
       },
       "nodes": [
         {
+          "pID": "959535366",
+          "name": "1号桌"
+        },
+        {
           "pID": "960016516",
           "name": "丁文钧"
         },
         {
           "pID": "959535387",
           "name": "朱峰立"
-        },
-        {
-          "pID": "959535366",
-          "name": "1号桌"
         }
       ]
     },
@@ -528,10 +524,10 @@
       "title": "中甲联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "渭南市体育中心体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/05/6V0QOUKAJBKU.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDC0H3MEU.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "陕西联合 vs 广西平果",
       "modifyTitle": "中甲联赛",
@@ -552,10 +548,10 @@
       "title": "中甲联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "Shenzhen Youth Football Training Base Pitch 1",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/05/6V0QOUJ94RJ7.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDBT04JMK.png",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "深圳青年人 vs 青岛红狮",
       "modifyTitle": "中甲联赛",
@@ -574,18 +570,18 @@
       "mgdbId": "120000536710",
       "pID": "960008723",
       "title": "中甲联赛",
-      "keyword": "11月08日14:30",
+      "keyword": "11月08日 14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "嘉定体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/05/6V0QOUGPOPSB.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDAGTAVK1.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "上海嘉定汇龙 vs 重庆铜梁龙",
       "modifyTitle": "中甲联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月08日14:30"
+        "time": "11月08日 14:30"
       },
       "nodes": [
         {
@@ -598,9 +594,9 @@
       "mgdbId": "120000536711",
       "pID": "960008686",
       "title": "中甲联赛",
-      "keyword": "11月08日14:30",
+      "keyword": "11月08日 14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "裕彤国际体育中心",
       "competitionName": "中甲",
       "padImg": "",
@@ -609,7 +605,7 @@
       "modifyTitle": "中甲联赛",
       "presenters": "",
       "matchInfo": {
-        "time": "11月08日14:30"
+        "time": "11月08日 14:30"
       },
       "nodes": [
         {
@@ -624,7 +620,7 @@
       "title": "中甲联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "延吉市全民健身体育中心体育场",
       "competitionName": "中甲",
       "padImg": "",
@@ -648,7 +644,7 @@
       "title": "中甲联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "苏州市体育中心体育场",
       "competitionName": "中甲",
       "padImg": "",
@@ -672,10 +668,10 @@
       "title": "中甲联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "越秀山体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/05/6V0QOUE0GTSV.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDAG0I1PC.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "广东广州豹 vs 南通支云",
       "modifyTitle": "中甲联赛",
@@ -696,10 +692,10 @@
       "title": "中甲联赛",
       "keyword": "11月08日14:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "铁西体育场",
       "competitionName": "中甲",
-      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/05/6V0QOU17TCIC.png",
+      "padImg": "https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2025/11/08/6V0TDBTNREKN.jpg",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png",
       "pkInfoTitle": "辽宁铁人 vs 佛山南狮",
       "modifyTitle": "中甲联赛",
@@ -720,7 +716,7 @@
       "title": "达州川汉子队 VS 南充丝绸源点队",
       "keyword": "11月08日15:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "四川省城市足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000550307/202509231501_718656_H169_1080.webp",
@@ -772,7 +768,7 @@
       "matchField": "",
       "competitionName": "PWC完美世界CS挑战赛",
       "padImg": "",
-      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/8/100000001369106f59b6.png",
+      "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2025/11/8/10000000136910624ee5.png",
       "pkInfoTitle": "PWC中国区封闭预选赛Day1",
       "modifyTitle": "PWC中国区封闭预选赛Day1",
       "presenters": "",
@@ -792,7 +788,7 @@
       "title": "雅安貊貊队 VS 攀枝花攀钢钢铁勇士队",
       "keyword": "11月08日15:30",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "四川省城市足球联赛",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000550308/202509231516_559467_H169_1080.webp",
@@ -1309,7 +1305,7 @@
       "keyword": "11月08日22:00",
       "sportItemId": "1",
       "matchStatus": "0",
-      "matchField": "朱塞佩·西尼加利亚��育场",
+      "matchField": "朱塞佩·西尼加利亚体育场",
       "competitionName": "意甲",
       "padImg": "https://img.cmvideo.cn/publish/nryy-image/output/ai_gc/11005/120000543171/202507101946_306496_H169_1080.webp",
       "competitionLogo": "https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png",
