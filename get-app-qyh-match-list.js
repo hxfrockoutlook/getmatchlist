@@ -93,6 +93,7 @@ async function fetchQuanyunhuiMatches() {
           }
           
           const results = [];
+          const today = getShanghaiDate(); // 使用与主数据相同的今天日期
           
           for (const match of matches) {
             const start = match.index;
@@ -132,12 +133,14 @@ async function fetchQuanyunhuiMatches() {
               
               const keytime = parseKeyword(startTimeRaw);
               
-              // 获取今天的日期前缀（月日）
-              const today = new Date();
-              const todayPrefix = `${String(today.getMonth() + 1).padStart(2, '0')}月${String(today.getDate()).padStart(2, '0')}日`;
+              // 解析比赛日期（从keytime中提取YYYYMMDD格式）
+              const matchMonth = keytime.substring(0, 2);
+              const matchDay = keytime.substring(3, 5);
+              const matchYear = today.substring(0, 4); // 使用当前年份
+              const matchDate = `${matchYear}${matchMonth}${matchDay}`;
               
               // 关键判断：只保留"今天"的比赛
-              if (!keytime.startsWith(todayPrefix)) {
+              if (matchDate !== today) {
                 continue; // 不是今天的 → 直接跳过！
               }
               
