@@ -25,7 +25,7 @@ jobs:
       run: rm -f sports-data-latest.json
         
     - name: Run data fetcher
-      run: node ./get-match-list.js
+      run: node ./get-app-match-list.js
       
     - name: Commit and push if changed
       run: |
