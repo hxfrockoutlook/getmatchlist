@@ -190,11 +190,6 @@ function filterChannels(channels, mode = 'all') {
       return false;
     }
     
-    // 对于冰茶体育组，只保留当天的数据
-    if (channel.group === '冰茶体育') {
-      return channel.name.includes(todayStr);
-    }
-    
     return true;
   });
   
