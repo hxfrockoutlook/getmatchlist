@@ -1,0 +1,40 @@
+name: Parse Sports Data
+
+on:
+  schedule:
+    # 每30分钟运行一次
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches: [ main ]
+
+jobs:
+  parse-sports-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: |
+        npm init -y
+        # 如果有package.json中的依赖，这里可以安装
+        
+    - name: Run parser script
+      run: node parse-m3u.js
+      
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add parse-m3u-data.json
+        timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+        git commit -m "Update sports data - $timestamp" || exit 0
+        git push
