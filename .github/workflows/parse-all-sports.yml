@@ -2,8 +2,8 @@ name: Parse All Sports Data
 
 on:
   schedule:
-    # 每30分钟运行一次
-    - cron: '*/30 * * * *'
+    # 每8小时运行一次
+    - cron: '0 */8 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
