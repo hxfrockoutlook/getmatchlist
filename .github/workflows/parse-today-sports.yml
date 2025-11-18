@@ -1,9 +1,9 @@
 name: Parse Today Sports Data
 
 on:
-  schedule:
+  #schedule:
     # 每1小时运行一次
-    - cron: '0 * * * *'
+  #  - cron: '0 * * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
