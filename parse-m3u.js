@@ -163,11 +163,11 @@ function parseExtinf(extinfLine) {
 }
 
 // 过滤频道数据
-function filterChannels(channels, mode = 'all') {
+function filterChannels(channels) {
   const shanghaiTime = getShanghaiTime();
   const todayStr = `${(shanghaiTime.getMonth() + 1).toString().padStart(2, '0')}月${shanghaiTime.getDate().toString().padStart(2, '0')}日`;
   
-  console.log(`开始过滤数据，模式: ${mode}，上海日期: ${todayStr}`);
+  console.log(`开始过滤数据，今天日期: ${todayStr}`);
   
   const filtered = channels.filter(channel => {
     // 过滤组名
@@ -182,14 +182,12 @@ function filterChannels(channels, mode = 'all') {
       return false;
     }
     
-    // 根据模式过滤
-    if (mode === 'today') {
-      // 今天模式：只保留冰茶体育组且是今天的数据
-      return channel.group === '冰茶体育' && channel.name.includes(todayStr);
-    } else {
-      // 全部模式：保留所有符合组名和logo的数据
-      return true;
+    // 对于冰茶体育组，只保留当天的数据
+    if (channel.group === '冰茶体育') {
+      return channel.name.includes(todayStr);
     }
+    
+    return true;
   });
   
   console.log(`过滤完成，剩余 ${filtered.length} 个频道`);
@@ -355,31 +353,28 @@ function mergeMatches(channels) {
 // 主函数
 async function main() {
   try {
-    // 获取命令行参数
-    const mode = process.argv[2] || 'all'; // 默认全部模式
-    const validModes = ['all', 'today'];
+    console.log('=== 开始处理体育数据 ===');
     
-    if (!validModes.includes(mode)) {
-      console.error('错误: 无效的模式参数。请使用 "all" 或 "today"');
-      console.error('示例: node parse-m3u.js all');
-      console.error('示例: node parse-m3u.js today');
-      process.exit(1);
+    let mergedMatches;
+    
+    try {
+      console.log('尝试从真实API获取数据...');
+      const m3uUrl = 'http://bingcha.hxfkof88.cloudns.ch/';
+      const m3uText = await fetchM3UData(m3uUrl, 3, 2000);
+      
+      console.log('解析M3U数据...');
+      const channels = parseM3U(m3uText);
+      
+      console.log('过滤数据...');
+      const filteredChannels = filterChannels(channels);
+      
+      console.log('合并相同比赛...');
+      mergedMatches = mergeMatches(filteredChannels);
+      
+    } catch (apiError) {
+      console.error('从真实API获取数据失败:', apiError.message);
+      throw apiError; // 直接抛出错误，不使用模拟数据
     }
-    
-    console.log(`=== 开始处理体育数据 (模式: ${mode}) ===`);
-    
-    console.log('从真实API获取数据...');
-    const m3uUrl = 'http://bingcha.hxfkof88.cloudns.ch/';
-    const m3uText = await fetchM3UData(m3uUrl, 3, 2000);
-    
-    console.log('解析M3U数据...');
-    const channels = parseM3U(m3uText);
-    
-    console.log('过滤数据...');
-    const filteredChannels = filterChannels(channels, mode);
-    
-    console.log('合并相同比赛...');
-    const mergedMatches = mergeMatches(filteredChannels);
     
     // 保存JSON文件到根目录
     const outputPath = path.join(__dirname, 'parse-m3u-data.json');
@@ -389,7 +384,6 @@ async function main() {
       timestamp: new Date().toISOString(),
       shanghaiTime: getShanghaiTime().toISOString(),
       count: mergedMatches.length,
-      mode: mode,
       source: 'real'
     };
     
@@ -397,7 +391,6 @@ async function main() {
     
     console.log(`数据处理完成！共生成 ${mergedMatches.length} 个比赛条目`);
     console.log(`数据已保存到: ${outputPath}`);
-    console.log(`运行模式: ${mode}`);
     
   } catch (error) {
     console.error('处理过程中发生错误:', error);
@@ -409,8 +402,7 @@ async function main() {
       data: [],
       timestamp: new Date().toISOString(),
       count: 0,
-      error: error.message,
-      mode: process.argv[2] || 'all'
+      error: error.message
     }, null, 2));
     
     console.log('已生成错误状态文件');
