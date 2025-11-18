@@ -26,7 +26,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add parse-m3u-data.json
+        git add parse-m3u-data-today.json
         timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
         git commit -m "Update today sports data - $timestamp" || exit 0
         git push
