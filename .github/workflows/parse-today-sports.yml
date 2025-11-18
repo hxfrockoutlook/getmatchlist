@@ -1,9 +1,9 @@
 name: Parse Today Sports Data
 
 on:
-  #schedule:
+  schedule:
     # 每1小时运行一次
-  #  - cron: '0 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -20,13 +20,13 @@ jobs:
         node-version: '18'
         
     - name: Run parser script (today mode)
-      run: node parse-m3u.js
+      run: node parse-m3u.js today
       
     - name: Commit and push if changed
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add parse-m3u-data.json
+        git add parse-m3u-data-today.json
         timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
         git commit -m "Update today sports data - $timestamp" || exit 0
         git push
