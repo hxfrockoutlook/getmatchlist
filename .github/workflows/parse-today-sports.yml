@@ -20,13 +20,13 @@ jobs:
         node-version: '18'
         
     - name: Run parser script (today mode)
-      run: node parse-m3u.js today
+      run: node parse-m3u.js
       
     - name: Commit and push if changed
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add parse-m3u-data-today.json
+        git add parse-m3u-data.json
         timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
         git commit -m "Update today sports data - $timestamp" || exit 0
         git push
