@@ -163,16 +163,24 @@ function parseExtinf(extinfLine) {
 }
 
 // 过滤频道数据
-function filterChannels(channels) {
+function filterChannels(channels, mode = 'all') {
   const shanghaiTime = getShanghaiTime();
   const todayStr = `${(shanghaiTime.getMonth() + 1).toString().padStart(2, '0')}月${shanghaiTime.getDate().toString().padStart(2, '0')}日`;
   
-  console.log(`开始过滤数据，今天日期: ${todayStr}`);
+  console.log(`开始过滤数据，模式: ${mode}，今天日期: ${todayStr}`);
   
   const filtered = channels.filter(channel => {
     // 过滤组名
-    if (!['冰茶体育', '体育回看'].includes(channel.group)) {
-      return false;
+    if (mode === 'all') {
+      // 全部模式：保留冰茶体育和体育回看
+      if (!['冰茶体育', '体育回看'].includes(channel.group)) {
+        return false;
+      }
+    } else if (mode === 'today') {
+      // 今天模式：只保留冰茶体育
+      if (channel.group !== '冰茶体育') {
+        return false;
+      }
     }
     
     // 过滤logo
@@ -270,11 +278,7 @@ function parseChannelName(channelName, logo) {
       }
     }
   }
-  
-  // 调试输出
-  if (result.nodeName) {
-    console.log(`解析结果: ${channelName} -> 节点名: "${result.nodeName}"`);
-  }
+   
   
   return result;
 }
@@ -371,19 +375,25 @@ function mergeMatches(channels) {
   
   const merged = Array.from(matchMap.values());
   console.log(`合并完成，共 ${merged.length} 个比赛条目`);
-  
-  // 输出每个比赛的节点数量用于调试
-  merged.forEach((match, index) => {
-    console.log(`比赛 ${index + 1}: ${match.competitionName} ${match.title} - ${match.nodes.length} 个节点`);
-  });
-  
+    
   return merged;
 }
 
 // 主函数
 async function main() {
   try {
-    console.log('=== 开始处理体育数据 ===');
+    // 获取命令行参数
+    const mode = process.argv[2] || 'all'; // 默认全部模式
+    const validModes = ['all', 'today'];
+    
+    if (!validModes.includes(mode)) {
+      console.error('错误: 无效的模式参数。请使用 "all" 或 "today"');
+      console.error('示例: node parse-m3u.js all');
+      console.error('示例: node parse-m3u.js today');
+      process.exit(1);
+    }
+    
+    console.log(`=== 开始处理体育数据 (模式: ${mode}) ===`);
     
     let mergedMatches;
     
@@ -396,7 +406,7 @@ async function main() {
       const channels = parseM3U(m3uText);
       
       console.log('过滤数据...');
-      const filteredChannels = filterChannels(channels);
+      const filteredChannels = filterChannels(channels, mode);
       
       console.log('合并相同比赛...');
       mergedMatches = mergeMatches(filteredChannels);
@@ -406,14 +416,16 @@ async function main() {
       throw apiError; // 直接抛出错误，不使用模拟数据
     }
     
-    // 保存JSON文件到根目录
-    const outputPath = path.join(__dirname, 'parse-m3u-data.json');
+    // 根据模式生成不同的文件名
+    const outputFileName = `parse-m3u-data-${mode}.json`;
+    const outputPath = path.join(__dirname, outputFileName);
     const outputData = {
       success: true,
       data: mergedMatches,
       timestamp: new Date().toISOString(),
       shanghaiTime: getShanghaiTime().toISOString(),
       count: mergedMatches.length,
+      mode: mode,
       source: 'real'
     };
     
@@ -421,17 +433,22 @@ async function main() {
     
     console.log(`数据处理完成！共生成 ${mergedMatches.length} 个比赛条目`);
     console.log(`数据已保存到: ${outputPath}`);
+    console.log(`运行模式: ${mode}`);
     
   } catch (error) {
     console.error('处理过程中发生错误:', error);
     
-    // 生成错误状态文件
-    const outputPath = path.join(__dirname, 'parse-m3u-data.json');
+    // 根据模式生成不同的错误文件名
+    const mode = process.argv[2] || 'all';
+    const outputFileName = `parse-m3u-data-${mode}.json`;
+    const outputPath = path.join(__dirname, outputFileName);
+    
     fs.writeFileSync(outputPath, JSON.stringify({
       success: false,
       data: [],
       timestamp: new Date().toISOString(),
       count: 0,
+      mode: mode,
       error: error.message
     }, null, 2));
     
