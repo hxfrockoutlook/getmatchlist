@@ -1,13 +1,11 @@
 name: Parse Sports Data
 
 on:
-  schedule:
+  #schedule:
     # 每30分钟运行一次
-    - cron: '*/30 * * * *'
+   # - cron: '*/30 * * * *'
   workflow_dispatch:  # 允许手动触发
-  push:
-    branches: [ main ]
-
+  
 jobs:
   parse-sports-data:
     runs-on: ubuntu-latest
