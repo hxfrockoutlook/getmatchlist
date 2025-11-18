@@ -3,6 +3,16 @@ const path = require('path');
 const https = require('https');
 const http = require('http');
 
+// 获取上海时区的当前时间
+function getShanghaiTime() {
+  const now = new Date();
+  // 上海时区是 UTC+8
+  const shanghaiOffset = 8 * 60; // 分钟
+  const localOffset = now.getTimezoneOffset(); // 本地时区偏移（分钟）
+  const shanghaiTime = new Date(now.getTime() + (shanghaiOffset + localOffset) * 60 * 1000);
+  return shanghaiTime;
+}
+
 // 获取M3U数据（支持重定向）
 async function fetchM3UData(url, retries = 3, delay = 1000, maxRedirects = 5) {
   for (let attempt = 1; attempt <= retries; attempt++) {
@@ -153,11 +163,11 @@ function parseExtinf(extinfLine) {
 }
 
 // 过滤频道数据
-function filterChannels(channels) {
-  const today = new Date();
-  const todayStr = `${(today.getMonth() + 1).toString().padStart(2, '0')}月${today.getDate().toString().padStart(2, '0')}日`;
+function filterChannels(channels, mode = 'all') {
+  const shanghaiTime = getShanghaiTime();
+  const todayStr = `${(shanghaiTime.getMonth() + 1).toString().padStart(2, '0')}月${shanghaiTime.getDate().toString().padStart(2, '0')}日`;
   
-  console.log(`开始过滤数据，今天日期: ${todayStr}`);
+  console.log(`开始过滤数据，模式: ${mode}，上海日期: ${todayStr}`);
   
   const filtered = channels.filter(channel => {
     // 过滤组名
@@ -172,12 +182,14 @@ function filterChannels(channels) {
       return false;
     }
     
-    // 对于冰茶体育组，只保留当天的数据
-    if (channel.group === '冰茶体育') {
-      return channel.name.includes(todayStr);
+    // 根据模式过滤
+    if (mode === 'today') {
+      // 今天模式：只保留冰茶体育组且是今天的数据
+      return channel.group === '冰茶体育' && channel.name.includes(todayStr);
+    } else {
+      // 全部模式：保留所有符合组名和logo的数据
+      return true;
     }
-    
-    return true;
   });
   
   console.log(`过滤完成，剩余 ${filtered.length} 个频道`);
@@ -246,7 +258,7 @@ function parseChannelName(channelName, logo) {
   return result;
 }
 
-// 解析日期时间字符串
+// 解析日期时间字符串为上海时区时间
 function parseDateTime(dateTimeStr) {
   const match = dateTimeStr.match(/(\d{1,2})月(\d{1,2})日(\d{1,2}):(\d{2})/);
   if (!match) return null;
@@ -256,13 +268,16 @@ function parseDateTime(dateTimeStr) {
   const hour = parseInt(match[3]);
   const minute = parseInt(match[4]);
   
-  const now = new Date();
-  const year = now.getFullYear();
+  const shanghaiTime = getShanghaiTime();
+  const year = shanghaiTime.getFullYear();
   
   // 简单处理跨年情况（如果月份小于当前月份，认为是明年）
-  const matchYear = month < now.getMonth() + 1 ? year + 1 : year;
+  const matchYear = month < shanghaiTime.getMonth() + 1 ? year + 1 : year;
   
-  return new Date(matchYear, month - 1, day, hour, minute);
+  // 创建上海时区时间对象
+  const matchTime = new Date(matchYear, month - 1, day, hour, minute);
+  
+  return matchTime;
 }
 
 // 合并相同比赛
@@ -278,13 +293,13 @@ function mergeMatches(channels) {
     const matchKey = `${parsed.dateTime}_${parsed.competitionName}_${parsed.title}`;
     
     if (!matchMap.has(matchKey)) {
-      const now = new Date();
+      const shanghaiTime = getShanghaiTime();
       const matchDateTime = parseDateTime(parsed.dateTime);
       
       let matchStatus = 0;
       if (matchDateTime) {
         const matchTime = matchDateTime.getTime();
-        const currentTime = now.getTime();
+        const currentTime = shanghaiTime.getTime();
         const threeHoursLater = matchTime + 3 * 60 * 60 * 1000;
         
         if (currentTime > threeHoursLater) {
@@ -295,6 +310,9 @@ function mergeMatches(channels) {
           matchStatus = 0; // 未开始
         }
       }
+      
+      // 修复 modifyTitle 格式：competitionName + 空格 + pkInfoTitle
+      const modifyTitle = `${parsed.competitionName} ${parsed.teams || parsed.title}`;
       
       matchMap.set(matchKey, {
         mgdbId: "",
@@ -308,7 +326,7 @@ function mergeMatches(channels) {
         padImg: channel.logo || "",
         competitionLogo: "",
         pkInfoTitle: parsed.teams || parsed.title,
-        modifyTitle: `${parsed.title}${parsed.teams ? ' ' + parsed.teams : ''}`,
+        modifyTitle: modifyTitle,
         presenters: "",
         matchInfo: { time: parsed.dateTime },
         nodes: []
@@ -334,75 +352,34 @@ function mergeMatches(channels) {
   return merged;
 }
 
-// 生成模拟数据（当真实API不可用时）
-function generateMockData() {
-  console.log('生成模拟数据...');
-  const now = new Date();
-  const todayStr = `${(now.getMonth() + 1).toString().padStart(2, '0')}月${now.getDate().toString().padStart(2, '0')}日`;
-  
-  return [
-    {
-      mgdbId: "",
-      pID: "https://example.com/play1",
-      title: "阿尔巴尼亚vs英格兰",
-      keyword: `${todayStr}00:45`,
-      sportItemId: "",
-      matchStatus: 0,
-      matchField: "",
-      competitionName: "世欧预",
-      padImg: "https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png",
-      competitionLogo: "",
-      pkInfoTitle: "阿尔巴尼亚vs英格兰",
-      modifyTitle: "阿尔巴尼亚vs英格兰",
-      presenters: "",
-      matchInfo: { time: `${todayStr}00:45` },
-      nodes: []
-    },
-    {
-      mgdbId: "",
-      pID: "https://example.com/play2",
-      title: "NFL常规赛第十一周redzone达阵区",
-      keyword: `${todayStr}02:00`,
-      sportItemId: "",
-      matchStatus: 0,
-      matchField: "",
-      competitionName: "NFL常规赛",
-      padImg: "https://fy.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png",
-      competitionLogo: "",
-      pkInfoTitle: "NFL常规赛第十一周redzone达阵区",
-      modifyTitle: "NFL常规赛第十一周redzone达阵区",
-      presenters: "",
-      matchInfo: { time: `${todayStr}02:00` },
-      nodes: []
-    }
-  ];
-}
-
 // 主函数
 async function main() {
   try {
-    console.log('=== 开始处理体育数据 ===');
+    // 获取命令行参数
+    const mode = process.argv[2] || 'all'; // 默认全部模式
+    const validModes = ['all', 'today'];
     
-    let mergedMatches;
-    
-    try {
-      console.log('尝试从真实API获取数据...');
-      const m3uUrl = 'http://bingcha.hxfkof88.cloudns.ch/';
-      const m3uText = await fetchM3UData(m3uUrl, 3, 2000);
-      
-      console.log('解析M3U数据...');
-      const channels = parseM3U(m3uText);
-      
-      console.log('过滤数据...');
-      const filteredChannels = filterChannels(channels);
-      
-      console.log('合并相同比赛...');
-      mergedMatches = mergeMatches(filteredChannels);
-      
-    } catch (apiError) {
-      console.error('从真实API获取数据失败，使用模拟数据:', apiError.message);
-      mergedMatches = generateMockData();
+    if (!validModes.includes(mode)) {
+      console.error('错误: 无效的模式参数。请使用 "all" 或 "today"');
+      console.error('示例: node parse-m3u.js all');
+      console.error('示例: node parse-m3u.js today');
+      process.exit(1);
     }
+    
+    console.log(`=== 开始处理体育数据 (模式: ${mode}) ===`);
+    
+    console.log('从真实API获取数据...');
+    const m3uUrl = 'http://bingcha.hxfkof88.cloudns.ch/';
+    const m3uText = await fetchM3UData(m3uUrl, 3, 2000);
+    
+    console.log('解析M3U数据...');
+    const channels = parseM3U(m3uText);
+    
+    console.log('过滤数据...');
+    const filteredChannels = filterChannels(channels, mode);
+    
+    console.log('合并相同比赛...');
+    const mergedMatches = mergeMatches(filteredChannels);
     
     // 保存JSON文件到根目录
     const outputPath = path.join(__dirname, 'parse-m3u-data.json');
@@ -410,27 +387,30 @@ async function main() {
       success: true,
       data: mergedMatches,
       timestamp: new Date().toISOString(),
+      shanghaiTime: getShanghaiTime().toISOString(),
       count: mergedMatches.length,
-      source: mergedMatches.length > 0 && mergedMatches[0].pID.includes('example.com') ? 'mock' : 'real'
+      mode: mode,
+      source: 'real'
     };
     
     fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2));
     
     console.log(`数据处理完成！共生成 ${mergedMatches.length} 个比赛条目`);
     console.log(`数据已保存到: ${outputPath}`);
-    console.log(`数据来源: ${outputData.source}`);
+    console.log(`运行模式: ${mode}`);
     
   } catch (error) {
-    console.error('处理过程中发生严重错误:', error);
+    console.error('处理过程中发生错误:', error);
     
-    // 即使出错也生成一个空的JSON文件
+    // 生成错误状态文件
     const outputPath = path.join(__dirname, 'parse-m3u-data.json');
     fs.writeFileSync(outputPath, JSON.stringify({
       success: false,
       data: [],
       timestamp: new Date().toISOString(),
       count: 0,
-      error: error.message
+      error: error.message,
+      mode: process.argv[2] || 'all'
     }, null, 2));
     
     console.log('已生成错误状态文件');
@@ -444,11 +424,11 @@ if (require.main === module) {
 }
 
 module.exports = {
+  getShanghaiTime,
   fetchM3UData,
   parseM3U,
   filterChannels,
   parseChannelName,
   mergeMatches,
-  parseDateTime,
-  generateMockData
+  parseDateTime
 };
