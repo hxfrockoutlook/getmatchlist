@@ -194,7 +194,7 @@ function filterChannels(channels) {
   return filtered;
 }
 
-// 解析频道名称
+// 解析频道名称（修复版）
 function parseChannelName(channelName, logo) {
   const logoFileName = logo.split('/').pop();
   const result = {
@@ -223,32 +223,21 @@ function parseChannelName(channelName, logo) {
       }
     }
   } else if (logoFileName === '腾讯体育.png') {
-    // 腾讯格式: 11月17日02:00_NFL常规赛_NFL常规赛第十一周redzone达阵区
-    // 或: 11月17日02:00_NFL常规赛_海盗vs比尔 杨木
-    const match = channelName.match(/^(\d{1,2}月\d{1,2}日\d{1,2}:\d{2})_([^_]+)_(.+)$/);
-    if (match) {
-      result.dateTime = match[1];
-      result.competitionName = match[2];
+    // 腾讯格式: 11月19日08:00_NBA常规赛_勇士vs魔术 柯凡 殳海 炼炼
+    // 或: 11月19日08:00_NBA常规赛_勇士vs魔术 英文原音
+    
+    // 先提取日期时间和赛事信息（下划线分隔的部分）
+    const mainMatch = channelName.match(/^(\d{1,2}月\d{1,2}日\d{1,2}:\d{2})_([^_]+)_([^ ]+)/);
+    if (mainMatch) {
+      result.dateTime = mainMatch[1];
+      result.competitionName = mainMatch[2];
+      result.teams = mainMatch[3];
+      result.title = mainMatch[3];
       
-      let content = match[3];
-      
-      // 检查是否有节点名（空格后的内容）
-      const lastSpaceIndex = content.lastIndexOf(' ');
-      if (lastSpaceIndex !== -1) {
-        const possibleNode = content.substring(lastSpaceIndex + 1);
-        // 简单的节点名判断（不包含vs且长度较短）
-        if (!possibleNode.includes('vs') && possibleNode.length < 10) {
-          result.nodeName = possibleNode;
-          content = content.substring(0, lastSpaceIndex).trim();
-        }
-      }
-      
-      // 检查是否包含"vs"来判断是否为比赛队伍
-      if (content.includes('vs')) {
-        result.teams = content;
-        result.title = content;
-      } else {
-        result.title = content;
+      // 提取节点名（空格后的所有内容）
+      const nodeMatch = channelName.substring(mainMatch[0].length).trim();
+      if (nodeMatch) {
+        result.nodeName = nodeMatch;
       }
     }
   }
@@ -278,7 +267,7 @@ function parseDateTime(dateTimeStr) {
   return matchTime;
 }
 
-// 合并相同比赛
+// 合并相同比赛（修复版）
 function mergeMatches(channels) {
   const matchMap = new Map();
   
@@ -287,8 +276,8 @@ function mergeMatches(channels) {
   channels.forEach((channel, index) => {
     const parsed = parseChannelName(channel.name, channel.logo);
     
-    // 生成匹配键（排除节点名）
-    const matchKey = `${parsed.dateTime}_${parsed.competitionName}_${parsed.title}`;
+    // 生成匹配键（排除节点名）- 只使用日期时间+赛事名+比赛队伍
+    const matchKey = `${parsed.dateTime}_${parsed.competitionName}_${parsed.teams}`;
     
     if (!matchMap.has(matchKey)) {
       const shanghaiTime = getShanghaiTime();
@@ -310,12 +299,12 @@ function mergeMatches(channels) {
       }
       
       // 修复 modifyTitle 格式：competitionName + 空格 + pkInfoTitle
-      const modifyTitle = `${parsed.competitionName} ${parsed.teams || parsed.title}`;
+      const modifyTitle = `${parsed.competitionName} ${parsed.teams}`;
       
       matchMap.set(matchKey, {
         mgdbId: "",
-        pID: channel.url,
-        title: parsed.title,
+        pID: channel.url, // 先用第一个URL，后面可能会被覆盖
+        title: parsed.teams, // title 应该是比赛队伍
         keyword: parsed.dateTime,
         sportItemId: "",
         matchStatus: matchStatus,
@@ -323,7 +312,7 @@ function mergeMatches(channels) {
         competitionName: parsed.competitionName,
         padImg: channel.logo || "",
         competitionLogo: "",
-        pkInfoTitle: parsed.teams || parsed.title,
+        pkInfoTitle: parsed.teams, // pkInfoTitle 应该是比赛队伍
         modifyTitle: modifyTitle,
         presenters: "",
         matchInfo: { time: parsed.dateTime },
@@ -339,8 +328,10 @@ function mergeMatches(channels) {
         name: parsed.nodeName,
         url: channel.url
       });
-    } else if (match.nodes.length === 0) {
-      // 如果没有节点名，且还没有nodes，使用主URL
+    }
+    
+    // 如果没有节点名，且还没有nodes，使用这个URL作为主URL
+    if (!parsed.nodeName && match.nodes.length === 0) {
       match.pID = channel.url;
     }
   });
