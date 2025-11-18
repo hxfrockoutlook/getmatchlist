@@ -1,9 +1,9 @@
 name: Parse All Sports Data
 
 on:
-  #schedule:
+  schedule:
     # 每8小时运行一次
-  #  - cron: '0 */8 * * *'
+    - cron: '0 */8 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -26,7 +26,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add parse-m3u-data.json
+        git add parse-m3u-data-all.json
         timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
         git commit -m "Update all sports data - $timestamp" || exit 0
         git push
