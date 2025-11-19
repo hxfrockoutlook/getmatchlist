@@ -334,12 +334,15 @@ function mergeMatches(channels) {
       // 修复 modifyTitle 格式：competitionName + 空格 + pkInfoTitle
       const modifyTitle = `${parsed.competitionName} ${parsed.teams}`;
       
+      // 根据赛事名分配 sportItemId
+      const sportItemId = getSportItemId(parsed.competitionName);
+      
       matchMap.set(matchKey, {
         mgdbId: "",
         pID: channel.url, // 先用第一个URL，后面可能会被覆盖
         title: parsed.teams, // title 应该是比赛队伍
         keyword: parsed.dateTime,
-        sportItemId: "",
+        sportItemId: sportItemId,
         matchStatus: matchStatus,
         matchField: "",
         competitionName: parsed.competitionName,
@@ -372,6 +375,102 @@ function mergeMatches(channels) {
   console.log(`合并完成，共 ${merged.length} 个比赛条目`);
     
   return merged;
+}
+
+// 根据赛事名获取 sportItemId
+function getSportItemId(competitionName) {
+  if (!competitionName) return "";
+  
+  const lowerName = competitionName.toLowerCase();
+  
+  // 1: 足球相关
+  if (lowerName.includes('英超') || lowerName.includes('意甲') || lowerName.includes('德甲') || 
+      lowerName.includes('巴甲') || lowerName.includes('西甲') || lowerName.includes('中超') ||
+      lowerName.includes('甲a') || lowerName.includes('世欧预') || lowerName.includes('世亚预') ||
+      lowerName.includes('苏超') || lowerName.includes('湘超') || lowerName.includes('足球') ||
+      lowerName.includes('法甲') || lowerName.includes('荷甲') || lowerName.includes('葡超') ||
+      lowerName.includes('欧冠') || lowerName.includes('欧联') || lowerName.includes('亚冠') ||
+      lowerName.includes('足总杯') || lowerName.includes('国王杯') || lowerName.includes('德国杯') ||
+      lowerName.includes('意大利杯') || lowerName.includes('法国杯') || lowerName.includes('联赛杯') ||
+      lowerName.includes('世界杯') || lowerName.includes('欧洲杯') || lowerName.includes('亚洲杯') ||
+      lowerName.includes('美洲杯') || lowerName.includes('非洲杯') || lowerName.includes('联合会杯') ||
+      lowerName.includes('社区盾') || lowerName.includes('超级杯') || lowerName.includes('友谊赛')) {
+    return "1";
+  }
+  
+  // 2: 篮球相关
+  if (lowerName.includes('nba') || lowerName.includes('cba') || lowerName.includes('篮球') ||
+      lowerName.includes('三人篮球') || lowerName.includes('wcba') || lowerName.includes('wnba') ||
+      lowerName.includes('aba') || lowerName.includes('欧洲篮球') || lowerName.includes('篮球世界杯') ||
+      lowerName.includes('篮球亚洲杯') || lowerName.includes('篮球欧锦赛') || lowerName.includes('篮球美洲杯') ||
+      lowerName.includes('ncaa') || lowerName.includes('篮球联赛')) {
+    return "2";
+  }
+  
+  // 3: 网球相关
+  if (lowerName.includes('网球') || lowerName.includes('法网') || lowerName.includes('澳网') ||
+      lowerName.includes('美网') || lowerName.includes('温网') || lowerName.includes('中网') ||
+      lowerName.includes('wta') || lowerName.includes('atp') || lowerName.includes('戴维斯杯') ||
+      lowerName.includes('联合会杯') || lowerName.includes('大师赛') || lowerName.includes('公开赛')) {
+    return "3";
+  }
+  
+  // 4: 排球相关
+  if (lowerName.includes('排球') || lowerName.includes('女排') || lowerName.includes('男排') ||
+      lowerName.includes('沙排') || lowerName.includes('世锦赛') || lowerName.includes('世界杯') ||
+      lowerName.includes('联赛') || lowerName.includes('大奖赛')) {
+    return "4";
+  }
+  
+  // 5: 格斗相关
+  if (lowerName.includes('格斗') || lowerName.includes('ufc') || lowerName.includes('wwe') ||
+      lowerName.includes('wbc') || lowerName.includes('拳击') || lowerName.includes('mma') ||
+      lowerName.includes('综合格斗') || lowerName.includes('自由搏击') || lowerName.includes('散打') ||
+      lowerName.includes('泰拳') || lowerName.includes('跆拳道') || lowerName.includes('空手道') ||
+      lowerName.includes('柔道') || lowerName.includes('摔跤') || lowerName.includes('拳王') ||
+      lowerName.includes('金腰带')) {
+    return "5";
+  }
+  
+  // 6: 羽毛球相关
+  if (lowerName.includes('羽毛球') || lowerName.includes('羽球') || lowerName.includes('世锦赛') ||
+      lowerName.includes('汤姆斯杯') || lowerName.includes('尤伯杯') || lowerName.includes('苏迪曼杯') ||
+      lowerName.includes('公开赛') || lowerName.includes('大师赛') || lowerName.includes('超级赛')) {
+    return "6";
+  }
+  
+  // 7: 乒乓球相关
+  if (lowerName.includes('乒乓球') || lowerName.includes('乒乓') || lowerName.includes('世乒赛') ||
+      lowerName.includes('世界杯') || lowerName.includes('公开赛') || lowerName.includes('亚锦赛') ||
+      lowerName.includes('全运会') || lowerName.includes('联赛')) {
+    return "7";
+  }
+  
+  // 8: 台球相关
+  if (lowerName.includes('台球') || lowerName.includes('斯诺克') || lowerName.includes('九球') ||
+      lowerName.includes('中式台球') || lowerName.includes('美式台球') || lowerName.includes('世锦赛') ||
+      lowerName.includes('大师赛') || lowerName.includes('公开赛') || lowerName.includes('冠军赛')) {
+    return "8";
+  }
+  
+  // 9: 田径相关
+  if (lowerName.includes('田径') || lowerName.includes('跑步') || lowerName.includes('短跑') ||
+      lowerName.includes('长跑') || lowerName.includes('跨栏') || lowerName.includes('跳高') ||
+      lowerName.includes('跳远') || lowerName.includes('铅球') || lowerName.includes('标枪') ||
+      lowerName.includes('铁饼') || lowerName.includes('世锦赛') || lowerName.includes('钻石联赛')) {
+    return "9";
+  }
+   
+  // 10: 电竞相关
+  if (lowerName.includes('电竞') || lowerName.includes('英雄联盟') || lowerName.includes('lol') ||
+      lowerName.includes('dota') || lowerName.includes('csgo') || lowerName.includes('王者荣耀') ||
+      lowerName.includes('pubg') || lowerName.includes('守望先锋') || lowerName.includes('星际争霸') ||
+      lowerName.includes('魔兽争霸') || lowerName.includes('炉石传说') || lowerName.includes('valorant')) {
+    return "10";
+  }
+
+  return "";
+
 }
 
 // 主函数
