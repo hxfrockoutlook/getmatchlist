@@ -337,9 +337,19 @@ function mergeMatches(channels) {
       // 根据赛事名分配 sportItemId
       const sportItemId = getSportItemId(parsed.competitionName);
       
+      // 生成唯一ID：当前北京时间的日期时间 yyyymmddHHMMSS
+      const now = new Date();
+      const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000); // 北京时间 UTC+8
+      const uniqueId = beijingTime.getFullYear().toString() +
+        (beijingTime.getMonth() + 1).toString().padStart(2, '0') +
+        beijingTime.getDate().toString().padStart(2, '0') +
+        beijingTime.getHours().toString().padStart(2, '0') +
+        beijingTime.getMinutes().toString().padStart(2, '0') +
+        beijingTime.getSeconds().toString().padStart(2, '0');
+      
       matchMap.set(matchKey, {
         mgdbId: "",
-        pID: channel.url, // 先用第一个URL，后面可能会被覆盖
+        pID: uniqueId, // 使用唯一ID而不是channel.url
         title: parsed.teams, // title 应该是比赛队伍
         keyword: parsed.dateTime,
         sportItemId: sportItemId,
@@ -365,9 +375,13 @@ function mergeMatches(channels) {
         urls: [channel.url]  // 修改这里：urls 是数组格式
       });
       console.log(`添加节点: ${parsed.nodeName} 到比赛 ${matchKey}`);
-    } else if (match.nodes.length === 0) {
-      // 如果没有节点名，且还没有nodes，使用这个URL作为主URL
-      match.pID = channel.url;
+    } else {
+      // 如果没有节点名，也要创建默认节点，name为title，urls对应url
+      match.nodes.push({
+        name: parsed.teams, // 使用比赛队伍作为节点名
+        urls: [channel.url]
+      });
+      console.log(`添加默认节点: ${parsed.teams} 到比赛 ${matchKey}`);
     }
   });
   
