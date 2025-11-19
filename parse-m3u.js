@@ -316,18 +316,18 @@ function mergeMatches(channels) {
       const shanghaiTime = getShanghaiTime();
       const matchDateTime = parseDateTime(parsed.dateTime);
       
-      let matchStatus = 0;
+      let matchStatus = "0";
       if (matchDateTime) {
         const matchTime = matchDateTime.getTime();
         const currentTime = shanghaiTime.getTime();
         const threeHoursLater = matchTime + 3 * 60 * 60 * 1000;
         
         if (currentTime > threeHoursLater) {
-          matchStatus = 2; // 已结束
+          matchStatus = "2"; // 已结束
         } else if (currentTime >= matchTime) {
-          matchStatus = 1; // 进行中
+          matchStatus = "1"; // 进行中
         } else {
-          matchStatus = 0; // 未开始
+          matchStatus = "0"; // 未开始
         }
       }
       
