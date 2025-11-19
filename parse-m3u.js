@@ -303,6 +303,7 @@ function parseDateTime(dateTimeStr) {
 // 合并相同比赛
 function mergeMatches(channels) {
   const matchMap = new Map();
+  let idCounter = 0; // 添加计数器
   
   console.log('开始合并相同比赛...');
   
@@ -337,10 +338,10 @@ function mergeMatches(channels) {
       // 根据赛事名分配 sportItemId
       const sportItemId = getSportItemId(parsed.competitionName);
       
-      // 生成唯一ID：当前北京时间的日期时间 yyyymmddHHMMSSmmm（包含毫秒）
+      // 生成唯一ID：当前北京时间的日期时间 yyyymmddHHMMSSmmm + 计数器
       const now = new Date();
       const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000); // 北京时间 UTC+8
-      const uniqueId = beijingTime.getFullYear().toString() +
+      const timestamp = beijingTime.getFullYear().toString() +
         (beijingTime.getMonth() + 1).toString().padStart(2, '0') +
         beijingTime.getDate().toString().padStart(2, '0') +
         beijingTime.getHours().toString().padStart(2, '0') +
@@ -348,9 +349,15 @@ function mergeMatches(channels) {
         beijingTime.getSeconds().toString().padStart(2, '0') +
         beijingTime.getMilliseconds().toString().padStart(3, '0');
       
+      // 在毫秒时间戳基础上加上3位计数器确保绝对唯一
+      idCounter++;
+      const uniqueId = timestamp + idCounter.toString().padStart(3, '0');
+      
+      console.log(`生成唯一ID: ${uniqueId} (时间戳: ${timestamp}, 计数器: ${idCounter})`);
+      
       matchMap.set(matchKey, {
         mgdbId: "",
-        pID: uniqueId, // 使用唯一ID而不是channel.url
+        pID: uniqueId, // 使用唯一ID
         title: parsed.teams, // title 应该是比赛队伍
         keyword: parsed.dateTime,
         sportItemId: sportItemId,
@@ -371,23 +378,44 @@ function mergeMatches(channels) {
     
     // 如果有节点名，添加到nodes
     if (parsed.nodeName) {
-      match.nodes.push({
-        name: parsed.nodeName,
-        urls: [channel.url]  // 修改这里：urls 是数组格式
-      });
+      // 检查是否已存在相同节点名
+      const existingNode = match.nodes.find(node => node.name === parsed.nodeName);
+      if (existingNode) {
+        // 如果节点已存在，只添加URL
+        if (!existingNode.urls.includes(channel.url)) {
+          existingNode.urls.push(channel.url);
+        }
+      } else {
+        // 如果节点不存在，创建新节点
+        match.nodes.push({
+          name: parsed.nodeName,
+          urls: [channel.url]
+        });
+      }
       console.log(`添加节点: ${parsed.nodeName} 到比赛 ${matchKey}`);
     } else {
       // 如果没有节点名，也要创建默认节点，name为title，urls对应url
-      match.nodes.push({
-        name: parsed.teams, // 使用比赛队伍作为节点名
-        urls: [channel.url]
-      });
+      const defaultNodeName = parsed.teams;
+      const existingNode = match.nodes.find(node => node.name === defaultNodeName);
+      if (existingNode) {
+        if (!existingNode.urls.includes(channel.url)) {
+          existingNode.urls.push(channel.url);
+        }
+      } else {
+        match.nodes.push({
+          name: defaultNodeName,
+          urls: [channel.url]
+        });
+      }
       console.log(`添加默认节点: ${parsed.teams} 到比赛 ${matchKey}`);
     }
   });
   
   const merged = Array.from(matchMap.values());
   console.log(`合并完成，共 ${merged.length} 个比赛条目`);
+  
+  // 输出所有pID用于调试
+  console.log('所有比赛的pID:', merged.map(match => match.pID));
     
   return merged;
 }
