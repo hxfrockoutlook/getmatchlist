@@ -437,7 +437,8 @@ function getSportItemId(competitionName) {
       lowerName.includes('意大利杯') || lowerName.includes('法国杯') || lowerName.includes('联赛杯') ||
       lowerName.includes('世界杯') || lowerName.includes('欧洲杯') || lowerName.includes('亚洲杯') ||
       lowerName.includes('美洲杯') || lowerName.includes('非洲杯') || lowerName.includes('联合会杯') ||
-      lowerName.includes('社区盾') || lowerName.includes('超级杯') || lowerName.includes('友谊赛')) {
+      lowerName.includes('社区盾') || lowerName.includes('超级杯') || lowerName.includes('友谊赛') ||
+      lowerName.includes('男足') || lowerName.includes('女足')) {
     return "1";
   }
   
@@ -446,7 +447,7 @@ function getSportItemId(competitionName) {
       lowerName.includes('三人篮球') || lowerName.includes('wcba') || lowerName.includes('wnba') ||
       lowerName.includes('aba') || lowerName.includes('欧洲篮球') || lowerName.includes('篮球世界杯') ||
       lowerName.includes('篮球亚洲杯') || lowerName.includes('篮球欧锦赛') || lowerName.includes('篮球美洲杯') ||
-      lowerName.includes('ncaa') || lowerName.includes('篮球联赛')) {
+      lowerName.includes('ncaa') || lowerName.includes('篮球联赛') || lowerName.includes('男篮') || lowerName.includes('女篮')) {
     return "2";
   }
   
@@ -460,8 +461,7 @@ function getSportItemId(competitionName) {
   
   // 4: 排球相关
   if (lowerName.includes('排球') || lowerName.includes('女排') || lowerName.includes('男排') ||
-      lowerName.includes('沙排') || lowerName.includes('世锦赛') || lowerName.includes('世界杯') ||
-      lowerName.includes('联赛') || lowerName.includes('大奖赛')) {
+      lowerName.includes('沙排')) {
     return "4";
   }
   
