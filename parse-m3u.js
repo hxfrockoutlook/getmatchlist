@@ -362,7 +362,7 @@ function mergeMatches(channels) {
     if (parsed.nodeName) {
       match.nodes.push({
         name: parsed.nodeName,
-        url: channel.url
+        urls: [channel.url]  // 修改这里：urls 是数组格式
       });
       console.log(`添加节点: ${parsed.nodeName} 到比赛 ${matchKey}`);
     } else if (match.nodes.length === 0) {
