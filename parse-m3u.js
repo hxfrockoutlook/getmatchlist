@@ -337,7 +337,7 @@ function mergeMatches(channels) {
       // 根据赛事名分配 sportItemId
       const sportItemId = getSportItemId(parsed.competitionName);
       
-      // 生成唯一ID：当前北京时间的日期时间 yyyymmddHHMMSS
+      // 生成唯一ID：当前北京时间的日期时间 yyyymmddHHMMSSmmm（包含毫秒）
       const now = new Date();
       const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000); // 北京时间 UTC+8
       const uniqueId = beijingTime.getFullYear().toString() +
@@ -345,7 +345,8 @@ function mergeMatches(channels) {
         beijingTime.getDate().toString().padStart(2, '0') +
         beijingTime.getHours().toString().padStart(2, '0') +
         beijingTime.getMinutes().toString().padStart(2, '0') +
-        beijingTime.getSeconds().toString().padStart(2, '0');
+        beijingTime.getSeconds().toString().padStart(2, '0') +
+        beijingTime.getMilliseconds().toString().padStart(3, '0');
       
       matchMap.set(matchKey, {
         mgdbId: "",
