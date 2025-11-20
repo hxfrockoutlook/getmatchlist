@@ -354,6 +354,17 @@ function mergeMatches(channels) {
       const uniqueId = timestamp + idCounter.toString().padStart(3, '0');
       
       console.log(`生成唯一ID: ${uniqueId} (时间戳: ${timestamp}, 计数器: ${idCounter})`);
+
+      // 根据logo文件名设置padImg
+      let padImg = "";
+      if (channel.logo) {
+        const logoFileName = channel.logo.split('/').pop(); // 获取文件名
+        if (logoFileName === '腾讯体育.png') {
+          padImg = 'http://catvod.hxfrock.ggff.net/腾讯体育.png';
+        } else if (logoFileName === '爱奇艺体育.png') {
+          padImg = 'http://catvod.hxfrock.ggff.net/爱奇艺体育.png';
+        }
+      }
       
       matchMap.set(matchKey, {
         mgdbId: "",
@@ -364,7 +375,8 @@ function mergeMatches(channels) {
         matchStatus: matchStatus,
         matchField: "",
         competitionName: parsed.competitionName,
-        padImg: channel.logo || "",
+        //padImg: channel.logo || "",
+        padImg: padImg,  // 修改这里：使用条件判断后的padImg值
         competitionLogo: "",
         pkInfoTitle: parsed.teams, // pkInfoTitle 应该是比赛队伍
         modifyTitle: modifyTitle,
