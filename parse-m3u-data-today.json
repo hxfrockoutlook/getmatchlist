@@ -3,7 +3,7 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "20251121060031988001",
+      "pID": "20251121063023433001",
       "title": "[早安Tip_Off]第31期",
       "keyword": "11月21日07:30",
       "sportItemId": "2",
@@ -29,7 +29,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031988002",
+      "pID": "20251121063023433002",
       "title": "快船vs魔术",
       "keyword": "11月21日08:00",
       "sportItemId": "2",
@@ -61,7 +61,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031989003",
+      "pID": "20251121063023433003",
       "title": "F1拉斯维加斯大奖赛第一次练习赛",
       "keyword": "11月21日08:30",
       "sportItemId": "",
@@ -111,7 +111,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031989004",
+      "pID": "20251121063023433004",
       "title": "国王vs灰熊",
       "keyword": "11月21日09:00",
       "sportItemId": "2",
@@ -143,7 +143,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031989005",
+      "pID": "20251121063023434005",
       "title": "76人vs雄鹿",
       "keyword": "11月21日09:00",
       "sportItemId": "2",
@@ -175,7 +175,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031989006",
+      "pID": "20251121063023434006",
       "title": "老鹰vs马刺",
       "keyword": "11月21日09:00",
       "sportItemId": "2",
@@ -207,7 +207,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031990007",
+      "pID": "20251121063023434007",
       "title": "比尔vs德州人",
       "keyword": "11月21日09:15",
       "sportItemId": "",
@@ -239,33 +239,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031990008",
-      "title": "F1拉斯维加斯大奖赛第二次���习赛",
-      "keyword": "11月21日12:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "F1拉斯维加斯站",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "F1拉斯维加斯大奖赛第二次���习赛",
-      "modifyTitle": "F1拉斯维加斯站 F1拉斯维加斯大奖赛第二次���习赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月21日12:00"
-      },
-      "nodes": [
-        {
-          "name": "邱超",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=8b4c6dbb1bcf5580982c032af4b7d8c0&id=BpBrbWlhSVj3AP%2Fg08Z1WwtmTbZpTrs3IlvdBHv%2FdEJeZRSs24i5Zlbul4cK8jJCsa4a1EqtWN7YxBvwb%2FOSKBS4iMrJS6uQsJdQC140sejWI13AAZv9Nk%2Fxy%2Bh1z2K7v8NrDe%2BTKMNl5lhp1aZVqytndoFCLv1KISNKFRYRm0YzFXdlI9WMPGCFjRJaSShKYvycvXdiEUS0y0KuxEeAd8eP8QKVlj%2Fnwf3fqcLUUCXLY51Xd2Xk0T9fk6%2Fnh2X3MSCRsrXi3U2sRfBizd%2BCMD147e8RNzpkVJ74WMjumKy61Vw6vwtrjsy6IjvpIKr%2F&name=YDGaO2l2ts37A8V0N50eenOv2aP8Qh1STCk9co1cw7EOeHrpk%2FTjMUFaO3pRjsMut9K5oGvgUC4Qj7UlwO6VOXZkd6PHgKMH9asCrZvxJR6ETtIhzsHnj9zD9dLdHdbLd0UxeNFeFPynJHLsmm3iWA%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "20251121060031990009",
+      "pID": "20251121063023434008",
       "title": "F1拉斯维加斯大奖赛第二次练习赛",
       "keyword": "11月21日12:00",
       "sportItemId": "",
@@ -281,6 +255,12 @@
         "time": "11月21日12:00"
       },
       "nodes": [
+        {
+          "name": "邱超",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=8b4c6dbb1bcf5580982c032af4b7d8c0&id=BpBrbWlhSVj3AP%2Fg08Z1WwtmTbZpTrs3IlvdBHv%2FdEJeZRSs24i5Zlbul4cK8jJCsa4a1EqtWN7YxBvwb%2FOSKBS4iMrJS6uQsJdQC140sejWI13AAZv9Nk%2Fxy%2Bh1z2K7v8NrDe%2BTKMNl5lhp1aZVqytndoFCLv1KISNKFRYRm0YzFXdlI9WMPGCFjRJaSShKYvycvXdiEUS0y0KuxEeAd8eP8QKVlj%2Fnwf3fqcLUUCXLY51Xd2Xk0T9fk6%2Fnh2X3MSCRsrXi3U2sRfBizd%2BCMD147e8RNzpkVJ74WMjumKy61Vw6vwtrjsy6IjvpIKr%2F&name=YDGaO2l2ts37A8V0N50eenOv2aP8Qh1STCk9co1cw7EOeHrpk%2FTjMUFaO3pRjsMut9K5oGvgUC4Qj7UlwO6VOXZkd6PHgKMH9asCrZvxJR6ETtIhzsHnj9zD9dLdHdbLd0UxeNFeFPynJHLsmm3iWA%3D%3D"
+          ]
+        },
         {
           "name": "车手位置",
           "urls": [
@@ -309,7 +289,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031990010",
+      "pID": "20251121063023434009",
       "title": "NBA常规赛精彩回顾：快船vs魔术",
       "keyword": "11月21日14:00",
       "sportItemId": "2",
@@ -335,7 +315,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031990011",
+      "pID": "20251121063023435010",
       "title": "NBA常规赛精彩回顾：快船vs魔术",
       "keyword": "11月21日16:00",
       "sportItemId": "2",
@@ -361,7 +341,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031990012",
+      "pID": "20251121063023435011",
       "title": "无畏契约改变者全球冠军赛第二日",
       "keyword": "11月21日16:00",
       "sportItemId": "8",
@@ -387,7 +367,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031990013",
+      "pID": "20251121063023435012",
       "title": "NBA常规赛精彩回顾：76人vs雄鹿",
       "keyword": "11月21日18:00",
       "sportItemId": "2",
@@ -413,7 +393,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "20251121060031990014",
+      "pID": "20251121063023435013",
       "title": "NBA常规赛精彩回顾：76人vs雄鹿",
       "keyword": "11月21日20:00",
       "sportItemId": "2",
@@ -438,9 +418,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-20T22:00:31.992Z",
-  "shanghaiTime": "2025-11-21T06:00:31.992Z",
-  "count": 14,
+  "timestamp": "2025-11-20T22:30:23.436Z",
+  "shanghaiTime": "2025-11-21T06:30:23.436Z",
+  "count": 13,
   "mode": "today",
   "source": "real"
 }
