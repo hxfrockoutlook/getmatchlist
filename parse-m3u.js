@@ -338,22 +338,26 @@ function mergeMatches(channels) {
       // 根据赛事名分配 sportItemId
       const sportItemId = getSportItemId(parsed.competitionName);
       
-      // 生成唯一ID：当前北京时间的日期时间 yyyymmddHHMMSSmmm + 计数器
-      const now = new Date();
-      const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000); // 北京时间 UTC+8
-      const timestamp = beijingTime.getFullYear().toString() +
-        (beijingTime.getMonth() + 1).toString().padStart(2, '0') +
-        beijingTime.getDate().toString().padStart(2, '0') +
-        beijingTime.getHours().toString().padStart(2, '0') +
-        beijingTime.getMinutes().toString().padStart(2, '0') +
-        beijingTime.getSeconds().toString().padStart(2, '0') +
-        beijingTime.getMilliseconds().toString().padStart(3, '0');
-      
-      // 在毫秒时间戳基础上加上3位计数器确保绝对唯一
-      idCounter++;
-      const uniqueId = timestamp + idCounter.toString().padStart(3, '0');
-      
-      console.log(`生成唯一ID: ${uniqueId} (时间戳: ${timestamp}, 计数器: ${idCounter})`);
+    // 生成固定唯一的ID：使用日期时间(MMDDHHMM)+赛事名+比赛队伍的哈希值
+    const dateTimeForId = parsed.dateTime.replace(/(\d{1,2})月(\d{1,2})日(\d{1,2}):(\d{2})/, (match, month, day, hour, minute) => {
+      return `${month.padStart(2, '0')}${day.padStart(2, '0')}${hour.padStart(2, '0')}${minute.padStart(2, '0')}`;
+    });
+    
+    // 创建ID基础字符串
+    const idBase = `${dateTimeForId}_${parsed.competitionName}_${parsed.teams}`;
+    
+    // 生成简单哈希值确保ID长度合理
+    let hash = 0;
+    for (let i = 0; i < idBase.length; i++) {
+      const char = idBase.charCodeAt(i);
+      hash = ((hash << 5) - hash) + char;
+      hash = hash & hash; // 转换为32位整数
+    }
+    
+    // 取哈希值的后8位作为唯一ID后缀
+    const uniqueSuffix = Math.abs(hash).toString().slice(-8).padStart(8, '0');
+    const fixedId = `match_${uniqueSuffix}`;
+    console.log(`生成固定ID: ${fixedId} (基础: ${dateTimeForId})`);
 
       // 根据logo文件名设置padImg
       let padImg = "";
@@ -368,7 +372,7 @@ function mergeMatches(channels) {
       
       matchMap.set(matchKey, {
         mgdbId: "",
-        pID: uniqueId, // 使用唯一ID
+        pID: fixedId, // 使用固定唯一ID
         title: parsed.teams, // title 应该是比赛队伍
         keyword: parsed.dateTime,
         sportItemId: sportItemId,
