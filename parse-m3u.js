@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 const http = require('http');
+const crypto = require('crypto'); // 引入crypto模块
 
 // 获取上海时区的当前时间
 function getShanghaiTime() {
@@ -417,6 +418,25 @@ function mergeMatches(channels) {
   console.log('所有比赛的pID:', merged.map(match => match.pID));
     
   return merged;
+}
+
+// 生成稳定且唯一的比赛ID（使用MD5确保100%唯一性）
+function generateStableMatchId(dateTimeStr, competitionName, teams) {
+  // 1. 标准化日期时间：11月17日00:45 → 11170045
+  const dateTimePart = dateTimeStr.replace(/(\d{1,2})月(\d{1,2})日(\d{1,2}):(\d{2})/, (match, month, day, hour, minute) => {
+    return `${month.padStart(2, '0')}${day.padStart(2, '0')}${hour.padStart(2, '0')}${minute.padStart(2, '0')}`;
+  });
+  
+  // 2. 创建基础字符串
+  const baseString = `${dateTimePart}_${competitionName}_${teams}`;
+  
+  // 3. 使用MD5生成哈希（取前16位）
+  const md5Hash = crypto.createHash('md5').update(baseString).digest('hex');
+  const shortHash = md5Hash.substring(0, 16);
+  
+  console.log(`生成MD5 ID: 基础字符串="${baseString}", MD5="${md5Hash}", 短哈希="${shortHash}"`);
+  
+  return `match_${shortHash}`;
 }
 
 // 根据赛事名获取 sportItemId
