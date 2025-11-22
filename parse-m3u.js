@@ -415,7 +415,7 @@ function mergeMatches(channels) {
   console.log(`合并完成，共 ${merged.length} 个比赛条目`);
   
   // 输出所有pID用于调试
-  console.log('所有比赛的pID:', merged.map(match => match.pID));
+  //console.log('所有比赛的pID:', merged.map(match => match.pID));
     
   return merged;
 }
@@ -434,7 +434,7 @@ function generateStableMatchId(dateTimeStr, competitionName, teams) {
   const md5Hash = crypto.createHash('md5').update(baseString).digest('hex');
   const shortHash = md5Hash.substring(0, 16);
   
-  console.log(`生成MD5 ID: 基础字符串="${baseString}", MD5="${md5Hash}", 短哈希="${shortHash}"`);
+  //console.log(`生成MD5 ID: 基础字符串="${baseString}", MD5="${md5Hash}", 短哈希="${shortHash}"`);
   
   return `match_${shortHash}`;
 }
