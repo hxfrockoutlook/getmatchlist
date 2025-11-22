@@ -7,7 +7,7 @@
       "title": "快船vs黄蜂",
       "keyword": "11月23日02:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -375,32 +375,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "664ca88541d769cd",
-      "title": "NBA常规赛精彩回顾：尼克斯vs魔术",
-      "keyword": "11月23日16:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBA经典赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：尼克斯vs魔术",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：尼克斯vs魔术",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月23日16:00"
-      },
-      "nodes": [
-        {
-          "name": "NBA常规赛精彩回顾：尼克斯vs魔术",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=063fa3c1110b127fccfd69c2d1fba322&id=%2Ff%2BeppSRqoctCgRs9RIseWAftqftQ5n5OoeUND0VMHa6%2FqsRmRNSbFpRRl8%2BrUwCFBtTuuEySVhmVacxACKheAAdBbTNcS3V%2FJsr53kaOZNsfFzL2lWT7aMrXXovQqHE%2F%2BI8kEnH2XM6RZPT7NaMSQOMEPXgzWKgR9nLv2l2VbN5PPwlfpT94v28WVseaad5xKETpkQk0BMSItBDcS75eKkGLKOfFoXjmSAAr5nUI%2FgV8y%2FClIpt9Fw6JEJPlK3PIEfFcXdP7gJL5jaagYFy1qZuPms84bcIbz260Wq6eMQeu%2FiSQcbbU7qlrVbIqRNX&name=ihIGg%2BDKf3tz79OKqhPvCJ3kv0kTvdnTd6nq%2BCl852kC%2FDyX5P9mIjJ4C%2FqnV74MAOVZfi4GaD6cOFzL8EEoLKmzG%2B3R91ZC9XQsZW3zOJwoDoOrBOxDrIn6%2FThl8JHA"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "04dcb0d7ee18d603",
       "title": "无畏契约改变者全球冠军赛第四日",
       "keyword": "11月23日16:00",
@@ -504,9 +478,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-22T20:30:20.364Z",
-  "shanghaiTime": "2025-11-23T04:30:20.364Z",
-  "count": 17,
+  "timestamp": "2025-11-22T21:00:21.707Z",
+  "shanghaiTime": "2025-11-23T05:00:21.707Z",
+  "count": 16,
   "mode": "today",
   "source": "real"
 }
