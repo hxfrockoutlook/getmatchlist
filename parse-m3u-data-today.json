@@ -3,7 +3,7 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "match_b74cabe5bc65b66e",
+      "pID": "b74cabe5bc65b66e",
       "title": "2025戴维斯杯 意大利vs比利时·第2场 科博利vs贝尔赫斯",
       "keyword": "11月22日01:00",
       "sportItemId": "3",
@@ -29,7 +29,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_0d7e7214211fedff",
+      "pID": "0d7e7214211fedff",
       "title": "步行者vs骑士",
       "keyword": "11月22日08:00",
       "sportItemId": "2",
@@ -61,7 +61,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_ee24b2a3a244c1f3",
+      "pID": "ee24b2a3a244c1f3",
       "title": "F1拉斯维加斯大奖赛第三次练习赛",
       "keyword": "11月22日08:30",
       "sportItemId": "",
@@ -111,7 +111,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_c8b16b0638f66ffa",
+      "pID": "c8b16b0638f66ffa",
       "title": "篮网vs凯尔特人",
       "keyword": "11月22日08:30",
       "sportItemId": "2",
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "name": "英���原音",
+          "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=aa0f6d17dbeaf4314cce4df0639a2a40&id=8NWqD0MK69rrx2dt9LYO9bxGECi9MKDlEjSSHPiiPeEaILmevHRJAarhabHNK1TMPxSNbeIGasT9MxmiCev6oRJLYtHRw2G%2Fy3Zy8CpjmVNd4U2fHP%2BOlGgS5Xe30w23yCtMVAnfAGtdDUkJxpOO2yHqUhSqQFwrJ6fyKyJP4olymfA81a5i66elv9We8xxWnbTUYfI3ZO2YTmxxKTks6ZzrGtY%2FHI0GjN55hqQzn%2FCjvajl%2FJ%2FuYl%2BrZBf8D29t2t5h8jnnrnxE7ncjGdPLGR6oxv0DriPyoGuUE7DEcOnxmZ601ObysWbS6HmQl%2FQPmxxkaYfecvhLCdPpcqF7uA%3D%3D&name=zK8UR0hZAoHS9hGM0TtETozbwG6oss29YHgGzw%2FJLD1hqYaEAg4i%2B%2FDtCPy3TZGz%2BkXkF3HLZXNgJYTQvBhlZxWag4eEDAzWERR25knOir7vbY9bPIZXKEdxsPM2%2BNzi"
           ]
@@ -143,7 +143,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_9e937fc50937cce9",
+      "pID": "9e937fc50937cce9",
       "title": "奇才vs猛龙",
       "keyword": "11月22日08:30",
       "sportItemId": "2",
@@ -175,7 +175,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_632ce36d24e830a3",
+      "pID": "632ce36d24e830a3",
       "title": "热火vs公牛",
       "keyword": "11月22日09:00",
       "sportItemId": "2",
@@ -207,7 +207,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_796b06773748de0a",
+      "pID": "796b06773748de0a",
       "title": "鹈鹕vs独行侠",
       "keyword": "11月22日09:30",
       "sportItemId": "2",
@@ -239,7 +239,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_f569fe132fdde7ea",
+      "pID": "f569fe132fdde7ea",
       "title": "森林狼vs太阳",
       "keyword": "11月22日10:00",
       "sportItemId": "2",
@@ -271,11 +271,11 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_a62125adf661da0e",
+      "pID": "a62125adf661da0e",
       "title": "[早安Tip_Off]第32期",
       "keyword": "11月22日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -297,11 +297,11 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_0a305f877ea1f234",
+      "pID": "0a305f877ea1f234",
       "title": "掘金vs火箭",
       "keyword": "11月22日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA杯小组赛西部C组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -324,18 +324,12 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=c37e06bdcf254c9c213614ba2cb4ce78&id=Las3b3NKRD7C6wQRHoyeiuUfoHBn3H4OOiRgLjcZ%2Fb6%2FuWCvfypO0fPfIE%2BpIx3NvkLK9y%2BovDSChdqiCum%2FY%2FBfeoKfj1Nq5J3tYuGINq76LqNEflngzK5a9DYRO46YeU2INbwZxL8Ylnd925nCGNfw6CafXhRR5cwEDzt2Vd%2Fth7Re9FE8WHQUBZyDFLsIySsrfaLWBk1aFyB2NHbjwK1NjlFHZfAOMADw43ULbHmiuMsK1JWEQPgQ5ZoWpQYIXwCyBkjHcwqoCUTsXkSw7cF3Lr9jL0lmBYN6ZNyvJP4Vx6sGZaFsrqudC%2FXM8rzY0M%2B8F8ef2X7UUSB36Gu7fA%3D%3D&name=klmwR1Fq%2FElkIW28pAbOiFNXQCVupyGetMhGXz6ZZ2ACN1K9fgWGf4LcTdcEZBvaETxVmff8tm5sFreVwfKMUlm0JniopjN275u0abj6TyxF4dp7zT6EOf9lyP56YijZ"
           ]
-        },
-        {
-          "name": "英文原音",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=c11d82366da46a416280f511c000237b&id=6FEG0N1ejDjA%2BEvI0eFGes7ofxq54dpk%2FDbD1YmZYCgz9mmFkGJuAcVjs7B4wlccTSIH0M79fFXuP6%2Fo1e6gO0RjzKXnoKR4rq0si%2F016XSI9ibnlDG1PWXB9qkSn%2FLGG6nSjiqczQJ1a0EzsSQpeKY42Xb4QJdHTcnvW0onAj60l3SzDqcCnRWsu2AZ6cGmQK1Y3431eK0CJ%2FLPpMl8QJ3t6TNtAFeBSZ9%2FcCEkVCvXrqjRR5q48W%2F3vyYMbLORhJTvzuQiyumHZk7ca%2F1IgU%2Fce3pKbE9kZoPRG5gjBClC46KBHNnpplu2W6bX1fAYZD%2FK%2B9YgsfYbz04oGCwiVQ%3D%3D&name=BlfpgLG1drIfNJS6LJq61IHCbQGzlDyWJDPjGpp8ak%2F97Lpq1ETsKV3ZkMNqhEvRyskPAHbKZPWbKK1K1TmPjFdo7ZISBEdzwDKJWcI0B%2FpF%2FULI5iIfWtilFcP1N2%2F5"
-          ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "match_5b89d5a0e2877334",
+      "pID": "5b89d5a0e2877334",
       "title": "雷霆vs爵士",
       "keyword": "11月22日11:00",
       "sportItemId": "2",
@@ -367,7 +361,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_279f563f99a12aea",
+      "pID": "279f563f99a12aea",
       "title": "开拓者vs勇士",
       "keyword": "11月22日11:00",
       "sportItemId": "2",
@@ -405,7 +399,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_397e1da0b60f770c",
+      "pID": "397e1da0b60f770c",
       "title": "2025中国职业高尔夫球巡回赛成都公开赛第三轮",
       "keyword": "11月22日11:30",
       "sportItemId": "",
@@ -431,7 +425,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_39c65e98e8ed05c8",
+      "pID": "39c65e98e8ed05c8",
       "title": "F1拉斯维加斯大奖赛排位赛",
       "keyword": "11月22日12:00",
       "sportItemId": "",
@@ -481,7 +475,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_6ecec4598922e8dd",
+      "pID": "6ecec4598922e8dd",
       "title": "NBA常规赛精彩回顾：步行者vs骑士",
       "keyword": "11月22日14:00",
       "sportItemId": "2",
@@ -507,7 +501,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_cfc510560fe54bf2",
+      "pID": "cfc510560fe54bf2",
       "title": "NBA常规赛精彩回顾：步行者vs骑士",
       "keyword": "11月22日16:00",
       "sportItemId": "2",
@@ -533,7 +527,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_392271d161818af4",
+      "pID": "392271d161818af4",
       "title": "无畏契约改变者全球冠军赛第三日",
       "keyword": "11月22日16:00",
       "sportItemId": "8",
@@ -559,7 +553,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_3de4e29e9ce8b894",
+      "pID": "3de4e29e9ce8b894",
       "title": "GBSvsWEG",
       "keyword": "11月22日17:00",
       "sportItemId": "10",
@@ -585,7 +579,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_39984889aa5374dd",
+      "pID": "39984889aa5374dd",
       "title": "NBA常规赛精彩回顾：掘金vs火箭",
       "keyword": "11月22日18:00",
       "sportItemId": "2",
@@ -611,7 +605,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_2cb8ea5653f6cc7b",
+      "pID": "2cb8ea5653f6cc7b",
       "title": "JCK觉城之夜N111",
       "keyword": "11月22日18:55",
       "sportItemId": "",
@@ -637,7 +631,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_145522c02de66492",
+      "pID": "145522c02de66492",
       "title": "4强赛",
       "keyword": "11月22日19:00",
       "sportItemId": "1",
@@ -663,7 +657,7 @@
     },
     {
       "mgdbId": "",
-      "pID": "match_c137925af07bd617",
+      "pID": "c137925af07bd617",
       "title": "NBA常规赛精彩回顾：掘金vs火箭",
       "keyword": "11月22日20:00",
       "sportItemId": "2",
@@ -688,8 +682,8 @@
       ]
     }
   ],
-  "timestamp": "2025-11-22T05:24:08.887Z",
-  "shanghaiTime": "2025-11-22T13:24:08.887Z",
+  "timestamp": "2025-11-22T05:30:21.565Z",
+  "shanghaiTime": "2025-11-22T13:30:21.565Z",
   "count": 22,
   "mode": "today",
   "source": "real"
