@@ -436,7 +436,7 @@ function generateStableMatchId(dateTimeStr, competitionName, teams) {
   
   //console.log(`生成MD5 ID: 基础字符串="${baseString}", MD5="${md5Hash}", 短哈希="${shortHash}"`);
   
-  return `match_${shortHash}`;
+  return shortHash;
 }
 
 // 根据赛事名获取 sportItemId
