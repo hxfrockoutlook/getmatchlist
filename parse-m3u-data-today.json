@@ -294,12 +294,6 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=47c039ce7f189f492cbef37b71a53199&id=JdoAipZkIyLa2NHMLc8qF7%2BwSzMjnSVyDw07LNxKG1HkMKDcx6RWXMhsoNw9lgps8mV46b11%2BRtmzGofK4otWsKW%2Fu0JhBlpbLW%2FY0wnxTWOeYxNCDEr6HL9nOXVZ31jjgmV3hOTexCxs%2B1x9gUqouIrMTVwElllZa1r3wxJotZYpgyeMpvgbmujVlj7IehrcP8g0M7e56oHBn3EB1TUwViWlnahgb%2FIIk4IEnt1g1okx7LcHSJkYMap%2FOuqU5G1QIIpIC%2BQCXuJOQuG5UKNYqgvzVWgMvtcstLiJsu3g9Q%3D&name=97esOq1owIQnjbbAojZNtW%2FsyofNabsb1HJImzs20sbvSBfzsm39doHc0l7xKt%2FT70vyg3kykfJL9mCreIxyUpnTeKZRQlJ19N7l5DqoK1M%3D"
           ]
-        },
-        {
-          "name": "英文原音",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=361e675a14eeab2b4b8a643767bb8c81&id=ojoTn4EYyUPJtKJVT4ZuF1oMdur4B1L8lGHzLJ1qBf2Z5MwCyxi9%2FJ4yyf5mSu3eOg1V0DQuItt%2Bkcb7FETZi5Ch3zcsGrVFmRcyDQrjQ%2B93GoBek5%2BRlNTNhnTZn6rE3Kc4hiRuPeGAA%2F0dY8hsAFe08uFJ6TcCQLz5RTf5tI9O1AcmGPWI3MmHm2zwMSzhEfnZwd1yNPEehYQ%2BcpkJeXQDyOmIa47nmffbn2jXt2%2BUFnqBv3snZCL6gDRqFjY6vjwFObPRERidNtNO6wtVr8rp%2BhANnueR%2Fqmmt%2BbxhM4%3D&name=xFaquLSQgkZYRv9vfyCmWZ2lHMUanSQSouPN%2BND%2Fc7ufHpqC41Pb2CpuKiimwmQNDVsndMaljE1BWWbWRhuc4s4TlHSZhhBum2qCQrZmbUw%3D"
-          ]
         }
       ]
     },
@@ -444,7 +438,7 @@
       },
       "nodes": [
         {
-          "name": "李雪��",
+          "name": "李雪儿",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=646d4d4034ac829b6f420c23a21f0c9d&id=05BTq0t36in%2BHLXZW7j7yt55VcdkcuwV81V8Xn8PUBp2R7Sc67KikV5YoQ0DgUDBzQVyXWlJT4a4Wk7aN75qaaWm7ptHbZWIWoeYTIaDX8FKNP8Vyq7Rt6HMMgb14kjBeJEmZ1H6BWV2pyybsKatdKr2xoBlTMDau7ajUAyWiaElhhTkZvo6%2BXN9o%2BBqL8pap8lU7YMiKlIhiKslJQIMBRIcplnrFP7KbULyO3UBUi%2BxqPhOp9MYHOHDS0od9IsrsAPeb2CIzqlP%2BHpOHT%2BevaZWcvwqdt8MKQ8d3KT6vvg%3D&name=u1ERTxFq8%2FMjTrZnSXdUJODGIP59uxKDlwxpTl7%2B57q9hOX0f%2B018SUTwBhPt2SLP5n2t7HfYQf%2BsyRTht%2B2Hu2Y31cjytXWuAhj0AP0gZs%3D"
           ]
@@ -631,7 +625,7 @@
       "title": "上海浦发银行vs石家庄英励",
       "keyword": "11月24日15:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA季前赛A组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -657,7 +651,7 @@
       "title": "豫光金铅女篮vs江西鲸裕清酒",
       "keyword": "11月24日15:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WCBA季前赛B组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -912,8 +906,8 @@
       ]
     }
   ],
-  "timestamp": "2025-11-24T10:00:25.932Z",
-  "shanghaiTime": "2025-11-24T18:00:25.932Z",
+  "timestamp": "2025-11-24T10:30:25.697Z",
+  "shanghaiTime": "2025-11-24T18:30:25.697Z",
   "count": 32,
   "mode": "today",
   "source": "real"
