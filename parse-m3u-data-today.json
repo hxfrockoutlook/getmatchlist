@@ -114,7 +114,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=99be2ae2c4c81c6e56e13e903288a3c8&id=a2zognY7VM2ItI67dzl3yp68q6Fmls9jNuZh7FPHDlCV1utYf2iiPlyPAIi0wroKbdOU%2FhgakFEyakI8QcitUczeIJEHsvJZjCefAO3p9AAyk1J4Zzx3ToMgGpC%2BE9aZCgsN%2BLGT4FH9Tr6aUEhegNJ7a6CKJtcvjFLa5wyNaGNmLrbzElRXwpauSpJi6qEci9CCG9VJHKiGb%2BpWBUmwpPPQxVxKRZJ4NZDhdpk77lJYegtFV%2BRSmsURsXgd2ruTbfisKBbDoXLeOOG%2BquJyTp7vhifmtbHvWKU1yiq9zrHpHINhUcWxsQWHHnwn12NA67Zoj4r30dlPfU4EViXGOg%3D%3D&name=n%2B8FP0BZfGjSOD1pVNLlmTF0vk7OiyB11tfyDbumihxyGbZFg7CMEREvDSNiKmFgnvyHKVDoOGrvyoICbk5w8285Vif1dlZ3C%2BIg%2FLIyXxEKqvaotDAZrAUEj8IEWR6D"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "a4cb4eb2b98e1b05",
+      "title": "尼克斯vs篮网",
+      "keyword": "11月25日08:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBA��规赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "尼克斯vs篮网",
+      "modifyTitle": "NBA��规赛 尼克斯vs篮网",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月25日08:30"
+      },
+      "nodes": [
         {
           "name": "英文原音",
           "urls": [
@@ -161,7 +181,7 @@
       "title": "掘金vs灰熊",
       "keyword": "11月25日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -193,7 +213,7 @@
       "title": "开拓者vs雄鹿",
       "keyword": "11月25日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -225,7 +245,7 @@
       "title": "公牛vs鹈鹕",
       "keyword": "11月25日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -730,9 +750,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-25T00:30:20.477Z",
-  "shanghaiTime": "2025-11-25T08:30:20.477Z",
-  "count": 25,
+  "timestamp": "2025-11-25T01:00:27.666Z",
+  "shanghaiTime": "2025-11-25T09:00:27.666Z",
+  "count": 26,
   "mode": "today",
   "source": "real"
 }
