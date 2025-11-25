@@ -415,20 +415,9 @@ function mergeMatches(channels) {
   
   // 输出所有pID用于调试
   //console.log('所有比赛的pID:', merged.map(match => match.pID));
-
-  // 在 mergeMatches 函数返回前添加
-  const finalMerged = merged.filter(match => {
-    // 移除 title、competitionName、teams 都为空的记录
-    const isValid = match.title && match.competitionName && match.teams;
-    if (!isValid) {
-      console.log(`移除无效记录: ${match.pID}`);
-    }
-    return isValid;
-  });
   
-  console.log(`清理后剩余 ${finalMerged.length} 个有效比赛条目`);
-  return finalMerged;
-  //return merged;
+  return merged;
+  
 }
 
 // 生成稳定且唯一的比赛ID（使用MD5确保100%唯一性）
