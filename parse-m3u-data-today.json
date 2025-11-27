@@ -253,7 +253,7 @@
       "title": "雄鹿vs热火",
       "keyword": "11月27日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛东部C组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -285,7 +285,7 @@
       "title": "步行者vs猛龙",
       "keyword": "11月27日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛东部A组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -317,7 +317,7 @@
       "title": "森林狼vs雷霆",
       "keyword": "11月27日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛西部A组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -614,8 +614,8 @@
       ]
     }
   ],
-  "timestamp": "2025-11-27T00:00:25.567Z",
-  "shanghaiTime": "2025-11-27T08:00:25.567Z",
+  "timestamp": "2025-11-27T00:30:21.460Z",
+  "shanghaiTime": "2025-11-27T08:30:21.460Z",
   "count": 21,
   "mode": "today",
   "source": "real"
