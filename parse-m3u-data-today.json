@@ -255,32 +255,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "b1707f0a249c9b15",
-      "title": "2025和平精英全球总决赛小组赛第1比赛日",
-      "keyword": "11月28日18:30",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "��平精英全球总决赛小组赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "2025和平精英全球总决赛小组赛第1比赛日",
-      "modifyTitle": "��平精英全球总决赛小组赛 2025和平精英全球总决赛小组赛第1比赛日",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月28日18:30"
-      },
-      "nodes": [
-        {
-          "name": "2025和平精英全球总决赛小组赛第1比赛日",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=d02eb42ab68577e4cdd5013c90d51f53&id=41qeNxzgYmGFDOMbH57gzlmuVe6xJIdS17Ayl6M5QAbupTRxZpsdp%2FkgyxTQ4FIBOAATi%2FneZxoKMl%2BhQzxIXOZ2usdnpSS8ffYGsEY7W%2B%2FTfuu2T6j0HOLOAh82uL%2FBiTgO0RWl9IYkQ2xNTbiLInqvRp5Ri6zTjMwAhknsul39W2C0D924D9BtDk6fr270M1s2l3ZmwvacjK4gUr8NeaAsl%2FkWAyqECl%2BAa%2FC39FWHgcYzV4R6IEmGh08pg8HaqVVuy7SVAbLqiH3GWHsV4TShiycIrpOHeuRH4M0axUNMVdDz%2BctMY7JYLa40ioPA&name=foqFJXhhuOeTJ18yQA2FZkK9XGdzbaHi1P1yBfy0NWZoN1H%2BBEjq6lH1UsnSALIgaAEnXqzrSCyH8Q%2B%2Bk64DPVKnbeuVLe%2F%2FZzoJmG%2FKqXcDhpTptQVarkgkUNZC18iJjWLpqxzxgl8UjnvmUbAvpQPfIcQIMwvQLQeVa3cYf5Y%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "75a1c95ce21947c3",
       "title": "2025和平精英全球总决赛小组赛第1比赛日",
       "keyword": "11月28日18:30",
@@ -297,6 +271,12 @@
         "time": "11月28日18:30"
       },
       "nodes": [
+        {
+          "name": "2025和平精英全球总决赛小组赛第1比赛日",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=d02eb42ab68577e4cdd5013c90d51f53&id=41qeNxzgYmGFDOMbH57gzlmuVe6xJIdS17Ayl6M5QAbupTRxZpsdp%2FkgyxTQ4FIBOAATi%2FneZxoKMl%2BhQzxIXOZ2usdnpSS8ffYGsEY7W%2B%2FTfuu2T6j0HOLOAh82uL%2FBiTgO0RWl9IYkQ2xNTbiLInqvRp5Ri6zTjMwAhknsul39W2C0D924D9BtDk6fr270M1s2l3ZmwvacjK4gUr8NeaAsl%2FkWAyqECl%2BAa%2FC39FWHgcYzV4R6IEmGh08pg8HaqVVuy7SVAbLqiH3GWHsV4TShiycIrpOHeuRH4M0axUNMVdDz%2BctMY7JYLa40ioPA&name=foqFJXhhuOeTJ18yQA2FZkK9XGdzbaHi1P1yBfy0NWZoN1H%2BBEjq6lH1UsnSALIgaAEnXqzrSCyH8Q%2B%2Bk64DPVKnbeuVLe%2F%2FZzoJmG%2FKqXcDhpTptQVarkgkUNZC18iJjWLpqxzxgl8UjnvmUbAvpQPfIcQIMwvQLQeVa3cYf5Y%3D"
+          ]
+        },
         {
           "name": "TT.King",
           "urls": [
@@ -394,9 +374,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-27T21:30:21.841Z",
-  "shanghaiTime": "2025-11-28T05:30:21.841Z",
-  "count": 13,
+  "timestamp": "2025-11-27T22:00:22.863Z",
+  "shanghaiTime": "2025-11-28T06:00:22.863Z",
+  "count": 12,
   "mode": "today",
   "source": "real"
 }
