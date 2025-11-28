@@ -329,32 +329,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "bf79a87f80ccd605",
-      "title": "太阳vs雷霆",
-      "keyword": "11月29日10:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBA杯小组赛西��A组",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "太阳vs雷霆",
-      "modifyTitle": "NBA杯小组赛西��A组 太阳vs雷霆",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月29日10:30"
-      },
-      "nodes": [
-        {
-          "name": "段冉",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=8aa1bfcf5298fb669ae998154ca33852&id=sSkp393LjosXHMLPl%2FtUyvcqiHQ3TE5LZOiX%2BvKowpJqRDoLDwEZxgE7R2UsyDX%2FGcpqTV%2FAbQp0LCEhFfNxpHBfkBYnVjwOmsfujma4l3B1P%2BvgYeMr%2FMDo3IyyhKWSusd%2BOopFdL3gTHsPc1Rb8%2FFbNfMUxIpPQiw7j9L5h%2BxmpOdzGPYL8DkQwAMngUWI2ZRWJqTcAdLuBHbCYYNlaQK2WLZu0d3UBR4V58Jz%2FqiFaH5TtZYFyKJsMUGMLdXnqQBlJ%2Bx0rrClDeWsBU9rYDQSkTRxxy80Dz0AhPvwbYYDN5iPVWDr0OqOoPQNMW%2BuyGrwrPm44xAeDgL%2FUyiUsw%3D%3D&name=ScEBJFj3OSzYhpu5G5ig5BxERCVYzkMJQc7JAkuHZZfNy56GRSKV4IwHGMpTVNrEhLDyu%2FekbygNaq1Hse6oKuZCNDpvmOr%2Bds7fzUFuH4k%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "6c2c12fa63622fbe",
       "title": "太阳vs雷霆",
       "keyword": "11月29日10:30",
@@ -371,6 +345,12 @@
         "time": "11月29日10:30"
       },
       "nodes": [
+        {
+          "name": "段冉",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=8aa1bfcf5298fb669ae998154ca33852&id=sSkp393LjosXHMLPl%2FtUyvcqiHQ3TE5LZOiX%2BvKowpJqRDoLDwEZxgE7R2UsyDX%2FGcpqTV%2FAbQp0LCEhFfNxpHBfkBYnVjwOmsfujma4l3B1P%2BvgYeMr%2FMDo3IyyhKWSusd%2BOopFdL3gTHsPc1Rb8%2FFbNfMUxIpPQiw7j9L5h%2BxmpOdzGPYL8DkQwAMngUWI2ZRWJqTcAdLuBHbCYYNlaQK2WLZu0d3UBR4V58Jz%2FqiFaH5TtZYFyKJsMUGMLdXnqQBlJ%2Bx0rrClDeWsBU9rYDQSkTRxxy80Dz0AhPvwbYYDN5iPVWDr0OqOoPQNMW%2BuyGrwrPm44xAeDgL%2FUyiUsw%3D%3D&name=ScEBJFj3OSzYhpu5G5ig5BxERCVYzkMJQc7JAkuHZZfNy56GRSKV4IwHGMpTVNrEhLDyu%2FekbygNaq1Hse6oKuZCNDpvmOr%2Bds7fzUFuH4k%3D"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -772,9 +752,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-28T21:00:25.347Z",
-  "shanghaiTime": "2025-11-29T05:00:25.347Z",
-  "count": 25,
+  "timestamp": "2025-11-28T21:30:19.817Z",
+  "shanghaiTime": "2025-11-29T05:30:19.817Z",
+  "count": 24,
   "mode": "today",
   "source": "real"
 }
