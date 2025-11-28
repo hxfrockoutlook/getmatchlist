@@ -143,6 +143,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "69c799c8879fb755",
+      "title": "76人vs篮网",
+      "keyword": "11月29日08:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA��小组赛东部B组",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "76人vs篮网",
+      "modifyTitle": "NBA��小组赛东部B组 76人vs篮网",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月29日08:30"
+      },
+      "nodes": [
+        {
+          "name": "石楷文",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=96410c384c8977da63b66b047bfb4b77&id=O4gXUewKyGgW1qB4Y7k9ipv16j1nrJa0B%2FPlwdc78aQmFxaAODjBXEUw8dkH5K41DWn2RZJlDlGcE38jEzsfPwJYXJTkgtyHZ9%2B8LhD12iaX8mNkuRl1Qz1r4f9XHA2ESZaqVpeRV1LTMJKCK6ZR0sLhqJjX6cy3gFPjc6%2FeRcOCO%2FK9bHGqVwD%2FJ56SICYiw8OUnfLtUA6HXYkFjOV7Of3gRB9NWYVmD8hMdRxrBjYMwazL0ttxIwsT%2FFUU0cjSobeQgBpAN1dT975sBYZLVPQxtAXTbcARrEy4hroR1GTQOaQGPtvhSl7DeBgUwKcttB6dS9d1FUBvmd5IbtnlOw%3D%3D&name=lvZDDOOXhrJu5kb45IqhfxxcGux97W6cDA90Lmck4JfqJDpetDC8q3HMdBy%2BJ5mcgGna0wB0Zgv0kBNIJGOOK3aMlKmqCmbIzAWaOfU6wdQW0YCLPGyRT7o3hm%2FICIZ5"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "ea260ef64b453a5c",
       "title": "76人vs篮网",
       "keyword": "11月29日08:30",
@@ -159,12 +185,6 @@
         "time": "11月29日08:30"
       },
       "nodes": [
-        {
-          "name": "石楷文",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=96410c384c8977da63b66b047bfb4b77&id=O4gXUewKyGgW1qB4Y7k9ipv16j1nrJa0B%2FPlwdc78aQmFxaAODjBXEUw8dkH5K41DWn2RZJlDlGcE38jEzsfPwJYXJTkgtyHZ9%2B8LhD12iaX8mNkuRl1Qz1r4f9XHA2ESZaqVpeRV1LTMJKCK6ZR0sLhqJjX6cy3gFPjc6%2FeRcOCO%2FK9bHGqVwD%2FJ56SICYiw8OUnfLtUA6HXYkFjOV7Of3gRB9NWYVmD8hMdRxrBjYMwazL0ttxIwsT%2FFUU0cjSobeQgBpAN1dT975sBYZLVPQxtAXTbcARrEy4hroR1GTQOaQGPtvhSl7DeBgUwKcttB6dS9d1FUBvmd5IbtnlOw%3D%3D&name=lvZDDOOXhrJu5kb45IqhfxxcGux97W6cDA90Lmck4JfqJDpetDC8q3HMdBy%2BJ5mcgGna0wB0Zgv0kBNIJGOOK3aMlKmqCmbIzAWaOfU6wdQW0YCLPGyRT7o3hm%2FICIZ5"
-          ]
-        },
         {
           "name": "英文原音",
           "urls": [
@@ -752,9 +772,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-28T18:00:23.622Z",
-  "shanghaiTime": "2025-11-29T02:00:23.622Z",
-  "count": 24,
+  "timestamp": "2025-11-28T18:30:23.743Z",
+  "shanghaiTime": "2025-11-29T02:30:23.743Z",
+  "count": 25,
   "mode": "today",
   "source": "real"
 }
