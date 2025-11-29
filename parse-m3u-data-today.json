@@ -7,7 +7,7 @@
       "title": "F1卡塔尔大奖赛排位赛",
       "keyword": "11月30日02:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "F1卡塔尔站",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -280,7 +280,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=d33a5d8e934d3a7d5bb7480f5b17f0c6&id=GAgYNFR52v7XHKkiQuooPOPBrGCnYDBLWaegPwed60v1mZZRDckN8Z0rGcUrvhRw%2BSWVf7d8AXLikjlKcBiFHi3Yu2ygVkexPqBGp1DKvRzRM5ixJNChtDAr5ebyS7WofiTUMZOfdtvrvKQ3jKPejHCgXI%2B%2FfQJu0jQdmGrPu1utrrPIijfEoW61WqQEejbKUA%2FwdbzzWqYloseKrlKJynbdFZkdqRLB5t4sh0koDfsqCIkn0Ed6irrMEMGzO4L7alKcbManepLgaVw8jAJwSc5NDUaOVDkkENNpIPKGGXyzT7pLZqNaMeN0WmzhdrT70gGP7tx0S6EYi%2BbY4FTjbQ%3D%3D&name=F4RxTNYyqMDh0Rvs8b3nUuNqlM1K141o%2BtnJnP3lVSJSzIpjiPySMhfZ%2BFdrlRNk5S%2FFrafrh3BNCfpnOL84Jfua4OcBRL6wty0ivNqgbyY%3D"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "8c4c00dcb3c38b12",
+      "title": "篮网vs雄鹿",
+      "keyword": "11月30日09:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA���规赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "篮网vs雄鹿",
+      "modifyTitle": "NBA���规赛 篮网vs雄鹿",
+      "presenters": "",
+      "matchInfo": {
+        "time": "11月30日09:00"
+      },
+      "nodes": [
         {
           "name": "英文原音",
           "urls": [
@@ -734,9 +754,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-29T20:30:21.197Z",
-  "shanghaiTime": "2025-11-30T04:30:21.197Z",
-  "count": 24,
+  "timestamp": "2025-11-29T21:00:23.376Z",
+  "shanghaiTime": "2025-11-30T05:00:23.376Z",
+  "count": 25,
   "mode": "today",
   "source": "real"
 }
