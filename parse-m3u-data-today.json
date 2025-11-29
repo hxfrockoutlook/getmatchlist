@@ -115,7 +115,7 @@
       "title": "骑士vs老鹰",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛东部A组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -147,7 +147,7 @@
       "title": "76人vs篮网",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛东部B组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -179,7 +179,7 @@
       "title": "公牛vs黄蜂",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛东部C组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -211,7 +211,7 @@
       "title": "魔术vs活塞",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛东部B组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -243,7 +243,7 @@
       "title": "奇才vs步行者",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛东部A组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -275,7 +275,7 @@
       "title": "雄鹿vs尼克斯",
       "keyword": "11月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA杯小组赛东部C组",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -677,32 +677,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "75f5ba611ad0f45d",
-      "title": "NBA常规赛精彩回顾：灰熊vs快船",
-      "keyword": "11月29日20:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBA经典赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：灰熊vs快船",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：灰熊vs快船",
-      "presenters": "",
-      "matchInfo": {
-        "time": "11月29日20:00"
-      },
-      "nodes": [
-        {
-          "name": "NBA常规赛精彩回顾：灰熊vs快船",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=8fad958265a02c95266936215104203a&id=%2FkCAA6g8%2BgIcBaNTMXXvMuMmLTx4e8lGBI5dA9OrTVnlnk9d%2FaDhBaMqxaGko%2BdRZ7wZ8j1TTNPhwQwGkEuJi%2FI5FD7AO5MR8%2BlrlLJlX%2BAkwDI5QBEPGNOZP94ooTdph8fTdAIagMewJ6%2FksW%2FeQu0K40F4U8Nxsz99M2tSvQ2QM4UI%2FMA2ThL2rGEc%2BSKVQTbPBAiIsReX4cNSe%2FtFkO4BEZnmm8IcZ09M57CZIjlwozGFjPnj2yc6Hqkwf5KWQ2%2Bubf%2FcLy2krEUDMnlj%2FsV22zu0gMOQKeG2tb6T4RmTk97zJfnVubY7ghtgmV4i&name=AjOU%2FHLVfWH%2FR%2B%2FfUCCpXMOOA98X8BHVAob9g7W%2Fu%2B%2FA7AgRUfHCmIChjtyCaHHEUOyMvEhVViR3naHRNKl6%2BqH2aHlQq1qijNwSpm1Im0T2GJ4C44i63C%2BDuQIOAWaB"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "4a7bc9e8867bb55a",
       "title": "F1卡塔尔大奖赛冲刺赛",
       "keyword": "11月29日22:00",
@@ -752,9 +726,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-29T00:00:24.174Z",
-  "shanghaiTime": "2025-11-29T08:00:24.174Z",
-  "count": 24,
+  "timestamp": "2025-11-29T00:30:19.739Z",
+  "shanghaiTime": "2025-11-29T08:30:19.739Z",
+  "count": 23,
   "mode": "today",
   "source": "real"
 }
