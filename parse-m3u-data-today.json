@@ -57,7 +57,7 @@
       "title": "NFL常规赛第十三周redzone达阵区",
       "keyword": "12月1日02:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -83,7 +83,7 @@
       "title": "公羊vs黑豹",
       "keyword": "12月1日02:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -115,7 +115,7 @@
       "title": "德州人vs小马",
       "keyword": "12月1日02:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -352,7 +352,7 @@
       },
       "nodes": [
         {
-          "name": "柯凡 孔德昕 ���果",
+          "name": "柯凡 孔德昕 果果",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=9095883e0f68069b120dd1adf111ae3e&id=f65JR4u8Iu%2FtIksYtUY7PfYsslxvvLtve61cWPQfmZi7EcQAH0evVKgkt2EJ%2BoLMEEroe%2FQkqMxoCz780bMIXKPFGN5CvtbJ1BKNKO7Nwwbc05cUlRVAaMnXMgdVARWQr2lvc6w4sU7pPPE9y%2BZKDStZnLF4%2BbPwAgsuPqTYkBRGaooRdXxRYhH4aJS3w9d25ydd5fza8YVYDMe5gQlx49cTBjv6Aaf6Iui5df3S9AnAyM5re7GiaH13opGaNkzAhBRP6MhQV2yRqjUayOau69tkQKHcx1diw4kkSwURaeZhk5Ypeal%2BBVGiwM7LYqsRE2mmhA7M%2B0hQJP4WZMbhXQ%3D%3D&name=rb1rOHmKf6H0rG6dAyw4pk23NjF0EPNvRubyx6%2BOfXj8OOiUe1ckgKQnzj5PNSetPGc1C6M%2FSOPRMOV6HY7Rgvx6s5M09JXO%2FVRb%2Ff8teTH03LSL4vn%2F4YmTxKNzjakW"
           ]
@@ -701,6 +701,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "468adea2c887d975",
+      "title": "有球必应",
+      "keyword": "12月1日19:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "篮球直播节目",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "有球必应",
+      "modifyTitle": "篮球直播节目 有球必应",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月1日19:00"
+      },
+      "nodes": [
+        {
+          "name": "王猛 杨毅 徐静雨",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=2935d1449167ffa9cfe9ed8e258f7119&id=Li%2B9t57%2FzqVxliPk5pwg3Psfxf5kJqg8a91wrk9gRTc6%2FwF8%2BgcaYV%2Be9yowUQJTeRtZ4O8EdHjqgjLR%2B387mhtBdIlzG6LeqZbXh6rmIT6Squ6728kX2RjK2AAhiu7PWXjY7p3zro4uq6KVxFtNpmf6wz862zv%2FJ%2FZZopMWekuSpN65saPJk4z0QmlWV03aCsXZXhQUIDCSUn35ZdkfQgiVstP93Y7abzIzmtqNVxgK0O6M3TNWr20ib%2BiHYSd8KEyCesWvHZKXFT5FcAFH3zhFnyps6kaHN50iPoeoel6Gw26CZU8cGrHdsPrpFRPr&name=VgGvCSxCWWuUlzgPo5SFeFiFAAmmwMl9LfLJSLwKyRRfEaYqDkEiSBYBOQxq9pAEbSfGjteHViQMBn%2BjvdNMYNje4oStDtf%2FemghrbMOvIiea5Ls7mNYMqcVZ%2BEZHIUt"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "3277fad76cdafa74",
       "title": "2025乒乓球混合团体世界杯小组赛第二轮",
       "keyword": "12月1日19:00",
@@ -764,9 +790,9 @@
       ]
     }
   ],
-  "timestamp": "2025-11-30T20:30:20.632Z",
-  "shanghaiTime": "2025-12-01T04:30:20.632Z",
-  "count": 24,
+  "timestamp": "2025-11-30T21:00:25.340Z",
+  "shanghaiTime": "2025-12-01T05:00:25.340Z",
+  "count": 25,
   "mode": "today",
   "source": "real"
 }
