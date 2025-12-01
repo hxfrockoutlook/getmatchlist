@@ -274,14 +274,27 @@ function parseChannelName(channelName, logo) {
       }
     }
   }
-   
   
   return result;
 }
 
+// 格式化日期时间为MM月DD日HH:MM格式
+function formatDateTime(dateTimeStr) {
+  const match = dateTimeStr.match(/(\d{1,2})月(\d{1,2})日(\d{1,2}):(\d{2})/);
+  if (!match) return dateTimeStr;
+  
+  const month = match[1].padStart(2, '0');
+  const day = match[2].padStart(2, '0');
+  const hour = match[3].padStart(2, '0');
+  const minute = match[4];
+  
+  return `${month}月${day}日${hour}:${minute}`;
+}
+
 // 解析日期时间字符串为上海时区时间
 function parseDateTime(dateTimeStr) {
-  const match = dateTimeStr.match(/(\d{1,2})月(\d{1,2})日(\d{1,2}):(\d{2})/);
+  const formattedDateTime = formatDateTime(dateTimeStr);
+  const match = formattedDateTime.match(/(\d{2})月(\d{2})日(\d{2}):(\d{2})/);
   if (!match) return null;
   
   const month = parseInt(match[1]);
@@ -310,8 +323,11 @@ function mergeMatches(channels) {
   channels.forEach((channel, index) => {
     const parsed = parseChannelName(channel.name, channel.logo);
     
+    // 格式化日期时间
+    const formattedDateTime = formatDateTime(parsed.dateTime);
+    
     // 生成匹配键（排除节点名）- 只使用日期时间+赛事名+比赛队伍
-    const matchKey = `${parsed.dateTime}_${parsed.competitionName}_${parsed.teams}`;
+    const matchKey = `${formattedDateTime}_${parsed.competitionName}_${parsed.teams}`;
     
     if (!matchMap.has(matchKey)) {
       const shanghaiTime = getShanghaiTime();
@@ -339,7 +355,7 @@ function mergeMatches(channels) {
       const sportItemId = getSportItemId(parsed.competitionName);
       
       // 生成固定唯一的ID：使用MD5确保100%唯一性
-      const md5Id = generateStableMatchId(parsed.dateTime, parsed.competitionName, parsed.teams);
+      const md5Id = generateStableMatchId(formattedDateTime, parsed.competitionName, parsed.teams);
       console.log(`生成固定ID: ${md5Id}`);
       
       // 根据logo文件名设置padImg
@@ -357,18 +373,17 @@ function mergeMatches(channels) {
         mgdbId: "",
         pID: md5Id, // 使用固定唯一ID
         title: parsed.teams, // title 应该是比赛队伍
-        keyword: parsed.dateTime,
+        keyword: formattedDateTime, // 使用格式化后的日期时间
         sportItemId: sportItemId,
         matchStatus: matchStatus,
         matchField: "",
         competitionName: parsed.competitionName,
-        //padImg: channel.logo || "",
         padImg: padImg,  // 修改这里：使用条件判断后的padImg值
         competitionLogo: "",
         pkInfoTitle: parsed.teams, // pkInfoTitle 应该是比赛队伍
         modifyTitle: modifyTitle,
         presenters: "",
-        matchInfo: { time: parsed.dateTime },
+        matchInfo: { time: formattedDateTime }, // 使用格式化后的日期时间
         nodes: []
       });
     }
@@ -427,15 +442,13 @@ function mergeMatches(channels) {
   
   console.log(`过滤后剩余 ${finalMerged.length} 个有效比赛条目`);
   return finalMerged;
-  
-  //return merged;  
 }
 
 // 生成稳定且唯一的比赛ID（使用MD5确保100%唯一性）
 function generateStableMatchId(dateTimeStr, competitionName, teams) {
   // 1. 标准化日期时间：11月17日00:45 → 11170045
-  const dateTimePart = dateTimeStr.replace(/(\d{1,2})月(\d{1,2})日(\d{1,2}):(\d{2})/, (match, month, day, hour, minute) => {
-    return `${month.padStart(2, '0')}${day.padStart(2, '0')}${hour.padStart(2, '0')}${minute.padStart(2, '0')}`;
+  const dateTimePart = dateTimeStr.replace(/(\d{2})月(\d{2})日(\d{2}):(\d{2})/, (match, month, day, hour, minute) => {
+    return `${month}${day}${hour}${minute}`;
   });
   
   // 2. 创建基础字符串
