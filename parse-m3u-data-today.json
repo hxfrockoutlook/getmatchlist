@@ -349,17 +349,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "e60c1b40ea6a1063",
+      "pID": "3b6f22cde37be440",
       "title": "[早安Tip_Off]第41期",
       "keyword": "12月02日10:30",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "篮球直播节目",
+      "competitionName": "篮球直播���目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "[早安Tip_Off]第41期",
-      "modifyTitle": "篮球直播节目 [早安Tip_Off]第41期",
+      "modifyTitle": "篮球直播���目 [早安Tip_Off]第41期",
       "presenters": "",
       "matchInfo": {
         "time": "12月02日10:30"
@@ -449,7 +449,7 @@
       "title": "NBA常规赛精彩回顾：快船vs热火",
       "keyword": "12月02日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -527,7 +527,7 @@
       "title": "2025乒乓球混合团体世界杯小组赛第三轮",
       "keyword": "12月02日17:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球混团世界杯",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -608,7 +608,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=46ebfad8fcc9161c0840745e680bd7d7&id=W3OiEpUeQLCAjuqMg9alh5hRnwFjrc8G7Jk9yWyqoas0tPAmho0Qb5McCVYgvfh2HCCbNC%2BR%2B%2FSXM%2FU2%2FRCq6QOdst4UBqwwDfu1M3pGaiRM6yhnaJDs3WNXMae1rIM6nJyx%2F9EeP4S3o4ZG%2FfYI10Lz2aW8gsvv0ml2WEwQ16zTYVDlW2nIdpa9SlYp5MecCPOl051Kh5%2FTQZhMDXWeNOEv4asy2LOxLyIfnbDtvgDNKdginoXCKDuSaOrHr1J5eQxsExq1rvB89UQDYaG4yRJadVRdkH%2B%2FQpyCLKGPuJUXeTKSJNu0UvXYxuuMO%2Frp&name=tS9Nf535W9cCCaRYSV5wIiPa%2BJ4H3dvOWmP5Wfsg3ax3LZXvTJBm6SPMce1in82G5NMjm7y9HUzkw2q3bddYftNgqFwpszH6hkgBcSXSnIi3zdQBMdrSIQHiqDxNNB7kEsoMln2IZc0yMm5vj%2BrWBdTCAkrhfppsYGrZsyr%2BWzg6f0weo4T74BvbyoMKrOja"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "1bcfc4406ebfdc08",
+      "title": "2025乒乓球混合团体世界杯小组赛第三轮",
+      "keyword": "12月02日19:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "乒乓���混团世界杯",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "2025乒乓球混合团体世界杯小组赛第三轮",
+      "modifyTitle": "乒乓���混团世界杯 2025乒乓球混合团体世界杯小组赛第三轮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月02日19:00"
+      },
+      "nodes": [
         {
           "name": "1号台原声信号",
           "urls": [
@@ -644,9 +664,9 @@
       ]
     }
   ],
-  "timestamp": "2025-12-02T08:30:19.650Z",
-  "shanghaiTime": "2025-12-02T16:30:19.650Z",
-  "count": 21,
+  "timestamp": "2025-12-02T09:00:33.674Z",
+  "shanghaiTime": "2025-12-02T17:00:33.674Z",
+  "count": 22,
   "mode": "today",
   "source": "real"
 }
