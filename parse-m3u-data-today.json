@@ -431,7 +431,7 @@
       "title": "太阳vs湖人",
       "keyword": "12月02日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -501,7 +501,7 @@
       "title": "NBA常规赛精彩回顾：快船vs热火",
       "keyword": "12月02日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -670,8 +670,8 @@
       ]
     }
   ],
-  "timestamp": "2025-12-02T05:30:21.797Z",
-  "shanghaiTime": "2025-12-02T13:30:21.797Z",
+  "timestamp": "2025-12-02T06:00:24.528Z",
+  "shanghaiTime": "2025-12-02T14:00:24.528Z",
   "count": 22,
   "mode": "today",
   "source": "real"
