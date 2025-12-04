@@ -142,7 +142,7 @@
       },
       "nodes": [
         {
-          "name": "孔祥宇 杨毅 美娜",
+          "name": "孔祥宇 杨��� 美娜",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=ad92161880c69e294f6dbd9e1526e8e5&id=j5yjS1kb5Npw5XtkrUSx7dMPA9mGqKguqoaDxJqUMJhWaU%2BaSjHa2FdQqasCIfBM6GsGgYw%2FKsvEnp6HsZR8FzOtykm0GEX6auhMTu2twr4v0w57aTYuxX%2FK%2BTgew%2Fnvxl22FYbPcI9wnMWS40JhSwZKZNfgvHzVJUijKRfb9djYFqq6hTjMphMbFOp5DkyLl6suCiUnbEutKtdv7oZGnZiCflNAbS5%2FEnK2lJ3madm95iC7%2BJYSXobK0i%2BGJhzQDx7t2Y7Cpj4UxB9UTukTp%2B7DrWj0J%2BYJ4fKQXWFRjPjmVgp%2B3wzRjYuxHWdyasCBbPD6V%2B%2B9XyAKLxRQuYn5Gg%3D%3D&name=2SnnyTzTFkM%2FAoqEIkb9I2FcYOy%2Fxz%2BXii23aAaGAFiyxsZaX5DgorK7CLn1VgBNjixlehaJg1WnS5PFQZIaUqxpftL2pp0hnQwP09raLTP9zD4q8taPe%2BtIMhgNPdvd"
           ]
@@ -349,6 +349,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "c0a764db77ff5850",
+      "title": "NBA常规赛精彩回顾：勇士vs76人",
+      "keyword": "12月05日16:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：勇士vs76人",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：勇士vs76人",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月05日16:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：勇士vs76人",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=766b365890e178aefb12e5629b305524&id=7OlTV6%2FGlulevlX%2BWAhajBXeYLIUP3wtOG5JyvNa2HDeMTL4tFHofIYq%2BnmtgilF9iGStyzlelNgRUlHsew09E8vKXltDltuyDwqHEzZMugInDLgPPVC8JzXN7W6Gq1%2FfKKvxHTf4DCZyBmFOnuPz%2FqIAUmGAvTWyu70bueGzgKK%2FKPjoxiMm%2FETn0fgEUyvb11C0sb5u4ullnarWl6RVQgRb3%2BqrV6ETbnpqV5AEFYsehUUoJI98XykVdtw3AT7Y%2BSJ20WaOl7GrmlB0%2Bp2iWHDhtxUeQXXNCYEhf3TT1WRqnJU4tjruy5%2Bu80FSxbY&name=lGZ5USv1ooRawYnFezmpfvBpkCsFpaW98JV2rKJAUzEvWVnP2%2B43jdMhruU1slTkQ2j4Elavv2D6RlQxV2H7kUlqsqYGqbCGz%2FRb0vA3RAkktNjWD6a6BPVkrT1EtJ%2F9"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "51b2637357c6355a",
       "title": "F1阿布扎比大奖赛第一次练习赛",
       "keyword": "12月05日17:30",
@@ -532,9 +558,9 @@
       ]
     }
   ],
-  "timestamp": "2025-12-04T19:00:21.782Z",
-  "shanghaiTime": "2025-12-05T03:00:21.782Z",
-  "count": 16,
+  "timestamp": "2025-12-04T19:30:19.607Z",
+  "shanghaiTime": "2025-12-05T03:30:19.607Z",
+  "count": 17,
   "mode": "today",
   "source": "real"
 }
