@@ -123,7 +123,7 @@
       "title": "[早安Tip_Off]第43期",
       "keyword": "12月04日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -149,7 +149,7 @@
       "title": "快船vs老鹰",
       "keyword": "12月04日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -181,7 +181,7 @@
       "title": "黄蜂vs尼克斯",
       "keyword": "12月04日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -606,8 +606,8 @@
       ]
     }
   ],
-  "timestamp": "2025-12-04T00:00:24.261Z",
-  "shanghaiTime": "2025-12-04T08:00:24.261Z",
+  "timestamp": "2025-12-04T00:30:18.676Z",
+  "shanghaiTime": "2025-12-04T08:30:18.676Z",
   "count": 20,
   "mode": "today",
   "source": "real"
