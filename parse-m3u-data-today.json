@@ -315,7 +315,7 @@
       "title": "步行者vs公牛",
       "keyword": "12月06日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -347,7 +347,7 @@
       "title": "太阳vs火箭",
       "keyword": "12月06日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -385,7 +385,7 @@
       "title": "快船vs灰熊",
       "keyword": "12月06日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -417,7 +417,7 @@
       "title": "76人vs雄鹿",
       "keyword": "12月06日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -591,7 +591,7 @@
       "title": "2025乒乓球混合团体世界杯循环赛第五轮",
       "keyword": "12月06日12:00",
       "sportItemId": "1",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "乒乓球混团世界杯",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -910,7 +910,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=54ad706bbea46adc1c1dc01561d8eaa1&id=29NwXoAnCfEuccN1DC8AdSX7RbcSwfYRYctiqY9jylR%2FWQD1oDJCEkjNGlvXjJZvci64YvOcSAUgGiC1QA%2BoQxKG1Sv7BzrczV%2FNvMgIaYKhPumWQFMBNHxalgePTXOIvw1ozj8z5WBmmMluuUDBLMctrPBRxkvo0aZrDAtJAn77MPXz67inrAPUdVJ4KJE1kKJVAeG7bS09wkzB8aCWxmeaoj8YRptkkcFUzpHGxWlKaiIoUtJm0NgoMQxN3z12en6LBdXggGOHSv7dNYWa0gtjJUsIexDb7Oz70pNfRT%2Fg%2BEHifxR4gVYLspIaPfhc&name=AfW5eeZxyaAT8%2FMA6EGH7LX8hbhqP3%2F%2BfP4tOuRdo5V0yqmAKz8%2BF0FvSAWYjx9R0smdREBGu0pjErw%2FAC2qBPlvF%2BY3VA4qsRtusQrdsRsq6pwFvsMoK%2B3l5CPIcPLkZWBNYoDsMtoVrHt%2FCfG9aw%3D%3D"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "d75ae16174206171",
+      "title": "F1阿布扎比大奖赛第三次练习赛",
+      "keyword": "12月06日18:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "F1阿布扎���站",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "F1阿布扎比大奖赛第三次练习赛",
+      "modifyTitle": "F1阿布扎���站 F1阿布扎比大奖赛第三次练习赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月06日18:30"
+      },
+      "nodes": [
         {
           "name": "维修区",
           "urls": [
@@ -1098,12 +1118,6 @@
           ]
         },
         {
-          "name": "车手位置",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=1640a121a7f2a7fc18e7508ec7482236&id=zP0tl%2FJspO%2BOaXi3ArmoLKfflsVuzbdhzZ9l5xd6RuIYVoyhNSFGOAvsx6jeQeynVA1MNrOe49pDCenZ3Sevbw86ErmOf6KLf5q%2FPiSz%2FQFaU%2FBD%2FRtNzw9vrFxpAm3m5TJE%2BqmjFg2J6MMmwhKApTyQjEQohgswnocZbmG3U4SlkxPn%2BPU2ipf49%2BT6wyw4ez7JuWiV4N0vpUx9igV2aETBp%2FWE6zVJ2NtGtCWvdl%2BUBLwq4L5MCsPEqkqhdatyKnWQgDjs5GmCB7hT0xQ4Jsz%2FGbwqvHl3HIia%2Bfk%2BtwcqIUGDAxPA1dsSs8XowuDp&name=iNhCIhR9P492FcactL8VyRd989N3mIUh3Ku1LZvPonSLIUnLkFvTy3f%2BD7I1UKLY0sUyX4g2jEdjat9Pz2um6T2%2BkfQD9HbLr8al3mL09NxcPMERKxnlKuhriig3M9KD"
-          ]
-        },
-        {
           "name": "维修区",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=0e5fabe1f73bf04edeb0fea461a55cc5&id=3hHuJ%2Bep8m1MzINqhlHupeLpm3cSzlnEtZM%2FhtiHYJVPUcL38UPPl5pcEJB0HFE3p4LD0Wzd%2F%2FbFwh%2FfFGl4GL8bR7Xk5ROactDtQGdOgA806JAgDq%2BZ5CFpL8foHFMcRBiM4xbRDYk8YjX2ALK7%2F92wxBW90JeuRPewZueflbaqewUFhoqOF7D9ny9UAHMi1%2FxK68CF0LYajyltRifFQWpYxznvvTVpS1VsYtE%2BO3f3ueRNgEaxFJfE0qyIJin57fZm6%2FNuMWcN%2BgOu6nyqqfaRHFLTL9qNUpTjS%2B8Lh0Fn5qez0nGnBjGoJZffxUA2&name=FExNihhGijm96wsg3f%2FK0SqjeMyoemMQmhNTZp2mRBUQYj8SNFucEP0XD5wSzKV1gcZzvzLU529h1BWycqxLdvhPOtZESw8K2fZxH%2BuZ4AFpz%2FaojDErLj4TBCKJ%2FkHT"
@@ -1112,9 +1126,9 @@
       ]
     }
   ],
-  "timestamp": "2025-12-06T03:30:22.373Z",
-  "shanghaiTime": "2025-12-06T11:30:22.373Z",
-  "count": 36,
+  "timestamp": "2025-12-06T04:00:26.992Z",
+  "shanghaiTime": "2025-12-06T12:00:26.992Z",
+  "count": 37,
   "mode": "today",
   "source": "real"
 }
