@@ -85,7 +85,7 @@
       "title": "湖人vs凯尔特人",
       "keyword": "12月06日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -123,7 +123,7 @@
       "title": "热火vs魔术",
       "keyword": "12月06日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -372,7 +372,7 @@
           ]
         },
         {
-          "name": "二��_狂言Doggy",
+          "name": "二路_狂言Doggy",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=11f6f8a86ef5701ee3d7a260cbe1c11f&id=THxr1lovIQSKCyHYijN2HFGKWKeamSxCm%2FzHWxCgk3GZM7DsDwXmJfOV%2FeLGcxZE7c6lbiNP35uKSE%2BqlLIddZN1h1Q2s0cmHbWTOrltVft8emd5KRunrQWj3NhASeDYaSgMsp%2FVOJTX%2BChaEaA1TuxZQqD95rVvMk1ZB2kF2v9zDC0exDXM3QbBwCq8J6mfM2JtGtuKjuIC%2BWsBVGtcInImOBaeYMQOuIm0O0sHRELG0LEu0VAHjqhMMJS2YGizM24XgOKoniAVYGHih6e3%2FGTcHAUd8pdNtv46O0Ua0irrxUhRnrcaFBB%2BgL4FFZGi2ggq%2FQA7TqHYvl0LQCdSJw%3D%3D&name=Mno4bYMpivQ7YlDtB0tKHJc3kglgm6Qgjl7cWKsCENvY1mVx%2FFEKFL7LZSWUCSjn1JbGEUDzqZv64ksPjSjoVByBxCjaOm6rltTFd3PVqzc%3D"
           ]
@@ -439,6 +439,32 @@
           "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=d2b6c2af3336c2d1ea02d37ccad32784&id=xmwi3Ttn3%2FsETaCiJoCAXgaY7MwNnmUbb5MtKknBh%2F4vN7xz4Yg%2BjWv2IntSU7atPOeRsGtZcX1MR8MsEQQiYdTXeBKLrHnG%2BjA5oTLEPBmBnA4JfLwX%2BuGbBMBvJVLnSRSOTxZOjRoFWSAYL5yusadjXodHnzRNYaJhN5l5ZQIHK9oaI9jBIQUDnhUNjajoyBMn5LXMMf%2F5kKaWKbma2X3WTDPX34wLQmWZFREdykudKTm00C2wANa0%2Fnc8Abmi6niyfPvXj0FUvnTQ9Wh1NoJ21YZ7IbcV1sEQpTK2USdLITPNsa1yomzF%2BKfdGTCh8Z4KYRnkuZ73RGGlfo8IfA%3D%3D&name=fp6iFD24bTfLbvbEl3LdrsS7E15ctkKKIRqzfn1eu3BM7iZf3kgzIuqMC0lr2EGxzyXauOri8CTH9f4q55kSJrIp9vAJfZTWyue%2BDo0DEhg%3D"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "a62f1c55016dfea4",
+      "title": "雪盟联赛中国站第二决赛日",
+      "keyword": "12月06日09:30",
+      "sportItemId": "",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "冰雪",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "雪盟联赛中国站第二决赛日",
+      "modifyTitle": "冰雪 雪盟联赛中国站第二决赛日",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月06日09:30"
+      },
+      "nodes": [
+        {
+          "name": "雪盟联赛中国站第二决赛日",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=b5769d1465eb5b7d4d25abec3b92e9d3&id=f0lY0lSyDz5osbdYThNZGE7g%2BB%2BbEVnMZknruA58YUVKLDquh184C8l3%2F5RTNgAvFRnwSlUoT7Y8tt0VEDK%2B51QkYBj%2FSplodhoo2pdj%2BEKV4IjJhevYD%2FLSH8bN3i59LnL64kBQ%2FiQGU59%2Bj1Trt%2FgfiWug07kNnGawTeb7%2BSpSwwnD6%2FsjWI6ptllNT0UZyXR2Y%2BoqHhOrqnQeq%2FYP6VXur8JkcZ1dUWOB3x3RJLsFIHTp51z5WSAhKoVA86UHI%2FSInFRlG3ytCEevbf5Q%2BW58kf3f32h5J26L3Ikg2aAHCwL2pVhUWsNLsPu7cgHI&name=WsGtVDpdtNlcplUAOvwLvUM0beTWmlsrR8LnFIQ3E5T4cApExEGwBaTwOg5DmUWVM5ymXfNadvzsn%2FB4WgYQNLy0PREAocH8dH4gFFoPtuE%3D"
           ]
         }
       ]
@@ -1060,9 +1086,9 @@
       ]
     }
   ],
-  "timestamp": "2025-12-05T23:30:20.286Z",
-  "shanghaiTime": "2025-12-06T07:30:20.286Z",
-  "count": 34,
+  "timestamp": "2025-12-06T00:00:22.068Z",
+  "shanghaiTime": "2025-12-06T08:00:22.068Z",
+  "count": 35,
   "mode": "today",
   "source": "real"
 }
