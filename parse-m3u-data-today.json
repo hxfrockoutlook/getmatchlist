@@ -161,7 +161,7 @@
       "title": "熊vs包装工",
       "keyword": "12月08日05:25",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -173,6 +173,12 @@
         "time": "12月08日05:25"
       },
       "nodes": [
+        {
+          "name": "傅皓南",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=adbb67aed09695b68f819024c749a79c&id=GbIozGtvYi0xVLLEiDi6w%2F%2F1YgO%2FvsVB0GxZIk7HShC7vZ4cqYaco%2BV7lTNmi0OStHBgAq%2B61%2FIdkzNMTo2tFls%2FErQdxd1x7CZuplekSL%2BalYPyEKwKZc0gFM3WE76vIg%2FUhdbcRFqz6eeaMq3hbkTK8TTQ0wOOJsBqrb3Fr3r6jPkX%2FlVPiTuM4GZxaky5n6BkMUE%2ByHo5B%2F55w6vcnOQq8neQD4YDfi6NZ%2F1X59%2BxbVpuDZcAuJKUD1YlteSyUReezpS%2BD2ReSj%2BMFu2Y6zuyN11hwwbDbXOsdC0bt%2BJpMkbMCjDXLwLr0XdwqYWV&name=%2Feg%2BO2Wwl2dT7XEjTSN7s9Z2JXF1pEGEcpIi73XWAZiOV4wmPeQf9Y5HdHgVJ%2FjY3s6qjzjzTQZ9fbo6o8covsDdcy8UghBd2krSHOZ4YF8%3D"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -187,7 +193,7 @@
       "title": "公羊vs红雀",
       "keyword": "12月08日05:25",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -698,8 +704,8 @@
       ]
     }
   ],
-  "timestamp": "2025-12-07T21:00:19.711Z",
-  "shanghaiTime": "2025-12-08T05:00:19.711Z",
+  "timestamp": "2025-12-07T21:30:18.980Z",
+  "shanghaiTime": "2025-12-08T05:30:18.980Z",
   "count": 24,
   "mode": "today",
   "source": "real"
