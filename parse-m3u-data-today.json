@@ -117,7 +117,7 @@
       "title": "老鹰vs奇才",
       "keyword": "12月07日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -373,7 +373,7 @@
       "title": "2025中国职业高尔夫球巡回赛上海公开赛决赛轮",
       "keyword": "12月07日11:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "高尔夫",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -580,6 +580,12 @@
           ]
         },
         {
+          "name": "圈速信息",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=8615f86cd1a502b28aa18d4e10808ffe&id=pNU0wZTT1K3haygJKWE4%2BCxEsGm6R8Dg3xPHigEiHlBHvErFWNPyzosrhQ7p9FGLXP2MdRWu8HAvOS17P9sGaErZ2SmKgd3SD8gLePkL0P7OI9srdOF6RE5HxXvy%2B8dxnLJWQWTXbdQ85V494e5QGc%2FHk9lokNYReqTUCe1lT%2FAxCyAQcC0gjLH9AQYGaTvIOM8P0u8vDFf%2B3xDo5N8vIdKaeZFxO7uAQN0U7cQSzN2wq2NjZUIz84dv8x14OZ4hQr%2BLjToLzyPpVFcU%2BiZAd%2B0XBR1rN7qnF3Uwaf%2Fbft9v%2Bb1nHmXdSI1eMCOwxFXd&name=OZaQmnP3UvgLOyenSqD1C0kGj2vU6pZ8VS9x23SHaOjdZqdBGPR3zRU%2BqLRFX6VeLhxTQfmH6n9SF161efehA7OPqXBn9d%2FjDwRYvH%2FmrUsfySTF%2BoyXG9SCOWoOc2SG"
+          ]
+        },
+        {
           "name": "车手位置",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=5b16036fbe254d14cc9517fdc2297e19&id=%2FnoGvTRiJ4NNRqn3zT2oLbAOT5PfKwVp3CFVK0v6f%2FIWsPedSCDl%2BUC9u2wPN%2FoviNwuMtCDW6tudFtchnYwS7gXbT2WjmjEmu%2B4nb%2FrAr32%2B2q6Eb3xn8qwmWa8lRnGHvRxDf660Qac2QCEf1ExMQ5pfx%2BFmpdRjBk7SjUNHwHNKZBg6GKtRZFg5wEWthwZylU46ZkPG98DuuJpvEiuw9cv8HS1fKhuCJ1G02TFMxiBDiMpssOug%2BX%2FPEatSKGgiwMgc1%2FyvCVokhHyW5pa7BgjQhDnzd31IfaE6j%2B666hAaqHTULguCoByCZWdwirC&name=btRifZXu%2Fn4WGD6KIn02%2Bd9Fkkh%2FsOxEZjJ%2FF4DtwUG9Wel31TfTvfDo13SmTbeJDXzuh0SrIeEGNHZj%2BJTTAJanh6tJ4G4HoBuvYmFfuVounZZxxO%2FRXrHT3yGyjjSQ"
@@ -598,37 +604,11 @@
           ]
         }
       ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "adf84713fc5b23c8",
-      "title": "F1阿布扎比大奖赛正赛",
-      "keyword": "12月07日21:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "F1阿布扎���站",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "F1阿布扎比大奖赛正赛",
-      "modifyTitle": "F1阿布扎���站 F1阿布扎比大奖赛正赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月07日21:00"
-      },
-      "nodes": [
-        {
-          "name": "圈速信息",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=8615f86cd1a502b28aa18d4e10808ffe&id=pNU0wZTT1K3haygJKWE4%2BCxEsGm6R8Dg3xPHigEiHlBHvErFWNPyzosrhQ7p9FGLXP2MdRWu8HAvOS17P9sGaErZ2SmKgd3SD8gLePkL0P7OI9srdOF6RE5HxXvy%2B8dxnLJWQWTXbdQ85V494e5QGc%2FHk9lokNYReqTUCe1lT%2FAxCyAQcC0gjLH9AQYGaTvIOM8P0u8vDFf%2B3xDo5N8vIdKaeZFxO7uAQN0U7cQSzN2wq2NjZUIz84dv8x14OZ4hQr%2BLjToLzyPpVFcU%2BiZAd%2B0XBR1rN7qnF3Uwaf%2Fbft9v%2Bb1nHmXdSI1eMCOwxFXd&name=OZaQmnP3UvgLOyenSqD1C0kGj2vU6pZ8VS9x23SHaOjdZqdBGPR3zRU%2BqLRFX6VeLhxTQfmH6n9SF161efehA7OPqXBn9d%2FjDwRYvH%2FmrUsfySTF%2BoyXG9SCOWoOc2SG"
-          ]
-        }
-      ]
     }
   ],
-  "timestamp": "2025-12-07T02:30:21.728Z",
-  "shanghaiTime": "2025-12-07T10:30:21.728Z",
-  "count": 21,
+  "timestamp": "2025-12-07T03:00:21.565Z",
+  "shanghaiTime": "2025-12-07T11:00:21.565Z",
+  "count": 20,
   "mode": "today",
   "source": "real"
 }
