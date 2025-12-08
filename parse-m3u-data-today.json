@@ -309,7 +309,7 @@
       "title": "湖人vs76人",
       "keyword": "12月08日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -396,7 +396,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=cb56befd900d6ea915aafccc8cf613a5&id=yacvlq0Mfui44%2BuNA1LgwBark2jbkUakb6vqwmHLiialqFZ0Xtbrz%2BO0GNG3aYD2uKRMfvmjSS2lZlIxRn3QjXXjfsfMmpjoGNoNwKs4LtsoY7feB1spiWVwRBlBQyOsC%2BoXS5sKV6bOxOO%2BeTlhKE15fI8OTQKVqdk7tHmvTF4VuvyFfxC%2FeCuPd7dw94vgMZVUPkN2ifks6abBgoF%2FFawjqy6vL%2FcG0RNCZ2nZ3buPJhAK1XwZ6b5Paw5qNwe8DPGqAob%2F2kQsRK5b9KjSCjWLBvmM66v6VHGGb5hUSX7leFoYpebPfnRGXaIp78Ty&name=O%2BjoZC05sPTc7iR2LIAB03lNaTacJdPeiT8cLGiiq8HyAXvFOmL8%2Fu7qHiVpzHarFua%2F2ztaTcRy%2FtS5l0a%2BkBAbo8Cg2REoVZgL%2FnFY8qk%3D"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "10561a1d4ece9fae",
+      "title": "德��人vs酋长",
+      "keyword": "12月08日09:20",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NFL常规赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "德��人vs酋长",
+      "modifyTitle": "NFL常规赛 德��人vs酋长",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月08日09:20"
+      },
+      "nodes": [
         {
           "name": "英文原音",
           "urls": [
@@ -511,17 +531,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "49d769df55e49949",
+      "pID": "8d2bf8358893f67f",
       "title": "超级组第一轮",
       "keyword": "12月08日14:00",
       "sportItemId": "1",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "2025“全兴杯”传承足球明星联��",
+      "competitionName": "2025“全兴杯”传承足球明星联赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "超级组第一轮",
-      "modifyTitle": "2025“全兴杯”传承足球明星联�� 超级组第一轮",
+      "modifyTitle": "2025“全兴杯”传承足球明星联赛 超级组第一轮",
       "presenters": "",
       "matchInfo": {
         "time": "12月08日14:00"
@@ -666,9 +686,9 @@
       ]
     }
   ],
-  "timestamp": "2025-12-08T03:00:22.939Z",
-  "shanghaiTime": "2025-12-08T11:00:22.939Z",
-  "count": 23,
+  "timestamp": "2025-12-08T03:30:23.669Z",
+  "shanghaiTime": "2025-12-08T11:30:23.669Z",
+  "count": 24,
   "mode": "today",
   "source": "real"
 }
