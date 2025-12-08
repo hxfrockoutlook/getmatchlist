@@ -251,7 +251,7 @@
       "title": "[早安Tip_Off]第47期",
       "keyword": "12月08日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -277,7 +277,7 @@
       "title": "勇士vs公牛",
       "keyword": "12月08日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -401,32 +401,6 @@
           "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=8cf53b9485127b5532b6e74f5a439c48&id=PpO0Ll3oNn5yHqalx%2FSyfK2zv2T5hfuYEaRfUxgk9Npsoa7XOGQ8RWyuTs22bY93KgMT8SN1OvD9nxklbn8nQ6I9MiXSSbo4wIWjj1pO1bFi6ZA9h59EnvjXPyeNUWZ5nBeG5ce9m3eOdPGMG4PV81nr%2By2lhjs0tNmsyOz2fJd5vDq29N0OykT08rbWX5dLbecW1thQf5WJyOwjPumhOrexJMWmFTy%2FSVnCzvwZ%2Fi6w%2FnOx1YyU9uMt77HWvga4EwLflzzsg3nCCpZXlF3L2aCwqAzE3%2FbQ%2B61TyOcMuHE%2Fo4J9iZO75to8WgWTRQQJ&name=08IrR7RjUaarhmxv2fbX2JtsRr7EufxNKiS%2FfDg8qHc%2Bu%2B7y3g9r5PopheQRV1zu4xPh%2B%2B0eZxXrGisrDrDI0Ai2H5FOofxr7Iy%2BfznKPIU%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "96bb0601bff83d37",
-      "title": "冠军组第一轮",
-      "keyword": "12月08日11:00",
-      "sportItemId": "1",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "2025“全兴杯”传承足球明星联赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "冠军组第一轮",
-      "modifyTitle": "2025“全兴杯”传承足球明星联赛 冠军组第一轮",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月08日11:00"
-      },
-      "nodes": [
-        {
-          "name": "昆明凤凰橡胶 vs 深圳传承明星",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=b1fcc1dce53c2d05fca6862a60a5f716&id=Dy5j0lI3rWgku5jnNgdB7qZbrGXgUWiK%2BhJ4Uso1UugHfkmfV%2Bqw6v2lZfcfRZpP0GMqZ%2BbP79Idp6i8q8dYYb9lpUqlYI92Z%2Bvt%2B8t%2FV%2BL2lhTAGGKubX%2BnSBKDcxuEZjKXTAOPYJ6qj35Aa0HORyjvNutXwJVEI5Vf8%2BGMdGrls9A%2F9sCijlxvWFqCZmPDIE9hA77wk20MQLXn1NynG47SE2%2B5uxbhDhGRzFOFotuGkDew6WZDq%2BWBT4GUzx6eMorpJ984g6GUlF2vVKyIchTuqBtIsyOw%2FYxqWcFJrJ33TTwjwp%2BsXqU1xnxoPgIA&name=OyXPNypgspXMWEvjbTtjoky43O5JaWGSl%2BmTrK6s6lC6N58FKI1qG3t0kRyOtVCA2xPA8Y3qgVt%2FdwTyYqyvfTPyJUe3NWPVGdQUXmxgZDFNyfLG5G2ShwVpfOMTgiOkxv8G0F7i0jfslx2yFmiDTr%2ByYTrPmSjBwIICICLWzKa3U5vzOgis2P0Ycbq5N3Sy"
           ]
         }
       ]
@@ -666,9 +640,9 @@
       ]
     }
   ],
-  "timestamp": "2025-12-07T23:30:21.369Z",
-  "shanghaiTime": "2025-12-08T07:30:21.369Z",
-  "count": 23,
+  "timestamp": "2025-12-08T00:00:24.207Z",
+  "shanghaiTime": "2025-12-08T08:00:24.207Z",
+  "count": 22,
   "mode": "today",
   "source": "real"
 }
