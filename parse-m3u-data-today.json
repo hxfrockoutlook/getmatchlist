@@ -287,6 +287,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "cdbef2f71bbc41a9",
+      "title": "超级组第二轮",
+      "keyword": "12月09日14:00",
+      "sportItemId": "1",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "2025“全兴杯”传承足球明星联赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "超级组第二轮",
+      "modifyTitle": "2025“全兴杯”传承足球明星联赛 超级组第二轮",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月09日14:00"
+      },
+      "nodes": [
+        {
+          "name": "四川全兴 vs 北京老男孩",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=0d7b45edf8c84d6bb719bd0da56c0d4e&id=89Iqd%2Fo5ZwBjsw0MzOYqn0rZUhyb4p%2FlvjTQaJ0ZrY%2F5uAGyJooYfQRZVsbyeKBZMpK16RAGjRi5BNcj%2F8xvF5FSfQAFr3PWs%2B3P2M%2BHs6et0oslvYtXFg33h%2F9CBJIUVQLww2J1KvhWdGbuH%2FNJfbLRVAOq1YBVTol%2FeUjeNFTDSgQstV7JgcJDe35jtLBmacUw3%2FvPe%2FWJJ2EIkqHrhZnWLkCq6HOpPRkpqarcncZYEDO%2BtRWW7fjkqOkt%2FVkOpN%2BjMHspAeSq5%2BcABdEDCsHgsLtPvpsWCaBNHJXRs%2BDIkhmAYWG2e2ewW%2BE%2FoW5h&name=Ci1A0CqNkCXZoeaKtEANwAUkRO0R3Qgstb5gJwPLuS%2FJ%2FoGMkXwneuz2y%2Fa5PVFYBaLEDCtUpqOSrRevJ9Jw4D1XswfB0PWuEtCW5%2BSy593GYrl4e%2BpagwhuUp9UrIhyG%2BMgpC2cFKJERYAVkyTHSvstlI0x%2Fza7SYnNF5A1%2FIA%3D"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "abe4b5840cfc6b46",
       "title": "NBA常规赛精彩回顾：太阳vs森林狼",
       "keyword": "12月09日16:00",
@@ -391,8 +417,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "88713a674e6e6dbb",
-      "title": "NBA常规赛精��回顾：勇士vs公牛",
+      "pID": "2ceed0aac53fbafd",
+      "title": "NBA常规赛精彩回顾：勇士vs公牛",
       "keyword": "12月09日18:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -400,15 +426,15 @@
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精��回顾：勇士vs公牛",
-      "modifyTitle": "NBA经典赛 NBA常规赛精��回顾：勇士vs公牛",
+      "pkInfoTitle": "NBA常规赛精彩回顾：勇士vs公牛",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：勇士vs公牛",
       "presenters": "",
       "matchInfo": {
         "time": "12月09日18:00"
       },
       "nodes": [
         {
-          "name": "NBA常规赛精��回顾：勇士vs公牛",
+          "name": "NBA常规赛精彩回顾：勇士vs公牛",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=ffd7ef428d051e04a7d24240ed289b86&id=kbqkSvoe3IZCvJZ8MjVUoB0JzNPaCoyIz8oEdrFNn9LnJtawd8aJzsFcnHhVXorIks1vVkpr2jUMqgS1yM3iSR8ozYzrXLFF0Zj0xD4hQulNKMw9FNz6mg8Cmx9XuSqW7wtOHoVo7%2BtMHLFmHNpBiIj1ar96vYwSzOUb2XEWdZ5SfJy1tr69DDXADVbVcOjQNBxH8hTp1gxwZCnbfqnojsqWDW4Ffia0wbovSIBpnqAhzR8kH9CmOgxbJCZhn4lZVJe3yn%2Brxs7V7GMNoPoNCOTLOOlJA5kqBdWUCpgWZ3eta6eoXkrYc5p5pR8%2F88n5&name=dTNXUSwhbFeXxl4r6HP%2FbmF0tbk1a2FOhLFa9iSOljGP%2FASuxw7bJXo0J5otqQUapv%2Bz0gCVkKhVFEiHBVvNhNJ9mjy5bdD81DNaRzijLcwJU8H5Yt3wP1k4Bv9Cpjx0"
           ]
@@ -442,9 +468,9 @@
       ]
     }
   ],
-  "timestamp": "2025-12-09T01:30:20.781Z",
-  "shanghaiTime": "2025-12-09T09:30:20.781Z",
-  "count": 16,
+  "timestamp": "2025-12-09T02:00:25.206Z",
+  "shanghaiTime": "2025-12-09T10:00:25.206Z",
+  "count": 17,
   "mode": "today",
   "source": "real"
 }
