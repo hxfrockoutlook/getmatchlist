@@ -1,0 +1,26 @@
+name: 获取CBA回放数据
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  fetch-cba-replay:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v3
+      
+    - name: 设置Node.js环境
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        
+    - name: 运行CBA回放提取脚本
+      run: node cba-replay-extractor.js
+      
+    - name: 保存结果
+      run: |
+        node cba-replay-extractor.js > cba-replay-data.json
+        echo "数据已保存到 cba-replay-data.json"
