@@ -119,17 +119,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "a29f416b7895da24",
+      "pID": "871beeeef155b746",
       "title": "有球必应",
       "keyword": "12月18日12:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "篮球直播节目",
+      "competitionName": "篮球���播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "有球必应",
-      "modifyTitle": "篮球直播节目 有球必应",
+      "modifyTitle": "篮球���播节目 有球必应",
       "presenters": "",
       "matchInfo": {
         "time": "12月18日12:00"
@@ -320,14 +320,14 @@
         {
           "name": "抖音CBA直播[非直播时间为CCTV13直播频道]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766604622&major_anchor_level=common&sign=28116ff031131afc9f9f7f58378f5220&t_id=037-20251218033022B4AC75E209AEFEEDCEDC-OHmlkM&unique_id=stream-694966477732184748_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766606425&major_anchor_level=common&sign=4ba936dc6ecbf4bf7c398672152b3e30&t_id=037-202512180400255DC08A54249A5269B8F9-fKIzaH&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-17T19:30:22.605Z",
-  "shanghaiTime": "2025-12-18T03:30:22.605Z",
+  "timestamp": "2025-12-17T20:00:25.806Z",
+  "shanghaiTime": "2025-12-18T04:00:25.806Z",
   "count": 12,
   "mode": "today",
   "source": "real + cba_live"
