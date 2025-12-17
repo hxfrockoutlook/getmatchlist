@@ -559,6 +559,142 @@ function getSportItemId(competitionName) {
 
 }
 
+// 获取CBA回放数据
+async function fetchCBAReplyData() {
+  try {
+    console.log('尝试获取CBA回放数据...');
+    const url = 'http://nas.168957.xyz/cbareplay.php';
+    
+    const data = await new Promise((resolve, reject) => {
+      const client = url.startsWith('https') ? https : http;
+      const parsedUrl = new URL(url);
+      
+      const options = {
+        hostname: parsedUrl.hostname,
+        port: parsedUrl.port,
+        path: parsedUrl.pathname + parsedUrl.search,
+        method: 'GET',
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+          'Accept': 'application/json',
+          'Connection': 'keep-alive'
+        },
+        timeout: 30000
+      };
+      
+      const req = client.request(options, (res) => {
+        console.log(`CBA回放数据 HTTP 状态码: ${res.statusCode}`);
+        
+        if (res.statusCode !== 200) {
+          reject(new Error(`HTTP ${res.statusCode}`));
+          return;
+        }
+
+        let data = '';
+        res.on('data', (chunk) => data += chunk);
+        res.on('end', () => {
+          console.log(`CBA回放数据获取成功，数据长度: ${data.length} 字符`);
+          resolve(data);
+        });
+      });
+      
+      req.on('error', (error) => {
+        reject(new Error(`CBA回放请求错误: ${error.message}`));
+      });
+      
+      req.on('timeout', () => {
+        req.destroy();
+        reject(new Error('CBA回放请求超时'));
+      });
+      
+      req.end();
+    });
+    
+    const jsonData = JSON.parse(data);
+    console.log(`CBA回放数据解析成功，共 ${jsonData.total_matches || 0} 场比赛`);
+    return jsonData;
+  } catch (error) {
+    console.error(`获取CBA回放数据失败，跳过: ${error.message}`);
+    return null;
+  }
+}
+
+// 将标准日期时间字符串转换为MM月DD日HH:MM格式
+function formatStandardDateTime(dateTimeStr) {
+  try {
+    // 解析标准格式：2025-12-16 19:35:00
+    const match = dateTimeStr.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
+    if (!match) return dateTimeStr;
+    
+    const year = match[1];
+    const month = match[2];
+    const day = match[3];
+    const hour = match[4];
+    const minute = match[5];
+    
+    // 去掉前导0
+    const monthNum = parseInt(month, 10);
+    const dayNum = parseInt(day, 10);
+    const hourNum = parseInt(hour, 10);
+    
+    return `${monthNum}月${dayNum}日${hourNum}:${minute}`;
+  } catch (error) {
+    console.error(`格式化日期时间错误: ${dateTimeStr}`, error);
+    return dateTimeStr;
+  }
+}
+
+// 转换CBA回放数据格式
+function convertCBAReplyData(cbaData) {
+  if (!cbaData || !cbaData.matches || !Array.isArray(cbaData.matches)) {
+    return [];
+  }
+  
+  console.log(`开始转换CBA回放数据，共 ${cbaData.matches.length} 场比赛`);
+  
+  const convertedMatches = [];
+  
+  cbaData.matches.forEach((match, index) => {
+    try {
+      // 格式化日期时间
+      const formattedDateTime = formatStandardDateTime(match.match_time);
+      
+      // 构建节点
+      const nodes = [{
+        name: match.title || 'CBA回放',
+        urls: [match.play_url]
+      }];
+      
+      // 构建比赛条目
+      const convertedMatch = {
+        mgdbId: "",
+        pID: match.episode_id ? match.episode_id.toString() : `cba_reply_${index}`,
+        title: `${match.title || ''} ${match.score || ''}`.trim(),
+        keyword: formattedDateTime,
+        sportItemId: "2", // CBA是篮球
+        matchStatus: "2", // 回放都是已结束
+        matchField: "",
+        competitionName: "抖音CBA联赛",
+        padImg: match.cover_url || "",
+        competitionLogo: "",
+        pkInfoTitle: match.teams || "",
+        modifyTitle: "",
+        presenters: "",
+        matchInfo: { time: formattedDateTime },
+        nodes: nodes
+      };
+      
+      convertedMatches.push(convertedMatch);
+      console.log(`转换CBA回放比赛: ${convertedMatch.title}, ID: ${convertedMatch.pID}`);
+    } catch (error) {
+      console.error(`转换CBA回放数据出错 (索引 ${index}):`, error);
+    }
+  });
+  
+  console.log(`CBA回放数据转换完成，共 ${convertedMatches.length} 场比赛`);
+  return convertedMatches;
+}
+
 // 主函数
 async function main() {
   try {
@@ -596,6 +732,24 @@ async function main() {
       throw apiError; // 直接抛出错误，不使用模拟数据
     }
     
+    // 如果是all模式，尝试获取并添加CBA回放数据
+    if (mode === 'all') {
+      try {
+        const cbaReplyData = await fetchCBAReplyData();
+        if (cbaReplyData && cbaReplyData.matches && cbaReplyData.matches.length > 0) {
+          const convertedCBAMatches = convertCBAReplyData(cbaReplyData);
+          if (convertedCBAMatches.length > 0) {
+            console.log(`添加 ${convertedCBAMatches.length} 场CBA回放比赛到结果中`);
+            mergedMatches = mergedMatches.concat(convertedCBAMatches);
+          }
+        } else {
+          console.log('CBA回放数据为空或获取失败，跳过');
+        }
+      } catch (cbaError) {
+        console.error('处理CBA回放数据时出错，跳过:', cbaError.message);
+      }
+    }
+    
     // 根据模式生成不同的文件名
     const outputFileName = `parse-m3u-data-${mode}.json`;
     const outputPath = path.join(__dirname, outputFileName);
@@ -606,7 +760,7 @@ async function main() {
       shanghaiTime: getShanghaiTime().toISOString(),
       count: mergedMatches.length,
       mode: mode,
-      source: 'real'
+      source: mode === 'all' ? 'real + cba_reply' : 'real'
     };
     
     fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2));
