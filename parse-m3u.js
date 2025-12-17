@@ -564,7 +564,7 @@ async function fetchCBAReplyData(retries = 3, delay = 2000) {
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
       console.log(`尝试获取CBA回放数据 (第 ${attempt} 次)...`);
-      const url = 'http://nas.168957.xyz/cbareplay.php';
+      const url = 'http://ikuai.168957.xyz:9080/cbareplay.php';
       
       const data = await new Promise((resolve, reject) => {
         const parsedUrl = new URL(url);
