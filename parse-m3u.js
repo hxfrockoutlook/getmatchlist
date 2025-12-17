@@ -773,7 +773,6 @@ async function getDouyinLiveUrl() {
 }
 
 // 主函数
-// 主函数
 async function main() {
   try {
     // 获取命令行参数
