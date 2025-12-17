@@ -671,7 +671,7 @@ function convertCBAReplyData(cbaData) {
       
       // 构建节点
       const nodes = [{
-        name: match.title || 'CBA回放',
+        name: `${match.title || ''} ${match.score || ''}`.trim() || 'CBA回放',
         urls: [match.play_url]
       }];
       
