@@ -629,6 +629,89 @@ async function fetchCBAReplyData(retries = 3, delay = 2000) {
   }
 }
 
+// 获取CBA直播数据
+async function fetchCBALiveData(retries = 3, delay = 2000) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      console.log(`尝试获取CBA直播数据 (第 ${attempt} 次)...`);
+      const url = 'http://ikuai.168957.xyz:9080/cbalive.php';
+      
+      const data = await new Promise((resolve, reject) => {
+        const parsedUrl = new URL(url);
+        
+        const options = {
+          hostname: parsedUrl.hostname,
+          port: parsedUrl.port || 80,
+          path: parsedUrl.pathname + parsedUrl.search,
+          method: 'GET',
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Accept': 'application/json',
+            'Connection': 'keep-alive'
+          },
+          timeout: 15000
+        };
+        
+        const req = http.request(options, (res) => {
+          console.log(`CBA直播数据 HTTP 状态码: ${res.statusCode}`);
+          
+          if (res.statusCode !== 200) {
+            reject(new Error(`HTTP ${res.statusCode}`));
+            return;
+          }
+
+          let data = '';
+          res.on('data', (chunk) => data += chunk);
+          res.on('end', () => {
+            console.log(`CBA直播数据获取成功，数据长度: ${data.length} 字符`);
+            resolve(data);
+          });
+        });
+        
+        req.on('error', (error) => {
+          reject(new Error(`CBA直播请求错误: ${error.message}`));
+        });
+        
+        req.on('timeout', () => {
+          req.destroy();
+          reject(new Error('CBA直播请求超时'));
+        });
+        
+        req.end();
+      });
+      
+      // 检查是否为错误响应
+      if (data.trim().startsWith('{"error":')) {
+        console.log('CBA直播数据返回错误，跳过:', data.substring(0, 100));
+        return null;
+      }
+      
+      const jsonData = JSON.parse(data);
+      
+      // 检查状态是否为success且有matches数据
+      if (jsonData.status === 'success' && jsonData.matches && jsonData.matches.length > 0) {
+        console.log(`CBA直播数据解析成功，共 ${jsonData.matches.length} 场比赛`);
+        return jsonData;
+      } else {
+        console.log('CBA直播数据为空或状态非success，跳过');
+        return null;
+      }
+      
+    } catch (error) {
+      console.error(`第 ${attempt} 次尝试获取CBA直播数据失败: ${error.message}`);
+      
+      if (attempt < retries) {
+        console.log(`等待 ${delay}ms 后重试...`);
+        await new Promise(resolve => setTimeout(resolve, delay));
+        delay *= 1.5;
+      } else {
+        console.error(`所有 ${retries} 次尝试都失败了: ${error.message}`);
+        return null;
+      }
+    }
+  }
+}
+
 // 将标准日期时间字符串转换为MM月DD日HH:MM格式
 function formatStandardDateTime(dateTimeStr) {
   try {
@@ -705,6 +788,57 @@ function convertCBAReplyData(cbaData) {
   return convertedMatches;
 }
 
+// 转换CBA直播数据格式
+function convertCBALiveData(cbaLiveData) {
+  if (!cbaLiveData || !cbaLiveData.matches || !Array.isArray(cbaLiveData.matches)) {
+    return [];
+  }
+  
+  console.log(`开始转换CBA直播数据，共 ${cbaLiveData.matches.length} 场比赛`);
+  
+  const convertedMatches = [];
+  
+  cbaLiveData.matches.forEach((match, index) => {
+    try {
+      // 格式化日期时间
+      const formattedDateTime = formatStandardDateTime(match.startTime);
+      
+      // 构建节点
+      const nodes = [{
+        name: match.title || 'CBA直播',
+        urls: [match.originFlvUrl]
+      }];
+      
+      // 构建比赛条目 - 按照你提供的格式
+      const convertedMatch = {
+        mgdbId: "",
+        pID: match.streamId || `cba_live_${index}`,
+        title: match.title || '',
+        keyword: formattedDateTime, // 使用格式化后的日期时间
+        sportItemId: "2", // CBA是篮球
+        matchStatus: "1", // 直播状态为进行中
+        matchField: "",
+        competitionName: "抖音CBA联赛",
+        padImg: match.cover || "",
+        competitionLogo: "",
+        pkInfoTitle: match.title || "", // pkInfoTitle 应该是比赛标题
+        modifyTitle: "",
+        presenters: "",
+        matchInfo: { time: formattedDateTime }, // 使用格式化后的日期时间
+        nodes: nodes
+      };
+      
+      convertedMatches.push(convertedMatch);
+      console.log(`转换CBA直播比赛: ${convertedMatch.title}, ID: ${convertedMatch.pID}`);
+    } catch (error) {
+      console.error(`转换CBA直播数据出错 (索引 ${index}):`, error);
+    }
+  });
+  
+  console.log(`CBA直播数据转换完成，共 ${convertedMatches.length} 场比赛`);
+  return convertedMatches;
+}
+
 // 主函数
 async function main() {
   try {
@@ -742,7 +876,10 @@ async function main() {
       throw apiError; // 直接抛出错误，不使用模拟数据
     }
     
-    // 如果是all模式，尝试获取并添加CBA回放数据
+    // ============ 根据模式处理CBA数据 ============
+    console.log(`开始获取CBA数据 (模式: ${mode})...`);
+    
+    // 1. all模式：获取CBA回放数据
     if (mode === 'all') {
       try {
         const cbaReplyData = await fetchCBAReplyData();
@@ -760,9 +897,38 @@ async function main() {
       }
     }
     
+    // 2. all和today模式：都获取CBA直播数据
+    try {
+      const cbaLiveData = await fetchCBALiveData();
+      if (cbaLiveData && cbaLiveData.matches && cbaLiveData.matches.length > 0) {
+        const convertedCBALiveMatches = convertCBALiveData(cbaLiveData);
+        if (convertedCBALiveMatches.length > 0) {
+          console.log(`添加 ${convertedCBALiveMatches.length} 场CBA直播比赛到结果中`);
+          mergedMatches = mergedMatches.concat(convertedCBALiveMatches);
+        }
+      } else {
+        console.log('CBA直播数据为空或获取失败，跳过');
+      }
+    } catch (cbaLiveError) {
+      console.error('处理CBA直播数据时出错，跳过:', cbaLiveError.message);
+    }
+    // ============ CBA数据处理结束 ============
+    
     // 根据模式生成不同的文件名
     const outputFileName = `parse-m3u-data-${mode}.json`;
     const outputPath = path.join(__dirname, outputFileName);
+    
+    // 动态构建source字段
+    const sourceTypes = ['real'];
+    
+    // 根据实际获取的数据类型添加source
+    if (mode === 'all' && mergedMatches.some(match => match.pID && match.pID.includes('cba_reply'))) {
+      sourceTypes.push('cba_reply');
+    }
+    if (mergedMatches.some(match => match.pID && (match.pID.includes('cba_live') || match.pID.includes('69496')))) {
+      sourceTypes.push('cba_live');
+    }
+    
     const outputData = {
       success: true,
       data: mergedMatches,
@@ -770,7 +936,7 @@ async function main() {
       shanghaiTime: getShanghaiTime().toISOString(),
       count: mergedMatches.length,
       mode: mode,
-      source: mode === 'all' ? 'real + cba_reply' : 'real'
+      source: sourceTypes.join(' + ')
     };
     
     fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2));
@@ -778,6 +944,7 @@ async function main() {
     console.log(`数据处理完成！共生成 ${mergedMatches.length} 个比赛条目`);
     console.log(`数据已保存到: ${outputPath}`);
     console.log(`运行模式: ${mode}`);
+    console.log(`数据来源: ${outputData.source}`);
     
   } catch (error) {
     console.error('处理过程中发生错误:', error);
