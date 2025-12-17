@@ -18,45 +18,22 @@ class DouyinCbaReplayExtractor {
     /**
      * 初始化基础信息
      */
-    async initBasicInfo() {
-        const replayListUrl = "https://www.douyin.com/aweme/v1/web/show/episode/replay_list/?device_platform=webapp&aid=6383&channel=&episode_id=7584406015685301302&room_id=7584078467029846836&update_version_code=170400&pc_client_type=1&pc_libra_divert=Windows&support_h265=0&support_dash=0&cpu_core_num=4&version_code=170400&version_name=17.4.0&cookie_enabled=true&screen_width=1536&screen_height=864&browser_language=zh-CN&browser_platform=Win32&browser_name=Edge&browser_version=143.0.0.0&browser_online=true&engine_name=Blink&engine_version=143.0.0.0&os_name=Windows&os_version=10&device_memory=8&platform=PC&downlink=10&effective_type=4g&round_trip_time=100&webid=7584425816164664842&uifid=29a1f63ec682dc0a0df227dd163e2b46e3a6390e403335fa4c2c6d1dc0ec5ffa7175313ce54eb1d59eb74b8f5d1cc0208219e6d1dbcb6f064d7942c5a1d2c8ae10d4379cc2d3c8d6c1bdc03aa89e46d8b6daedbb1e2edd22e03926e129f5e60884137684df3b9f819c1ba4fc792685aa7bfc4eef592c57a6a1933e724205d9318530ea8edaf72258df2546ec0cba3f0e6df9339bba6fdec81831091b9abe6975a0b4cf3cca19747df5f7824f402321fef19e0e0e36f3db38efa1c3919afab1e1&msToken=hUrglmPa_DEGHzA76Q0cbdJqijeckdRMtnIh8tqhNkmRnQIwf9XyH4BnhtN77Pvyx1nv43gP6cLa-Cmme8Ciqb-QjMVcEoJF9as0A3BNzCn_flCvxYZh_10ZsMMnffPQH5ChY5QLHJG4y5aZ4m-c1R7jXvjWlYs_0d7G_Q-PsSJu&a_bogus=OfUVkwSEYpAbFdKGYKn%2F7RZUsgylNsuyGeT%2FS7PTSPT6cH0az8PmOPtQbozNkn52jRpwwHV7Ndt%2FYExc0TUzZKHkomkvSsJfV4dnI8sL81HmbBJZn3gZebbxFi-bWCTPQAIGEni1l0lyZgOfpNczloFySAeiBKY8THrypNWlyxg5gaJYIo%2Fye-hn&verifyFp=verify_mj8je4vk_5XnquBCB_eXXu_4jsf_BCVZ_tJLg0UsK6EqS&fp=verify_mj8je4vk_5XnquBCB_eXXu_4jsf_BCVZ_tJLg0UsK6EqS";
-        
+ // 然后在 initBasicInfo 方法中，调用后也添加日志
+async initBasicInfo() {
+    const replayListUrl = "https://www.douyin.com/..."; // 你的长URL
+    console.log('[DEBUG] 初始化基础信息，开始获取数据...');
+    try {
         const replayData = await this.fetchData(replayListUrl);
-        
-        if (replayData && replayData.data && replayData.data.all_replay && 
-            replayData.data.all_replay[0] && replayData.data.all_replay[0].info_list && 
-            replayData.data.all_replay[0].info_list[0]) {
-            
-            const firstReplay = replayData.data.all_replay[0].info_list[0];
-            
-            this.current_episode_id = firstReplay.episode_id || '';
-            this.current_room_id = firstReplay.room_id || '';
-            this.owner_user_id = firstReplay.owner_user_id || '';
-            this.season_id = firstReplay.season_id || '';
-            
-            // 获取比赛时间并计算日期
-            if (firstReplay.episode_basic_info && firstReplay.episode_basic_info.match_data && 
-                firstReplay.episode_basic_info.match_data.started_time_unix) {
-                
-                const currentTimestamp = firstReplay.episode_basic_info.match_data.started_time_unix * 1000;
-                const currentDate = new Date(currentTimestamp);
-                this.current_date = this.formatDate(currentDate);
-                
-                // 计算前一天
-                const yesterdayDate = new Date(currentDate);
-                yesterdayDate.setDate(yesterdayDate.getDate() - 1);
-                this.yesterday_date = this.formatDate(yesterdayDate);
-            } else {
-                // 如果无法获取比赛时间，使用当前日期
-                const now = new Date();
-                this.current_date = this.formatDate(now);
-                
-                const yesterday = new Date(now);
-                yesterday.setDate(yesterday.getDate() - 1);
-                this.yesterday_date = this.formatDate(yesterday);
-            }
-        }
+        console.log('[DEBUG] 获取数据成功，数据结构:', replayData ? Object.keys(replayData) : '空');
+        // ... 其余解析代码 ...
+    } catch (error) {
+        // 6. 捕获并打印整个初始化过程的错误
+        console.error('[DEBUG] initBasicInfo 过程失败:', error.message);
+        // 确保有合理的默认值，避免程序中断
+        this.current_date = '';
+        this.yesterday_date = '';
     }
+}
 
     /**
      * 获取所有比赛信息
@@ -293,60 +270,69 @@ class DouyinCbaReplayExtractor {
     /**
      * 获取数据
      */
-    async fetchData(url) {
-        return new Promise((resolve, reject) => {
-            const parsedUrl = new URL(url);
-            const client = parsedUrl.protocol === 'https:' ? https : http;
+ // 修改 fetchData 方法，增加详细的日志
+async fetchData(url) {
+    console.log(`[DEBUG] 开始请求: ${url.substring(0, 100)}...`); // 打印短URL避免刷屏
+    return new Promise((resolve, reject) => {
+        const parsedUrl = new URL(url);
+        const client = parsedUrl.protocol === 'https:' ? https : http;
+        
+        const options = {
+            hostname: parsedUrl.hostname,
+            port: parsedUrl.port || (parsedUrl.protocol === 'https:' ? 443 : 80),
+            path: parsedUrl.pathname + parsedUrl.search,
+            method: 'GET',
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'Accept': 'application/json',
+                'Referer': 'https://www.douyin.com/'
+            },
+            timeout: 10000,
+            family: 4
+        };
+        // 1. 打印请求配置，确认family:4生效
+        console.log('[DEBUG] 请求配置:', { hostname: options.hostname, family: options.family });
+
+        const req = client.request(options, (res) => {
+            let data = '';
+            // 2. 立即打印HTTP状态码，这是关键！
+            console.log(`[DEBUG] 收到响应，状态码: ${res.statusCode}`);
             
-            const options = {
-                hostname: parsedUrl.hostname,
-                port: parsedUrl.port || (parsedUrl.protocol === 'https:' ? 443 : 80),
-                path: parsedUrl.pathname + parsedUrl.search,
-                method: 'GET',
-                headers: {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                    'Accept': 'application/json, text/plain, */*',
-                    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-                    'Referer': 'https://www.douyin.com/',
-                    'Origin': 'https://www.douyin.com'
-                },
-                timeout: 30000,
-                family: 4 // 强制使用IPv4，避免IPv6连接问题
-            };
-            
-            const req = client.request(options, (res) => {
-                let data = '';
-                
-                res.on('data', (chunk) => {
-                    data += chunk;
-                });
-                
-                res.on('end', () => {
-                    if (res.statusCode === 200) {
-                        try {
-                            const jsonData = JSON.parse(data);
-                            resolve(jsonData);
-                        } catch (error) {
-                            reject(new Error(`JSON解析失败: ${error.message}`));
-                        }
-                    } else {
-                        reject(new Error(`HTTP ${res.statusCode}`));
+            res.on('data', (chunk) => { data += chunk; });
+            res.on('end', () => {
+                // 3. 打印原始响应数据的前500个字符
+                console.log(`[DEBUG] 响应原始数据: ${data.substring(0, 500)}`);
+                if (res.statusCode === 200) {
+                    try {
+                        const jsonData = JSON.parse(data);
+                        resolve(jsonData);
+                    } catch (error) {
+                        console.error('[DEBUG] JSON解析失败:', error.message);
+                        reject(new Error(`JSON解析失败: ${error.message}`));
                     }
-                });
+                } else {
+                    // 4. 非200状态码时，也打印响应体（可能包含错误信息）
+                    console.error(`[DEBUG] HTTP错误，响应体: ${data}`);
+                    reject(new Error(`HTTP ${res.statusCode}`));
+                }
             });
-            
-            req.on('error', (error) => {
-                reject(new Error(`请求错误: ${error.message}`));
-            });
-            
-            req.on('timeout', () => {
-                req.destroy();
-                reject(new Error('请求超时'));
-            });
-            
-            req.end();
         });
-    }
+        
+        req.on('error', (error) => {
+            // 5. 网络层错误（如连接失败、超时）
+            console.error('[DEBUG] 请求发生网络错误:', error.message);
+            reject(new Error(`请求错误: ${error.message}`));
+        });
+        
+        req.on('timeout', () => {
+            console.error('[DEBUG] 请求超时');
+            req.destroy();
+            reject(new Error('请求超时'));
+        });
+        
+        req.end();
+    });
+}
 
     /**
      * 格式化日期为 YYYY-MM-DD
