@@ -861,7 +861,7 @@ async function main() {
           presenters: "",
           matchInfo: { time: formattedDateTime },
           nodes: [{
-            name: "抖音CBA直播间",
+            name: "抖音CBA直播[非直播时间为CCTV13直播频道]",
             urls: [liveUrl] // 动态获取的重定向地址
           }]
         };
