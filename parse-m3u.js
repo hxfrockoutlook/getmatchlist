@@ -560,62 +560,72 @@ function getSportItemId(competitionName) {
 }
 
 // 获取CBA回放数据
-async function fetchCBAReplyData() {
-  try {
-    console.log('尝试获取CBA回放数据...');
-    const url = 'http://nas.168957.xyz/cbareplay.php';
-    
-    const data = await new Promise((resolve, reject) => {
-      const client = url.startsWith('https') ? https : http;
-      const parsedUrl = new URL(url);
+async function fetchCBAReplyData(retries = 3, delay = 2000) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      console.log(`尝试获取CBA回放数据 (第 ${attempt} 次)...`);
+      const url = 'http://nas.168957.xyz/cbareplay.php';
       
-      const options = {
-        hostname: parsedUrl.hostname,
-        port: parsedUrl.port,
-        path: parsedUrl.pathname + parsedUrl.search,
-        method: 'GET',
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-          'Accept': 'application/json',
-          'Connection': 'keep-alive'
-        },
-        timeout: 30000
-      };
-      
-      const req = client.request(options, (res) => {
-        console.log(`CBA回放数据 HTTP 状态码: ${res.statusCode}`);
+      const data = await new Promise((resolve, reject) => {
+        const parsedUrl = new URL(url);
         
-        if (res.statusCode !== 200) {
-          reject(new Error(`HTTP ${res.statusCode}`));
-          return;
-        }
+        const options = {
+          hostname: parsedUrl.hostname,
+          port: parsedUrl.port || 80, // 明确指定端口
+          path: parsedUrl.pathname + parsedUrl.search,
+          method: 'GET',
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Accept': 'application/json',
+            'Connection': 'keep-alive'
+          },
+          timeout: 15000 // 15秒超时
+        };
+        
+        const req = http.request(options, (res) => {
+          console.log(`CBA回放数据 HTTP 状态码: ${res.statusCode}`);
+          
+          if (res.statusCode !== 200) {
+            reject(new Error(`HTTP ${res.statusCode}`));
+            return;
+          }
 
-        let data = '';
-        res.on('data', (chunk) => data += chunk);
-        res.on('end', () => {
-          console.log(`CBA回放数据获取成功，数据长度: ${data.length} 字符`);
-          resolve(data);
+          let data = '';
+          res.on('data', (chunk) => data += chunk);
+          res.on('end', () => {
+            console.log(`CBA回放数据获取成功，数据长度: ${data.length} 字符`);
+            resolve(data);
+          });
         });
+        
+        req.on('error', (error) => {
+          reject(new Error(`CBA回放请求错误: ${error.message}`));
+        });
+        
+        req.on('timeout', () => {
+          req.destroy();
+          reject(new Error('CBA回放请求超时'));
+        });
+        
+        req.end();
       });
       
-      req.on('error', (error) => {
-        reject(new Error(`CBA回放请求错误: ${error.message}`));
-      });
+      const jsonData = JSON.parse(data);
+      console.log(`CBA回放数据解析成功，共 ${jsonData.total_matches || 0} 场比赛`);
+      return jsonData;
       
-      req.on('timeout', () => {
-        req.destroy();
-        reject(new Error('CBA回放请求超时'));
-      });
+    } catch (error) {
+      console.error(`第 ${attempt} 次尝试获取CBA回放数据失败: ${error.message}`);
       
-      req.end();
-    });
-    
-    const jsonData = JSON.parse(data);
-    console.log(`CBA回放数据解析成功，共 ${jsonData.total_matches || 0} 场比赛`);
-    return jsonData;
-  } catch (error) {
-    console.error(`获取CBA回放数据失败，跳过: ${error.message}`);
-    return null;
+      if (attempt < retries) {
+        console.log(`等待 ${delay}ms 后重试...`);
+        await new Promise(resolve => setTimeout(resolve, delay));
+        delay *= 1.5; // 每次重试延迟增加1.5倍
+      } else {
+        console.error(`所有 ${retries} 次尝试都失败了: ${error.message}`);
+        return null;
+      }
+    }
   }
 }
 
