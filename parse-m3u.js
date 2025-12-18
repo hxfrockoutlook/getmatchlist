@@ -842,6 +842,8 @@ try {
   
   // 先尝试从cbalive.php获取nodes数据
   let nodes = [];
+  let useFallback = false;
+  
   try {
     console.log('尝试从http://ikuai.168957.xyz:9080/cbalive.php获取nodes数据...');
     const cbaLiveUrl = 'http://ikuai.168957.xyz:9080/cbalive.php';
@@ -900,31 +902,46 @@ try {
       console.log(`成功获取到 ${cbaLiveData.matches.length} 个CBA直播节点`);
       
       // 处理每个直播比赛作为节点
+      let validNodeCount = 0;
       cbaLiveData.matches.forEach((match, index) => {
         try {
-          // 确保有title和originFlvUrl字段
-          if (match.title && match.originFlvUrl) {
+          // 确保有title和originFlvUrl字段，并且originFlvUrl不为空
+          if (match.title && match.originFlvUrl && match.originFlvUrl.trim() !== '') {
             nodes.push({
               name: match.title,
               urls: [match.originFlvUrl]
             });
+            validNodeCount++;
             console.log(`添加CBA直播节点: ${match.title}`);
           } else {
-            console.log(`CBA直播数据第${index + 1}项缺少必要字段`);
+            console.log(`CBA直播数据第${index + 1}项缺少必要字段或originFlvUrl为空`);
           }
         } catch (matchError) {
           console.error(`处理CBA直播数据第${index + 1}项时出错:`, matchError.message);
         }
       });
       
+      console.log(`有效CBA直播节点数量: ${validNodeCount}`);
+      
+      // 如果没有有效的节点，设置标记使用备选方法
+      if (validNodeCount === 0) {
+        console.log('没有有效的CBA直播节点，将使用备选方法');
+        useFallback = true;
+      }
+      
     } else {
       console.log('CBA直播数据为空或获取失败，将使用备选方法获取节点');
-      throw new Error('CBA直播数据无效');
+      useFallback = true;
     }
     
   } catch (cbaLiveError) {
     console.error('从cbalive.php获取数据失败，使用备选方法获取节点:', cbaLiveError.message);
-    
+    useFallback = true;
+  }
+  
+  // 如果需要使用备选方法
+  if (useFallback && nodes.length === 0) {
+    console.log('执行备选方法获取节点...');
     // 备选方法：按原来的方法获取一个节点
     const liveUrl = await getDouyinLiveUrl();
     
@@ -962,6 +979,8 @@ try {
     
     console.log(`添加固定CBA直播间: ${cbaLiveItem.title}, 包含 ${nodes.length} 个节点`);
     mergedMatches.push(cbaLiveItem);
+  } else {
+    console.log('CBA直播间节点为空，跳过添加');
   }
   
 } catch (liveError) {
