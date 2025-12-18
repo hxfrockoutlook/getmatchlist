@@ -305,7 +305,7 @@
       "title": "NBA杯冠军赛精彩回顾：马刺vs尼克斯",
       "keyword": "12月18日20:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -346,14 +346,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&auth_key=1766671280-0-0-151ec766fb316dc3b565944d801ddbc2&exp_hrchy=w1&major_anchor_level=common&t_id=037-20251218223120C4985B7CAB8C530A4D33-362Gys&unique_id=stream-694966477732184748_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=694d518c&major_anchor_level=common&sign=e7e71c279a7b2ba4eae017e6f3a0cefa&t_id=037-202512182300286597C8EA56A440C6C8A1-25lDrD&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-18T14:31:21.085Z",
-  "shanghaiTime": "2025-12-18T22:31:21.085Z",
+  "timestamp": "2025-12-18T15:00:28.908Z",
+  "shanghaiTime": "2025-12-18T23:00:28.908Z",
   "count": 13,
   "mode": "today",
   "source": "real + cba_live"
