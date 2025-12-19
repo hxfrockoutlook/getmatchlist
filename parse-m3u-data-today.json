@@ -650,22 +650,28 @@
       },
       "nodes": [
         {
+          "name": "CBA：广东vs龙狮等2场比赛同播",
+          "urls": [
+            "http://pull-f5.douyinliving.com/fantasy/stream-118518718050337623_hd.flv?arch_hrchy=s2&expire=1766751802&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=39b28a6b8cc3bc9e1bc99f668dfad166&t_id=037-20251219202322CDFBD64035B052B36A69-vckuXq&unique_id=stream-118518718050337623_855_flv_hd&volcSecret=39b28a6b8cc3bc9e1bc99f668dfad166&volcTime=1766751802"
+          ]
+        },
+        {
           "name": "江苏vs上海",
           "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-118518727505347415_hd.flv?arch_hrchy=s2&expire=694e78d9&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=cbe3af6ecb2321170ff6140823836a9c&t_id=037-2025121920002593F7C338324ED890BC84-QYmOhR&unique_id=stream-118518727505347415_855_flv_hd"
+            "http://pull-f3.douyinliving.com/fantasy/stream-118518727505347415_hd.flv?arch_hrchy=s2&auth_key=1766750002-0-0-0d88be5f06ab99b6cde36dfe90a8fbfe&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251219202322CDFBD64035B052B36A69-qKVcZ1&unique_id=stream-118518727505347415_855_flv_hd"
           ]
         },
         {
           "name": "原声：广东vs龙狮",
           "urls": [
-            "http://pull-flv-f6.douyinliving.com/fantasy/stream-406754117761368919_hd.flv?arch_hrchy=s2&k=77eefafbf69d563f&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1766750425&t_id=037-2025121920002593F7C338324ED890BC84-AHLEgX&unique_id=stream-406754117761368919_855_flv_hd"
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-406754117761368919_hd.flv?arch_hrchy=s2&expire=694e7e3a&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=9d2d70d3c01d1fb3de9be5f89996b265&t_id=037-20251219202322CDFBD64035B052B36A69-q0GJgB&unique_id=stream-406754117761368919_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-19T12:00:25.557Z",
-  "shanghaiTime": "2025-12-19T20:00:25.557Z",
+  "timestamp": "2025-12-19T12:23:23.096Z",
+  "shanghaiTime": "2025-12-19T20:23:23.096Z",
   "count": 22,
   "mode": "today",
   "source": "real + cba_live"
