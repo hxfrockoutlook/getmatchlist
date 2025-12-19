@@ -637,7 +637,7 @@
       "title": "NBA常规赛精彩回顾：湖人vs爵士",
       "keyword": "12月19日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -704,14 +704,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766741425&major_anchor_level=common&sign=0476a814119976d2ca107ba0244049aa&t_id=037-20251219173025746B97278AAECA5DCEA7-WL1CO2&unique_id=stream-694966477732184748_684_flv&volcSecret=0476a814119976d2ca107ba0244049aa&volcTime=1766741425"
+            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766743226&major_anchor_level=common&sign=341a5d9c9d0089338d32ef59472b1ccc&t_id=037-202512191800261F036E06A52B6D465DA9-PLvJOQ&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-19T09:30:25.942Z",
-  "shanghaiTime": "2025-12-19T17:30:25.942Z",
+  "timestamp": "2025-12-19T10:00:26.996Z",
+  "shanghaiTime": "2025-12-19T18:00:26.996Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
