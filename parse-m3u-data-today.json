@@ -349,7 +349,7 @@
       "title": "JCK觉城之夜N113",
       "keyword": "12月20日18:55",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "搏击",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -440,34 +440,16 @@
       },
       "nodes": [
         {
-          "name": "CBA：辽宁vs宁波等6场比赛同播",
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f5.douyinliving.com/fantasy/stream-694985449885139799_hd.flv?arch_hrchy=s2&expire=1766842221&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=882fd48d7fb87b25d578405b76b9449a&t_id=037-20251220213020664F10D2DCEE1317F973-UvCSxW&unique_id=stream-694985449885139799_855_flv_hd&volcSecret=882fd48d7fb87b25d578405b76b9449a&volcTime=1766842221"
-          ]
-        },
-        {
-          "name": "长白山恩都里vs新疆伊力特",
-          "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-118524706440086359_hd.flv?arch_hrchy=s2&expire=1766842221&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=27ec17945b348c82597eb354ac4fa8d8&t_id=037-20251220213020664F10D2DCEE1317F973-4ZufH8&unique_id=stream-118524706440086359_855_flv_hd"
-          ]
-        },
-        {
-          "name": "山东高速vs北京控股",
-          "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-406755088763716439_hd.flv?arch_hrchy=s2&expire=1766842221&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=3c36436f57e41babe267be6390491f97&t_id=037-20251220213020664F10D2DCEE1317F973-yrLkqL&unique_id=stream-406755088763716439_855_flv_hd"
-          ]
-        },
-        {
-          "name": "原声：辽宁本钢vs宁波町渥",
-          "urls": [
-            "http://pull-f3.douyinliving.com/fantasy/stream-406755096613880663_hd.flv?arch_hrchy=s2&auth_key=1766840421-0-0-c7279e80fde3bd25497ce40d8771c847&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251220213020664F10D2DCEE1317F973-6qO4X2&unique_id=stream-406755096613880663_855_flv_hd"
+            "http://pull-flv-f1.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20251220220039CE7BD5E2500B4A9EE355-YJ6gUn&unique_id=stream-694966477732184748_684_flv&wsSecret=f2602a10b0dfc73275f144b30a5228e2&wsTime=6946ac07"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-20T13:30:21.490Z",
-  "shanghaiTime": "2025-12-20T21:30:21.490Z",
+  "timestamp": "2025-12-20T14:00:39.494Z",
+  "shanghaiTime": "2025-12-20T22:00:39.494Z",
   "count": 16,
   "mode": "today",
   "source": "real + cba_live"
