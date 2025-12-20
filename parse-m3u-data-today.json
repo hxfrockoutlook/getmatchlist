@@ -29,6 +29,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "d369d0001daa88da",
+      "title": "乒乓球欧冠·1/8决赛次回合 萨尔布吕肯vs比亚韦斯托克多伊利迪",
+      "keyword": "12月20日02:00",
+      "sportItemId": "7",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "乒乓球",
+      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "乒乓球欧冠·1/8决赛次回合 萨尔布吕肯vs比亚韦斯托克多伊利迪",
+      "modifyTitle": "乒乓球 乒乓球欧冠·1/8决赛次回合 萨尔布吕肯vs比亚韦斯托克多伊利迪",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月20日02:00"
+      },
+      "nodes": [
+        {
+          "name": "乒乓球欧冠·1/8决赛次回合 萨尔布吕肯vs比亚韦斯托克多伊利迪",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=d565eb730400b79d5f40d5b696cc8025&id=IhvEwv0tYWHCqc90Pf1eMbTeGA83klKFVC8XxRi9wQ%2FTXhvR9Czs%2F9A9FsUaBuEDiVTBwU4jWk3cH0FYqwEUo9He5DDDw9zE1A1VsXgugJw4pvk5SmzUZLHTunybailEq6NYs%2Fr1T798NbZRFdM0DiqwpVDunhr6TLMsLWcTYgUn3fv854bZmIwHhkBfr9hqcjWLWiQvjeqlkuP%2F2TFJCgvjc4oRKkuqIO2XH%2F8uuomtyhIcHamuYkHro7n2r7c0Ua1S0cLEb8vaPqfqSrwHr3nu8SpizN5K0NCg2dlG0a4BsXDKOX5T0M0ogjWQ8exDbw10o5NwXjIQmgmu%2FY25RsJMcLAUYRSRqsQOddisvLVIqxywyKHJZEtltzngqZ%2F%2FhrYrLeFduaU0eQBsev2yQA%3D%3D&name=9bKktqCCc53Fxp43wl0NRA4Wbk4RNP%2FYc%2F1bEa4i%2B1Myvcmm1%2BDH4wQ2%2Bd2Ne1tDhs8hd6n7BLdvYYYFx8AL16bzXFRM3eXxGvz2pGNHhYT1h8S7vgPGVrYOFtO%2Fh5b0SZ6JCDzDIbINsK7Pchrc%2FKZVK%2FZLanLpMeK2IgJreWE%3D"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "3c8bce3f0c1753dd",
       "title": "瓦伦西亚vs马略卡",
       "keyword": "12月20日03:55",
@@ -416,15 +442,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=694ff48f&major_anchor_level=common&sign=c1c13318d15e5522452280fc56eddf7b&t_id=037-20251220230031D9963C80A11F19BD115C-EPmt2p&unique_id=stream-694966477732184748_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=694ffb8f&major_anchor_level=common&sign=58e20ff5f59df545d6177171a49cf3a4&t_id=037-2025122023302367E94F75AEDEE40A703C-LhcYXl&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-20T15:00:31.514Z",
-  "shanghaiTime": "2025-12-20T23:00:31.514Z",
-  "count": 15,
+  "timestamp": "2025-12-20T15:30:23.792Z",
+  "shanghaiTime": "2025-12-20T23:30:23.792Z",
+  "count": 16,
   "mode": "today",
   "source": "real + cba_live"
 }
