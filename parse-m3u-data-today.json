@@ -120,27 +120,7 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=49c7e25e49dac046f4c40e620a2d16e4&id=l0KR29vJZcHIvM02tR1BD0yRx7HEIM5pebA1Ni59jPjdRSVzDmrLMNdy77yViTnmUqp05AOAZL%2FRSCLgE9KYwCZBsZDQsOfU1vp%2B6rHZbQ4y59n7pUkN7ExHIUXH8%2BtVQT%2FKVKgJqJblPgBX5iNmKU4QnG89P6JIb2obFg%2FFAiFrV63693N%2B%2FHvKf5wTGZVmQws3b3CBsM%2BvIfhOZHQR5vmN83pj3ktrKFoebSOjBhjaLu5abPdQuEOGxHV6LIl8%2BjgdzkRYmWBGZWbE2xqsKSEEgRFVrg0cqtbHjgKne3l7nG1YNcPmxc8eEqV5d%2FGT05qjOTF50B5nVBI3zNREXA%3D%3D&name=eC9S9Bm5%2FwWhFDL8RKkScaRLdzjD3Q2NyhQjrLSKhZhtx4Lblb08kWC23a7qAey3Lo0dmlcOV1Efoo6O4Q0XzkORCd%2BWMzgNDlD7d1P%2BsBI%3D"
           ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "8943a6e9cd45fc70",
-      "title": "凯��特人vs猛龙",
-      "keyword": "12月21日08:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBA常规赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "凯��特人vs猛龙",
-      "modifyTitle": "NBA常规赛 凯��特人vs猛龙",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月21日08:00"
-      },
-      "nodes": [
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -672,15 +652,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20251221030024DA77676B19A282560CDF-03eVS6&unique_id=stream-694966477732184748_684_flv&wsSecret=f47d1ba34b1e05a99cc86f784c465b0b&wsTime=6946f249"
+            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766863823&major_anchor_level=common&sign=bbdf6fd63549428d83882c24b451af3c&t_id=037-20251221033023F0BAD86D40E20C62733A-dlEls3&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-20T19:00:25.263Z",
-  "shanghaiTime": "2025-12-21T03:00:25.263Z",
-  "count": 23,
+  "timestamp": "2025-12-20T19:30:23.388Z",
+  "shanghaiTime": "2025-12-21T03:30:23.388Z",
+  "count": 22,
   "mode": "today",
   "source": "real + cba_live"
 }
