@@ -7,7 +7,7 @@
       "title": "老鹰vs指挥官",
       "keyword": "12月21日06:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -39,7 +39,7 @@
       "title": "火箭vs掘金",
       "keyword": "12月21日06:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -652,14 +652,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766871023&major_anchor_level=common&sign=69452e9e6d7232636a0c71429bf9ae85&t_id=037-202512210530231AAD0F6C9981D30D2349-N9nMPY&unique_id=stream-694966477732184748_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766872827&major_anchor_level=common&sign=0b6207718524d0d9ac508cad376fc055&t_id=037-202512210600279FAC8F3DF617A77606EB-ZXXDOv&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-20T21:30:23.834Z",
-  "shanghaiTime": "2025-12-21T05:30:23.834Z",
+  "timestamp": "2025-12-20T22:00:27.787Z",
+  "shanghaiTime": "2025-12-21T06:00:27.787Z",
   "count": 22,
   "mode": "today",
   "source": "real + cba_live"
