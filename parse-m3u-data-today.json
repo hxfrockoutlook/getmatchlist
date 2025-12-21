@@ -97,7 +97,7 @@
       "title": "公牛vs老鹰",
       "keyword": "12月22日04:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -485,17 +485,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "d7160819b607d5ac",
+      "pID": "2387035ec4e6e0b7",
       "title": "江西鲸裕清酒vs上海玄鸟",
       "keyword": "12月22日19:30",
       "sportItemId": "",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBL常规赛第1轮",
+      "competitionName": "NBL常规赛第1��",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "江西鲸裕清酒vs上海玄鸟",
-      "modifyTitle": "NBL常规赛第1轮 江西鲸裕清酒vs上海玄鸟",
+      "modifyTitle": "NBL常规赛第1�� 江西鲸裕清酒vs上海玄鸟",
       "presenters": "",
       "matchInfo": {
         "time": "12月22日19:30"
@@ -556,14 +556,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&auth_key=1766961027-0-0-5f5bd7664cb4e5066dc17654b74808e4&exp_hrchy=w1&major_anchor_level=common&t_id=037-20251222070027B85076EB4925FD9DD85C-eA79P4&unique_id=stream-694966477732184748_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766964626&major_anchor_level=common&sign=2995dd94e27c1ad772369d84c3b28b97&t_id=037-20251222073026684A105B56FFC0478636-9tNw43&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-21T23:00:27.480Z",
-  "shanghaiTime": "2025-12-22T07:00:27.480Z",
+  "timestamp": "2025-12-21T23:30:26.850Z",
+  "shanghaiTime": "2025-12-22T07:30:26.850Z",
   "count": 19,
   "mode": "today",
   "source": "real + cba_live"
