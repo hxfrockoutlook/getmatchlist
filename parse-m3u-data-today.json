@@ -219,7 +219,7 @@
       "title": "黄蜂vs活塞",
       "keyword": "12月21日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -704,14 +704,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20251221080027CB7884ECD9EDA55323C4-jOcACp&unique_id=stream-694966477732184748_684_flv&wsSecret=8955303a4724e1f8eeb0edbe4c5c2e46&wsTime=6947389b"
+            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1766881824&major_anchor_level=common&sign=3b22754155756d30f16cd00b59ca6db6&t_id=037-202512210830242C821309DF971B3675F6-2Jcf9m&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-21T00:00:27.377Z",
-  "shanghaiTime": "2025-12-21T08:00:27.377Z",
+  "timestamp": "2025-12-21T00:30:24.372Z",
+  "shanghaiTime": "2025-12-21T08:30:24.372Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
