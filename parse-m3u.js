@@ -669,11 +669,21 @@ function convertCBAReplyData(cbaData) {
       // 格式化日期时间
       const formattedDateTime = formatStandardDateTime(match.match_time);
       
-      // 构建节点
-      const nodes = [{
-        name: `${match.title || ''} ${match.score || ''}`.trim() || 'CBA回放',
-        urls: [match.play_url]
-      }];
+      // 构建节点：如果有nodes就用，没有就用原来的方式添加
+      let nodes = [];
+      
+      if (match.nodes && Array.isArray(match.nodes) && match.nodes.length > 0) {
+        // 使用已有的nodes数据
+        console.log(`比赛 ${match.title} 使用已有的nodes数据`);
+        nodes = match.nodes;
+      } else {
+        // 如果没有nodes，按原来的方式构建节点
+        console.log(`比赛 ${match.title} 使用原始方式构建节点`);
+        nodes = [{
+          name: `${match.title || ''} ${match.score || ''}`.trim() || 'CBA回放',
+          urls: [match.play_url]
+        }];
+      }
       
       // 构建比赛条目
       const convertedMatch = {
