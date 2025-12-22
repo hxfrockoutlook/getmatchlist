@@ -154,7 +154,7 @@
           ]
         },
         {
-          "name": "英���原音",
+          "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=e367972bb33c302b265ab836ffa5aaeb&id=EZT9N4hXgORNFoeR%2FWVW6iQUJMgA2AwTFPqfB7G5k5YVtV0qjfUZYeeF2xEIjxCONOeDv8AiK8XxB%2Br3qUmy9KEtrgueBu7egBh3Kx3UoZUu36cTbZxs4oL9TOPOnW0NqTxvJuxSgOrgrLoJhhkX4P%2FTPf6iJpdYgS6nb%2B6NZ5U6M7PnC8nQlrNCWljcxLizXqxdxi41lcpoudEhmgBEP85AlpyEg4uNbIHjmJbFQ5Fkjl%2BwoDD0kAE19Tr8Jz2xSPJZYkBUrYFTiwLx%2Fl7ZVMi5h3%2F2i57TycpBUdx%2Fh6i4SJt5L0kkQ%2FMRfPbTtcaZd0uwaqlQ3QJsBw9i7iGw4g%3D%3D&name=K%2BkFQJ8hYsw8F%2BObKCPoZAzkwCuo1VW%2BjP3ujWhVmLIqmOvjVEsAwlEcA9wbpJSXpkMM86VRupd0ow2GTN3LZzj2FCf4zepL0ChdRX5MtkI%3D"
           ]
@@ -343,8 +343,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "3d9fa219ebd059f6",
-      "title": "NBA常规赛精彩回顾：魔��vs勇士",
+      "pID": "ae04616eddddeb0b",
+      "title": "NBA常规赛精彩回顾：魔术vs勇士",
       "keyword": "12月23日18:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -352,15 +352,15 @@
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：魔��vs勇士",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：魔��vs勇士",
+      "pkInfoTitle": "NBA常规赛精彩回顾：魔术vs勇士",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：魔术vs勇士",
       "presenters": "",
       "matchInfo": {
         "time": "12月23日18:00"
       },
       "nodes": [
         {
-          "name": "NBA常规赛精彩回顾：魔��vs勇士",
+          "name": "NBA常规赛精彩回顾：魔术vs勇士",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=c5e9306be307ab7591dd72441655656f&id=Q%2BPeZ1WKKMo36H7zSCWwVnQsj53GSjRaOo7IKQWCGGNKLBGVzgepj%2Fzf78K5m57LjJ6LkwcQ9RcaJijS%2Fl6dcIHBEo0qHdbX66KM%2BX%2FFWdxk2r%2Bttq3Y%2FE%2B%2B5vliQaqZFIiOE0lcpnCOWMi3xo45BF2lSQkZdO5xLi8qJe%2BcyOk78%2BnQ57ttP87RPsoQrbFSlRgb3OHT%2Fz0rw1EDsGAFKAmwEcWcXC4mnYu8oyZGNI6gB1oWiDTewbhZdIyvdqybR807Fb%2BiyddX0vDCQ4jZwRtyDqxMbezkiAvXgfWLs3C5U%2FnX2n%2B8s%2FwJ053rcpK0&name=aj38mEU8AOEW45%2BhMg2t0VgsiRfLG9%2BGFnfJB%2BiLD9Y3sjxZwy9XufZqX%2Ffpwdrgcf5lugp6D2IWEjyNFmjiOiVRQfCRhKgc4sjjhDgqr8nKMXbYDtw7BvvPFSSsvFlg"
           ]
@@ -440,14 +440,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767049232&major_anchor_level=common&sign=00ada991a1682f9d6ffcef4827087c73&t_id=037-20251223070031FA2FB8A268E18DAFE64E-Izd9kp&unique_id=stream-694966477732184748_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69530f10&major_anchor_level=common&sign=03d17bcac5145f9582a01ccbb43d2e34&t_id=037-202512230730241E66693677428690131F-X75SoH&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-22T23:00:32.332Z",
-  "shanghaiTime": "2025-12-23T07:00:32.332Z",
+  "timestamp": "2025-12-22T23:30:25.276Z",
+  "shanghaiTime": "2025-12-23T07:30:25.276Z",
   "count": 15,
   "mode": "today",
   "source": "real + cba_live"
