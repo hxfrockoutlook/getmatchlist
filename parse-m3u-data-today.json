@@ -762,46 +762,16 @@
       },
       "nodes": [
         {
-          "name": "CBA：四川vs北京等四场比赛同播",
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-118536021261943639_hd.flv?arch_hrchy=s2&expire=1767015021&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=4ac51966e1c778176cf48d9a60f8a7b0&t_id=037-20251222213021F34B7E5FEAE87F63CBB0-ry0k3K&unique_id=stream-118536021261943639_855_flv_hd"
-          ]
-        },
-        {
-          "name": "辽宁vs北控",
-          "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-694996782497137495_hd.flv?arch_hrchy=s2&expire=1767015021&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=849d2c5fbbcf72730d4bd4749e175f57&t_id=037-20251222213021F34B7E5FEAE87F63CBB0-UW5U8Y&unique_id=stream-694996782497137495_855_flv_hd"
-          ]
-        },
-        {
-          "name": "山东vs深圳",
-          "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-694996792485086039_hd.flv?arch_hrchy=s2&expire=1767015021&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=a16160edbca354a492a4665cdecf7d86&t_id=037-20251222213021F34B7E5FEAE87F63CBB0-mfyReo&unique_id=stream-694996792485086039_855_flv_hd"
-          ]
-        },
-        {
-          "name": "吉林vs宁波",
-          "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-406766422439756631_hd.flv?arch_hrchy=s2&expire=6952826d&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=9724b5b41ace02a3dc0c2e1634908b39&t_id=037-20251222213021F34B7E5FEAE87F63CBB0-TyUnkk&unique_id=stream-406766422439756631_855_flv_hd"
-          ]
-        },
-        {
-          "name": "原声：山东vs深圳",
-          "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-406766438420054871_hd.flv?arch_hrchy=s2&expire=6952826d&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=8342e0cacabaca98afe66af7b65d14d6&t_id=037-20251222213021F34B7E5FEAE87F63CBB0-94Vwl6&unique_id=stream-406766438420054871_855_flv_hd"
-          ]
-        },
-        {
-          "name": "原声：吉林vs宁波",
-          "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-118536067834184535_hd.flv?arch_hrchy=s2&expire=1767015021&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=17417ca103aa640b0d7e52bb6e58b3b7&t_id=037-20251222213021F34B7E5FEAE87F63CBB0-YzJdeS&unique_id=stream-118536067834184535_855_flv_hd"
+            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767016842&major_anchor_level=common&sign=05ecdb3e3cf947f6b001eea5ace45f9a&t_id=037-20251222220042BB0C895EA854290F2AC7-0gMnkr&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-22T13:30:21.744Z",
-  "shanghaiTime": "2025-12-22T21:30:21.744Z",
+  "timestamp": "2025-12-22T14:00:42.898Z",
+  "shanghaiTime": "2025-12-22T22:00:42.898Z",
   "count": 27,
   "mode": "today",
   "source": "real + cba_live"
