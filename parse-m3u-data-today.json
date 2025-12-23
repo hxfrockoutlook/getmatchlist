@@ -477,7 +477,7 @@
       "title": "NBA常规赛精彩回顾：活塞vs开拓者",
       "keyword": "12月23日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -516,64 +516,70 @@
       },
       "nodes": [
         {
+          "name": "CBA：广厦vs福建等五场比赛同播",
+          "urls": [
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-406772241656972119_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251223200026E518EB75FF960AD0FAC5-izXxd3&unique_id=stream-406772241656972119_855_flv_hd&wsSecret=adc7f34a48983879be25c6798cb0186a&wsTime=694a845a"
+          ]
+        },
+        {
           "name": "龙狮vs广东",
           "urls": [
-            "http://pull-f5.douyinliving.com/fantasy/stream-406772262927074135_hd.flv?arch_hrchy=s2&expire=1767094227&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=82587abdfd0aaffabc09c5fdfe15ada0&t_id=037-20251223193026A427E9AC933975917349-LPdBxt&unique_id=stream-406772262927074135_855_flv_hd&volcSecret=82587abdfd0aaffabc09c5fdfe15ada0&volcTime=1767094227"
+            "http://pull-flv-f6.douyinliving.com/fantasy/stream-406772262927074135_hd.flv?arch_hrchy=s2&k=2de058f94e55c6a3&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1767096026&t_id=037-20251223200026E518EB75FF960AD0FAC5-BGeiao&unique_id=stream-406772262927074135_855_flv_hd"
           ]
         },
         {
           "name": "上海vs浙江",
           "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-118541963208950615_hd.flv?arch_hrchy=s2&expire=6953b7d3&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=1930b410413d38c77965420450018eeb&t_id=037-20251223193026A427E9AC933975917349-eLAvPQ&unique_id=stream-118541963208950615_855_flv_hd"
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-118541963208950615_hd.flv?arch_hrchy=s2&expire=6953beda&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=83ae75bc4cd40fe5a1e6787785ace7b8&t_id=037-20251223200026E518EB75FF960AD0FAC5-MND8xs&unique_id=stream-118541963208950615_855_flv_hd"
           ]
         },
         {
           "name": "南京vs山西",
           "urls": [
-            "http://pull-f3.douyinliving.com/fantasy/stream-406772345674924887_hd.flv?arch_hrchy=s2&auth_key=1767092427-0-0-50aaa3ccbc7a4880a85c5402f24e9cf6&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251223193026A427E9AC933975917349-tOlzDt&unique_id=stream-406772345674924887_855_flv_hd"
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-406772345674924887_hd.flv?arch_hrchy=s2&expire=1767096026&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=86851f2ba67839434763db23c020613b&t_id=037-20251223200026E518EB75FF960AD0FAC5-KbD58E&unique_id=stream-406772345674924887_855_flv_hd"
           ]
         },
         {
           "name": "天津vs江苏",
           "urls": [
-            "http://pull-flv-f1.douyinliving.com/fantasy/stream-695002729344140119_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251223193026A427E9AC933975917349-Nb01gS&unique_id=stream-695002729344140119_855_flv_hd&wsSecret=d563902058db7b98d19bdc627ab58b18&wsTime=694a7d53"
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-695002729344140119_hd.flv?arch_hrchy=s2&expire=6953beda&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=955686c9491f41d5554c76e5b60e0df0&t_id=037-20251223200026E518EB75FF960AD0FAC5-XObSTy&unique_id=stream-695002729344140119_855_flv_hd"
           ]
         },
         {
           "name": "原声:广厦vs福建",
           "urls": [
-            "http://pull-f3.douyinliving.com/fantasy/stream-118541982006248279_hd.flv?arch_hrchy=s2&auth_key=1767092427-0-0-ca29721993c6c7177c5408f55f485bbb&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251223193026A427E9AC933975917349-BYpXzz&unique_id=stream-118541982006248279_855_flv_hd"
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-118541982006248279_hd.flv?arch_hrchy=s2&expire=1767096026&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=2a50055aa1fcd63e3549f9325a5ac097&t_id=037-20251223200026E518EB75FF960AD0FAC5-2ZV2R0&unique_id=stream-118541982006248279_855_flv_hd"
           ]
         },
         {
           "name": "原声:龙狮vs广东",
           "urls": [
-            "http://pull-flv-f6.douyinliving.com/fantasy/stream-406772364125406039_hd.flv?arch_hrchy=s2&k=b82564cfc82bad28&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1767094227&t_id=037-20251223193026A427E9AC933975917349-wriAaI&unique_id=stream-406772364125406039_855_flv_hd"
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-406772364125406039_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251223200026E518EB75FF960AD0FAC5-rNxMRS&unique_id=stream-406772364125406039_855_flv_hd&wsSecret=cefa152f70002f0cb63f84de7540f62e&wsTime=694a845a"
           ]
         },
         {
           "name": "原声:上海vs浙江",
           "urls": [
-            "http://pull-f3.douyinliving.com/fantasy/stream-695002745652642647_hd.flv?arch_hrchy=s2&auth_key=1767092427-0-0-b4b4291d3683afb62f3a6a527c4585d0&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251223193026A427E9AC933975917349-IaSQQn&unique_id=stream-695002745652642647_855_flv_hd"
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-695002745652642647_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251223200026E518EB75FF960AD0FAC5-P78I3i&unique_id=stream-695002745652642647_855_flv_hd&wsSecret=25c24b097f8c6b685f724944d56c1b51&wsTime=694a845a"
           ]
         },
         {
           "name": "原声:南京vs山西",
           "urls": [
-            "http://pull-f5.douyinliving.com/fantasy/stream-118541999447999319_hd.flv?arch_hrchy=s2&expire=1767094227&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=a0b27c31d43a691c0a87be2af31da1d9&t_id=037-20251223193026A427E9AC933975917349-asO9wy&unique_id=stream-118541999447999319_855_flv_hd&volcSecret=a0b27c31d43a691c0a87be2af31da1d9&volcTime=1767094227"
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-118541999447999319_hd.flv?arch_hrchy=s2&expire=1767096026&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e2d03f51d5d0e95f69b62b24bec453f7&t_id=037-20251223200026E518EB75FF960AD0FAC5-7mWyOL&unique_id=stream-118541999447999319_855_flv_hd"
           ]
         },
         {
           "name": "原声:天津vs江苏",
           "urls": [
-            "http://pull-flv-f6.douyinliving.com/fantasy/stream-406772379364885335_hd.flv?arch_hrchy=s2&k=f02c0f268170466e&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1767094227&t_id=037-20251223193026A427E9AC933975917349-Ljd14o&unique_id=stream-406772379364885335_855_flv_hd"
+            "http://pull-f3.douyinliving.com/fantasy/stream-406772379364885335_hd.flv?arch_hrchy=s2&auth_key=1767094226-0-0-a5569dc0dffa3a16508664b07443119e&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20251223200026E518EB75FF960AD0FAC5-HmQPBy&unique_id=stream-406772379364885335_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-23T11:30:27.557Z",
-  "shanghaiTime": "2025-12-23T19:30:27.557Z",
+  "timestamp": "2025-12-23T12:00:26.974Z",
+  "shanghaiTime": "2025-12-23T20:00:26.974Z",
   "count": 18,
   "mode": "today",
   "source": "real + cba_live"
