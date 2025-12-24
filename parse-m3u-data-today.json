@@ -159,8 +159,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "253c167018b1f299",
-      "title": "NBA常规赛精彩回顾：魔术vs开拓者",
+      "pID": "5e8da8c819fabcb3",
+      "title": "NBA常规赛精彩回顾：���术vs开拓者",
       "keyword": "12月25日18:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -168,15 +168,15 @@
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：魔术vs开拓者",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：魔术vs开拓者",
+      "pkInfoTitle": "NBA常规赛精彩回顾：���术vs开拓者",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：���术vs开拓者",
       "presenters": "",
       "matchInfo": {
         "time": "12月25日18:00"
       },
       "nodes": [
         {
-          "name": "NBA常规赛精彩回顾：魔术vs开拓者",
+          "name": "NBA常规赛精彩回顾：���术vs开拓者",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=cabd1e1d843f9c7fe749b4cf28d9e204&id=oNpHG98QZ7rMySSII3YQy1AIANzV7VBb4s5G5mIvBLk8Cx7Ca03yb5h1HxFY09plbLxTiXASswXa2WyoRG%2Fu608GRk%2FZTRqVsrg%2BbFmicxdQHEMJCc6%2F4w1gcO2H3dncacuXcjzBMiNiTEchYS7W4ioMw8%2FqnHLybFjLBtIxNgdqWdQFdiH8ABHwtqf%2F3InYTYqNY4wONeaJ7Y5PyW5URHj3M4yD9fv7RCTA46suojiO9XC3fkU9f565BymN6tuAif6mpCD3XTceMP2o5kj%2F5BzoLbB0oTuInL6vw6Fjwcmn8rFbxsmweDq%2F401uVqkO&name=Z1Zu3k2aPPyE5OJ2w2xqVWAbZvcoD1SG1H2lexGA0ljqwA5u2kaui89CG5yERm5A7c0tm%2FcQiS6WdU5drHKqqdyhUP2AgGXB7kvcc%2FjhlnN1FpQGG7eq7XO3Eft1ZYfV"
           ]
@@ -282,14 +282,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767201367&major_anchor_level=common&sign=9ce6c61d5e812ace7c8484a0aea49004&t_id=037-20251225011607EBBCD68D11C66626BE88-F19tcG&unique_id=stream-695011654549635756_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&auth_key=1767200429-0-0-01d52945dd7e77a5a21c7906bdb2f16f&exp_hrchy=w1&major_anchor_level=common&t_id=037-20251225013029C92196C1C8979F61EDF8-HaVVHb&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-24T17:16:07.942Z",
-  "shanghaiTime": "2025-12-25T01:16:07.942Z",
+  "timestamp": "2025-12-24T17:30:29.356Z",
+  "shanghaiTime": "2025-12-25T01:30:29.356Z",
   "count": 11,
   "mode": "today",
   "source": "real + cba_live"
