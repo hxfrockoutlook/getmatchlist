@@ -654,18 +654,40 @@ function formatStandardDateTime(dateTimeStr) {
   }
 }
 
-// 转换CBA回放数据格式
-function convertCBAReplyData(cbaData) {
+// 获取上海时区的当前日期（YYYY-MM-DD格式）
+function getShanghaiDateString() {
+  const shanghaiTime = getShanghaiTime();
+  const year = shanghaiTime.getFullYear();
+  const month = String(shanghaiTime.getMonth() + 1).padStart(2, '0');
+  const day = String(shanghaiTime.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+// 转换CBA回放数据格式（添加mode参数和日期检查）
+function convertCBAReplyData(cbaData, mode = 'all') {
   if (!cbaData || !cbaData.matches || !Array.isArray(cbaData.matches)) {
     return [];
   }
   
-  console.log(`开始转换CBA回放数据，共 ${cbaData.matches.length} 场比赛`);
+  console.log(`开始转换CBA回放数据，模式: ${mode}，共 ${cbaData.matches.length} 场比赛`);
   
   const convertedMatches = [];
+  const currentShanghaiDate = getShanghaiDateString();
   
   cbaData.matches.forEach((match, index) => {
     try {
+      // 如果是today模式，检查比赛日期是否与当前日期一致
+      if (mode === 'today') {
+        // 从match_time中提取日期部分（YYYY-MM-DD）
+        const matchDate = match.match_time ? match.match_time.split(' ')[0] : null;
+        console.log(`比赛 ${match.title} 日期: ${matchDate}, 当前日期: ${currentShanghaiDate}`);
+        
+        if (matchDate !== currentShanghaiDate) {
+          console.log(`日期不匹配，跳过比赛: ${match.title}`);
+          return; // 跳过这场比赛
+        }
+      }          
+      
       // 格式化日期时间
       const formattedDateTime = formatStandardDateTime(match.match_time);
       
@@ -711,7 +733,7 @@ function convertCBAReplyData(cbaData) {
     }
   });
   
-  console.log(`CBA回放数据转换完成，共 ${convertedMatches.length} 场比赛`);
+  console.log(`CBA回放数据转换完成，模式: ${mode}，共 ${convertedMatches.length} 场比赛`);
   return convertedMatches;
 }
 
@@ -822,180 +844,181 @@ async function main() {
     // ============ 根据模式处理CBA数据 ============
     console.log(`开始获取CBA数据 (模式: ${mode})...`);
     
-    // 1. all模式：获取CBA回放数据
-    if (mode === 'all') {
-      try {
-        const cbaReplyData = await fetchCBAReplyData();
-        if (cbaReplyData && cbaReplyData.matches && cbaReplyData.matches.length > 0) {
-          const convertedCBAMatches = convertCBAReplyData(cbaReplyData);
-          if (convertedCBAMatches.length > 0) {
-            console.log(`添加 ${convertedCBAMatches.length} 场CBA回放比赛到结果中`);
-            mergedMatches = mergedMatches.concat(convertedCBAMatches);
-          }
+    // 1. 获取CBA回放数据（所有模式都从同一个接口获取）
+    try {
+      const cbaReplyData = await fetchCBAReplyData();
+      if (cbaReplyData && cbaReplyData.matches && cbaReplyData.matches.length > 0) {
+        // 传递mode参数到转换函数
+        const convertedCBAMatches = convertCBAReplyData(cbaReplyData, mode);
+        if (convertedCBAMatches.length > 0) {
+          console.log(`添加 ${convertedCBAMatches.length} 场CBA回放比赛到结果中`);
+          mergedMatches = mergedMatches.concat(convertedCBAMatches);
         } else {
-          console.log('CBA回放数据为空或获取失败，跳过');
+          console.log('转换后的CBA回放数据为空（可能是日期不匹配）');
         }
-      } catch (cbaError) {
-        console.error('处理CBA回放数据时出错，跳过:', cbaError.message);
+      } else {
+        console.log('CBA回放数据为空或获取失败，跳过');
       }
+    } catch (cbaError) {
+      console.error('处理CBA回放数据时出错，跳过:', cbaError.message);
     }
     
-// 2. 添加固定CBA直播间数据 (新增)
-try {
-  console.log('开始添加固定CBA直播间数据...');
-  
-  // 获取当前日期并格式化
-  const shanghaiTime = getShanghaiTime();
-  const month = shanghaiTime.getMonth() + 1;
-  const day = shanghaiTime.getDate();
-  const formattedDateTime = `${month}月${day}日19:30`;
-  
-  // 先尝试从cbalive.php获取nodes数据
-  let nodes = [];
-  let useFallback = false;
-  
-  try {
-    console.log('尝试从http://ikuai.168957.xyz:9080/cbalive.php获取nodes数据...');
-    const cbaLiveUrl = 'http://ikuai.168957.xyz:9080/cbalive.php';
-    
-    const cbaLiveData = await new Promise((resolve, reject) => {
-      const parsedUrl = new URL(cbaLiveUrl);
-      const req = http.request({
-        hostname: parsedUrl.hostname,
-        port: parsedUrl.port || 80,
-        path: parsedUrl.pathname + parsedUrl.search,
-        method: 'GET',
-        timeout: 15000,
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-          'Accept': 'application/json',
-          'Connection': 'keep-alive'
-        }
-      }, (res) => {
-        let data = '';
-        res.on('data', (chunk) => data += chunk);
-        res.on('end', () => {
-          try {
-            if (res.statusCode === 200) {
-              const jsonData = JSON.parse(data);
-              console.log(`CBA直播数据获取成功，共 ${jsonData.matches?.length || 0} 个直播`);
-              resolve(jsonData);
-            } else {
-              console.log(`CBA直播API返回状态码: ${res.statusCode}`);
-              resolve(null);
+    // 2. 添加固定CBA直播间数据 (新增)
+    try {
+      console.log('开始添加固定CBA直播间数据...');
+      
+      // 获取当前日期并格式化
+      const shanghaiTime = getShanghaiTime();
+      const month = shanghaiTime.getMonth() + 1;
+      const day = shanghaiTime.getDate();
+      const formattedDateTime = `${month}月${day}日19:30`;
+      
+      // 先尝试从cbalive.php获取nodes数据
+      let nodes = [];
+      let useFallback = false;
+      
+      try {
+        console.log('尝试从http://ikuai.168957.xyz:9080/cbalive.php获取nodes数据...');
+        const cbaLiveUrl = 'http://ikuai.168957.xyz:9080/cbalive.php';
+        
+        const cbaLiveData = await new Promise((resolve, reject) => {
+          const parsedUrl = new URL(cbaLiveUrl);
+          const req = http.request({
+            hostname: parsedUrl.hostname,
+            port: parsedUrl.port || 80,
+            path: parsedUrl.pathname + parsedUrl.search,
+            method: 'GET',
+            timeout: 15000,
+            headers: {
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+              'Accept': 'application/json',
+              'Connection': 'keep-alive'
             }
-          } catch (parseError) {
-            console.error('解析CBA直播数据失败:', parseError.message);
-            resolve(null);
-          }
-        });
-      });
-      
-      req.on('error', (error) => {
-        console.error(`请求CBA直播数据失败: ${error.message}`);
-        resolve(null);
-      });
-      
-      req.on('timeout', () => {
-        console.error('请求CBA直播数据超时');
-        req.destroy();
-        resolve(null);
-      });
-      
-      req.end();
-    });
-    
-    if (cbaLiveData && cbaLiveData.success === true && 
-        cbaLiveData.matches && Array.isArray(cbaLiveData.matches) && 
-        cbaLiveData.matches.length > 0) {
-      
-      console.log(`成功获取到 ${cbaLiveData.matches.length} 个CBA直播节点`);
-      
-      // 处理每个直播比赛作为节点
-      let validNodeCount = 0;
-      cbaLiveData.matches.forEach((match, index) => {
-        try {
-          // 确保有title和originFlvUrl字段，并且originFlvUrl不为空
-          if (match.title && match.originFlvUrl && match.originFlvUrl.trim() !== '') {
-            nodes.push({
-              name: match.title,
-              urls: [match.originFlvUrl]
+          }, (res) => {
+            let data = '';
+            res.on('data', (chunk) => data += chunk);
+            res.on('end', () => {
+              try {
+                if (res.statusCode === 200) {
+                  const jsonData = JSON.parse(data);
+                  console.log(`CBA直播数据获取成功，共 ${jsonData.matches?.length || 0} 个直播`);
+                  resolve(jsonData);
+                } else {
+                  console.log(`CBA直播API返回状态码: ${res.statusCode}`);
+                  resolve(null);
+                }
+              } catch (parseError) {
+                console.error('解析CBA直播数据失败:', parseError.message);
+                resolve(null);
+              }
             });
-            validNodeCount++;
-            console.log(`添加CBA直播节点: ${match.title}`);
-          } else {
-            console.log(`CBA直播数据第${index + 1}项缺少必要字段或originFlvUrl为空`);
+          });
+          
+          req.on('error', (error) => {
+            console.error(`请求CBA直播数据失败: ${error.message}`);
+            resolve(null);
+          });
+          
+          req.on('timeout', () => {
+            console.error('请求CBA直播数据超时');
+            req.destroy();
+            resolve(null);
+          });
+          
+          req.end();
+        });
+        
+        if (cbaLiveData && cbaLiveData.success === true && 
+            cbaLiveData.matches && Array.isArray(cbaLiveData.matches) && 
+            cbaLiveData.matches.length > 0) {
+          
+          console.log(`成功获取到 ${cbaLiveData.matches.length} 个CBA直播节点`);
+          
+          // 处理每个直播比赛作为节点
+          let validNodeCount = 0;
+          cbaLiveData.matches.forEach((match, index) => {
+            try {
+              // 确保有title和originFlvUrl字段，并且originFlvUrl不为空
+              if (match.title && match.originFlvUrl && match.originFlvUrl.trim() !== '') {
+                nodes.push({
+                  name: match.title,
+                  urls: [match.originFlvUrl]
+                });
+                validNodeCount++;
+                console.log(`添加CBA直播节点: ${match.title}`);
+              } else {
+                console.log(`CBA直播数据第${index + 1}项缺少必要字段或originFlvUrl为空`);
+              }
+            } catch (matchError) {
+              console.error(`处理CBA直播数据第${index + 1}项时出错:`, matchError.message);
+            }
+          });
+          
+          console.log(`有效CBA直播节点数量: ${validNodeCount}`);
+          
+          // 如果没有有效的节点，设置标记使用备选方法
+          if (validNodeCount === 0) {
+            console.log('没有有效的CBA直播节点，将使用备选方法');
+            useFallback = true;
           }
-        } catch (matchError) {
-          console.error(`处理CBA直播数据第${index + 1}项时出错:`, matchError.message);
+          
+        } else {
+          console.log('CBA直播数据为空或获取失败，将使用备选方法获取节点');
+          useFallback = true;
         }
-      });
-      
-      console.log(`有效CBA直播节点数量: ${validNodeCount}`);
-      
-      // 如果没有有效的节点，设置标记使用备选方法
-      if (validNodeCount === 0) {
-        console.log('没有有效的CBA直播节点，将使用备选方法');
+        
+      } catch (cbaLiveError) {
+        console.error('从cbalive.php获取数据失败，使用备选方法获取节点:', cbaLiveError.message);
         useFallback = true;
       }
       
-    } else {
-      console.log('CBA直播数据为空或获取失败，将使用备选方法获取节点');
-      useFallback = true;
+      // 如果需要使用备选方法
+      if (useFallback && nodes.length === 0) {
+        console.log('执行备选方法获取节点...');
+        // 备选方法：按原来的方法获取一个节点
+        const liveUrl = await getDouyinLiveUrl();
+        
+        if (liveUrl) {
+          nodes.push({
+            name: "抖音CBA直播 [非直播时间为CCTV13直播]",
+            urls: [liveUrl]
+          });
+          console.log(`使用备选方法添加CBA直播节点`);
+        } else {
+          console.log('获取直播间地址失败，跳过添加CBA直播间');
+        }
+      }
+      
+      // 如果nodes不为空，则添加CBA直播间条目
+      if (nodes.length > 0) {
+        // 构建固定直播间条目（保持原有字段不变）
+        const cbaLiveItem = {
+          mgdbId: "",
+          pID: "983488708402", // 固定的直播间ID，保持不变
+          title: "抖音CBA直播间", 
+          keyword: formattedDateTime, // 当天日期 + 19:30
+          sportItemId: "2", // 篮球
+          matchStatus: "1", // 直播状态
+          matchField: "",
+          competitionName: "CBA联赛",
+          padImg: "http://catvod.hxfrock.ggff.net/抖音CBA.png",  
+          competitionLogo: "",
+          pkInfoTitle: "抖音CBA直播间",
+          modifyTitle: "",
+          presenters: "",
+          matchInfo: { time: formattedDateTime },
+          nodes: nodes // 使用从API获取的nodes数据
+        };
+        
+        console.log(`添加固定CBA直播间: ${cbaLiveItem.title}, 包含 ${nodes.length} 个节点`);
+        mergedMatches.push(cbaLiveItem);
+      } else {
+        console.log('CBA直播间节点为空，跳过添加');
+      }
+      
+    } catch (liveError) {
+      console.error('处理CBA直播间数据时出错，跳过:', liveError.message);
     }
-    
-  } catch (cbaLiveError) {
-    console.error('从cbalive.php获取数据失败，使用备选方法获取节点:', cbaLiveError.message);
-    useFallback = true;
-  }
-  
-  // 如果需要使用备选方法
-  if (useFallback && nodes.length === 0) {
-    console.log('执行备选方法获取节点...');
-    // 备选方法：按原来的方法获取一个节点
-    const liveUrl = await getDouyinLiveUrl();
-    
-    if (liveUrl) {
-      nodes.push({
-        name: "抖音CBA直播 [非直播时间为CCTV13直播]",
-        urls: [liveUrl]
-      });
-      console.log(`使用备选方法添加CBA直播节点`);
-    } else {
-      console.log('获取直播间地址失败，跳过添加CBA直播间');
-    }
-  }
-  
-  // 如果nodes不为空，则添加CBA直播间条目
-  if (nodes.length > 0) {
-    // 构建固定直播间条目（保持原有字段不变）
-    const cbaLiveItem = {
-      mgdbId: "",
-      pID: "983488708402", // 固定的直播间ID，保持不变
-      title: "抖音CBA直播间", 
-      keyword: formattedDateTime, // 当天日期 + 19:30
-      sportItemId: "2", // 篮球
-      matchStatus: "1", // 直播状态
-      matchField: "",
-      competitionName: "CBA联赛",
-      padImg: "http://catvod.hxfrock.ggff.net/抖音CBA.png",  
-      competitionLogo: "",
-      pkInfoTitle: "抖音CBA直播间",
-      modifyTitle: "",
-      presenters: "",
-      matchInfo: { time: formattedDateTime },
-      nodes: nodes // 使用从API获取的nodes数据
-    };
-    
-    console.log(`添加固定CBA直播间: ${cbaLiveItem.title}, 包含 ${nodes.length} 个节点`);
-    mergedMatches.push(cbaLiveItem);
-  } else {
-    console.log('CBA直播间节点为空，跳过添加');
-  }
-  
-} catch (liveError) {
-  console.error('处理CBA直播间数据时出错，跳过:', liveError.message);
-}
     // ============ CBA数据处理结束 ============
     
     // 根据模式生成不同的文件名
