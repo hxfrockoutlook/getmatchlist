@@ -33,7 +33,7 @@
       "title": "奇才vs黄蜂",
       "keyword": "12月24日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -46,7 +46,7 @@
       },
       "nodes": [
         {
-          "name": "丁��",
+          "name": "丁楠",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=295a866f94b64e4928524fdf0d42e083&id=R8n36TzcdC8TtuFJvxuMfUwQ4qi6nV7lDfobmozjB9ztcGuEiFgzV9erxoYR8fRpecHNmCK%2B8EYpCQIqC7%2BJmQ9bk7UrySAqsS3WewZTKvrfz%2BSqHzm4vUE88hmQx4cLOuv%2FrMXj5G%2Bfv55j1NbXsbpNt87f0Fo3QWFpf4Qq8zm34ZCK39YmkItEYbMc%2FBlLMRFE37Tdjfj6N8iXdhU%2BckgEwMsrN9RlkjIsAfet6ZGeLGk3w8ZfZfgASVQU66pTIDaWJeTsDOf6gGmed%2Bbquo8ToPuM1fmARlH2dD5afaRhR0%2F2qKSNhFVrvoCIofrRKco%2FEp6B%2FrmlFJisGL9iFg%3D%3D&name=F1y547Wamr60j3fKXlKij5YNhxcBPYgF6%2FHZVNVs%2BJejZYRSPMo1Oml0zzvCmKLD%2BFvOoQGDSVve0C5q2J8%2BAb%2BtuhfWfHEhRBFICRBG6Iw%3D"
           ]
@@ -65,7 +65,7 @@
       "title": "篮网vs76人",
       "keyword": "12月24日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -690,14 +690,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69546094&major_anchor_level=common&sign=31597924f412800c474de7c87e5a2657&t_id=037-2025122407302703C54E656235B345FBF5-DlTSRD&unique_id=stream-694966477732184748_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-694966477732184748.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767139229&major_anchor_level=common&sign=9116a9830e0f1af0be3a5f29af4e0384&t_id=037-202512240800295BF466F6AAF34CECA269-SsJnoj&unique_id=stream-694966477732184748_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-23T23:30:28.257Z",
-  "shanghaiTime": "2025-12-24T07:30:28.257Z",
+  "timestamp": "2025-12-24T00:00:30.033Z",
+  "shanghaiTime": "2025-12-24T08:00:30.034Z",
   "count": 23,
   "mode": "today",
   "source": "real + cba_live"
