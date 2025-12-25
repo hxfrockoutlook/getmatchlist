@@ -163,7 +163,7 @@
       "title": "安徽皖江龙vs山东蜜獾",
       "keyword": "12月25日19:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL常规赛第2轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -228,16 +228,34 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "name": "CBA：上海vs江苏等两场比赛同播",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2025122519003019E16C1467C11C9B1F16-IFzbhm&unique_id=stream-695011654549635756_684_flv&wsSecret=b4d446bcaed114c0e88dd25df57f0c16&wsTime=694d194e"
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-118553405479191383_hd.flv?arch_hrchy=s2&expire=69565ad3&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=782305a54d338a05992532a3c8c99eb5&t_id=037-202512251930274B28320B5891D3B7DA53-jaQgCf&unique_id=stream-118553405479191383_855_flv_hd"
+          ]
+        },
+        {
+          "name": "广厦vs辽宁",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-406783794575311703_hd.flv?arch_hrchy=s2&expire=69565ad3&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=36c721d53047c349a4d26eba6173f1ae&t_id=037-202512251930274B28320B5891D3B7DA53-mseDLE&unique_id=stream-406783794575311703_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:上海vs江苏",
+          "urls": [
+            "http://pull-f5.douyinliving.com/fantasy/stream-695014177982120791_hd.flv?arch_hrchy=s2&expire=1767267027&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=9563859c1c3765446fb821b49ab38930&t_id=037-202512251930274B28320B5891D3B7DA53-a4GxBS&unique_id=stream-695014177982120791_855_flv_hd&volcSecret=9563859c1c3765446fb821b49ab38930&volcTime=1767267027"
+          ]
+        },
+        {
+          "name": "原声:广厦vs辽宁",
+          "urls": [
+            "http://pull-f3.douyinliving.com/fantasy/stream-118553430243148631_hd.flv?arch_hrchy=s2&auth_key=1767265227-0-0-3fd006f6e2137f2996f302cbcebb4d2a&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202512251930274B28320B5891D3B7DA53-coeCWR&unique_id=stream-118553430243148631_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-25T11:00:30.740Z",
-  "shanghaiTime": "2025-12-25T19:00:30.740Z",
+  "timestamp": "2025-12-25T11:30:27.951Z",
+  "shanghaiTime": "2025-12-25T19:30:27.951Z",
   "count": 9,
   "mode": "today",
   "source": "real + cba_live"
