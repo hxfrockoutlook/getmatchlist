@@ -843,24 +843,36 @@ async function main() {
     
     // ============ 根据模式处理CBA数据 ============
     console.log(`开始获取CBA数据 (模式: ${mode})...`);
+
+    // 获取当前北京时间（上海时区）
+    const shanghaiTime = getShanghaiTime();
+    const currentHour = shanghaiTime.getHours();
+
+    // 判断当前时间是否在19:00:00以后
+    const isAfter1900 = currentHour >= 19;
+    //console.log(`当前北京时间: ${shanghaiTime.toLocaleTimeString()}, 是否在19:00后: ${isAfter1900}`);
     
-    // 1. 获取CBA回放数据（所有模式都从同一个接口获取）
-    try {
-      const cbaReplyData = await fetchCBAReplyData();
-      if (cbaReplyData && cbaReplyData.matches && cbaReplyData.matches.length > 0) {
-        // 传递mode参数到转换函数
-        const convertedCBAMatches = convertCBAReplyData(cbaReplyData, mode);
-        if (convertedCBAMatches.length > 0) {
-          console.log(`添加 ${convertedCBAMatches.length} 场CBA回放比赛到结果中`);
-          mergedMatches = mergedMatches.concat(convertedCBAMatches);
+    // 1. 获取CBA回放数据（根据条件执行）
+    if (mode === 'all' || (mode === 'today' && isAfter1900)) {
+      try {
+        const cbaReplyData = await fetchCBAReplyData();
+        if (cbaReplyData && cbaReplyData.matches && cbaReplyData.matches.length > 0) {
+          // 传递mode参数到转换函数
+          const convertedCBAMatches = convertCBAReplyData(cbaReplyData, mode);
+          if (convertedCBAMatches.length > 0) {
+            console.log(`添加 ${convertedCBAMatches.length} 场CBA回放比赛到结果中`);
+            mergedMatches = mergedMatches.concat(convertedCBAMatches);
+          } else {
+            console.log('转换后的CBA回放数据为空（可能是日期不匹配）');
+          }
         } else {
-          console.log('转换后的CBA回放数据为空（可能是日期不匹配）');
+          console.log('CBA回放数据为空或获取失败，跳过');
         }
-      } else {
-        console.log('CBA回放数据为空或获取失败，跳过');
+      } catch (cbaError) {
+        console.error('处理CBA回放数据时出错，跳过:', cbaError.message);
       }
-    } catch (cbaError) {
-      console.error('处理CBA回放数据时出错，跳过:', cbaError.message);
+    } else if (mode === 'today') {
+      console.log('当前时间未到19:00:00，不获取CBA回放数据');
     }
     
     // 2. 添加固定CBA直播间数据 (新增)
