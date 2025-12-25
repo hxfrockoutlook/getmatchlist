@@ -579,7 +579,7 @@ async function fetchCBAReplyData(retries = 3, delay = 2000) {
             'Accept': 'application/json',
             'Connection': 'keep-alive'
           },
-          timeout: 15000 // 15秒超时
+          timeout: 30000 // 30秒超时
         };
         
         const req = http.request(options, (res) => {
@@ -753,7 +753,7 @@ async function getDouyinLiveUrl() {
           port: parsedUrl.port || 80,
           path: parsedUrl.pathname + parsedUrl.search,
           method: 'GET',
-          timeout: 10000,
+          timeout: 20000,
           headers: {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
           }
