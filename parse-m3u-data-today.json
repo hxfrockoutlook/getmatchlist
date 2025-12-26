@@ -360,12 +360,6 @@
       },
       "nodes": [
         {
-          "name": "王嘉琦 孙悦 美娜",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=393ce1e8cdadad89e6d6a331f0831f7c&id=pHOgOfN7FeMeM1HryXFWET2luAnU18s8iDy74JvUh6gsv%2F7M2twEGI6xvlBHYz229OAg3l7AY3xEj4VqZqfShnX6Lcya0zGDd6JlYfeSWB3vQwq6vQsoaquV021A54velcUG%2B5OITbm7LvOEwSPEKg4VWfX0QWAVKSU1wrXUx%2FZT17DB5sDzRbV4Shl5p5m8bLo0DCi%2Fy350Ov7Kr5j3tpyFyDFUucU2Z4SZfPww%2Bnc0OxZFW6SD8w8jLffu7h4qv0whaxS1x2kjRxYVBPATYGUhn%2FvM55wTaOlV94gAe%2B6sO4B9L0H99QejYQlxfisLhoT4934U%2Bz%2BfrKWu3r0l%2Bg%3D%3D&name=ZarcwveP41jVuxdd4Wl%2FJiepOepuENp65F80c0%2FQuesm%2FqW8eOimmR9wk0CaqxZJaKuuFuQx8h7maCCahLw0i8HSm5wpyHg1lEF4sNxxMBtYbxiRZTq7qxPDKE0YQmwI"
-          ]
-        },
-        {
           "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=842feab088d42a24b7873b7ec18dd303&id=vJ23SBeyu1W5wDp1vma3MdIT23l2VBY7FEa8T2uLqPXDM6iLIuWyaBYqJ%2BeGAipMDExSoV1nZgqw4nsAo5Z9nSE7JNAcrUTurugfXse6oG%2Bs9KiVqZqauucg8Dm56UMPvEkdi7C2eR6k1f18H%2FzGrTe1HglVRje%2B01zu%2F0OYG8bPyIWnJKQx6XlGUt96vZOMbzWRKR1QSX%2BJohLlXsBeyBBkT7SoN9vYqjNpBZZ1LdcxBvPlmLNfzzrHjqZPgCHMXTbtvT5rrPb4tQQYUump6bFowJ7DCrtEM6rZd22srVrRVuxKWCQuoFSCywUW1A6Qf7BAaNQbH7iZNCwVN%2FhUPQ%3D%3D&name=7OZZ2nRp6S9%2FlwxoooCf2PMDAY8W6RlYCtuZDSHOZs5pJIcDrjyGfRxe%2FNGI902BR2BZPCgD1uE6SXVHax6Yv%2FHVk%2FkbRZve%2F5shqYTgSco%3D"
@@ -738,14 +732,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767375024&major_anchor_level=common&sign=634c94624d2963929b5998676668d3c5&t_id=037-20251227013023A4F55F86F4391AF4154B-q7IEYq&unique_id=stream-695011654549635756_684_flv&volcSecret=634c94624d2963929b5998676668d3c5&volcTime=1767375024"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767376826&major_anchor_level=common&sign=9f4530a853164e68d541543fccfec18a&t_id=037-202512270200260F636E2948C235DCFCEC-G0XPL3&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-26T17:30:24.290Z",
-  "shanghaiTime": "2025-12-27T01:30:24.290Z",
+  "timestamp": "2025-12-26T18:00:26.317Z",
+  "shanghaiTime": "2025-12-27T02:00:26.317Z",
   "count": 26,
   "mode": "today",
   "source": "real + cba_live"
