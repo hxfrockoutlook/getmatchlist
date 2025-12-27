@@ -7,7 +7,7 @@
       "title": "德州人vs闪电",
       "keyword": "12月28日05:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -710,14 +710,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767474026&major_anchor_level=common&sign=7f5d48569859c834e44458f7fe8485ed&t_id=037-202512280500263D83A0D08FC1192E7147-TgE2aL&unique_id=stream-695011654549635756_684_flv&volcSecret=7f5d48569859c834e44458f7fe8485ed&volcTime=1767474026"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767475822&major_anchor_level=common&sign=4bcd07449bb7163a570d394409e8423d&t_id=037-20251228053022BBA2528169E55035FDC8-QxVPJR&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-27T21:00:26.367Z",
-  "shanghaiTime": "2025-12-28T05:00:26.367Z",
+  "timestamp": "2025-12-27T21:30:22.844Z",
+  "shanghaiTime": "2025-12-28T05:30:22.844Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
