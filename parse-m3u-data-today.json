@@ -615,32 +615,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "85d7f8a8f8ded7f5",
-      "title": "张家口体文旅vs长沙勇胜",
-      "keyword": "12月27日19:30",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBL常规赛第3轮",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "张家口体文旅vs长沙勇胜",
-      "modifyTitle": "NBL常规赛第3轮 张家口体文旅vs长沙勇胜",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月27日19:30"
-      },
-      "nodes": [
-        {
-          "name": "张家口体文旅vs长沙勇胜",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=73a279a597382676c15541576dfdcd8d&id=FmbZYstlbsQ9V3NzVyeOsAcm6visSL6WPqymNV%2BTaZ%2FnEHM3eDYALsrhboV7NBT3BPz6BnU0J9R66BV6QP3%2Fype0z8hPGYPI3FLS2NOCFeWo8DMIaaW9Jebku%2FgBZSLY88hltm1qqJW5BXEZH8nI%2FQ0rnH9qqrmvK%2Bv2IAj8oqe7C1LCAfpzi%2FyDO0DDe9nAvj7iCFR8Q%2BR1qPmFoG6LwqrArDojursSlCYyPeaDh7BsD%2B5BEvdxC8bX02pyYSghmp%2FqVE2lYKWQkrLPOvjD1Vs6xdLhWTk0GLTO6Whnx0QJ7%2FDinEjqdXWoWPCcyOaQ&name=DxLCRPfxXGcgVArzSZGjxJXsCqja7jsqQbAxZwOahE%2B6hLHEO4zbpNqQp1xVVVMjGXrgY1tXz0BhweJmbhtEEogMgQhbmoxY7sFHY1VrB97TkM2e2v7RwZNH0uGx11zE"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "d207e18264d0a23d",
       "title": "NBA常规赛精彩回顾：太阳vs鹈鹕",
       "keyword": "12月27日20:00",
@@ -710,17 +684,47 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "name": "CBA：广厦vs深圳等三场比赛同播",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&auth_key=1767436231-0-0-e0cc6dc97b1028ba43563a3ea764e726&exp_hrchy=w1&major_anchor_level=common&t_id=037-202512271900312204957DFDBA7A583AD3-p1YEOG&unique_id=stream-695011654549635756_684_flv"
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-406795462128173911_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-2025122719302491A6CE50C87D29A0935B-wQTvHY&unique_id=stream-406795462128173911_855_flv_hd&wsSecret=cd2821c7cc66c966800a22ebdc57288a&wsTime=694fc351"
+          ]
+        },
+        {
+          "name": "CBA:北控vs辽宁",
+          "urls": [
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-118565096317518679_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-2025122719302491A6CE50C87D29A0935B-2pC7rg&unique_id=stream-118565096317518679_855_flv_hd&wsSecret=68a028f1332147595ffc68e1c066d3ab&wsTime=694fc351"
+          ]
+        },
+        {
+          "name": "CBA:上海vs四川",
+          "urls": [
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-406795477566096215_hd.flv?arch_hrchy=s2&expire=1767439825&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=1ef90feaf5ac9d983a3b1dabde96693a&t_id=037-2025122719302491A6CE50C87D29A0935B-BmH7qa&unique_id=stream-406795477566096215_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:广厦vs深圳",
+          "urls": [
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-695025858146992983_hd.flv?arch_hrchy=s2&expire=1767439825&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=d8b640cd93ce46ee02825295e1b00038&t_id=037-2025122719302491A6CE50C87D29A0935B-ZRJwe5&unique_id=stream-695025858146992983_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:北控vs辽宁",
+          "urls": [
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-118565108660306775_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-2025122719302491A6CE50C87D29A0935B-uQDY5P&unique_id=stream-118565108660306775_855_flv_hd&wsSecret=e68328ceb13e773d5ebc5fa6de0c7412&wsTime=694fc351"
+          ]
+        },
+        {
+          "name": "原声:上海vs四川",
+          "urls": [
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-406795489916748631_hd.flv?arch_hrchy=s2&expire=1767439825&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=bc962cec499d0eaf476e6933a660ab43&t_id=037-2025122719302491A6CE50C87D29A0935B-j5mAFc&unique_id=stream-406795489916748631_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-27T11:00:31.897Z",
-  "shanghaiTime": "2025-12-27T19:00:31.897Z",
-  "count": 25,
+  "timestamp": "2025-12-27T11:30:25.396Z",
+  "shanghaiTime": "2025-12-27T19:30:25.396Z",
+  "count": 24,
   "mode": "today",
   "source": "real + cba_live"
 }
