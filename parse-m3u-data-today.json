@@ -7,7 +7,7 @@
       "title": "德州人vs闪电",
       "keyword": "12月28日05:30",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -135,7 +135,7 @@
       "title": "[早安Tip_Off]第66期",
       "keyword": "12月28日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -710,14 +710,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767484831&major_anchor_level=common&sign=9d0ca8d249d34a2f6a30e249127e0fa9&t_id=037-20251228080031EE3ED962983E84651944-SHlwLZ&unique_id=stream-695011654549635756_684_flv&volcSecret=9d0ca8d249d34a2f6a30e249127e0fa9&volcTime=1767484831"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767486624&major_anchor_level=common&sign=ecdb2d6fa7025e4a43eaa26f16ce3273&t_id=037-20251228083024AC519CCEF1C970957B1D-3nle1t&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-28T00:00:32.105Z",
-  "shanghaiTime": "2025-12-28T08:00:32.105Z",
+  "timestamp": "2025-12-28T00:30:24.374Z",
+  "shanghaiTime": "2025-12-28T08:30:24.374Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
