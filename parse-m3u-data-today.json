@@ -161,7 +161,7 @@
       "title": "巨人vs突袭者",
       "keyword": "12月29日05:05",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -193,7 +193,7 @@
       "title": "老鹰vs比尔",
       "keyword": "12月29日05:25",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -398,7 +398,7 @@
           ]
         },
         {
-          "name": "���路_皓篮球",
+          "name": "二路_皓篮球",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=a7e5cec6628ddfd8d4a76dd28250233f&id=P6BqDo6iYN5d8nbdomSTMPU5ZzLCNRZAmUMDa4aXemCFT6tvt5wTVjSRAHTTTapiQ2bjbYKGyUzBuX9UwN0hzvqUK4tpxNt8zPGX1c0WB4m8SJr8GkySRqM7yHYWJj%2BHnoqfyMNrVXp%2Flbcf9T6YS2ede4Re6ljNdESKw5wbcDGJTP%2FwW5s1YQK9DLtgRHBli4FTWvWPD%2FnCWZWH6566nkExzPkWWm8lYvnxYNaA6TXDeoxdXdj99abRGqqclwbuEu816GPJ2hrFDWsDbWdU4RVuCHYHHl%2FOUPSOzK4mmKOhsDymRmOmXJFJXzcgQUQszhooohjYKhfLK%2F2g%2B%2FwVbw%3D%3D&name=wfT2X3XrKQsou%2Fy0gx1uGbpSLmJ2yGUcR0eRjyWMFPfi7OHh1IW9CC0gT2NLm0yx%2FKd3BdwOgnEt%2F22mwrpyreY6VLXewpPfkMKurgOTG3o%3D"
           ]
@@ -640,14 +640,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767560428&major_anchor_level=common&sign=9bd746ce47a90ed807ea90b856f98970&t_id=037-20251229050028094DD601FD4A43D067E7-L5wLYO&unique_id=stream-695011654549635756_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767562223&major_anchor_level=common&sign=ff9c3f43ba1cd42df50b9cada373e30c&t_id=037-202512290530235711C2EA8B57D2E6361E-gFXw56&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-28T21:00:28.475Z",
-  "shanghaiTime": "2025-12-29T05:00:28.475Z",
+  "timestamp": "2025-12-28T21:30:23.881Z",
+  "shanghaiTime": "2025-12-29T05:30:23.881Z",
   "count": 22,
   "mode": "today",
   "source": "real + cba_live"
