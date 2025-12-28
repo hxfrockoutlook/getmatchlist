@@ -398,15 +398,35 @@
           ]
         },
         {
-          "name": "二路_皓篮球",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=a7e5cec6628ddfd8d4a76dd28250233f&id=AjhNHf6LjBUuCvrGdafdHKawwdG3%2B0hvEkW3Y9dIPLDenBO%2FaS3WHjKkcAKavw7t2bqQWSuCR0WwrovQ%2BL1WsnuREBX%2B6yUyIDEZpov5QftdCwYNtR8JygMvqfJ5FyWZAUB9bD1EFFdbx4dYHciHL3m1oiagZD3YE7Pilm%2FNswbrzh653DKSPstKW9uIqJXXwOSPw4qdeLT3%2B64ZV022voYnGi4G%2F%2BTf9a1uw0tfz0%2BtU%2BLnIuwcTasY8KBLX6xJH80z9Ywpabkepas4EbifGUwWgmoE3rUfcYOTjY7%2FB0wBrYuTgjqUxarWhFqcpjMOawF7ncZeNRLqhEI1is0chQ%3D%3D&name=Vwzkf%2Fk5ZexnmRHobcKupbtlIi9Fl0ejPx704kGr3hsUC9USZ4W867SVmBvSt0IsqUw5%2BMgv0o1eYuAGxnO%2FtWeymD8NQ4g3iTbDP%2Bs2TWg%3D"
-          ]
-        },
-        {
           "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=e9a3bc126a6bdb584e516d1c20a2ba47&id=FHoSqJGXOwtrZEU9CCHXqY6i9ztzY9Lr6py4lNnXnc893IzZI%2BzjFRkl3YruqVSvU2zPB17nJB6d0cvffFB0u6RaoG7CBiB0xP8Z39wecu%2FrYkGrySDG2P8hLmJI3hrSFZC%2Bqx5VxfG0M0BFSP%2BlxqLKKBRMse4dnO4D3APK43HBrKZp5CGHfm7zQ3YyX3Evl7xrfa5pJoFPG2Vs6HiR9Ch0qIHDJULVCo6bA6ZpuDJSHZYj8SdPeEGU5kjRtc4u%2BSwheg%2F5m3T6mV%2FCiHuGzsQ4y0RW4hS%2FxhRUyNakSzvvDuRJdTgV8lRKbWUZKZsF%2FYnLFayqSmOWMuJJqqEMSg%3D%3D&name=ODWEpGb39XKjrpbex7CuMWVlv4kJabQYMyFw1IBJqVUq8q0j5solFbbulQcpkJ8kXkcYlbGJKSu1kZT1nTjqxaSK8udGcosKGf8vclgY8GI%3D"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "23c9ff99d1d3f377",
+      "title": "国���vs湖人",
+      "keyword": "12月29日10:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA常规赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "国���vs湖人",
+      "modifyTitle": "NBA常规赛 国���vs湖人",
+      "presenters": "",
+      "matchInfo": {
+        "time": "12月29日10:30"
+      },
+      "nodes": [
+        {
+          "name": "二路_皓篮球",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=a7e5cec6628ddfd8d4a76dd28250233f&id=AjhNHf6LjBUuCvrGdafdHKawwdG3%2B0hvEkW3Y9dIPLDenBO%2FaS3WHjKkcAKavw7t2bqQWSuCR0WwrovQ%2BL1WsnuREBX%2B6yUyIDEZpov5QftdCwYNtR8JygMvqfJ5FyWZAUB9bD1EFFdbx4dYHciHL3m1oiagZD3YE7Pilm%2FNswbrzh653DKSPstKW9uIqJXXwOSPw4qdeLT3%2B64ZV022voYnGi4G%2F%2BTf9a1uw0tfz0%2BtU%2BLnIuwcTasY8KBLX6xJH80z9Ywpabkepas4EbifGUwWgmoE3rUfcYOTjY7%2FB0wBrYuTgjqUxarWhFqcpjMOawF7ncZeNRLqhEI1is0chQ%3D%3D&name=Vwzkf%2Fk5ZexnmRHobcKupbtlIi9Fl0ejPx704kGr3hsUC9USZ4W867SVmBvSt0IsqUw5%2BMgv0o1eYuAGxnO%2FtWeymD8NQ4g3iTbDP%2Bs2TWg%3D"
           ]
         }
       ]
@@ -640,15 +660,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&auth_key=1767562237-0-0-6cc80c659f10f9a8c024c1f517b8f5bf&exp_hrchy=w1&major_anchor_level=common&t_id=037-202512290600378E803F5CB8F108036B94-oBYdDF&unique_id=stream-695011654549635756_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767565821&major_anchor_level=common&sign=74f27096e1ca1e1eae239981bad6ba6d&t_id=037-20251229063021F8CFFAAD6E0F4B300337-fCCilk&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-28T22:00:37.945Z",
-  "shanghaiTime": "2025-12-29T06:00:37.945Z",
-  "count": 22,
+  "timestamp": "2025-12-28T22:30:22.148Z",
+  "shanghaiTime": "2025-12-29T06:30:22.148Z",
+  "count": 23,
   "mode": "today",
   "source": "real + cba_live"
 }
