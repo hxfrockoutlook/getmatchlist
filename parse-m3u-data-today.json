@@ -125,32 +125,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "e2a0ce02c588a670",
-      "title": "掘金vs���火",
-      "keyword": "12月30日08:30",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBA常规赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "掘金vs���火",
-      "modifyTitle": "NBA常规赛 掘金vs���火",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月30日08:30"
-      },
-      "nodes": [
-        {
-          "name": "郑诚",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=b0ccf9249d9eb2aa26cf1a40cad7e115&id=TaoUHNVsu1otjhrkK5Tre0nIhP%2BGiRhRihAgocOZVaNlyW8P3TH78x53pWBVoKt1F4eVrfMPuUDv%2Bw4F24tVfMw8Pv1yUIeGsRHAi5hrcnTA7YGHs%2BM6Ge1TFxIL43jO23DmyHhY7luHxw85Jc%2FY9mY9sX8DsejLxxXm1iPERyB%2FK4uimwz2wzKtvZv1qo2Suyfxzbb4iQtXEh1m%2BUZEcJhCOB%2Fhm1yGDr6jECUXvAxY2T07XsvBISL8aaPbZizFFgAJxUg2weNyJxLoRrsu3XyIC0z0uD1nudAe7P6W0v0N7eyC%2BtWJd5Qlu4PTbSkHzRTE09pwYsGBVL23f0d%2BcA%3D%3D&name=W%2FbIpECt2ZglhB5t4%2FRyRttDVL4aBCYzXRAUZROlPBjs58AKLoxo%2BGVBevxWU9VrD7G51Mc54TSraO%2BjKJRp2D%2BcAvpTIF%2Bw4CmGXSlqCXE%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "0d54151bfec18794",
       "title": "掘金vs热火",
       "keyword": "12月30日08:30",
@@ -167,6 +141,12 @@
         "time": "12月30日08:30"
       },
       "nodes": [
+        {
+          "name": "郑诚",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=b0ccf9249d9eb2aa26cf1a40cad7e115&id=TaoUHNVsu1otjhrkK5Tre0nIhP%2BGiRhRihAgocOZVaNlyW8P3TH78x53pWBVoKt1F4eVrfMPuUDv%2Bw4F24tVfMw8Pv1yUIeGsRHAi5hrcnTA7YGHs%2BM6Ge1TFxIL43jO23DmyHhY7luHxw85Jc%2FY9mY9sX8DsejLxxXm1iPERyB%2FK4uimwz2wzKtvZv1qo2Suyfxzbb4iQtXEh1m%2BUZEcJhCOB%2Fhm1yGDr6jECUXvAxY2T07XsvBISL8aaPbZizFFgAJxUg2weNyJxLoRrsu3XyIC0z0uD1nudAe7P6W0v0N7eyC%2BtWJd5Qlu4PTbSkHzRTE09pwYsGBVL23f0d%2BcA%3D%3D&name=W%2FbIpECt2ZglhB5t4%2FRyRttDVL4aBCYzXRAUZROlPBjs58AKLoxo%2BGVBevxWU9VrD7G51Mc54TSraO%2BjKJRp2D%2BcAvpTIF%2Bw4CmGXSlqCXE%3D"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -582,15 +562,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=695bee2c&major_anchor_level=common&sign=cb24a807207c55926feea316bd2c3f81&t_id=037-20251230010028CA342D4CF5EC830AB6B7-hEM8Bs&unique_id=stream-695011654549635756_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767634223&major_anchor_level=common&sign=88c36bde5485982cf929dcc5e59377e7&t_id=037-202512300130221EA846ECE9D1550BF6F1-PoSbFd&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-29T17:00:29.019Z",
-  "shanghaiTime": "2025-12-30T01:00:29.019Z",
-  "count": 20,
+  "timestamp": "2025-12-29T17:30:23.231Z",
+  "shanghaiTime": "2025-12-30T01:30:23.231Z",
+  "count": 19,
   "mode": "today",
   "source": "real + cba_live"
 }
