@@ -328,7 +328,7 @@
       },
       "nodes": [
         {
-          "name": "罗��",
+          "name": "罗森",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=c0f1e52f7a725de3ece6f8649ef8fc02&id=4T%2FlRkm8DJzggC1LlgIIGSstYa0Gzob2mI2eF3jFaEcBwmtDiAfMDs6%2FIM96ZSOU9R5ncmxr0TEbN9U96qOulaYzNHNTI56h7j5BUnM%2BnFkPdrz62HoXxMziKJEOzSoCpfSGkJVpAi0JlvLLsDrptmggzGTu4cn1ARIuvKc%2Bih17dXJJCOIt7DWhbpkenGNrrcHIweoYMv7VUNl%2FMCfl3ScTevSQqHLo3tg5oVMJ156jcJis9MN5QH4Jn3i3K4pk7uv%2Bcc8X%2FlAAM3IHgG2Yktw1%2FN3YpWU7Kfg4YZ%2FIbfs%3D&name=QNMO7BOJ%2BH6WNgH8v0SviWN8UqvwRG0l15%2BQSPVMkfPe1nNlGHfYeXjlVi99Cy5EBwXrrwHDAqrHzTj%2BI35CWg%3D%3D"
           ]
@@ -796,14 +796,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=695b8bbe&major_anchor_level=common&sign=934738bed3e144d399eee4ff13be3c94&t_id=037-20251229180030CB2EC6B4780AA9549CCF-sFbST8&unique_id=stream-695011654549635756_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&auth_key=1767607223-0-0-c5b2c555e2a7167f64921a998e409efe&exp_hrchy=w1&major_anchor_level=common&t_id=037-2025122918302308627C3F218F4B8437CE-ObQBe5&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-29T10:00:31.098Z",
-  "shanghaiTime": "2025-12-29T18:00:31.098Z",
+  "timestamp": "2025-12-29T10:30:24.017Z",
+  "shanghaiTime": "2025-12-29T18:30:24.017Z",
   "count": 28,
   "mode": "today",
   "source": "real + cba_live"
