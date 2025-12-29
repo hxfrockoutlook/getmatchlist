@@ -328,7 +328,7 @@
       },
       "nodes": [
         {
-          "name": "���森",
+          "name": "罗森",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=c0f1e52f7a725de3ece6f8649ef8fc02&id=Rc0GYvFqWHyaINCVfGSIS3e1BhVaKS80pkgLcvSgwNgNpvjKBirWQwlEMmvLaCf5rfbzW8mwRfdZEzNtMbShlNgELeU%2BfKCIerFd%2FfMLygugUySerO%2BVci1SeDsSkEEopoWE5Hn4DAcdKnEU%2FfRRj4rx7zdvp7PgvOHygCYtLRyq3GMfHzYnkYnv0ENM%2B5pRMfcE4IaL8MmscGL18skKQMbU740mMBDsGKi2QmtKB0UZf4KS4D%2FHKzuHqCKGnYwmNv89W5TXTH763TkhY4IWoajeAnQZx7DeeKb60ijPD9w%3D&name=3rUTubp0BRD3G%2FravTvWO88%2FMdjIJA1pCW5jgifQtKJ3VWop2fEZw0x6ipUx1MaXjuR7IDQvEfn88YWVGjGxew%3D%3D"
           ]
@@ -744,32 +744,32 @@
         {
           "name": "CBA:北控vs上海等两场比赛同播",
           "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-406807133972857687_hd.flv?arch_hrchy=s2&expire=695ba7df&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=7809de6ec1dd476eeadff29f208c49a6&t_id=037-20251229200031421BB111F4291E0367EB-K6HTpx&unique_id=stream-406807133972857687_855_flv_hd"
+            "http://pull-f3.douyinliving.com/fantasy/stream-406807133972857687_hd.flv?arch_hrchy=s2&auth_key=1767614424-0-0-9fc51df9758eb807935656f73f410581&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202512292030238AD1C9BD9822A2D7FA15-apSoKd&unique_id=stream-406807133972857687_855_flv_hd"
           ]
         },
         {
           "name": "CBA:深圳vs辽宁",
           "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-118576763046986583_hd.flv?arch_hrchy=s2&expire=695ba7df&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e96db7ba36a4b16b49d1a8021f41f336&t_id=037-20251229200031421BB111F4291E0367EB-jTNf7e&unique_id=stream-118576763046986583_855_flv_hd"
+            "http://pull-f3.douyinliving.com/fantasy/stream-118576763046986583_hd.flv?arch_hrchy=s2&auth_key=1767614424-0-0-5a8954065e683d86215e1b4ca33c8347&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202512292030238AD1C9BD9822A2D7FA15-pJQ006&unique_id=stream-118576763046986583_855_flv_hd"
           ]
         },
         {
           "name": "原声:北控vs上海",
           "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-406807141823021911_hd.flv?arch_hrchy=s2&expire=1767614431&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e26e5055c34fab1f169f72d75e0ec8ff&t_id=037-20251229200031421BB111F4291E0367EB-ldsRVN&unique_id=stream-406807141823021911_855_flv_hd"
+            "http://pull-f3.douyinliving.com/fantasy/stream-406807141823021911_hd.flv?arch_hrchy=s2&auth_key=1767614424-0-0-f0a0d8f520d80cbe01706e39a33e5de5&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202512292030238AD1C9BD9822A2D7FA15-UZHj6T&unique_id=stream-406807141823021911_855_flv_hd"
           ]
         },
         {
           "name": "原声:深圳vs辽宁",
           "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-695037521599136599_hd.flv?arch_hrchy=s2&expire=695ba7df&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=20899b644b324e7fb4ac49f0affc8b60&t_id=037-20251229200031421BB111F4291E0367EB-wME3Ra&unique_id=stream-695037521599136599_855_flv_hd"
+            "http://pull-f3.douyinliving.com/fantasy/stream-695037521599136599_hd.flv?arch_hrchy=s2&auth_key=1767614424-0-0-bedfd8bb9288ce0c755d896d6c50d700&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202512292030238AD1C9BD9822A2D7FA15-RG6Uj7&unique_id=stream-695037521599136599_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-29T12:00:32.355Z",
-  "shanghaiTime": "2025-12-29T20:00:32.355Z",
+  "timestamp": "2025-12-29T12:30:24.601Z",
+  "shanghaiTime": "2025-12-29T20:30:24.601Z",
   "count": 26,
   "mode": "today",
   "source": "real + cba_live"
