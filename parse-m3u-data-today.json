@@ -417,7 +417,7 @@
       "title": "NBA常规赛精彩回顾：勇士vs篮网",
       "keyword": "12月30日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -562,14 +562,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=695c9df1&major_anchor_level=common&sign=a20945aee14cf738a14a36984b82a0eb&t_id=037-2025123013302573A73855DAF338955510-juz0Vs&unique_id=stream-695011654549635756_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&auth_key=1767677432-0-0-567f933494cfbb256ccf8eda7669ab54&exp_hrchy=w1&major_anchor_level=common&t_id=037-20251230140032D1285482B7DE4E14CD40-WTKsRG&unique_id=stream-695011654549635756_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-30T05:30:25.983Z",
-  "shanghaiTime": "2025-12-30T13:30:25.983Z",
+  "timestamp": "2025-12-30T06:00:32.645Z",
+  "shanghaiTime": "2025-12-30T14:00:32.645Z",
   "count": 19,
   "mode": "today",
   "source": "real + cba_live"
