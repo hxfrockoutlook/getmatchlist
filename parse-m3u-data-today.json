@@ -193,7 +193,7 @@
       "title": "NBA常规赛精彩回顾：76人vs灰熊",
       "keyword": "12月31日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -290,37 +290,11 @@
           ]
         }
       ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "12月31日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "12月31日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695011654549635756.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767781822&major_anchor_level=common&sign=95da391da65747fec1d766b553505912&t_id=037-2025123118302244EEEC1A3C590DFF7B44-OnxhvV&unique_id=stream-695011654549635756_684_flv"
-          ]
-        }
-      ]
     }
   ],
-  "timestamp": "2025-12-31T10:30:22.845Z",
-  "shanghaiTime": "2025-12-31T18:30:22.845Z",
-  "count": 11,
+  "timestamp": "2025-12-31T11:00:35.920Z",
+  "shanghaiTime": "2025-12-31T19:00:35.920Z",
+  "count": 10,
   "mode": "today",
-  "source": "real + cba_live"
+  "source": "real"
 }
