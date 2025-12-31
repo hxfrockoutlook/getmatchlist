@@ -103,7 +103,7 @@
       "title": "太阳vs骑士",
       "keyword": "01月01日04:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -395,32 +395,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "6b4debfaf60e2865",
-      "title": "NBA常规赛精彩回顾：尼克斯vs马刺",
-      "keyword": "01月01日18:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBA经典赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：尼克斯vs马刺",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：尼克斯vs马刺",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月01日18:00"
-      },
-      "nodes": [
-        {
-          "name": "NBA常规赛精彩回顾：尼克斯vs马刺",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=93ddc59843b31bf0d019670e9a7aa4bf&id=9m%2FhaSbhhnPoqTq0i9dmYfHLZpVTeCDYA9VViAGXkMyC0m3Nnle8EpCPKl5jAh9bcSm2YEuaB%2BOLmXTRnkeMtOVzUTAWPiPPA%2BYYuZYG24cjgjUYtL1FoqFsraV4k5S6YKFOouXngtyBmH%2Filw2GSXjllSnhzysuy7iI2%2FHNxmRZh9GybJ4G6nMugKMDORxOIximcg9HrA8aBAdtN8xSKxbZOBeO2C61Ee0bRY90m%2BlQaKivslwHaW%2FN2LxV%2BP2%2Ft4fFVm6F5nCRvygf%2FHsCl7z647hQM5XsXbTNJEhChFyln0QyoOb0gz2a7oebEE4L&name=Lgac1BCKLkoWS2HmRdz6VjbpV9xPETiG23eKwjUguqZIaspB6SI5%2B5TXyv2gP3bKNAIgDSG1i78e6SPgUjZftZYPyx7PyBXcOh%2B6llJq3th8cX5caI3TKxF0i%2BK7nsON"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "2efce8d943f765df",
       "title": "2026中国棒球城市联赛立春联赛常规赛：深圳蓝袜vs福州海侠",
       "keyword": "01月01日18:30",
@@ -544,15 +518,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767816033&major_anchor_level=common&sign=b23a1cee0529969db5dd33e9b3778d1c&t_id=037-20260101040033A2CBC9C346BF2E6479F1-Oyu5mI&unique_id=stream-695054762529260204_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=695ec263&major_anchor_level=common&sign=7e15b3b1023b98915a2c05b98f0cd93f&t_id=037-2026010104302744C30F37840C419AE222-PkU3Ii&unique_id=stream-695054762529260204_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2025-12-31T20:00:33.529Z",
-  "shanghaiTime": "2026-01-01T04:00:33.529Z",
-  "count": 19,
+  "timestamp": "2025-12-31T20:30:27.985Z",
+  "shanghaiTime": "2026-01-01T04:30:27.985Z",
+  "count": 18,
   "mode": "today",
   "source": "real + cba_live"
 }
