@@ -739,7 +739,7 @@ function convertCBAReplyData(cbaData, mode = 'all') {
 
 // 获取抖音直播间重定向地址
 async function getDouyinLiveUrl() {
-  const ridList = ['983488708402', '339638082961'];
+  const ridList = ['983488708402', '330698468897'];
   
   for (const rid of ridList) {
     try {
