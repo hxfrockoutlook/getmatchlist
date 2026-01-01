@@ -302,7 +302,7 @@
       },
       "nodes": [
         {
-          "name": "王嘉琦 孙悦 辰辰",
+          "name": "王���琦 孙悦 辰辰",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=f79272baaeb8f5d3ad79da94fad9fab9&id=W2%2BEqSYIRmHBH7UAUANBO30%2B0FCFFaGa6bIb4Eoo1lXVzcQX49wLykV45HLMBB4Cv%2BC6taZrqt%2BDvoJVeffYMVmPWgz12uMttRCOwIbNGGYasNnysnf6h0TH72eu0%2FVU5fGr2UEeaQO8lZZnrfNNC03tCT14GEMmCHPKszKSZOh1QW12lEjfVmodiY%2BmJHR0d3ajlqjGAPNjKoC88NZmPOb07wDqsp2ESEFjdoDxSbmAiWoCV%2FhmYrE%2FGeJYkNoKTrtKPZVyW5Hpsculdm6U5PCuNSndEafdxtEkAsaqQpoNaGfpcgBucqSyjXz6J3DPBns55FGY7385escmwBTzSQ%3D%3D&name=8RXNAHia5utluAypvwjIoa9fGB3ySp8IlGcAoTroHS6TNFdoht8wueis%2BAZcmEKN6icU5eQoKVGsEYKN6zsGA5DnjGcIX%2BH81jDq6pl5vk5BfrXS4xlI0nErtnOZUjHQ"
           ]
@@ -544,14 +544,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&auth_key=1767844840-0-0-31fe94f124afc7460d84283484756ba6&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601011230401E18457BBBBF280E5D00-gJQ2aA&unique_id=stream-695054762529260204_684_flv"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1767848433&major_anchor_level=common&sign=53d992902fe174e8ac7573bc7e12da6a&t_id=037-20260101130033DFC3D6E7226DFB30CB18-GWZXSW&unique_id=stream-695054762529260204_684_flv&volcSecret=53d992902fe174e8ac7573bc7e12da6a&volcTime=1767848433"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-01T04:30:40.885Z",
-  "shanghaiTime": "2026-01-01T12:30:40.885Z",
+  "timestamp": "2026-01-01T05:00:33.385Z",
+  "shanghaiTime": "2026-01-01T13:00:33.385Z",
   "count": 19,
   "mode": "today",
   "source": "real + cba_live"
