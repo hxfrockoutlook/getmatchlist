@@ -881,8 +881,8 @@ async function main() {
       
       // 获取当前日期并格式化
       const shanghaiTime = getShanghaiTime();
-      const month = shanghaiTime.getMonth() + 1;
-      const day = shanghaiTime.getDate();
+      const month = String(shanghaiTime.getMonth() + 1).padStart(2, '0');
+      const day = String(shanghaiTime.getDate()).padStart(2, '0');
       const formattedDateTime = `${month}月${day}日19:30`;
       
       // 先尝试从cbalive.php获取nodes数据
