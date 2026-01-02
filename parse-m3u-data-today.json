@@ -45,7 +45,7 @@
       "title": "热火vs活塞",
       "keyword": "01月02日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -109,7 +109,7 @@
       "title": "[早安Tip_Off]第71期",
       "keyword": "01月02日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -135,7 +135,7 @@
       "title": "凯尔特人vs国王",
       "keyword": "01月02日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -325,6 +325,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "4d5609b51be6c434",
+      "title": "NBA常规赛精彩回顾：凯尔特人vs国王",
+      "keyword": "01月02日20:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：凯尔特人vs国王",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：凯尔特人vs国王",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月02日20:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：凯尔特人vs国王",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=3f8e4d4d1e68b20810200916c574ae7b&id=aj9pQs5ZCUiPCQTxyEkpPPQXArdHLwCr46eY3CzmN7BfTSGUejodtqvPzBwvXZKIjdRiM7obz1hVmajj8Ebczs9TDqzkex9oqagG88dHJiQYr0YVwCy4gz1WFcWbt6T3wmOFAyATXV%2FNe1enhmAHqXOWqtuio%2B%2B%2BlHFcP3k4qIJdQy0THpBpvYEnysQAm%2Fp8zRgJO2isMvrNJdmXKXflvB7hFf3m7ohnw2vTU33PWKry%2BaxCYCU91B8f1vwJqJhDJa608A%2BQX0H5r1Dp%2FYzLHM680WsFWQyPrEwJ9Oj2Od4tJeQO0%2B%2F7H2n1nh7V1QsI&name=Ip0HwZRYN3HnNHCjS3uOdDBG7vzeAXF3DRAF3xm9CH%2FAVt4Yc2s4w2mxBXkGnAmbLAtkfdJunpymfB98RK5YqydsOobgiaG6NCINllYSoLm7is2FB2TqSexgigsqgGrY"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
       "keyword": "01月02日19:30",
@@ -344,15 +370,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6960684c&major_anchor_level=common&sign=84fa681af9a1e34172664dac6ba22b03&t_id=037-20260102103036EBB48AD1272B1E747D1B-OqSwI4&unique_id=stream-695054762529260204_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&auth_key=1767925831-0-0-c3c6273ff64b45ed1a9c5c6c3bbf2dbc&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260102110031F0E7B0486C5120338D36-RP1T4b&unique_id=stream-695054762529260204_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-02T02:30:37.072Z",
-  "shanghaiTime": "2026-01-02T10:30:37.072Z",
-  "count": 12,
+  "timestamp": "2026-01-02T03:00:32.066Z",
+  "shanghaiTime": "2026-01-02T11:00:32.066Z",
+  "count": 13,
   "mode": "today",
   "source": "real + cba_live"
 }
