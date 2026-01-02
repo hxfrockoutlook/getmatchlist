@@ -632,22 +632,16 @@ async function fetchCBAReplyData(retries = 3, delay = 2000) {
 // 将标准日期时间字符串转换为MM月DD日HH:MM格式
 function formatStandardDateTime(dateTimeStr) {
   try {
-    // 解析标准格式：2025-12-16 19:35:00
     const match = dateTimeStr.match(/^(\d{4})-(\d{2})-(\d{2}) (\d{2}):(\d{2}):(\d{2})$/);
     if (!match) return dateTimeStr;
     
-    const year = match[1];
     const month = match[2];
     const day = match[3];
     const hour = match[4];
     const minute = match[5];
     
-    // 去掉前导0
-    const monthNum = parseInt(month, 10);
-    const dayNum = parseInt(day, 10);
-    const hourNum = parseInt(hour, 10);
-    
-    return `${monthNum}月${dayNum}日${hourNum}:${minute}`;
+    // 保持所有部分为两位数
+    return `${month}月${day}日${hour}:${minute}`;
   } catch (error) {
     console.error(`格式化日期时间错误: ${dateTimeStr}`, error);
     return dateTimeStr;
