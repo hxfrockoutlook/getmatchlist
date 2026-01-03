@@ -7,7 +7,7 @@
       "title": "黑豹vs海盗",
       "keyword": "01月04日05:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NFL常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -540,37 +540,11 @@
           ]
         }
       ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "01月04日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月04日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&auth_key=1768077026-0-0-a5e95d3a09d4c2158289a30130404251&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260104050026B42761CA529DED5A0FFF-RmaZnq&unique_id=stream-695054762529260204_684_flv"
-          ]
-        }
-      ]
     }
   ],
-  "timestamp": "2026-01-03T21:00:26.991Z",
-  "shanghaiTime": "2026-01-04T05:00:26.991Z",
-  "count": 19,
+  "timestamp": "2026-01-03T21:30:41.972Z",
+  "shanghaiTime": "2026-01-04T05:30:41.972Z",
+  "count": 18,
   "mode": "today",
-  "source": "real + cba_live"
+  "source": "real"
 }
