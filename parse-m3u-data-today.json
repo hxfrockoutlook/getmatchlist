@@ -485,24 +485,24 @@
     },
     {
       "mgdbId": "",
-      "pID": "9d9498cdf04d478f",
-      "title": "2026中国棒球城市联赛立春联赛常规赛：上海正大龙vs福州海侠",
+      "pID": "a20715f69b53c147",
+      "title": "2026中国棒球城市联赛立春联赛常规赛：上��正大龙vs福州海侠",
       "keyword": "01月03日18:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "棒球",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "2026中国棒球城市联赛立春联赛常规赛：上海正大龙vs福州海侠",
-      "modifyTitle": "棒球 2026中国棒球城市联赛立春联赛常规赛：上海正大龙vs福州海侠",
+      "pkInfoTitle": "2026中国棒球城市联赛立春联赛常规赛：上��正大龙vs福州海侠",
+      "modifyTitle": "棒球 2026中国棒球城市联赛立春联赛常规赛：上��正大龙vs福州海侠",
       "presenters": "",
       "matchInfo": {
         "time": "01月03日18:30"
       },
       "nodes": [
         {
-          "name": "2026中国棒球城市联赛立春联赛常规赛：上海正大龙vs福州海侠",
+          "name": "2026中国棒球城市联赛立春联赛常规赛：上��正大龙vs福州海侠",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=fded1d8d8c64238dbf8141e201daf291&id=W13USL5nqYnfqQabKRRBMYqa76gZZmpmMc2oL680jn5zVCxxidqoiBEe455JBTfPjs%2FHrv3yBYeCEOSERDE45zOyHZgY3mfiP4owyIbTtgTvv7t6xKtkBHl8Pxm9O4tAGMt8wqy1wLBH4enoz6LAzdzwBpKJhJ%2F9RXujhVcx%2FzFX1A4zgKzz4%2FEHvRAt9q8tc5KU1OgNC3nIcaKZaKXZxZhHIYuiFrw5QNboTufXywDRLYJwTDS7Z7rh7OfW%2F6mbB6S6rb4D46D0gEQcT0B6EQ26N5pyLXCo37Ikl0hsbks6ZiI4Hve%2BMW%2BFG7MF0Cg8&name=DzHazMXVPdrn5zHyHyzrp9DS0vhC16hB772Y1zsoeAscJ9z062cnWu4EGECfWKdu0xQuggFsENF8f8%2B8FJcjCRDp%2B295A2ubStTZnJaL7V6Mg4x4z3CvD0dRz2mPPYP8e2m7a0HZsfBc%2BTdSem9Cz3Y0Pkbme97Hja%2B4zdmuG78%3D"
           ]
@@ -582,14 +582,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260103180030EB2DA03C4CEBE50CC3B6-7mqZlj&unique_id=stream-695054762529260204_684_flv&wsSecret=10b1d9e0c09eca2de637d15b66bb398a&wsTime=6958e8be"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69622a42&major_anchor_level=common&sign=22c1eff1dda63987544a8052f6d8fe5c&t_id=037-20260103183026B2165948BE774306051C-QI64MK&unique_id=stream-695054762529260204_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-03T10:00:31.101Z",
-  "shanghaiTime": "2026-01-03T18:00:31.101Z",
+  "timestamp": "2026-01-03T10:30:26.559Z",
+  "shanghaiTime": "2026-01-03T18:30:26.559Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
