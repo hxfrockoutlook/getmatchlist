@@ -460,22 +460,28 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=08c8307442b1509f144dca7ff164bb78&id=EXlv83rJNKR6CjKWIaYF5Ff0xo%2BZ%2B96dGUdtA8xvyjZZq8JFFyrr8rbyAyuJA0tjbE3ewysMqHP3uS9SGpwiRqiSoHksDfiL2WN0HVPeiXmg0g6%2BJQxsR997sSKlh%2BomPIOWzM5mba4OG2C%2FofbcLggPukq7SSxjyHwCavxeL03FWEFFpBP3QNyc%2FSj5r97EBmuNXVkkMBHGd0wTz2UcIRwPsMNZRa9Ve5XTT0m7Y3iws1k%2FCetunMBrOmaIex09k%2Bn9Z8CWoPfN6uGhrCgYNBA%2F9ZsSga2J1uDWCNqdCbEBhDkYwonLenTXzdXgf%2B%2B3VG%2BTBXVH99kdkBpHPK5%2B3A%3D%3D&name=YMAoGfsnqstPF2%2BXuaBFXT1IceZrdDts%2F03bOhhmwUrQp1uARAPTndlWp4nFniu2R7Daak0Z%2B6gs92UIr7md3ASIqwPaXvpMaaxJteR2te1Ob%2BHpJqnQ1k3OKcTZHWSI"
           ]
+        },
+        {
+          "name": "英文原音",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=61c454153986a92439a1a12185bcfe52&id=A8Ms5So9%2BHsJpoSR7BL7Zp02f9yCfv4BaKhK2ea7WYnBBTKs%2BXUPDB1swD5UZOfEaH4dbm0ljh9Aa%2FpJqiDvTg8EfqkNvALKxcU6id7Nzu3DbReKhvqr%2BpFwfUajnEGt5FILXE106Bv89Ct3dAHGND4s5IZdTVDQ2ThVQQxnFMa1SbQQ6v%2B1288Ljy6EgR49nCpfYyinOkJQs2Q%2BE0VWw2KWMT3XXhraaxRyZeBFu5tHASNag3qejICKKEvul1DXLOqZ6bquJz%2BRqXy3zXtIalMNtkmuA4ES12uhKvHdGAlNJgXykDhnd7OmpkdYhNwGbbpRR9CmXvCykGdgWJ8WEA%3D%3D&name=e0382jzUjqy06qrUVHrGoQmvTmFjT6sgtjEMOrJuU0ESP0imb92zwNxG6BVdFrxQt1UFV6ltKu%2FnutVxJg01PlBsHVruyA3yuRRldK3qK0Y%3D"
+          ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "63d6b70dfa4947b9",
+      "pID": "b7faa638895c2bd1",
       "title": "NBA常规赛精彩回顾：活塞vs骑士",
       "keyword": "01月05日14:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBA经典赛",
+      "competitionName": "NBA经典��",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "NBA常规赛精彩回顾：活塞vs骑士",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：活塞vs骑士",
+      "modifyTitle": "NBA经典�� NBA常规赛精彩回顾：活塞vs骑士",
       "presenters": "",
       "matchInfo": {
         "time": "01月05日14:00"
@@ -614,14 +620,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601050300243C8A7B5D6AEAB3B3743C-MF2IvX&unique_id=stream-695054762529260204_684_flv&wsSecret=305e00a8055bca8f5812295c326f8bac&wsTime=695ab8c8"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768159821&major_anchor_level=common&sign=d9fcefafb78e47b78ae1d1ac46eb1a12&t_id=037-202601050330217900DFDD780AE10C6B70-eUDuZw&unique_id=stream-695054762529260204_684_flv&volcSecret=d9fcefafb78e47b78ae1d1ac46eb1a12&volcTime=1768159821"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-04T19:00:24.928Z",
-  "shanghaiTime": "2026-01-05T03:00:24.928Z",
+  "timestamp": "2026-01-04T19:30:21.769Z",
+  "shanghaiTime": "2026-01-05T03:30:21.769Z",
   "count": 21,
   "mode": "today",
   "source": "real + cba_live"
