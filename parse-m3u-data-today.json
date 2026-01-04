@@ -471,17 +471,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "fbd2f6a3d5bdb8c3",
+      "pID": "63d6b70dfa4947b9",
       "title": "NBA常规赛精彩回顾：活塞vs骑士",
       "keyword": "01月05日14:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBA经���赛",
+      "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "NBA常规赛精彩回顾：活塞vs骑士",
-      "modifyTitle": "NBA经���赛 NBA常规赛精彩回顾：活塞vs骑士",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：活塞vs骑士",
       "presenters": "",
       "matchInfo": {
         "time": "01月05日14:00"
@@ -620,14 +620,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768150826&major_anchor_level=common&sign=f239c86266dc282fbe1d22b7833508e5&t_id=037-202601050100265EDB3D810DFE20FCB32E-dLTgfK&unique_id=stream-695054762529260204_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026010501302352A5D3A7D16C6A476474-6rJfLQ&unique_id=stream-695054762529260204_684_flv&wsSecret=0614176126b3985b6ff100002b81f0df&wsTime=695aa3b0"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-04T17:00:27.013Z",
-  "shanghaiTime": "2026-01-05T01:00:27.013Z",
+  "timestamp": "2026-01-04T17:30:24.197Z",
+  "shanghaiTime": "2026-01-05T01:30:24.197Z",
   "count": 21,
   "mode": "today",
   "source": "real + cba_live"
