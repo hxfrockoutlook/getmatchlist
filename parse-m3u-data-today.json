@@ -152,6 +152,12 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=40994cb2c0ac55375c5c2651f5f1032b&id=Jqg5RO109MbO2EvySobYxWvt5X7FJ9XnzeKlf8uP%2BDLawqiPNFo3fAT5WVn1lpl7NKgwO4ue3m2rAZSZRVaqHNAOENT5uIeWk7KJoA9%2BUkZwUQn8%2B2l%2FjpKCnA7ICoRpAKoqWeWd%2FbKk5%2Bxu25uUWIzUmXNzBSQx4V2oW2nVGk2gP9dlEjxvNgt9hO3sQFbZ7Rz8gZZjWbkE%2FJM6Y4g6sXra%2FXZI5QZgq4AXPnjjZ5pVLQfKY6rXsDIhST2UEmTvTJl5H%2FFxuk0WBe8sUXRw1d1hNYIXgLUHZwMAr2DM4vw3bbVwBbNP4i8FvCE8Mq5qHoTasJ3Og%2FZsc1RQAGVj6w%3D%3D&name=c1J41OjTsTlDrn%2FQpONRbVFRE0IGwQ%2BIQ66Lg%2B8cjSkv8Ub24Lotaa88D4h8NrdsLvNgAI96YvUznlTA4Q1xyHwWPxtXmJ2vHvpsvoN9C3s%3D"
           ]
+        },
+        {
+          "name": "英文原音",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=69035ae83db4d5ccca45bcd050049bfd&id=Y7CMVGXCo%2BwcZg1ANKrYXxZFmZA4hWguMs3AauTzUh%2Bm2mh8o0i0isLtzbdr11bsa3lTYi3pmxCOLU6sHFbzkc8QBVJ6g%2Fel4qcmthrn4wqpdphIkYJck9mRtSkiJXpMlEykw9gt1P45%2FMP6wRejy77OXsiysqspSzVVDvu%2B0cF8dPUEl%2Fw%2Ba1K5XLq%2FGJLPnOb%2F6%2B%2B252c9q5lLlcYfPoSVEGWncKEtGrQ5og53IqV6zBqydCInp0F9uuSmJfpHP9Nv9ewhlaKFL2p6SksBXAFxxEqCWf3wH%2BraS610oeLBOSI9dKPsiLfLReACYn0%2BBxbJ3EQTddc%2F1u4ElEJ81w%3D%3D&name=%2BcZokQh0WCACHSepy7IYFGDCFMmCmssnxCcGMHDALvDtNoe5xESciRRxpewSt0QLh%2F9nQGwAWgXThDw8D7rzK1wTKTKx8nhvTOfQav0RAII%3D"
+          ]
         }
       ]
     },
@@ -317,17 +323,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "a4c406bdac20fb60",
+      "pID": "3fec67e92cea66b1",
       "title": "NBA常规赛精彩回顾：太阳vs火箭",
       "keyword": "01月06日14:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBA经���赛",
+      "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "NBA常规赛精彩回顾：太阳vs火箭",
-      "modifyTitle": "NBA经���赛 NBA常规赛精彩回顾：太阳vs火箭",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：太阳vs火箭",
       "presenters": "",
       "matchInfo": {
         "time": "01月06日14:00"
@@ -570,14 +576,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026010606302214D3664ACCA2532E03AC-sNrMT3&unique_id=stream-695054762529260204_684_flv&wsSecret=aa8d706f6aadf5933148d5a21a4986df&wsTime=695c3b7e"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768258829&major_anchor_level=common&sign=1b2950dbadeafc55d9b92640146403da&t_id=037-2026010607002975E8775F40894C27FF1A-udHrlp&unique_id=stream-695054762529260204_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-05T22:30:22.831Z",
-  "shanghaiTime": "2026-01-06T06:30:22.831Z",
+  "timestamp": "2026-01-05T23:00:29.982Z",
+  "shanghaiTime": "2026-01-06T07:00:29.982Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
