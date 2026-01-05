@@ -405,7 +405,7 @@
       "title": "[早安Tip_Off]第74期",
       "keyword": "01月05日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -431,7 +431,7 @@
       "title": "雄鹿vs国王",
       "keyword": "01月05日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -482,7 +482,7 @@
           ]
         },
         {
-          "name": "英文原音",
+          "name": "英文��音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=755ffda92758c4587f8cedeb2723281d&id=36AV0pZyzgTAEomRSOQuiGgwQ8hQQI8teH1v3b2BQo1%2FNkNxHfKihUbrzc7WeizgeHbOD53wQh7%2FyLAzd3cAbRN57mqxrq0WIt9e%2Bn%2BqnnbNo8ftTsS6UgQYlcRDD9vKTSHpKUbKRHtGMrjulBc1Gp%2Fduji4ltigRox42KHZ89zOpuFD0E7oC%2BPa4fd6ChmzqbYQ488RCnWKhlvePG6QLAvv%2BtN8XYM9fLK%2FbS3PG6ANqswqfDQyOgHxh0e%2FTJmaQTtZlEA%2BAjeXX%2FJYgMaZfzf5mQJpt9UtL60Rutoz648P19DSOE0lWAMuOpOTSgrtQW96mPCrTcjjpWlnS6UdLA%3D%3D&name=Dqrp3A5yrUB8pA5RNeG7A%2FTRs%2BxthcnGyUqfBLpkrUgMVBKGKmww3QKBZIDX56zX8FValFr1h8n2wB8P90ifKC4Ic8pScU5iK2sQUTeV1hE%3D"
           ]
@@ -640,14 +640,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260105123027E860F49589CBE70B3F26-Q1WBoV&unique_id=stream-695054762529260204_684_flv&wsSecret=e13b73b262f21fc078dbb2d4028b1e9c&wsTime=695b3e63"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601051300278B3505395B297842F901-MhwaZE&unique_id=stream-695054762529260204_684_flv&wsSecret=36641945109ddcaed9af4e67c6be4c5d&wsTime=695b456b"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-05T04:30:27.387Z",
-  "shanghaiTime": "2026-01-05T12:30:27.387Z",
+  "timestamp": "2026-01-05T05:00:27.407Z",
+  "shanghaiTime": "2026-01-05T13:00:27.407Z",
   "count": 22,
   "mode": "today",
   "source": "real + cba_live"
