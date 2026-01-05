@@ -120,7 +120,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=6650f4f292728efcd5c6af59445f902a&id=fLuzm%2B8y0fDoU8jOoOGVC795XXCh4xcyMomQMXXRKTSWJIabkXR9McsblZ7fk1YYluXZhayG1GWoLH2jcwQdZHjSfoOYKp3p9Ao4b0CMEeylcEJFzuDC51tVL6ZAx2Spi3%2Bf2N110%2BwG%2FOlmVH5TbsWU8q7YdLVC3PrXKCDU2zwnFWDW%2FKnMVlgy%2FLYrw0cptzBd%2BIw%2Bd%2BK8f61MWB9ZQ37KypFmtSxp8%2BTvw4AKWUgYoRrwb9SO4a8teO6ocFxHI9l8DOpRk9msgD7kAbwb%2BBWDjIHPhrfAcjQ2BDBZbdcXLclwrnygeHfvZaTi9Paq&name=XiCc3WIyZqA23qA%2Bpwbsg27UhSLPuRhAK3RbOEsxxW%2BsrXBENKQ4G7odt4TviAzL84Kw%2FtLANoibd3lFdUPu0mAiRj7TMeTi8CpY6yNwJ6Msot4GVtK08I0nxcRSgElC"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "3387f70d4cc793bc",
+      "title": "WTA500布里斯班��",
+      "keyword": "01月06日09:00",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA500布里斯班站",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "WTA500布里斯班��",
+      "modifyTitle": "WTA500布里斯班站 WTA500布里斯班��",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月06日09:00"
+      },
+      "nodes": [
         {
           "name": "第2轮 第1日 英文原音",
           "urls": [
@@ -576,15 +596,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768237227&major_anchor_level=common&sign=598101f279eb5f79e3fd24df10be03fd&t_id=037-202601060100270C8278CB205DA29A3CD1-WPStmr&unique_id=stream-695054762529260204_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768239026&major_anchor_level=common&sign=05b912e219ee194b6c9257072c9bc201&t_id=037-20260106013026F0B0BE355326D411E19E-p3V00e&unique_id=stream-695054762529260204_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-05T17:00:27.853Z",
-  "shanghaiTime": "2026-01-06T01:00:27.853Z",
-  "count": 20,
+  "timestamp": "2026-01-05T17:30:26.926Z",
+  "shanghaiTime": "2026-01-06T01:30:26.926Z",
+  "count": 21,
   "mode": "today",
   "source": "real + cba_live"
 }
