@@ -665,8 +665,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "e1eac449740f2a60",
-      "title": "有球必应精彩回顾",
+      "pID": "7bf638ad57eecfcf",
+      "title": "有球必应精���回顾",
       "keyword": "01月08日19:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -674,15 +674,15 @@
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "有球必应精彩回顾",
-      "modifyTitle": "NBA经典赛 有球必应精彩回顾",
+      "pkInfoTitle": "有球必应精���回顾",
+      "modifyTitle": "NBA经典赛 有球必应精���回顾",
       "presenters": "",
       "matchInfo": {
         "time": "01月08日19:00"
       },
       "nodes": [
         {
-          "name": "有球必应精彩回顾",
+          "name": "有球必应精���回顾",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=57581fb90d36181eeb5e95fd9ee8a4c5&id=7ObouyKLlKzYGKaPHT5x3HVoVqv3g2z%2F%2FPYAB4buUxNosGQ1zfIE5U1aSTmuwQS%2BCg796VzyUcVvOCn8wBzpltbG%2BDN0p0MVRUSElAl%2F%2FajSaaudiFIUEbcm05bonZUMkxc3OlF4Co8kZdaPs8LvALo3IcZvC2RvLl1VnkmWtc4opCpouyA3xOjQy6KjotWf%2B%2FEEHSOOFl9qsFUsfw0kFHmHZsVD6AIK7NfO9Y8XPFpJZnImsDxNxszcz34J%2FGtuS36H2p8WPkS5aVNLUQddrAV6Rb3A8q3cNyxNKxkglpuLG1kyC%2FP6sak1l2HP6fEm&name=XXtXv3qZuNMchxDFjfT6CpxYTpNzn8zY0ade%2BV39BNR2q%2FbXFL0iIJ4iYCUO%2BK9Jzca2wiro2B4bQ3L3alxqNvgFska9R7XpOMFUhZvu4HU%3D"
           ]
@@ -840,14 +840,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768410031&major_anchor_level=common&sign=16d2cb7558ba25e5fe08fbf538c57afd&t_id=037-2026010801003197645246917DF7B2D143-dwGw6G&unique_id=stream-695054762529260204_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260108013024DA5A1A1F9B18DDB1CE3C-D3p4ek&unique_id=stream-695054762529260204_684_flv&wsSecret=953db44a2a7d6f12061aef0c31aaaeb0&wsTime=695e9831"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-07T17:00:32.145Z",
-  "shanghaiTime": "2026-01-08T01:00:32.145Z",
+  "timestamp": "2026-01-07T17:30:25.230Z",
+  "shanghaiTime": "2026-01-08T01:30:25.230Z",
   "count": 29,
   "mode": "today",
   "source": "real + cba_live"
