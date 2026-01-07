@@ -29,32 +29,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "a494d29b45a38af4",
-      "title": "骑士vs步行者",
-      "keyword": "01月07日08:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "NBA常���赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "骑士vs步行者",
-      "modifyTitle": "NBA常���赛 骑士vs步行者",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月07日08:00"
-      },
-      "nodes": [
-        {
-          "name": "胡鹤明",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=0712f1f5683d04ad59ddc2721a92a205&id=Rv%2FkSHWuCBtYZ8unzhfPBx5dZ%2Fuq1zJGp%2F7GAMk3NYCN6ZvFgM8Xi%2BJyndOp2a3heCpCUY2TbjZSpCx7hzic8cEJNjEOYXLgRE6EX3f7jcY%2BFs2xhi1KDK0YL1to8HAcPXHeC%2Btu9RxUFSclgW26GwA1GDQp%2FpuaRWWs3%2BExNQNYTN1BVSHrqbYn29LpEfrNA9fAx%2BeCSu6JZD9xeGjj%2BVLzM4EIaf7qz4Zkq5w6aIGhcu2KbXv%2FkFAyElI1E1enZymmvK5v1hyFmMUv9J4eqkiRGse8YSW2VtLK4vIO%2FS4%3D&name=nkBCKvQ407tK3Mrl%2FQM7RfB9KDEX0PtNFZRt%2BCVklvOED%2B4B4jOpFq3GUfyXKNVvGWOS%2Bd6C%2Bu12VegEzzGkFkEfF48KtVpNrLny07UNJkE%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "813eb4ee271f0741",
       "title": "骑士vs步行者",
       "keyword": "01月07日08:00",
@@ -71,6 +45,12 @@
         "time": "01月07日08:00"
       },
       "nodes": [
+        {
+          "name": "胡鹤明",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=0712f1f5683d04ad59ddc2721a92a205&id=Rv%2FkSHWuCBtYZ8unzhfPBx5dZ%2Fuq1zJGp%2F7GAMk3NYCN6ZvFgM8Xi%2BJyndOp2a3heCpCUY2TbjZSpCx7hzic8cEJNjEOYXLgRE6EX3f7jcY%2BFs2xhi1KDK0YL1to8HAcPXHeC%2Btu9RxUFSclgW26GwA1GDQp%2FpuaRWWs3%2BExNQNYTN1BVSHrqbYn29LpEfrNA9fAx%2BeCSu6JZD9xeGjj%2BVLzM4EIaf7qz4Zkq5w6aIGhcu2KbXv%2FkFAyElI1E1enZymmvK5v1hyFmMUv9J4eqkiRGse8YSW2VtLK4vIO%2FS4%3D&name=nkBCKvQ407tK3Mrl%2FQM7RfB9KDEX0PtNFZRt%2BCVklvOED%2B4B4jOpFq3GUfyXKNVvGWOS%2Bd6C%2Bu12VegEzzGkFkEfF48KtVpNrLny07UNJkE%3D"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -558,15 +538,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026010712302494ACEF663BE78D62C702-cdwqhV&unique_id=stream-695054762529260204_684_flv&wsSecret=bc88a68cf34ddd546fe77f3dccd7a1a3&wsTime=695de160"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601071300255929D749449642733946-NwXqNh&unique_id=stream-695054762529260204_684_flv&wsSecret=1dcbdc61443906e62b8484aadfc5d688&wsTime=695de869"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-07T04:30:25.091Z",
-  "shanghaiTime": "2026-01-07T12:30:25.091Z",
-  "count": 20,
+  "timestamp": "2026-01-07T05:00:26.109Z",
+  "shanghaiTime": "2026-01-07T13:00:26.109Z",
+  "count": 19,
   "mode": "today",
   "source": "real + cba_live"
 }
