@@ -190,6 +190,12 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=bcef327f9714d0f0ca2191807a2e0391&id=OIY0MGFbmkTeJVKi%2Bn8mk%2BYAPEEfKCn4GH6yRm1qlIEUcGlbans8Jk6J5jZoFvem8OizNCODpKLSFvT8adH3Jotc1oz6d%2Fbvakh%2FFnlIEa45yd%2BuNnnSA4xnJ8B4GFVdkLIT5mtpaM8XUu72JOE79e9T4L2MP5Inm7WHrAXlIFrQwpVInm9DKeQlKkvf0rJOWPdw692OVzWeUezlMg4yf4RWkcULcANW9aNCYoX8aYtK5L%2FmMZuKZtcziYQTlnwYlpxVtP6ZZDoLSNASAGVwigmKE8oV8ZBZ08S5P9u6tZ0czNymqgMNXC1YLXUhbfD5EMUOfGjyM4eCOF62jGW3nw%3D%3D&name=6t8XRPNLHY7BFV6XjnUm8AclHfOl3rt9UIjFW4cnC4a9kERHmsXV69PSfWFCP3cFRDyac3dbPJTAXXxuNNkcxiKjJOss7ImE7Fo%2B68gimL4%3D"
           ]
+        },
+        {
+          "name": "英文原音",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=6b1fcbb5ca4585a51d28244dd6ed56e1&id=EDN34HBQCjCtj1N90cPAxlLHF021oNsb5bkbLE6qSiNgAlnuukAHoltbuwceQ2oVbraZozWvONNpSCmH%2FBvPW6TKKFupJOS7htVdqVVYmwjwM%2BBV5eaSuJj7bB4nswPLYAdmoIiYhWo5ChyJi1Sox9v8kdMGLU6FnN6iHFSYQY8x6AL5G3O2qtkT8A83hj5N8bDcsFWFCRh2USzPJoVeuJb8ijr7Dk%2BehdFYPRedIf9rVkfONeREwWlDJS%2FMKvQoTiO%2F35%2FAk2bMr2RH4vuY1%2BIGcwOZH7H3rh6UzFG39kijfonxDnWHudmlMeV7EOQKqktoRFJ6b%2B9TVtgSQbdAtQ%3D%3D&name=mgwjlOVvJX4Qrxfqg6oelllyGFBud5lUIBnCeSLzl9rNnJvcd5LKz0CdAqdXpyKNPWsctPNysRq%2BTV8%2BQnTdaOg%2FeacnGgvE8Tcf%2BOPMuTY%3D"
+          ]
         }
       ]
     },
@@ -243,12 +249,6 @@
         "time": "01月09日10:00"
       },
       "nodes": [
-        {
-          "name": "孔祥宇",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=5ab20a301847e3f2bcf393a85388a5bf&id=Ec1Ngiz43iw7IfYApttNMVf7FAs3vk1vwbDYIklNousE44qTHSSp5OvADoU5xgMu7TnK%2FUG4%2FnhfHXt5uV%2FSGaStlsMFc%2Bl%2FWqjtP2m0axFskPv3q4JSGyrVusn9LMo3eKH75jR9Pp5Kl8Qa%2BtkAdGmgsGBGtMt24LJZifNYbs%2FexXSc6qXskSF7v%2BrvHBtFeZ5YDo8cOYD55YLgBoXbpQOT5Xi%2BrVMu5nXoN6lz3cqvTzkX0GhaMRE47ixsaiZy%2FxDkemFlNYHn6ekaqeIL13jZDFJFsBN1z4RLqSVYYRnCgY%2BgLUyG%2BzNJlsvwKWlllM25cwGW8sIAvzpKBM6uqQ%3D%3D&name=WtahevRpOCcAsI8dQSCWToCcgc%2BTWStWVBu%2FRtQlhUw%2FoULHjq%2FFOLRJnv%2F%2FRgoUH5lBMd9YvpZqCKTE%2FuTshVKHYbwJ7%2BkFfoT%2Biht6Wi0%3D"
-          ]
-        },
         {
           "name": "英文原音",
           "urls": [
@@ -408,14 +408,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601090500304BBE8B822C2BD6FBC3B9-ARho2b&unique_id=stream-695098376113881772_684_flv&wsSecret=736759773d02903b92f258bc1524c657&wsTime=69601aee"
+            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768510822-0-0-48a110a7795405efe824a6dfac38d464&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601090530222F8890CA14201F516D17-SkxTsq&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-08T21:00:30.892Z",
-  "shanghaiTime": "2026-01-09T05:00:30.892Z",
+  "timestamp": "2026-01-08T21:30:22.679Z",
+  "shanghaiTime": "2026-01-09T05:30:22.680Z",
   "count": 14,
   "mode": "today",
   "source": "real + cba_live"
