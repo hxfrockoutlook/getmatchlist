@@ -591,7 +591,7 @@
       "title": "NBA常规赛精彩回顾：湖人vs马刺",
       "keyword": "01月08日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -643,7 +643,7 @@
       "title": "辽宁凤城vs青岛兴轮呦呦",
       "keyword": "01月08日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -669,7 +669,7 @@
       "title": "浙江振德vs天津食品集团",
       "keyword": "01月08日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -695,7 +695,7 @@
       "title": "25_26赛季中国排球超级联赛男排常规赛：云南vs四川",
       "keyword": "01月08日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -721,7 +721,7 @@
       "title": "25_26赛季中国排球超级联赛男排常规赛：江苏vs福建",
       "keyword": "01月08日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -747,7 +747,7 @@
       "title": "有球必应精彩回顾",
       "keyword": "01月08日19:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -918,14 +918,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768473023&major_anchor_level=common&sign=3a58dd730aa5963092dcd4e57a32f698&t_id=037-20260108183023C171727786089CFCD195-kWDnka&unique_id=stream-695098376113881772_684_flv&volcSecret=3a58dd730aa5963092dcd4e57a32f698&volcTime=1768473023"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768474835&major_anchor_level=common&sign=bc2863e9ac74aaf301a6c7e916f9d1b5&t_id=037-202601081900352460053E215D9FF8D25B-mecenT&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-08T10:30:23.991Z",
-  "shanghaiTime": "2026-01-08T18:30:23.991Z",
+  "timestamp": "2026-01-08T11:00:35.735Z",
+  "shanghaiTime": "2026-01-08T19:00:35.735Z",
   "count": 32,
   "mode": "today",
   "source": "real + cba_live"
