@@ -161,7 +161,7 @@
       "title": "鹈鹕vs老鹰",
       "keyword": "01月08日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -193,7 +193,7 @@
       "title": "魔术vs篮网",
       "keyword": "01月08日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -225,7 +225,7 @@
       "title": "快船vs尼克斯",
       "keyword": "01月08日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -366,7 +366,7 @@
       },
       "nodes": [
         {
-          "name": "柯�� 杨毅 婧雯",
+          "name": "柯凡 杨毅 婧雯",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=484d3e45542ba062568f3fd7f2f23b3f&id=dcvlcCQxKt%2FFOpXKMdX%2BVzs5eM6STWLicalFqKGcGhVrUh%2F%2BuFt7UchzMm8%2BQaLG9XadN3ORtwAqL8cU4F%2FPOfwgT23hSEwdidPHSocy%2FZL6CsAK1k4O7L%2FPAIXj3Dj0KbRQkc8P%2FBiPBT9%2FbGRjNvjhq7OZ2FGVQQyG11Aw%2BVtSkrejKgssRE5LM35vW%2Bx0fa8KtVye7Ab3NuUE53XnR6hEh7fA8HWQwHXIkPhNZmLkLRC9a4l%2FCrUCm3zzijQLqYI6ht%2FN6xgFHW7%2BD72JEbXfsprcJKd%2FzHTzJgzmpuh6dOO%2FVBRmGeMi%2B2E9pGxA&name=1kQ3us9CtATA%2FruACGWsTJcnv2IHRv1b6cR7rMmvTommF5KEQxg5RbZ7B%2BCplBvxYacVGYZyBF4W56V%2BRcGs%2FHLJJYSZbwn5oeMlwwccrGzyoGx7Udht3kP5D0W3M6A0"
           ]
@@ -866,14 +866,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768435227&major_anchor_level=common&sign=68c2e423e093545f119edaddd35b6b93&t_id=037-202601080800271427708B7881CEC4BAB0-fWGPeF&unique_id=stream-695054762529260204_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695054762529260204.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768437023&major_anchor_level=common&sign=7ae14bb200fdc2b8e8ad3c35bcd0da89&t_id=037-2026010808302303BFC63995C19FC93DD7-yhKyBs&unique_id=stream-695054762529260204_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-08T00:00:27.733Z",
-  "shanghaiTime": "2026-01-08T08:00:27.733Z",
+  "timestamp": "2026-01-08T00:30:23.450Z",
+  "shanghaiTime": "2026-01-08T08:30:23.450Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
