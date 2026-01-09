@@ -77,7 +77,7 @@
       "title": "[早安Tip_Off]第78期",
       "keyword": "01月09日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -103,7 +103,7 @@
       "title": "WTA250奥克兰站",
       "keyword": "01月09日08:30",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA250奥克兰站",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -414,14 +414,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69697f9b&major_anchor_level=common&sign=26c4785bbe17556940093be59a97ebc7&t_id=037-202601090800276ED322EE1486C649D321-FJAPfW&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768521624-0-0-26c4877bbf08319ddf3578a8eddeaff9&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260109083024F00E5D4ED33DF9388567-ZNKD3X&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-09T00:00:27.992Z",
-  "shanghaiTime": "2026-01-09T08:00:27.992Z",
+  "timestamp": "2026-01-09T00:30:24.322Z",
+  "shanghaiTime": "2026-01-09T08:30:24.322Z",
   "count": 14,
   "mode": "today",
   "source": "real + cba_live"
