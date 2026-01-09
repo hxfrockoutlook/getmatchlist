@@ -157,32 +157,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "f042f352ca481746",
-      "title": "萨巴伦卡vs穆霍��",
-      "keyword": "01月10日09:00",
-      "sportItemId": "3",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA500布里斯班站半决赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "萨巴伦卡vs穆霍��",
-      "modifyTitle": "WTA500布里斯班站半决赛 萨巴伦卡vs穆霍��",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月10日09:00"
-      },
-      "nodes": [
-        {
-          "name": "胡力涛",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=f32610782c0e9c2b9bfe96687c491d7b&id=t7S9zZRH1KHOk4x9f8V0I4rXY2YR%2FL%2BljXNog1v4aouA1CEURc7eDPYG38N2njqjaFlzmHGWLLJXtUUnnfpT2%2BuD0SkDeYg6ooZyqArKhpvv2yo0f8LLd%2B624AGUMTBYEgqMnjgLXs22qbl0WfY7Jpnh458GRnmXOSO7G8lxUVl6VTa%2Bd4fvDVzSUrbHFLhiW6RByZFfv6U2M4gwbTTuUE3%2Fu57y9P2hxJB65bLwUdVDwUozY41LDmOqVJvS5qYsFpBhvaYcJGAUy%2FDIDHJS425Je2RulR0ODZewzgfDZUS9kwyezeLoPKZf85737ena&name=duDa705Zzr3i%2BD5LTlCoLDp21CX79e9AiJ%2F8RUhIuL%2F19RB40GBd3Ys9oTkwJlm1tjFwGwLZsNDiuNzl6%2FylMEWZEBfj%2FHAzZ5qrf%2B9XcUBqkwXoOOFE6Wx8WmhLZWGg"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "f03b765d6b0912c1",
       "title": "萨巴伦卡vs穆霍娃",
       "keyword": "01月10日09:00",
@@ -199,6 +173,12 @@
         "time": "01月10日09:00"
       },
       "nodes": [
+        {
+          "name": "胡力涛",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=f32610782c0e9c2b9bfe96687c491d7b&id=t7S9zZRH1KHOk4x9f8V0I4rXY2YR%2FL%2BljXNog1v4aouA1CEURc7eDPYG38N2njqjaFlzmHGWLLJXtUUnnfpT2%2BuD0SkDeYg6ooZyqArKhpvv2yo0f8LLd%2B624AGUMTBYEgqMnjgLXs22qbl0WfY7Jpnh458GRnmXOSO7G8lxUVl6VTa%2Bd4fvDVzSUrbHFLhiW6RByZFfv6U2M4gwbTTuUE3%2Fu57y9P2hxJB65bLwUdVDwUozY41LDmOqVJvS5qYsFpBhvaYcJGAUy%2FDIDHJS425Je2RulR0ODZewzgfDZUS9kwyezeLoPKZf85737ena&name=duDa705Zzr3i%2BD5LTlCoLDp21CX79e9AiJ%2F8RUhIuL%2F19RB40GBd3Ys9oTkwJlm1tjFwGwLZsNDiuNzl6%2FylMEWZEBfj%2FHAzZ5qrf%2B9XcUBqkwXoOOFE6Wx8WmhLZWGg"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -302,7 +282,7 @@
           ]
         },
         {
-          "name": "英文原音",
+          "name": "英文��音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=fec3a68459a888bc190994ca147b53be&id=1a260FU6%2BRxRQTwKaRx3FkWs7KymO3%2FyZeZpFSty3%2FE0ufyt6TaDBnxXLfkTgMhGcHWotzuKt9%2BFtGG37Zt0Fvm5WAk%2BOdD9Uxt7TZwuc3pIML6%2FavTbIrDoaF8u1GT%2BHnnix4oWw7%2BvoCC8MOAzxnhAda1WEbU8ouBgP%2BdiTd6F%2F0G8FqOiIYO00uW37b%2FJlbDlxQyFezlsEbTVk9q4oS2BWFMr2CWvSzEzOAjveUx7bQZAC2o7zVoS5%2BcfbWhaE50OG7WIovFnZ91%2FkRH17Elt2F%2FjvYNQtTyprpbo2eYVVXs%2FBa12yfePwQXUlYf0X4tMVk8Jvx5RdUI%2BWvVaqQ%3D%3D&name=J1j6x3lRlAGOSLPqjwJpIHRl51U4%2FGmYAJR4wfZB71pw3%2BEfRYON0u1%2FQep%2Bjbe1MgKu6Mk%2FCa%2BDG0BgwXXC6g6m9%2Bl3a2OhIAO2g2S2ov0%3D"
           ]
@@ -916,15 +896,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768582828&major_anchor_level=common&sign=33c59a57336ac41552006cca3e3634fd&t_id=037-20260110010028B1908A838436D5512A45-VD9gW3&unique_id=stream-695098376113881772_684_flv&volcSecret=33c59a57336ac41552006cca3e3634fd&volcTime=1768582828"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601100130248709C33174C2A1C975F5-XHK6BU&unique_id=stream-695098376113881772_684_flv&wsSecret=147bfbdb5859b1ccfa28eefe310cb4ae&wsTime=69613b31"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-09T17:00:28.895Z",
-  "shanghaiTime": "2026-01-10T01:00:28.895Z",
-  "count": 31,
+  "timestamp": "2026-01-09T17:30:25.279Z",
+  "shanghaiTime": "2026-01-10T01:30:25.279Z",
+  "count": 30,
   "mode": "today",
   "source": "real + cba_live"
 }
