@@ -85,7 +85,7 @@
       "title": "猛龙vs凯尔特人",
       "keyword": "01月10日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -117,7 +117,7 @@
       "title": "76人vs魔术",
       "keyword": "01月10日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -149,7 +149,7 @@
       "title": "鹈鹕vs奇才",
       "keyword": "01月10日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -373,7 +373,7 @@
       "title": "国王vs勇士",
       "keyword": "01月10日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -411,7 +411,7 @@
       "title": "火箭vs开拓者",
       "keyword": "01月10日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -948,14 +948,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768615224-0-0-cd26f132bd96b3c7c3c8d108c71d0a91&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260110103023FEDC6A11E103016A7CCD-kqrfg5&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=696afb4c&major_anchor_level=common&sign=b96774f3b3d2786e314f45a342f975a9&t_id=037-202601101100287CCB1500B48C3AD43BA5-jMSQ9S&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-10T02:30:24.228Z",
-  "shanghaiTime": "2026-01-10T10:30:24.228Z",
+  "timestamp": "2026-01-10T03:00:28.764Z",
+  "shanghaiTime": "2026-01-10T11:00:28.764Z",
   "count": 32,
   "mode": "today",
   "source": "real + cba_live"
