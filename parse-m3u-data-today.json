@@ -373,7 +373,7 @@
       "title": "国王vs勇士",
       "keyword": "01月10日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -411,7 +411,7 @@
       "title": "火箭vs开拓者",
       "keyword": "01月10日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -433,12 +433,6 @@
           "name": "二路_狂言Doggy",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=969de398bb839502c798e0d7d4872b08&id=V1P1IvRywhZ5SzWanQLJLvhLjB%2B3ubGagt1ytPMVW8llvAlSa2OCc0XzE2KUfHLjrHdORLKrv6B5de5eY3nxK8m%2BLLEZnRDA7ZMCXnHrjeeA2flTJrjla6VwGQWXvv9xBan9GC5Fy1QMDkoWsDb4WkOaSbgGfGuZaIrSHKYCf12I31OCgWuzG2wBQpobZhwb%2F7yIhePCyS84Rfp%2B7BesNW%2Fg6AknAbSXuVofS2jdwm9qxaI5oWYBXudiE3GH30HMXnasetE1kkOzQVhpkUc6ImBBDf2WOLQjb94mjxMk2oRSuJjX4c1hCce3A8qfyWCSI6l7BVxlgVIZd1QExGqJaA%3D%3D&name=FtbV9lNBMLoCGN4qn4%2BYoYs%2Flg0I8PcoPfxwVLn9HTolH4zQW0Vu1%2BcLZtfyZsymX3AFd10O0iosvM0CRdXJNCIJLat2m9G0aUpkQd8qoz%2B%2FIr9rAuWK6lguxtjsbOHl"
-          ]
-        },
-        {
-          "name": "英文原音",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=744fc78d34cf0cad5360a9365e91b798&id=W%2F89ldjnVPFmZc41vwhLVjj8TYrMldabYxWacCjVwV%2BzYdN%2F%2FOk9oan9K%2FkwBD82KhuzePL0Gv3PE%2BrArVGpobkv5xTzN%2Bef85Ry4N%2F71ovDcoxtK3LOQ%2By4ynlCF8mSAk%2BZ7HTF8r7cEfc33UM0gSkvHnCj455ix2Af3h0cSJrLOYpGKDjYMwK%2B%2BEK5MvI3%2FP4Tzc5BUGx4i8u7LxpuOem0s5UgnuSal4nxPPaa0I%2B3iBYuUDa4gq3Mh5bneKQPj%2BrMFTs80%2BnwJSH4aXRhhd367NsFOEpXPFOBnpN1826wTjCH6sv%2B%2Fcm1jrFieyiPVjJLPkJkXiisW1zdwTyDsA%3D%3D&name=r3x3H1iUSGKO4kufTgigYYD83W6RnU85J0BoSot3jtypKGCvSsGK4ATCKZTcmKLwMq%2FCxwjiV3jhfoHX09ytAVnhE8Y%2Fpc9zsH0XzCSx9IM%3D"
           ]
         }
       ]
@@ -563,7 +557,7 @@
       "title": "NBA常规赛精彩回顾：快船vs篮网",
       "keyword": "01月10日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -948,14 +942,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768627824&major_anchor_level=common&sign=33e636f1155d3da8c3d159ea2c3e58df&t_id=037-20260110133024821DBFF40A6628CABCA0-ZE1E76&unique_id=stream-695098376113881772_684_flv&volcSecret=33e636f1155d3da8c3d159ea2c3e58df&volcTime=1768627824"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=696b2581&major_anchor_level=common&sign=14261df1346432611537920d718d7047&t_id=037-20260110140032C506532C2A75F3FAF043-WjeHA9&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-10T05:30:24.753Z",
-  "shanghaiTime": "2026-01-10T13:30:24.753Z",
+  "timestamp": "2026-01-10T06:00:33.279Z",
+  "shanghaiTime": "2026-01-10T14:00:33.279Z",
   "count": 32,
   "mode": "today",
   "source": "real + cba_live"
