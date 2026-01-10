@@ -213,7 +213,7 @@
       "title": "雷霆vs灰熊",
       "keyword": "01月10日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -948,14 +948,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768618824-0-0-d87a43e58e03d158791d6dcd916262e2&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026011011302463FBB85B0C3F90B6AAD4-bBYal1&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=696b095a&major_anchor_level=common&sign=49c70ad7ae809bf0996e1ae99c7a015d&t_id=037-2026011012002610EFE4ABE33B70EA16A9-nGh07G&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-10T03:30:24.856Z",
-  "shanghaiTime": "2026-01-10T11:30:24.856Z",
+  "timestamp": "2026-01-10T04:00:26.853Z",
+  "shanghaiTime": "2026-01-10T12:00:26.853Z",
   "count": 32,
   "mode": "today",
   "source": "real + cba_live"
