@@ -487,7 +487,7 @@
       "title": "伊埃拉vs王欣瑜",
       "keyword": "01月10日12:35",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA250奥克兰站半决赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -647,7 +647,7 @@
       "title": "NBA常规赛精彩回顾：快船vs篮网",
       "keyword": "01月10日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -948,14 +948,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768635024&major_anchor_level=common&sign=5233ed8ef3267e24789a80c289ec92a4&t_id=037-202601101530242A46898545CE5FE90BE4-NYMii7&unique_id=stream-695098376113881772_684_flv&volcSecret=5233ed8ef3267e24789a80c289ec92a4&volcTime=1768635024"
+            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768635026-0-0-52bdb244250ef59fc24390d8fd13a74e&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026011016002607B1AFF9F135B38851AB-YootlM&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-10T07:30:24.805Z",
-  "shanghaiTime": "2026-01-10T15:30:24.805Z",
+  "timestamp": "2026-01-10T08:00:27.061Z",
+  "shanghaiTime": "2026-01-10T16:00:27.061Z",
   "count": 32,
   "mode": "today",
   "source": "real + cba_live"
