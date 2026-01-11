@@ -29,32 +29,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "a574c1569129d3bc",
-      "title": "吉罗纳vs奥萨苏纳",
-      "keyword": "01月11日01:25",
-      "sportItemId": "1",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "西甲",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "吉罗纳vs奥萨苏纳",
-      "modifyTitle": "西甲 吉罗纳vs奥萨苏纳",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月11日01:25"
-      },
-      "nodes": [
-        {
-          "name": "吉罗纳vs奥萨苏纳",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=d837d7c4161c6d7fdab720f274ff3445&id=382jvgJXOBI7oMUnQIHuFyU6hx660B9EMhzASUoy9JzPhlmyao%2BY82hRH1HvuICWfU04pFxnjHJY4ufsiZOijHWdnnjlvuuEHrIPAl8r%2FwLDcBhnH3CMfi6el1B8JX54kTPhyWC%2F7bsUaO5YfcFpbxdxKiwsEpK0bnqXXV0Bnf3ygxEKb0E28O%2BQtdL70n4A0obGEIHx0otLg8LrT5UiyPjBtHWYJTEYOiEncT04kOJP76ruIRuP7Hilpc7zq7sMk8Z6UBgXO6tSoniAFC7qggTMqg8IviHJmjZiSERdfQcqykIvgzPjJ%2FLhMvO9zo0P9OiGK%2Fkt0eEDPWJWisYUnQvkGXN%2B9YETeLiSuiZI%2BEuQ1pdwVIMzNbhvUKaSK4YjKu4gSBMnlfFkuv1O%2FVW4WA%3D%3D&name=WSnjNR37xJihjzdWfd%2FJdaoJzuADo4g%2Bz1ROpSrmodkjB%2FmWVyr0I7%2Ffs%2BYmi%2FyPNljRKlIRpFgeSO4zyz1rwQ%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "5e4e1810ffd80e3b",
       "title": "森林狼vs骑士",
       "keyword": "01月11日02:00",
@@ -457,7 +431,7 @@
       "title": "萨巴伦卡vs科斯秋克",
       "keyword": "01月11日14:05",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA500布里斯班站决赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -673,6 +647,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "c940b25cd69d2006",
+      "title": "NBA常规赛精彩回顾：快船vs活塞",
+      "keyword": "01月11日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：快船vs活塞",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：快船vs活塞",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月11日18:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：快船vs活塞",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=7879e0c771a7b2f9260e7642726b94c8&id=s6f7NwpGXZgNvo2Iod024TFlokEho207RL%2FhYXjnkMouOotiJ72ClhxGHj%2FNItvVphgcxVPXJePoh5wXheqv27Spn1a%2B1FFjrXW5DZDXO7TEo9w0fkdeXGHa%2BQW38zEr9IUdGW4jcznCT0TXyb7lyFo%2FgKhszosbohYt%2FKakgU2IswAh2O7wqmM6bTxArcb7uVnfZe3J%2B%2F4gnxa8p8w%2Fv%2BOAqs%2BvYvr31WHNQgmT3bgCPTdeCZ4q2y%2FfNNGlJ7ksF8fAY38ibmOx6Qk6uxRMntA9n53n3e7Ek6JeLSzM%2BbyWMCLvFI3QxuVqoJeJSpF8&name=bcjj9BnutVh6gQI3tVFEnLR09fbZ53uXbA8EEOtV76lLaBx1BPKERY8VeBAlXa9E8BF5gz%2BtDR5LuTRvInHXIJY5wtruA40yfwRhKVz3o%2BIBkQGLcjcfFC9nxHx9NpDm"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "f8056201ec070498",
       "title": "浙江振德vs青岛兴轮呦呦",
       "keyword": "01月11日19:00",
@@ -796,14 +796,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768725026-0-0-abc9fe46be5346f11e638c486221a4aa&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260111170026962FF8106018C3EEAF68-u118hK&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=696ca82f&major_anchor_level=common&sign=23fe4a67d6070ece65b5b4d4c5eb27ec&t_id=037-20260111173023E4AB2C178F3511FB9002-8Drgfi&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-11T09:00:26.972Z",
-  "shanghaiTime": "2026-01-11T17:00:26.972Z",
+  "timestamp": "2026-01-11T09:30:23.386Z",
+  "shanghaiTime": "2026-01-11T17:30:23.386Z",
   "count": 28,
   "mode": "today",
   "source": "real + cba_live"
