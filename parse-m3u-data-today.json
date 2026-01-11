@@ -71,7 +71,7 @@
       "title": "篮网vs灰熊",
       "keyword": "01月12日04:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -285,32 +285,6 @@
           "name": "第1日 赛场原声",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=d289634a3ace311f007a43b34293c80a&id=lWjB4cP%2BT%2BORNtA6pX2MZ2X2%2FZwokp52fBpKR5i%2F0AY1qfT2v1o6zz7zhmPzjU%2Fcyg65xqNKBTXs1ZtKz4S6PLMVysvJN3Us4w7HpKYsbCRQB8K5m9VXVYEr2Va4iWHXDiFm78nvXOkYJkZvsQ3Pnf7oDIuJqH4%2BjpCDmrKNr5Z3x3QkxIZfUvW4JmRa3POKigZZ30th0oIMsoDVV0TyM1QNowppvfTicn8nzNrewNQf6PfJPHi4%2F1xN00V4Tfoij0JMQPO1qDUABKoW3XoByHZX3ebi9Qim4PzMiPGKi5w8beOwij80q8cjl%2BU9AoYe&name=nNO7%2FMoPN6j5invWbJOEfhxYNOJdAjae%2BUke7b1aNuBKOiFHvvuC4lN5zLAtduc%2F5LlfINXMEMrfGG7Ub4DR0yr9h%2BaOedRgdmG3stKXHUQSmmm467FSP%2B%2By2YuQJRcG"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "a3fa18ecd79ced41",
-      "title": "[早安Tip_Off]第81期",
-      "keyword": "01月12日09:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "篮球直播节目",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "[早安Tip_Off]第81期",
-      "modifyTitle": "篮球直播节目 [早安Tip_Off]第81期",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月12日09:00"
-      },
-      "nodes": [
-        {
-          "name": "管泽元 苏群 炼炼",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=0494508d2719ed6cf44be47b9a48d15d&id=u4riVwYofNCt9y2fiyqpzj1K2ZmdyFWCnXIHdqzEwZuv6%2BkBLYYS2XlYlQiKhPkISxEnBGUaMtKIe2UhVhz3i3doL2jLrf%2F6e0FKyDCREu4e46n4I4D%2BTm9OPlVFWSsWiwO7qZWyiSVpL9d95mk93A46pPxO51ndN%2FK2T54fTRqNSmYjqRxCv17a%2Bo4EJobg79BKGYtNI46HWSrohMQHHGpkQ93vjqqpMUKy0wRa9qggFaedm7hpsOTpwFHPgkWb%2BDQMoKL3dxce5ja5OH0wFKJNqyPUwu2O2sQlI%2FOmYUyMYYMjXQds89mfSJL%2BU9rL&name=7KP25QyHv3JutqzAWkwE%2Fxxc%2BxCkmRvabZWpLHDj0UO%2FbBI5CE3K1ZY0pHZusEeKhoD%2BtRDeKPDvhepGahYiyFYOr%2BIEcswP0xScMgPPZJUddNCsMUpnJtdZeBv%2FCVVEMqbBlBdRE8fiY5srzlIpnQ%3D%3D"
           ]
         }
       ]
@@ -632,15 +606,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768764630-0-0-e90d2edc883a6d93ee64407cb378e0da&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260112040030FA99CFD1B00633C46C98-sbgfYW&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768766422-0-0-4667f73e5c8c430146b231afd12a9d04&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601120430225676F25A4BC58C1EDC7F-91ypgm&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-11T20:00:30.431Z",
-  "shanghaiTime": "2026-01-12T04:00:30.431Z",
-  "count": 21,
+  "timestamp": "2026-01-11T20:30:22.685Z",
+  "shanghaiTime": "2026-01-12T04:30:22.685Z",
+  "count": 20,
   "mode": "today",
   "source": "real + cba_live"
 }
