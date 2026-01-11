@@ -291,17 +291,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "a3fa18ecd79ced41",
+      "pID": "d9e57c72bcf59675",
       "title": "[早安Tip_Off]第81期",
       "keyword": "01月12日09:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "篮球直播节目",
+      "competitionName": "篮球直播节���",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "[早安Tip_Off]第81期",
-      "modifyTitle": "篮球直播节目 [早安Tip_Off]第81期",
+      "modifyTitle": "篮球直播节��� [早安Tip_Off]第81期",
       "presenters": "",
       "matchInfo": {
         "time": "01月12日09:00"
@@ -632,14 +632,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026011203002527CEFC650A65CFD1867E-7EFuQt&unique_id=stream-695098376113881772_684_flv&wsSecret=641c0fb473d2e713458e27acd9d85b2f&wsTime=6963f349"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=696d34ce&major_anchor_level=common&sign=f8b5b8fff80e66e19ab319b519f8feec&t_id=037-2026011203302212377D6719983095657A-5xhUmr&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-11T19:00:25.379Z",
-  "shanghaiTime": "2026-01-12T03:00:25.379Z",
+  "timestamp": "2026-01-11T19:30:22.847Z",
+  "shanghaiTime": "2026-01-12T03:30:22.847Z",
   "count": 21,
   "mode": "today",
   "source": "real + cba_live"
