@@ -573,7 +573,7 @@
       "title": "山东蜜獾vs香港金牛",
       "keyword": "01月11日16:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBL常规赛第8轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -599,7 +599,7 @@
       "title": "NBA常规赛精彩回顾：火箭vs开拓者",
       "keyword": "01月11日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -703,7 +703,7 @@
       "title": "浙江振德vs青岛兴轮呦呦",
       "keyword": "01月11日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -729,7 +729,7 @@
       "title": "北京北汽vs天津食品集团",
       "keyword": "01月11日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -755,7 +755,7 @@
       "title": "江西省城市篮球联赛(赣BA)揭幕战",
       "keyword": "01月11日19:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赣BA",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -822,14 +822,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768730422-0-0-fdee120b0c01072e9cc32fb1a4e0af57&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260111183022A2FC0AFAEB334DF48656-jqZsPF&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768732238-0-0-6341e14fa9fd7b288605b9c734fd7119&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260111190037C760689EE8FB787F387E-gjyARi&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-11T10:30:22.389Z",
-  "shanghaiTime": "2026-01-11T18:30:22.389Z",
+  "timestamp": "2026-01-11T11:00:38.287Z",
+  "shanghaiTime": "2026-01-11T19:00:38.287Z",
   "count": 29,
   "mode": "today",
   "source": "real + cba_live"
