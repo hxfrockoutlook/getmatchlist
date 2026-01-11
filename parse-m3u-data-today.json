@@ -143,7 +143,7 @@
       "title": "公羊vs黑豹",
       "keyword": "01月11日05:30",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NFL季后赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -233,7 +233,7 @@
       "title": "快船vs活塞",
       "keyword": "01月11日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -345,12 +345,6 @@
           "name": "王子星",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=758b6d37b38b9919efc6287b6f294d12&id=Nez8k4%2Ft0qW3jBjySXWx59eORgiMV2eUQ5h3ffISbv%2B2%2BaW1VDxW5CsaKKdy%2Fvx3%2B1PPWSXKT3iDU6G3M0fxl%2BQRJGjoc3FzzpQoLEDvXVWIXEAs%2ByxBS0Xeo03BgAepyenfo8Wvpy0cX87IyZ4QAlcLatjJlphECx4MjKe1xaWGSB%2FWm4KTBSPDF%2FOfgySuVdr461G5adzXRkO2BG8hp4Xt3YYHTq89bLDfz2LmLK1DVbN3HropJ5qtsbTpnaHvBojagOzw9O4A5%2Fr1eBIJxi2GkqcLhtNTRaD0c4DOuFVaZGveF%2FP4Ta%2B6GG3VoyAcxFsdvf9Gh74WMUEj8g02jQ%3D%3D&name=ku8ZBGCD3XjpRmP0b67GExp4GpKvYmo8UlRmvaxpbnuv4tDTwalZ%2FrnbkFbMEVzvt274jF1uTrpKARmENDle%2B65mBcaiDPKdHP8vCbrCyxY%3D"
-          ]
-        },
-        {
-          "name": "英文原音",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=1d48433b29a0994fd4a1ac40a4282181&id=T4LBrCOHPYnK7k5v6EJpUOoCA7DxLyBtrvogsTfo0OfSejpADEwwDtIj2QiL4mFGsaGfClmkuVCvy6WGWbIQ%2Ba9k8lvLe31vP%2Bb4Dj3Aiei4nyyCtTOfzitbbU96hp7%2B3GO60sAF%2F8GPnLgXw3e%2F0nD0npzjMR0k500XVQJxkJcwuMOc%2BnpCQKmxuVOqvPkMGVltLnh%2FiDbE4f8R1bIq%2FgKjYA%2FdG8x%2FN0rEOOlBoGVeEqInpu7DSRc3BMCDrItkZSLsdm3triSNxCeJS4JRXrRqMpp2G51Dv8fxWSkn6PMBfZT5P1%2FtWThvMb27cLaVA2x4kbwgeht4PTryuitfaA%3D%3D&name=E%2BtchoFD3cxs47UeGNfaxsSg6NEnRQcicqxG87aLWOYxWZX68NfRhYRTk4KZwstmZgowtmQFTMKTKh%2FbLPuD4YU4MTdsam%2FU%2FKyWK8%2F%2FaT8%3D"
           ]
         }
       ]
@@ -822,14 +816,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=696c22a0&major_anchor_level=common&sign=4ff40d8c84f2af1dfc7cec089da53cf1&t_id=037-20260111080032E859674AF7545A18AA73-5YbU6a&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768696221&major_anchor_level=common&sign=ef4a25f9434341bac4f1a69c6d082a2e&t_id=037-20260111083021374F6A8030962CCB34B1-PRsXUG&unique_id=stream-695098376113881772_684_flv&volcSecret=ef4a25f9434341bac4f1a69c6d082a2e&volcTime=1768696221"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-11T00:00:32.466Z",
-  "shanghaiTime": "2026-01-11T08:00:32.466Z",
+  "timestamp": "2026-01-11T00:30:22.084Z",
+  "shanghaiTime": "2026-01-11T08:30:22.084Z",
   "count": 29,
   "mode": "today",
   "source": "real + cba_live"
