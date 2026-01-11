@@ -29,8 +29,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "a574c1569129d3bc",
-      "title": "吉罗纳vs奥萨苏纳",
+      "pID": "9691ce85fc1219e4",
+      "title": "吉罗纳vs奥萨���纳",
       "keyword": "01月11日01:25",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -38,15 +38,15 @@
       "competitionName": "西甲",
       "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "吉罗纳vs奥萨苏纳",
-      "modifyTitle": "西甲 吉罗纳vs奥萨苏纳",
+      "pkInfoTitle": "吉罗纳vs奥萨���纳",
+      "modifyTitle": "西甲 吉罗纳vs奥萨���纳",
       "presenters": "",
       "matchInfo": {
         "time": "01月11日01:25"
       },
       "nodes": [
         {
-          "name": "吉罗纳vs奥萨苏纳",
+          "name": "吉罗纳vs奥萨���纳",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=d837d7c4161c6d7fdab720f274ff3445&id=vclkKc%2FIPLmlMr4jWrfOKGZJCBOufPnj%2FLTlSrPcH6724Nie2JDGu%2BULlDHpXXiGFQwG%2B%2BujoHYTVLiat37YV%2Fp1JcCQMzzeN%2Fic7bK479cpu4KvdefUl8iITmw%2BTMZZN0zsOH0W%2FGRo0%2FHepKTC8YiBkQ2ahCYes5kMiSuokdgv%2B%2FMlNFZIvcefjD1KqGF%2FhvxcYK9eVZoS3H4JtspnEjDZZ%2FZvlmjwMu23928IJwj4Ecs9k95FzaNW6nR2nl%2F4JCBSm2%2BdQA1mKBf9WK%2BX903OjZVzAVN6%2F1zBuvCrs%2FWJc4Z0TcEY%2F5mhFA%2FpbWo0GzUFtAGM4aCm551AM49mVr4%2FSoOaByrX4B7qCmchD596fVpZ%2FwlaAYPr5t38Djo8%2FzTCKXP1hUy61DsWvdTdnA%3D%3D&name=YrFKaEvJvcm218kGG%2Boc7XjNjMB6s9rFxe8EIy969yhWJ1KupTHlfcITJtF%2BaMmHurPrhv8qdTzTX3JKCbhZMg%3D%3D"
           ]
@@ -361,7 +361,7 @@
       "title": "黄蜂vs爵士",
       "keyword": "01月11日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -517,17 +517,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "98293d0b18aca5c0",
+      "pID": "29ca2ccc960a12d4",
       "title": "25_26赛季中国排球超级联赛男排常规赛B级：云南vs黄石",
       "keyword": "01月11日15:30",
-      "sportItemId": "4",
+      "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "男排超联赛B级双循环赛",
+      "competitionName": "���排超联赛B级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "25_26赛季中国排球超级联赛男排常规赛B级：云南vs黄石",
-      "modifyTitle": "男排超联赛B级双循环赛 25_26赛季中国排球超级联赛男排常规赛B级：云南vs黄石",
+      "modifyTitle": "���排超联赛B级双循环赛 25_26赛季中国排球超级联赛男排常规赛B级：云南vs黄石",
       "presenters": "",
       "matchInfo": {
         "time": "01月11日15:30"
@@ -822,14 +822,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768699831-0-0-d0d9c5c9249947cf33b2a281c30cb7fc&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260111100031853B259523ABEE2D134F-rpeRbH&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768701622-0-0-ab7bf6fe22c03a19b81ee9dc5dbaab85&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601111030222F2A45CDCDA49A49189C-jvtXCe&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-11T02:00:31.654Z",
-  "shanghaiTime": "2026-01-11T10:00:31.654Z",
+  "timestamp": "2026-01-11T02:30:22.689Z",
+  "shanghaiTime": "2026-01-11T10:30:22.689Z",
   "count": 29,
   "mode": "today",
   "source": "real + cba_live"
