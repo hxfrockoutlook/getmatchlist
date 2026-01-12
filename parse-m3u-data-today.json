@@ -617,7 +617,7 @@
       "title": "NBA常规赛精彩回顾：老鹰vs勇士",
       "keyword": "01月12日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -710,14 +710,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768815024&major_anchor_level=common&sign=87c2cc5a7ddf5b63bd863fb651cf7a6a&t_id=037-202601121730243B5E48C7DC9E65524B19-lMJcFN&unique_id=stream-695098376113881772_684_flv&volcSecret=87c2cc5a7ddf5b63bd863fb651cf7a6a&volcTime=1768815024"
+            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768815031-0-0-cf06aec1817ec0a9018bb0e42044c995&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260112180031D1E76DCE19F4E1CEF32B-foc1fD&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-12T09:30:24.621Z",
-  "shanghaiTime": "2026-01-12T17:30:24.621Z",
+  "timestamp": "2026-01-12T10:00:31.669Z",
+  "shanghaiTime": "2026-01-12T18:00:31.669Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
