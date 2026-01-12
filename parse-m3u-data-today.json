@@ -216,6 +216,12 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=5ca83f89f4c12d9a6ed41e1a78af054a&id=cHgwKSGaOqiO76XmXrrkh0Q0nUqWDziCfGThNUHs7uYfkttrebFIsQVBBU99BJzC2dwlQpyI4OV6C7zRgBMVuAF3kPqdGITX7vM2WcN3wKPgZG9nm21PfRXo3KGuvwTJid3BRjVlQEmjHyi3uv%2FFdhopegegrIXZsAcjTQeqgp4XAzvb8MXfPvPS9UMzgEDLjwGcU%2Bbfv%2FUglcCPSOwFW2yuHwyqutjqp3iiaudcIf0bHxg1Gib2jBjFqBSzAjMYLLhnBNHr6846SXe0nW%2BAi5xCQP5X%2B9%2BIX%2B3iCJrBBmiKRF%2B4mCIA%2B0NKGtEX%2FlXyopIgE71pqFXoiCKhccGAPQ%3D%3D&name=jSOD%2Fa8vboaTfR8N7cPXp79pGXhrizARO3oZk%2FwOReSFngDeTUaCf5SxdayJRal%2BTwqBceLJ2f%2FgEiNXDfNb2e%2F%2Bmfzk2JldwJAuvtfxiDQuRtSGjCSCm%2F604pmbt1Y3"
           ]
+        },
+        {
+          "name": "英文原音",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=c0c2018103298f2fc8f192bf6b6d5c7e&id=IEV5FbXQX%2FbG0D8mNEVDp%2BafTmsNjUSuq2gaCPa%2FhuIfOGVlNyMhn1u61JAYeEtEpnc3odGdJwVy5ZCzEVVAdXLuWpZjADBKAppj0zGy9bQ9MqFCmJXsimugXCZ1PNfdNNbqNyAbl17GM3ksNE8C5yJ53v7YPwJr7BuZFTbLi5zMGOvhOFm3srIOf7CctmGoRtBFSVwIirkCR2WjTC%2BXklJJsfzywBDz4wncwrwbpb%2FZ717ozOTHhW7QwyosZUXQ43k6UBPUDqTM16qpDDsmawrW5FpXw450hrzsbKHuoHMIT7lRPHpPaz5C58HWFXFgWXAazFjAWyDCOlMpyOdblg%3D%3D&name=n%2B%2FQN%2FoDPck5zvLV6beT5BwAkg8jE5CSwp5zRSeYOSGEzLhdr%2FxmGqWezDW7m987yqVHNBVsf46Pfu%2BVxZm6hykI4HaKMli2ftSf69QF3iE%3D"
+          ]
         }
       ]
     },
@@ -379,7 +385,7 @@
       "title": "闪电vs爱国者",
       "keyword": "01月12日09:15",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NFL季后赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -411,7 +417,7 @@
       "title": "老鹰vs勇士",
       "keyword": "01月12日09:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -626,14 +632,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768793426-0-0-2695b6bf86f82b72157b14d30e603040&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026011212002616996C14B6A1BBFBA9AA-iMgPkw&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768797022&major_anchor_level=common&sign=84141bb95e6fa7b510d9ad50d1926560&t_id=037-2026011212302281D2B9FCA5EE96306773-oGPu5y&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-12T04:00:26.546Z",
-  "shanghaiTime": "2026-01-12T12:00:26.546Z",
+  "timestamp": "2026-01-12T04:30:22.883Z",
+  "shanghaiTime": "2026-01-12T12:30:22.883Z",
   "count": 21,
   "mode": "today",
   "source": "real + cba_live"
