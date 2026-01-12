@@ -447,17 +447,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "ca147199f68b629a",
+      "pID": "20246e1545284e1d",
       "title": "25_26赛季女排超级联赛常规赛B级第10轮：河北vs浙江",
       "keyword": "01月13日19:00",
       "sportItemId": "4",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "女排���联赛B级双循环赛",
+      "competitionName": "女排超联赛B级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "25_26赛季女排超级联赛常规赛B级第10轮：河北vs浙江",
-      "modifyTitle": "女排���联赛B级双循环赛 25_26赛季女排超级联赛常规赛B级第10轮：河北vs浙江",
+      "modifyTitle": "女排超联赛B级双循环赛 25_26赛季女排超级联赛常规赛B级第10轮：河北vs浙江",
       "presenters": "",
       "matchInfo": {
         "time": "01月13日19:00"
@@ -570,14 +570,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768842027&major_anchor_level=common&sign=74a79aabbf5a9be2ef94fddb9b6a1fca&t_id=037-20260113010027D3526B55FD534F821571-sIhdsa&unique_id=stream-695098376113881772_684_flv&volcSecret=74a79aabbf5a9be2ef94fddb9b6a1fca&volcTime=1768842027"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768843823&major_anchor_level=common&sign=4b5515ec32955e10050a0e9d1bb6b024&t_id=037-2026011301302389ED11F3E82F0D0505A7-cMxg4s&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-12T17:00:27.698Z",
-  "shanghaiTime": "2026-01-13T01:00:27.698Z",
+  "timestamp": "2026-01-12T17:30:23.383Z",
+  "shanghaiTime": "2026-01-13T01:30:23.383Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
