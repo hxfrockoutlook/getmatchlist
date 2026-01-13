@@ -421,17 +421,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "0f4dae91e1e796ac",
+      "pID": "69b752979f763f35",
       "title": "NBA常规赛精彩回顾：凯尔特人vs步行者",
       "keyword": "01月13日16:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBA���典赛",
+      "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "NBA常规赛精彩回顾：凯尔特人vs步行者",
-      "modifyTitle": "NBA���典赛 NBA常规赛精彩回顾：凯尔特人vs步行者",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：凯尔特人vs步行者",
       "presenters": "",
       "matchInfo": {
         "time": "01月13日16:00"
@@ -648,14 +648,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768879822&major_anchor_level=common&sign=b5ea2c80736ff6c07e3bea967d4ef762&t_id=037-20260113113022CD9B40F8F0D1667053DB-49xWiE&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768881633&major_anchor_level=common&sign=25721cc70c4f7a6150bae58730d7bdff&t_id=037-20260113120032FC2CF6AE39EAC428EF62-eIJhvl&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-13T03:30:23.014Z",
-  "shanghaiTime": "2026-01-13T11:30:23.014Z",
+  "timestamp": "2026-01-13T04:00:33.241Z",
+  "shanghaiTime": "2026-01-13T12:00:33.241Z",
   "count": 23,
   "mode": "today",
   "source": "real + cba_live"
