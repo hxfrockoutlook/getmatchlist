@@ -232,7 +232,7 @@
           ]
         },
         {
-          "name": "英文原音",
+          "name": "英���原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=676ca373c94e2815b26a25383fd1a92d&id=UAV1zTxc1SMDgsqsPFcJjoDhN49gjQLVCwn2UaOeXFCbsXWfYh51sxHgy8g%2Fyw%2B3KyzJ9sDdCHdc9k4g6sCXAVn2l%2BYfisudN6ybhz%2BSFLYrNWtmyxlu9jXh9JE%2BxVDkbFrs99hxAO0aPkA%2BTfoDkIBWGOYhc799N7kY%2FrIwV7WvxEDa6m6D%2BFCbrDFF%2BFnkGg8Sa7EvzPzr7pbqliabrQv%2F%2FPWmP3UlK%2F%2BWoSncqxhmGe%2FafvAZkQZHdzGqhSu2hhVdKJJop%2BwSMlsoWHvIAkwTqvGtmTonFRRdsqedX0qHRyJWu2Wuq186avxxQ5qP&name=ybXa1RHfWwQ9VZDz%2FuROp3IQb1S5M35JvxCe1%2BHCdoXNwNiLqH2xmHAy6YnubOy2OAgp6SRz6VIpconcJEF1HgMRINhZnDRmxjz8P97LZqw%3D"
           ]
@@ -421,17 +421,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "69b752979f763f35",
+      "pID": "6c9e33681b74feff",
       "title": "NBA常规赛精彩回顾：凯尔特人vs步行者",
       "keyword": "01月13日16:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBA经典赛",
+      "competitionName": "NBA经��赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "NBA常规赛精彩回顾：凯尔特人vs步行者",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：凯尔特人vs步行者",
+      "modifyTitle": "NBA经��赛 NBA常规赛精彩回顾：凯尔特人vs步行者",
       "presenters": "",
       "matchInfo": {
         "time": "01月13日16:00"
@@ -648,14 +648,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768870844-0-0-5d68b08cd1e5b1720d3dc8aab34ede20&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601130930440D36E075A8A6E95CF25A-OgD8VU&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=696ee1be&major_anchor_level=common&sign=6b85c24e18cd6d6961d191a64cece087&t_id=037-2026011310003088896BF81980A4908308-hwuVnh&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-13T01:30:44.461Z",
-  "shanghaiTime": "2026-01-13T09:30:44.461Z",
+  "timestamp": "2026-01-13T02:00:30.734Z",
+  "shanghaiTime": "2026-01-13T10:00:30.734Z",
   "count": 23,
   "mode": "today",
   "source": "real + cba_live"
