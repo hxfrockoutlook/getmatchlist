@@ -117,7 +117,7 @@
       "title": "WTA500阿德莱德站",
       "keyword": "01月13日08:30",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA500阿德莱德站",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -149,7 +149,7 @@
       "title": "凯尔特人vs步行者",
       "keyword": "01月13日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -181,7 +181,7 @@
       "title": "76人vs猛龙",
       "keyword": "01月13日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -230,27 +230,7 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=29ebae403f4a5dadc737bd776f047342&id=jcqeSHublFyhXPC9mdM15sipD2X3MvqcRBF6%2FnIATk7nal0%2Bd6WJTQjftJXbEpJULSAM5Ito5W2KNSekN51nz6mYH8weT3TE2i24hJIaYDnQ%2FWtrTed5WfCxo%2B%2FDBFyZJMyFKv2MdD62EMW%2BUWUcty0%2F%2BSKsjP%2Frn745hwqHYq1g%2Fb%2F0%2B%2FePjywId78GANpejCpzjcw8Y%2F0vSYfkgFm9jAgaMYiNuACjq9S8EkYg3qgAX2dykmnrO7lPjanB1Q4H29jueM0sPVxDwd4%2B1Zq6LBCSuhbiuIU3ZnUQXqkfoI%2B8AWCZl0RFY1qnuGabHNB6&name=HA5Z9o3l7OavfDWQoFD%2B9goKo3Fm9hWZ4Yu61us6dBHxrzVWYFN%2FhPl3eNZ4zFw63fIgfdIINN2qrlYG5AgnP6%2BfT4UMr2bP2KRePWS9cZfycF3u8GulQ5Q82E8iUBN8"
           ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "f8e068e41ba01f79",
-      "title": "德州人vs钢��",
-      "keyword": "01月13日09:15",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NFL季后赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "德州人vs钢��",
-      "modifyTitle": "NFL季后赛 德州人vs钢��",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月13日09:15"
-      },
-      "nodes": [
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -361,7 +341,7 @@
       "title": "黄蜂vs快船",
       "keyword": "01月13日11:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -441,24 +421,24 @@
     },
     {
       "mgdbId": "",
-      "pID": "d02d0f27a4a0064e",
-      "title": "NBA常规赛精彩回顾：凯尔��人vs步行者",
+      "pID": "0f4dae91e1e796ac",
+      "title": "NBA常规赛精彩回顾：凯尔特人vs步行者",
       "keyword": "01月13日16:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBA经典赛",
+      "competitionName": "NBA���典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：凯尔��人vs步行者",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：凯尔��人vs步行者",
+      "pkInfoTitle": "NBA常规赛精彩回顾：凯尔特人vs步行者",
+      "modifyTitle": "NBA���典赛 NBA常规赛精彩回顾：凯尔特人vs步行者",
       "presenters": "",
       "matchInfo": {
         "time": "01月13日16:00"
       },
       "nodes": [
         {
-          "name": "NBA常规赛精彩回顾：凯尔��人vs步行者",
+          "name": "NBA常规赛精彩回顾：凯尔特人vs步行者",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=7cbbfbd33bcffa7032265c7898fd8976&id=1Ln8VCpyevddyHfZYR%2FSVQ1kVVA4Pm4dEXoDFjojYPNURCDSbRx3ftHfzt%2FHZt4hnRzCZCWuY90C5CTNThrzzLdoJo4ezWBu8eURYyWGzWM3ER9Y3ULe1jT9RSMqrpbkXuGsSnYAWoSqOE%2B0hKfVAEeE%2BrC%2FKgu%2FeEBZVMbpgZpmGySrFKwSn3azrJ2ZTiQFBITHpxI4N%2FDX0ENyyDRyp6k%2BPd9UyTdC351fSfOa4lHvEJhrG7v1FCHDkcig3vy6a8BRit569p9I1PRV1Vw%2FjBPn7IbBYr2t%2BzsJZiMGktWa2xc6XJlwM%2FjxijNloc4K&name=a7b79bqGx53Q%2BiG32FnOxqgfscg8hs%2Boj5OyO0SdMmVuW5Jkw8pk%2FbfYK0JjOhIcy0x52WuGsNKCMECH52ylVyenZuW86aEBOxXFULCd2SFJcx70CtcYyBmGxz6Zbed3"
           ]
@@ -668,15 +648,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1768876228-0-0-270841723257ebb449d107e91bd7f577&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260113110028D57EDF2730FFBB323C26-9cyQzJ&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768879822&major_anchor_level=common&sign=b5ea2c80736ff6c07e3bea967d4ef762&t_id=037-20260113113022CD9B40F8F0D1667053DB-49xWiE&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-13T03:00:28.354Z",
-  "shanghaiTime": "2026-01-13T11:00:28.354Z",
-  "count": 24,
+  "timestamp": "2026-01-13T03:30:23.014Z",
+  "shanghaiTime": "2026-01-13T11:30:23.014Z",
+  "count": 23,
   "mode": "today",
   "source": "real + cba_live"
 }
