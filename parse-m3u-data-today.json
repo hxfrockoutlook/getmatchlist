@@ -723,7 +723,7 @@
       "title": "山东蜜獾vs上海玄鸟",
       "keyword": "01月14日19:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL常规赛第9轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -840,16 +840,34 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "name": "CBA：浙江vs龙狮等2场比赛同播",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6970b1d2&major_anchor_level=common&sign=932931051eb6bea7dacd36e77b7c3858&t_id=037-20260114190034BF9282120B8B0ACFE161-Y8N5nh&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-118669481397191511_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202601141930243916A5918BA3E4DD4E52-XoQ7XV&unique_id=stream-118669481397191511_855_flv_hd&wsSecret=3650945dcc8cf31751f38a4a9dcca34f&wsTime=69677e50"
+          ]
+        },
+        {
+          "name": "天津vs福建",
+          "urls": [
+            "http://pull-flv-f6.douyinliving.com/fantasy/stream-118669486573224791_hd.flv?arch_hrchy=s2&k=b736d27e6179e39e&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1768995024&t_id=037-202601141930243916A5918BA3E4DD4E52-6HKRU8&unique_id=stream-118669486573224791_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:浙江vs龙狮",
+          "urls": [
+            "http://pull-f3.douyinliving.com/fantasy/stream-695130243298231127_hd.flv?arch_hrchy=s2&auth_key=1768993224-0-0-dd0ca873db45f3a5040e331483ae9209&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202601141930243916A5918BA3E4DD4E52-M8yega&unique_id=stream-695130243298231127_855_flv_hd"
+          ]
+        },
+        {
+          "name": " 原声:天津vs福建",
+          "urls": [
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-406899870229594967_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202601141930243916A5918BA3E4DD4E52-3xKWHr&unique_id=stream-406899870229594967_855_flv_hd&wsSecret=c2119987780099f1d0c5862e059fc90f&wsTime=69677e50"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-14T11:00:34.918Z",
-  "shanghaiTime": "2026-01-14T19:00:34.918Z",
+  "timestamp": "2026-01-14T11:30:24.703Z",
+  "shanghaiTime": "2026-01-14T19:30:24.703Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
