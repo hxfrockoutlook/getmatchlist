@@ -175,7 +175,7 @@
       "title": "公牛vs火箭",
       "keyword": "01月14日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -207,7 +207,7 @@
       "title": "森林狼vs雄鹿",
       "keyword": "01月14日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -239,7 +239,7 @@
       "title": "掘金vs鹈鹕",
       "keyword": "01月14日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -271,7 +271,7 @@
       "title": "马刺vs雷霆",
       "keyword": "01月14日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -387,7 +387,7 @@
       "title": "开拓者vs勇士",
       "keyword": "01月14日12:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -764,14 +764,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1768966221&major_anchor_level=common&sign=69e042d728d23101dddae99fbe8db974&t_id=037-202601141130218F83F0F7C17C45033026-AJoI1z&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69704f61&major_anchor_level=common&sign=ca5bfb2fd732ca7906496165f9e1c329&t_id=037-2026011412003396C4840BD5F417F40908-asjE0R&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-14T03:30:21.931Z",
-  "shanghaiTime": "2026-01-14T11:30:21.931Z",
+  "timestamp": "2026-01-14T04:00:33.502Z",
+  "shanghaiTime": "2026-01-14T12:00:33.502Z",
   "count": 27,
   "mode": "today",
   "source": "real + cba_live"
