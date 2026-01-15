@@ -84,7 +84,7 @@
           ]
         },
         {
-          "name": "英文原���",
+          "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=ecef4d93ec28be17a15bb69965c1d0e0&id=3dm83FF6npB4XJe7R2SdB%2FIYLgqTHdnk2zGI1XJjG%2F9s3PCxck7EKVzf%2F%2FNaWtLWaUO6f7fdB%2FMEQm62Hox%2B%2FIuTbkHpLKUVukGX%2BFmiTdS54WqjTE1JGuX0v3%2BGrkZRph%2FQibhyRCB1auII9guTxqnd5pUwFjmAjaMh9lNVFS%2B2rG5vqCLifdP3eYo6AnXI7WABaL%2BC10fUbTA3eO%2FTEAM6ICFuaN9qJmrHDH3gh%2FdHThscMUzZYnojN9hpVTmfO7%2BkEc%2FwmXaA1vsIxw11aWqxhz4OTei7vwCgA2oNJuquz27DN7nt1t%2BPj1%2BGCj9Sn0L7NGfgW7F0wYWMtllMjA%3D%3D&name=K8YYtLSkkqGaS73Cx1Kcf9iph3KxUCPraC68TZoeJWX6KFeQ0x8HoOfZ3USFgCyqK4N%2B%2F5N9HPcX9aVbGsh68BaRCdhQoxWut8zFF6apZPQ%3D"
           ]
@@ -135,7 +135,7 @@
       "title": "爵士vs公牛",
       "keyword": "01月15日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -167,7 +167,7 @@
       "title": "篮网vs鹈鹕",
       "keyword": "01月15日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -248,27 +248,7 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=eff20c3ec4ed6d24675d5296ddd30d1e&id=fulaotL8A8wRvrJbnlqd%2FYAJgPCyD0RKmChhttVIPYnkeHnzHVjqtb5%2BLC%2BT8Uav1yDNmFvZYUFVYktKOrexoTl5My821ICrBf6imYGrof%2BGMyBgNBIbQwJE2j%2BHjG3epbw5igEgZbKaheNLheGiQeAKFn%2FOCik6nTU2VtH%2BCPt032zcPPEuPAAATyN0a5KKcFD%2B2qCPQFRTO6Jx5ITBO3ZBsWB0OnEylpFT%2B%2F6OJnA%2Fm4MqD3SIPtRY%2FP7U1XGMXsxQQl1PusO4vDszSwTGGoF7cy4CGYhx3gka28DsX14F212YaM3VQbwICQhxzFkhDvy0Gxr8Nv3dtPY%2BWS51pA%3D%3D&name=dUQqhm1YIVlPtJV0hphe5BSOHCtzfRQvXKW1xvEtbvI8QSJX1wg8ofQv0eN%2FLQkttEc7bHk4iFAGOkD6NEY1K40FXJH5pY9wetLtuFmv4wEkUfaiVdLgeDMUNvKS51Ci"
           ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "02f8cfa2cf915e56",
-      "title": "俄克拉荷马城蓝vs撕���之城混音",
-      "keyword": "01月15日10:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBA G联赛常规赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "俄克拉荷马城蓝vs撕���之城混音",
-      "modifyTitle": "NBA G联赛常规赛 俄克拉荷马城蓝vs撕���之城混音",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月15日10:00"
-      },
-      "nodes": [
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -405,7 +385,7 @@
       "title": "有球必应",
       "keyword": "01月15日12:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -862,15 +842,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697199d0&major_anchor_level=common&sign=85789d223ec6109a0568e755facc55b5&t_id=037-2026011511302467349C3B810EC95D1A73-ZXHM3O&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769052627-0-0-fe6d5aaae24af1162a30d44cbeb99d0b&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026011512002770854E2A79B1621D29A1-yDjCkG&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-15T03:30:24.434Z",
-  "shanghaiTime": "2026-01-15T11:30:24.434Z",
-  "count": 31,
+  "timestamp": "2026-01-15T04:00:27.683Z",
+  "shanghaiTime": "2026-01-15T12:00:27.683Z",
+  "count": 30,
   "mode": "today",
   "source": "real + cba_live"
 }
