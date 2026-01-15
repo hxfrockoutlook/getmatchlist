@@ -33,7 +33,7 @@
       "title": "猛龙vs步行者",
       "keyword": "01月15日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -45,6 +45,12 @@
         "time": "01月15日08:00"
       },
       "nodes": [
+        {
+          "name": "胡鹤明",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=b09618cbb2c7b5d7c6c482d136ff3d83&id=fJQZ%2FQ%2FbfAKuAO6EmKVPKnXW%2FF6cQMKXAkXW86M9ZZGdg8lAMLSwRy7oksWJLAxPiRybFAsrcMv5mjxHwWE4Vg2RmS4IEIEXT0s5Z2StKIvQO0QgYM4%2Fdpf8CZUoIUqPGVn1iOIEcwGYBuDfOjafC0fCliAPxMqPEDh6R4RlO8aHeh6DCCogaTz71ODGyackDuTHFNExS9LzQGPvrJ9%2FN0NpHUGk8ci6OQGIHY24rs2jnJUV1h9Kb01rzMDbOODWVcBYmsomEf56kqV%2BDDw4jb3o%2B2V2mUd%2FweSjpFShbRx9RXtAC%2FboAqykjL6yUX7NZFbWxSM7IBwhb2zkbkGrtQ%3D%3D&name=0u2VpwWz0I0HKl8lDP8wr3jLk7l3QTaJEXLVvixwvXmUjnXylp8ewQG2tL3E9bLBabMPNVvTPZsDoWE2r5BPo8uNiMu12HEM4GrQ1ylR1vY%3D"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -59,7 +65,7 @@
       "title": "骑士vs76人",
       "keyword": "01月15日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -205,6 +211,12 @@
         "time": "01月15日10:00"
       },
       "nodes": [
+        {
+          "name": "1/4决赛",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=71a9b460ec27af41380ae5eb991fa157&id=EjV34g%2F7ua8zI8lbb37k0tNhZIqUZvaIYanufJM0gqHKhZAqDsG56A8i7RrRFnU0%2FTD66kXXt2mlAqZ6MoHp5FCtTmWw3k56C4pEQQCk5JYhO2GKa6k3XkWiyvjDXo90q46ANCjlVfvSxuvFwUayfn4fPwDnQybATXkv%2Bbd2aFHlkv2y2cLi2QSSTL1gfSk2r%2F6qsBGDWy2qA6gaS8PEos4pF%2Fp7QbsgfgdJkQ20XSeq7Jr6l4WbxOa%2FEwoGBweGYWtBaePTtbD9%2FcL6fHZsGsALDDIk2cPcd4Em79dJVPMOI%2FU6e9%2F0rFygAdDr9803&name=3jMg1RDZKEmqNjE9I1Bxw5BUn1bcNV6xkt1PHjQJfg%2BbRob%2B1kUtwY91HYEm5Vny%2ByeTVUnLMoK5jLJuN3lyig5Gz%2BO2asTKjjCefvaRDlw%3D"
+          ]
+        },
         {
           "name": "1/4决赛 赛场原声",
           "urls": [
@@ -830,14 +842,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6971618e&major_anchor_level=common&sign=bb82141393c70d8a6eab6b408cd8019b&t_id=037-202601150730223F073A4109BB3411A66F-lprVZk&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697168a3&major_anchor_level=common&sign=5df07c27b7274dd8d3adf07ff1fe3f01&t_id=037-20260115080035EE521356170AF454D644-tpNdnl&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-14T23:30:23.166Z",
-  "shanghaiTime": "2026-01-15T07:30:23.166Z",
+  "timestamp": "2026-01-15T00:00:35.903Z",
+  "shanghaiTime": "2026-01-15T08:00:35.903Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
