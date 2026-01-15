@@ -547,8 +547,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "244088f20681aada",
-      "title": "LPL第一赛段���内赛第一周",
+      "pID": "e123ac587b26310f",
+      "title": "LPL第一赛段组内赛第一周",
       "keyword": "01月16日17:00",
       "sportItemId": "",
       "matchStatus": "0",
@@ -556,15 +556,15 @@
       "competitionName": "LPL第一赛段组内赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "LPL第一赛段���内赛第一周",
-      "modifyTitle": "LPL第一赛段组内赛 LPL第一赛段���内赛第一周",
+      "pkInfoTitle": "LPL第一赛段组内赛第一周",
+      "modifyTitle": "LPL第一赛段组内赛 LPL第一赛段组内赛第一周",
       "presenters": "",
       "matchInfo": {
         "time": "01月16日17:00"
       },
       "nodes": [
         {
-          "name": "LPL第一赛段���内赛第一周",
+          "name": "LPL第一赛段组内赛第一周",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=f64b11df9e7c8491a648074c36f14de7&id=Y%2FNgJkHkBYsYyw%2BBdQqOLCk3R75Sgqhdvt1ldgKwNY8hGZ%2BC8tiJ6AxaBaBP5oc%2Bbb3QzW1w1YtaJb58ysCbUTfimZUdhRZBb7O%2B88rdNCgZ5UwxfZZeRJ2jZ4WOOjrE3Srk3QoVOe8W%2BeaWd%2BEatlGw45oi8wxVEeJIb%2FkOYWO9GQzEEyzkAsOBGTn0P%2BdetHQOuoIflU3FNgG2iwBGU4jRRTPWqLXLXqZf3awkUdzX0SLvN%2Bld6MP4Wm4V25bDhGch4tQsV9%2FMWwtM1Vo4WnoG74gL5HhKEvHrSXmn8rCOI%2F46QDIBfu7YJ7QS6YIb&name=5hddNzMQ3LExlCqGdx0qdAMBiWGehQLCpbYvb%2FSehA%2FR%2Fc7kcNhAN4G4DmxdiQFMqFhb4XrIEDO4oNIsj2OPugNV1tze8A4bLntEX57OaMNDanyAVh%2BS%2Bv1%2FTFCI43br"
           ]
@@ -670,14 +670,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69729dfa&major_anchor_level=common&sign=7557aa55700a9e8d192e9cb7f94b6ab2&t_id=037-20260116060026D0DF365E335401BCFDAC-T4nn0h&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601160630224076E532E4A7F9CA5C17-41PzeV&unique_id=stream-695139366675415724_684_flv&wsSecret=6abc017726119b8fe8992c3437dfee0e&wsTime=69696a7e"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-15T22:00:26.745Z",
-  "shanghaiTime": "2026-01-16T06:00:26.745Z",
+  "timestamp": "2026-01-15T22:30:22.878Z",
+  "shanghaiTime": "2026-01-16T06:30:22.878Z",
   "count": 22,
   "mode": "today",
   "source": "real + cba_live"
