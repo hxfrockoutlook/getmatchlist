@@ -263,7 +263,7 @@
       "title": "掘金vs独行侠",
       "keyword": "01月15日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -842,14 +842,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769058026&major_anchor_level=common&sign=674d27f9e3123b1f8c65e6cba8639449&t_id=037-202601151300265D3A39EFD3B0426EE6B9-dyODLG&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769059825&major_anchor_level=common&sign=59bdea1e9ef3333b489bce1c1936bd0f&t_id=037-20260115133025A0EB807929D98BA678A6-x3HTdB&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-15T05:00:26.814Z",
-  "shanghaiTime": "2026-01-15T13:00:26.814Z",
+  "timestamp": "2026-01-15T05:30:25.930Z",
+  "shanghaiTime": "2026-01-15T13:30:25.930Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
