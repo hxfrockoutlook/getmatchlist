@@ -199,7 +199,7 @@
       "title": "WTA250奥克兰站",
       "keyword": "01月15日10:00",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA250霍巴特站",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -231,7 +231,7 @@
       "title": "俄克拉荷马城蓝vs撕裂之城混音",
       "keyword": "01月15日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA G联赛常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -797,24 +797,24 @@
     },
     {
       "mgdbId": "",
-      "pID": "7177ef8e8f5ef322",
-      "title": "25_26赛季中国排球超级联赛男���常规赛B级第10轮：江苏vs黄石",
+      "pID": "299e270c4da4d6c5",
+      "title": "25_26赛季中国排球超级联赛男排常规赛B级第10轮：江苏vs黄石",
       "keyword": "01月15日20:00",
-      "sportItemId": "4",
+      "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "男排超联赛B级双循环赛",
+      "competitionName": "男��超联赛B级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "25_26赛季中国排球超级联赛男���常规赛B级第10轮：江苏vs黄石",
-      "modifyTitle": "男排超联赛B级双循环赛 25_26赛季中国排球超级联赛男���常规赛B级第10轮：江苏vs黄石",
+      "pkInfoTitle": "25_26赛季中国排球超级联赛男排常规赛B级第10轮：江苏vs黄石",
+      "modifyTitle": "男��超联赛B级双循环赛 25_26赛季中国排球超级联赛男排常规赛B级第10轮：江苏vs黄石",
       "presenters": "",
       "matchInfo": {
         "time": "01月15日20:00"
       },
       "nodes": [
         {
-          "name": "25_26赛季中国排球超级联赛男���常规赛B级第10轮：江苏vs黄石",
+          "name": "25_26赛季中国排球超级联赛男排常规赛B级第10轮：江苏vs黄石",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=532308719f204ad830d68a52137e23e8&id=X0sHtwcG0yLt7M31lwuDvBU2NeURiR7Ca%2BcSACXAH8sHEKGvi5rT7%2Bdl%2FxW0GEcy%2Fi%2FnpezZwjk3wF%2BIhzuSY5Xb6cxFXmKVob0%2BFhfW3KoZGS1pSVIMZq2bBwBgqGm0JWV5eP7Jl6fnwK%2BU08kZGeFg6olh09nt9E30xqtRNsaM90ySDx2lJR8N%2BvEgU0SKOU92Cs0nRIchxprku4jHxpIyfX9UO76pem5fglPjf1VvvHrXUP4MJDUyNEVc6BbTBjT96df0a1IKzjXPulk%2FQFppWqhL%2FPPU7%2BJh%2FS3U7DtO3F9Ipx2wAX9uskSdGJzK&name=nE%2Fmdg74AkZ%2FznI2Hic1pSKlqZJYqbAT74se2c1oSBcRIBugtKMGArQobDMQIE58EXkO6oPgVgx9UAFYNPcnLNk6LuOZiomgrjJM4AEtFn4Bh1oCrLYNx8GkJkPJclDDaLCHm9nIBESX2lCBunkZu6Cjne2aZXxaFc23tC43IJMlFZUSlK6kLKyLjDLf%2BEZz"
           ]
@@ -842,14 +842,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&auth_key=1769043623-0-0-bfb4a2fd0849310355727dda24c9a36a&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260115093023E4D3DD32221E4E51CCB6-FbhfhO&unique_id=stream-695098376113881772_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695098376113881772.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697184c4&major_anchor_level=common&sign=ca12f90b9e60bcf8a9812b94a74cc40b&t_id=037-20260115100036E6B9E30182A8577286B8-dUku4j&unique_id=stream-695098376113881772_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-15T01:30:23.653Z",
-  "shanghaiTime": "2026-01-15T09:30:23.653Z",
+  "timestamp": "2026-01-15T02:00:37.158Z",
+  "shanghaiTime": "2026-01-15T10:00:37.158Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
