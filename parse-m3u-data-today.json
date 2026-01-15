@@ -407,8 +407,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "0dbecfe60b5f5ec8",
-      "title": "姆博科vs凯���",
+      "pID": "4652a7a476142798",
+      "title": "姆博科vs凯斯",
       "keyword": "01月15日12:05",
       "sportItemId": "3",
       "matchStatus": "2",
@@ -416,15 +416,15 @@
       "competitionName": "WTA500阿德莱德站1/4决赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "姆博科vs凯���",
-      "modifyTitle": "WTA500阿德莱德站1/4决赛 姆博科vs凯���",
+      "pkInfoTitle": "姆博科vs凯斯",
+      "modifyTitle": "WTA500阿德莱德站1/4决赛 姆博科vs凯斯",
       "presenters": "",
       "matchInfo": {
         "time": "01月15日12:05"
       },
       "nodes": [
         {
-          "name": "姆博科vs凯���",
+          "name": "姆博科vs凯斯",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=fbad16fb736a0a231b66ad49a0514d4c&id=wxbaJknRrxw65FWHUkfDQ7GTYbHdV3rwM1FZI6vxxeiJjPRgCAV1O3XW8B6U1GzP7n0TeeRZKkNWMvjkjbH4Cs6S4OF%2Ft6OOpljuekHaXoFYnZjUQ2gImRB%2FJuhLuF1HR6BMqfHzRl6tJG75ymXhvWiD7D8Pl7FU5q3%2F3kKCpVdUrcuXErXPB9%2Beq2Ynh2DOWVEuZuursfA0sImwNqCm5RiMClWggsOgZhB0DLKLmO%2F5HnB7lQVK9I74%2FAdFQXzhXf4nFB1c1WXv5hWH6IVtAQkBIezMtG4nnDnOQLgY0nM%3D&name=HOiqoRxXQmETFqxuMf47BKeJ%2FBnS5h0AJwNRquy%2Bl8o9zc1O4Y4s7JrJKuapf%2BgY1eQKyO5TUkFQkYQAeKggOxztBLtvAHdpwwadvbEDk3s%3D"
           ]
@@ -437,7 +437,7 @@
       "title": "海亮高中vs临平二高",
       "keyword": "01月15日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "CHBL基层赛浙江赛区男篮淘汰赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -463,7 +463,7 @@
       "title": "NBA常规赛精彩回顾：掘金vs独行侠",
       "keyword": "01月15日14:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -489,7 +489,7 @@
       "title": "KPL春季赛常规赛第一轮第一周",
       "keyword": "01月15日14:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "KPL春季赛常规赛第一轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -868,14 +868,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026011516302213E6AA4605718B348CD0-3TSsw4&unique_id=stream-695139366675415724_684_flv&wsSecret=2c1691e6f8ac84144a342c293a3f89bf&wsTime=6968a59f"
+            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769070629-0-0-9380f4b9348fc45a0501978c46f6e7ce&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260115170029C024FC1F420EB8759DE3-wLv7gB&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-15T08:30:23.315Z",
-  "shanghaiTime": "2026-01-15T16:30:23.315Z",
+  "timestamp": "2026-01-15T09:00:29.689Z",
+  "shanghaiTime": "2026-01-15T17:00:29.689Z",
   "count": 31,
   "mode": "today",
   "source": "real + cba_live"
