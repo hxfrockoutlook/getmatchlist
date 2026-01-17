@@ -200,6 +200,12 @@
       },
       "nodes": [
         {
+          "name": "约维奇vs科西亚雷托",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=77ad3f8103591a0d50a7681eafa31f58&id=8ZyUvQ%2FUMfpdY%2Ftt0kT%2FcX1PDdMFBNZIa7AOTijXnmNPtB8uCME5DrIpaAJe%2FDfVdaNlukw%2BEZMY1Mu0ItJzXw1ND7Pot%2FTDFjnJNCVTPmJ3%2F5EGxaxu%2BcyoEDNeDy53vQwtFSFIeAq9SeFDSg9okuNr4ZtnAkhBmEWfWOmW7vAg7pjj7dhoz0s%2BnFQ3EOw1vCA9aSKvrPnOEQS%2Fm8WLzXzkT%2Bn7OBKGlhcScfEf4y1puLSrFNaKpM2ZhLg2jJ2EOfJOtbW6DBRKVYgLX6c7PBI2Jwuj718QRO9hrHrXp6RW2aDAhgMQ8JF9hJ3MVmZn&name=JqJgdbBJYeFmxXzx2pkcSeQVHMH%2FsV4Qo0mpmru%2F1LtsXtsA4wFfjDbOEnMBpsunRafCWuw04hJsLYcfIjizL%2FvZz%2BYcIYMV3bv%2FrG4R9LTs%2BPu2cuqEMQ8Y3ZSaXLdo"
+          ]
+        },
+        {
           "name": "赛场原声",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=ede6ad00ebf35b3b26613c8464900c64&id=iCsyJhFm1iBcGHIgl0hE%2F8zy%2B9Pe6NWzWZx1Chvva7sZ%2BduUhzwJ71NzT6XTPTTpGABimHqjlCLjlBBBECGoTAQZVAuwcqDHaFBYAGlm%2FlIFwstcTf%2Butld%2FXvyVc9LGfUSaEavjtPbUkaLewxzAdsgAlTIoadlCaXCLSoWHe06%2BT6TfQwdiYwOSlNogGiJsio1%2F%2B7V%2BhPQRmXPM91Mh3nBEBqMwG1UtmAZUKKA%2B%2FxK4RFwxkabHAhNBsLDUIL4HfmSdxNb%2B4DM%2BvHcMxk%2F9FjlHyrCWK3P30bE1qBXEmLHOixPo%2BlAupW%2BYdppk4g8m&name=%2BxKaCXwXLKx8iduZeTo3pfx%2FEAKg30FQelszrCCB6cc2f8MP6gaRnZCi1UV1QkagUAyar0W%2FtXC%2BCMGgTE982KkkZTyNZ3VuiRuJTvYbA7e5PvnMbP6CVQDtYaOTrfTa"
@@ -810,14 +816,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69743cce&major_anchor_level=common&sign=d3fa9ed65f3989bdabec24643ba91daf&t_id=037-202601171130222AE60FCA083FDB28B676-ByiLNg&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697443da&major_anchor_level=common&sign=9e91b9c92af75c58da3d034c7c9e48de&t_id=037-2026011712002671CB61DF01C6CE367066-rEi2RN&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-17T03:30:23.086Z",
-  "shanghaiTime": "2026-01-17T11:30:23.086Z",
+  "timestamp": "2026-01-17T04:00:26.484Z",
+  "shanghaiTime": "2026-01-17T12:00:26.484Z",
   "count": 29,
   "mode": "today",
   "source": "real + cba_live"
