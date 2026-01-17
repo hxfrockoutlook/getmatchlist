@@ -7,7 +7,7 @@
       "title": "比尔vs野马",
       "keyword": "01月18日05:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NFL季后赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -51,12 +51,6 @@
         "time": "01月18日06:00"
       },
       "nodes": [
-        {
-          "name": "刘乘源",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=2104b50cfe9c0a10527c7805ca581cce&id=9Ft1ikBkqApXK6juPfnL4maRmua%2BZn180WoAGj0oKOtRE3NkDXgsFBUHQv62kZOq5q98TntOBlVUaQzM5FLccFClPMyY1qvNLmeZsExo8U8a%2FJrDTfAmIu6%2FdqD0e6XC%2BE7QzK1vmrDOpKIro7LXMVywC1VnkouS0scfeijbYhX6ZsJ%2BwHjT8EIUqrMDYzTI1ZIJrFVRAFvz9X0K7cg%2FXB2ZMxlcJZaJccVd7naNmN2yd12753h44OsAOSEpW8eRBbC9ujOhFqCPtmykHVuXgq66ScE6BpEQ5Hm5Ps%2FU5rrhAixfdCDrP6SgXjo9zrqFXDU9wvjYlTjGlqGp3VJ7cA%3D%3D&name=K2S0xDjxJDOZz9IPaFKaYFdnCchdYpAOBkuuS2HyiC1A6%2FQQtYnWwmhgLa50GOFBbNLzV4X7OUmljtSWg30fPqgttA1czTAlNbJNDbuEoMs%3D"
-          ]
-        },
         {
           "name": "英文原音",
           "urls": [
@@ -822,14 +816,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769286624-0-0-d0c8769969d878c4cf9fe9fb28d77157&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260118050024E2ECE569A45689EDA12F-dntmYo&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260118053023E9923300FCECF37243D9-uCBffl&unique_id=stream-695139366675415724_684_flv&wsSecret=19994368ce16591a08b5a720dc25c4ba&wsTime=696bff6f"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-17T21:00:25.150Z",
-  "shanghaiTime": "2026-01-18T05:00:25.150Z",
+  "timestamp": "2026-01-17T21:30:23.290Z",
+  "shanghaiTime": "2026-01-18T05:30:23.290Z",
   "count": 29,
   "mode": "today",
   "source": "real + cba_live"
