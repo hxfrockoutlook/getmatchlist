@@ -366,7 +366,7 @@
       },
       "nodes": [
         {
-          "name": "孔祥宇 殳海 美娜",
+          "name": "孔祥宇 ���海 美娜",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=50a73c7069f312c9eb751957b5590fe7&id=EXm5EdlE0Hd3T9f0R8x0bjcn3%2BAaDJtiDoz3w%2BQxUQg4VPQIMCh6IWTPdFV7zExRyHUqWImZXikPJ1veg8YZY5EH6pfCjRNbT9dFAMGbdYp7McmqL7Y8f9LBC%2BgVfjL%2BomhX%2FguyKwWAXdax5bDWESBhf0fQ43fx7ZX3MX1sDSCsp7gsCHuDNk5wDCg6cqiPbusZj%2FEah2aTe0ADolSqEbRXTyGIdNFrpF1tMtzBGVQcS5zQ0%2BiEVRESwSHLYvNVFxoeAbTAmrvuFzkEe02Jfw885q5r2GiP7S3riMUYaknOxSnJ5c12f1mmI%2BQ%2F2R26pyb8ZtTBDZ%2FzZ9vsyclv7w%3D%3D&name=5ED5BoQYQwPuwYBoXz7rV2YwpehtcPjyhH8BAywIrfVwW185u8PqDs%2FyUxm4a%2FQp5TaQjpexuPRUNYH61fduqLnFhIXTbuv6CDbs%2FCfr4ixcq8gu9rucpUsQXw%2B6RLze"
           ]
@@ -725,32 +725,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "76c00ff17cbbb40c",
-      "title": "赣BA常规赛第二轮：赣州VS南昌",
-      "keyword": "01月18日19:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "江西省城市篮球联赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "赣BA常规赛第二轮：赣州VS南昌",
-      "modifyTitle": "江西省城市篮球联赛 赣BA常规赛第二轮：赣州VS南昌",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月18日19:00"
-      },
-      "nodes": [
-        {
-          "name": "赣BA常规赛第二轮：赣州VS南昌",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=ba63e5c746b8d45bb7af8d298fa94f31&id=Sk5ZR6%2Br23%2BQYReuk3qdzHh1r9S4vBKIw3dwiyfl2gG7FTI9Y85Ewf7n8m0ehCxyBoa8rxJQVlS%2BKS7p%2FhXrt5h%2F61JMAfasVotChpvqYHU7KjoyQ2h012aL2%2Fykz3f1CVyi3Q38cpN1dN5e6TjhDyiZ6uT8LyGXGcbEVJ1S%2Bbxjg1tUuwkUVX231jg3UTx5hmJZKdduTWq93qPtlkGYlB1Mh8Fi7KiTO9FqXFphAvG%2BHE5JWTpWWDzgH0ikU4OwyGcae4Ej8pzG5IS55h7OwZoZ7pdawFLjPK8AGvJok5k66FBUGDUxhkjJt%2FVcrRbB&name=zUtXstQVJw1CqNXx1FPgUGmMKsBv%2Fj1y62a8BhzvEiO7WfUytBFaPljbqnmCCxWeBGd0TPz9Y0o6%2FPWFb5WUzLdzzf3QbHIOxvu45Pz468ytuCzfDiKy6E3qr%2Byf2CrreaquVq4H6X1RHC%2BFss4MIQ%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "81ca2a16c1a8ec87",
       "title": "张家口体文旅vs香港金牛",
       "keyword": "01月18日19:30",
@@ -822,15 +796,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769270423-0-0-1f6153da4e573a66bf35f074dab06bfb&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260118003023CABCEDA001D3567695FF-vx1QWF&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769274028&major_anchor_level=common&sign=d84e4aac536b77d4c0d7e63298eee47f&t_id=037-20260118010028CA59412381874271DDAE-nafUpI&unique_id=stream-695139366675415724_684_flv&volcSecret=d84e4aac536b77d4c0d7e63298eee47f&volcTime=1769274028"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-17T16:30:23.361Z",
-  "shanghaiTime": "2026-01-18T00:30:23.361Z",
-  "count": 29,
+  "timestamp": "2026-01-17T17:00:28.773Z",
+  "shanghaiTime": "2026-01-18T01:00:28.773Z",
+  "count": 28,
   "mode": "today",
   "source": "real + cba_live"
 }
