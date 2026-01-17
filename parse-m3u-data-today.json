@@ -161,7 +161,7 @@
       "title": "[早安Tip_Off]第86期",
       "keyword": "01月17日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -199,6 +199,12 @@
         "time": "01月17日10:05"
       },
       "nodes": [
+        {
+          "name": "约维奇vs科西亚雷托",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=77ad3f8103591a0d50a7681eafa31f58&id=%2BU8fHPgAvCbKQfCjYG9fXWfpbPDHfSQ99%2FqWPDoVcn6Ovkyxu6ApjJJppl45RH1Qqg6u7I5P%2FAg8d5vKHJWYCLcpxUE9WsVS6P5JDtvmCAXsgWh5kiSKAqyVckd52Y5%2FRx6vQ1bLVAKht50fs2D0F7IP6%2Ff1s74Ffc%2BivRKNib7aZhg4hII0WsIq0oF300Zwfa4k2jxqoS9p8dBnkaoVHJG6fi7LWYyZjggpwKpky5FffXSo%2BJFmcdLwVB6hxDS5oea%2F%2BIwP%2F%2BZ8UiBMuIS53%2Fu1h%2BjKWj3Vl7j1moHmCSGa9Qbt3K%2BslU4CmE3vJ32X&name=lGGNh42m1NOQfztLAvJpafuUkKCo9IX1E3T%2FYzbLqcP8oxoY4CB7zpeCSOaUa2GjhXK8awOXozZxjt1jYOs0ULBP9PcX%2F6ezGWwCGpQwFoFSGBUqr7LwbKIq0oJvMVNw"
+          ]
+        },
         {
           "name": "赛场原声",
           "urls": [
@@ -353,7 +359,7 @@
       "title": "25_26赛季FIS单板滑雪障碍追逐世界杯东北亚站第一日",
       "keyword": "01月17日13:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "冰雪",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -739,32 +745,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "0bdf7fb92c2e5008",
-      "title": "山东日照钢铁vs北京北冰洋",
-      "keyword": "01月17日20:00",
-      "sportItemId": "4",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "女排超联赛A级双循环赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "山东日照钢铁vs北京北冰洋",
-      "modifyTitle": "女排超联赛A级双循环赛 山东日照钢铁vs北京北冰洋",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月17日20:00"
-      },
-      "nodes": [
-        {
-          "name": "山东日照钢铁vs北京北冰洋",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=8b1b8ec393c5e1aadb80dbe4a8e2dbb2&id=c2slunWEdAuX9M7h0hOsgVeep%2BOOJSZ5KYNRn1JvgV%2FKy%2BBjg%2Fr3cs1DuHgUBC3nvXe3mw9EhWXtdqDMVSJcnVvgla7iHtmpLX3bnCLeiobKie%2BJKrPC5%2BvYtXxvOfTEqSBdrm8GDaRtW35EScnXVZcmqV0BUB80%2FiAuYCSQbOsI%2F%2BA%2FgkKib7QhA8L6yqsPw54tDTBJrbNpM40DVqpMra0do2E3qIxdoTiMRim4x5rVFNeV6vEjP99IBT5Qh0Ha%2B%2BBJ5KBRdIphTCdH6MAURLe%2Bn5SIlLw38S48Mp11wKUyq0Q430CHRujF34SyyXCG&name=ZmOcHxgAWiG2xMo28nLnc3wyrE1Pec4F9LE%2FTyoTzpROooN%2B6cu9IIdNo12UE7fFXEyFZXe6bSSWnY%2BPEhXhVPK%2Bz3ZOrX0v2E5URYYpWGCxPZnoWOqv0IXuiNCc8BdrudVmVgfUiz6tXgej2jmjcA%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "847ad41274acc028",
       "title": "NBA常规赛精彩回顾：森林狼vs火箭",
       "keyword": "01月17日20:00",
@@ -810,15 +790,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769229022&major_anchor_level=common&sign=7bb5efad8a46957e6b2d226752a005ab&t_id=037-202601171230225814C1F23D6B1131BD7E-qG3iYz&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260117130025A552C9C5E888F53497EB-WqJ4s9&unique_id=stream-695139366675415724_684_flv&wsSecret=4acde0de63c8753de241f5e9d85c5f10&wsTime=696b1769"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-17T04:30:22.462Z",
-  "shanghaiTime": "2026-01-17T12:30:22.462Z",
-  "count": 29,
+  "timestamp": "2026-01-17T05:00:25.714Z",
+  "shanghaiTime": "2026-01-17T13:00:25.714Z",
+  "count": 28,
   "mode": "today",
   "source": "real + cba_live"
 }
