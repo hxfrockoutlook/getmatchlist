@@ -647,8 +647,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "f88bfb812474f971",
-      "title": "25_26��季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
+      "pID": "8677a0ccbe41f7f3",
+      "title": "25_26赛季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
       "keyword": "01月18日16:30",
       "sportItemId": "4",
       "matchStatus": "0",
@@ -656,15 +656,15 @@
       "competitionName": "男排超联赛B级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "25_26��季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
-      "modifyTitle": "男排超联赛B级双循环赛 25_26��季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
+      "pkInfoTitle": "25_26赛季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
+      "modifyTitle": "男排超联赛B级双循环赛 25_26赛季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
       "presenters": "",
       "matchInfo": {
         "time": "01月18日16:30"
       },
       "nodes": [
         {
-          "name": "25_26��季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
+          "name": "25_26赛季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=77eb82c6c74a64aa41765bca9603f68c&id=mr7c3Lxdhybq6qh3kW0OsI830XeU3AtiLsp94SLnATpwjVFI8MKuM1UaoPXlVSsor2twjklPnsYBWhQ5HzsDGNjEVPUvlzS7FbPGseK1cGaB2UARXbvoyr%2FaYwn1Z9Z5JllmbkUgpTWq5v8U920%2BjpOIdoATqyO78ttsggPYkGVQ6doR65pjpiNYz4iYKkDHEDJsQM1Vxz8HLYPVZKH8b5qEceQArh9w6gltH1JPrPfhrMStCNApub637PRaJYr4QueuCUCy3Up1lL4p684yw8Yf8iTJJ%2FlU%2F5GgquboUO4HF66t3pQdOJ9us8UOcT%2B2&name=6fQKcDZSOYGybab3wNez7GswEbDFrZg37tAxtVEis4Rd0Ha2Am4MQe1SgggB4zvXw%2BeFcAZEQQxZFd%2B%2BaclABAY%2BeXbzx4K77dUuV6%2BkhLB%2FbjXpb%2BQTjyGjRLv1j4Uh6V4x%2BrO0oktVnQNtE%2Fkt8OQq1sB5vKr2fJe1kRyF7EfXrkge36mY6L3qXnqnnmio"
           ]
@@ -874,14 +874,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601181430237965A441C73C1422CBC1-3qfkJ4&unique_id=stream-695139366675415724_684_flv&wsSecret=3f5e9c5aac07af05828bc012dfb824d0&wsTime=696c7dff"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769324425&major_anchor_level=common&sign=80198313650745f6173b83fd3c2596c2&t_id=037-202601181500259268AE7E8ACEDE0A3B8C-DkeLhv&unique_id=stream-695139366675415724_684_flv&volcSecret=80198313650745f6173b83fd3c2596c2&volcTime=1769324425"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-18T06:30:23.842Z",
-  "shanghaiTime": "2026-01-18T14:30:23.842Z",
+  "timestamp": "2026-01-18T07:00:25.963Z",
+  "shanghaiTime": "2026-01-18T15:00:25.963Z",
   "count": 31,
   "mode": "today",
   "source": "real + cba_live"
