@@ -213,7 +213,7 @@
       "title": "49人vs海鹰",
       "keyword": "01月18日09:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NFL季后赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -245,7 +245,7 @@
       "title": "雷霆vs热火",
       "keyword": "01月18日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -277,7 +277,7 @@
       "title": "森林狼vs马刺",
       "keyword": "01月18日09:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -868,14 +868,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69758e4f&major_anchor_level=common&sign=6e79e63e8b991d0348ca297760c8d014&t_id=037-20260118113023B5BFD492321A7F0BF26F-ckwcXp&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026011812002714736F2FFE4E0798527F-hMSUYw&unique_id=stream-695139366675415724_684_flv&wsSecret=b51738aae3174369d27b2bf7ea752479&wsTime=696c5adb"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-18T03:30:23.380Z",
-  "shanghaiTime": "2026-01-18T11:30:23.380Z",
+  "timestamp": "2026-01-18T04:00:27.623Z",
+  "shanghaiTime": "2026-01-18T12:00:27.623Z",
   "count": 31,
   "mode": "today",
   "source": "real + cba_live"
