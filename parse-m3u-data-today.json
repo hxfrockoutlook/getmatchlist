@@ -321,7 +321,7 @@
       "title": "奇才vs掘金",
       "keyword": "01月18日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -569,17 +569,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "46909278bcf4775d",
+      "pID": "a7fee02df836e0db",
       "title": "NBA常规赛精彩回顾：森林狼vs马刺",
       "keyword": "01月18日16:00",
       "sportItemId": "2",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "NBA���典赛",
+      "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "NBA常规赛精彩回顾：森林狼vs马刺",
-      "modifyTitle": "NBA���典赛 NBA常规赛精彩回顾：森林狼vs马刺",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：森林狼vs马刺",
       "presenters": "",
       "matchInfo": {
         "time": "01月18日16:00"
@@ -647,17 +647,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "8a2074a563c6d5ea",
+      "pID": "50e1ff98bf4a321d",
       "title": "LPL第一赛段组内赛第一周",
       "keyword": "01月18日17:00",
       "sportItemId": "",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "LPL第一赛段组内赛",
+      "competitionName": "LPL第一赛段组��赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "LPL第一赛段组内赛第一周",
-      "modifyTitle": "LPL第一赛段组内赛 LPL第一赛段组内赛第一周",
+      "modifyTitle": "LPL第一赛段组��赛 LPL第一赛段组内赛第一周",
       "presenters": "",
       "matchInfo": {
         "time": "01月18日17:00"
@@ -848,14 +848,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769304622&major_anchor_level=common&sign=9500965eaf58a5ad01a6a2879c5b4bc2&t_id=037-20260118093022DBB7819C55C5C57C03BE-1P6bz3&unique_id=stream-695139366675415724_684_flv&volcSecret=9500965eaf58a5ad01a6a2879c5b4bc2&volcTime=1769304622"
+            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769304634-0-0-ef74e00dd9cb68e5cfde420f2663ab98&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026011810003486AFF97EE04E70EADBBA-UcYr8H&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-18T01:30:22.344Z",
-  "shanghaiTime": "2026-01-18T09:30:22.344Z",
+  "timestamp": "2026-01-18T02:00:34.610Z",
+  "shanghaiTime": "2026-01-18T10:00:34.610Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
