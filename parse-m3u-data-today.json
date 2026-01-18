@@ -33,7 +33,7 @@
       "title": "比尔vs野马",
       "keyword": "01月18日05:30",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NFL季后赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -97,7 +97,7 @@
       "title": "凯尔特人vs老鹰",
       "keyword": "01月18日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -129,7 +129,7 @@
       "title": "步行者vs活塞",
       "keyword": "01月18日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -161,7 +161,7 @@
       "title": "太阳vs尼克斯",
       "keyword": "01月18日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -848,14 +848,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69755d21&major_anchor_level=common&sign=0269b70d5aefdf44cb2554764aad3567&t_id=037-20260118080033D8999B1E9795BF7E26EC-HnRbIK&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769301025&major_anchor_level=common&sign=5b95a84e86172653c7ca59cfccd181a6&t_id=037-2026011808302562B15B4EC0C5D47D1BA1-Aa0LH3&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-18T00:00:33.832Z",
-  "shanghaiTime": "2026-01-18T08:00:33.832Z",
+  "timestamp": "2026-01-18T00:30:25.307Z",
+  "shanghaiTime": "2026-01-18T08:30:25.307Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
