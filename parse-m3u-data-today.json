@@ -328,7 +328,7 @@
       },
       "nodes": [
         {
-          "name": "王兆丰 管维佳 辰辰",
+          "name": "王兆丰 管维�� 辰辰",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=4812e3354df188598221716f949529ea&id=3eaGEFOP6aZ4A576nd%2FbJ0efPljNwFuFCxkb%2FOINL9Vwv31h6MFBrs8aGmEX21c6KXCVKXRmZqjHUDcUTTqnTplMOUK5iE31ad%2F%2BX72HDNOkwfQkftzyh94UbRT%2Bcv9%2Fte02tmjL7i6U2K6jM3qoaN%2B2GladrIxbsPM3PkZDqrAP6a8Er3LiMSmnshNEo5ELABW8vqk33Xry6YbWOU4NkA1tVY%2BItMpHMRZpypr7v9odJPv98D4h2%2BeOPB2D4jUA%2FpXCYDruWOY2Mn52FQaRG64L%2FPwjkyOJ35LJAfLe3EIqmx1HZlcbc5aGIiaLnrWSrPaU3jdQuEgtBe2Qe2EkVQ%3D%3D&name=9vT01LyVvv%2BB%2FWsK6xChY0NMiLZRgWJ6KNUI%2Byxw9otR7IOz6JThMMEs2IkcgS%2BIgonGom5kKU7i26A1QCSL5g5plrmvetgFiukwEfvu88u0NG0M0r3OLoRGHgjTXzY7"
           ]
@@ -347,7 +347,7 @@
       "title": "奇才vs掘金",
       "keyword": "01月18日10:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -443,7 +443,7 @@
       "title": "25_26赛季FIS单板滑雪障碍追逐世界杯东北亚站第二日",
       "keyword": "01月18日13:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "冰雪",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -874,14 +874,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69759c71&major_anchor_level=common&sign=132e5a41cd812b56575c4156109e7ece&t_id=037-20260118123040D279EDD0AF9B608EFF96-W30SwR&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769317226&major_anchor_level=common&sign=3a13a4497e651a8c54e72f369f90e27a&t_id=037-202601181300263A6E6A045F79CCED7131-FzxYRc&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-18T04:30:41.258Z",
-  "shanghaiTime": "2026-01-18T12:30:41.258Z",
+  "timestamp": "2026-01-18T05:00:26.934Z",
+  "shanghaiTime": "2026-01-18T13:00:26.934Z",
   "count": 31,
   "mode": "today",
   "source": "real + cba_live"
