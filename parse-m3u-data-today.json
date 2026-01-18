@@ -405,7 +405,7 @@
       "title": "湖人vs开拓者",
       "keyword": "01月18日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -469,7 +469,7 @@
       "title": "NBA常规赛精彩回顾：爵士vs独行侠",
       "keyword": "01月18日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -495,7 +495,7 @@
       "title": "KPL春季赛常规赛第一轮第一周",
       "keyword": "01月18日14:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "KPL春季赛常规赛第一轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -511,32 +511,6 @@
           "name": "KPL春季赛常规赛第一轮第一周",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=b830bbcdea5066b2bbf2d3c0a29412ee&id=N6rdHF5lLL%2BvbYa2ll28ftRcWBhisdEmwj2i6gNmGNgLDj1VnM5tVYtHE1%2BZzkM9iFitfDv8UlREfPaR8ekUAQR3xNZvrBchsREgjum6jGUxOnY7jNb8E2mwztgTDQflhKTsSGwS4pnPY%2B61viI%2BYX%2B40ohUxA1TqWNId9jibN6Nt8%2Bfg4YUhz9nFSb9sDqSe8NCyvZr3uAL9ZajNw18MlRPWHhXSL3qXfgddY40QEq3BVwcsk8iyKFR%2F2%2FXoRbtRrTzPlgli59yNgYgS%2B7AQVfQomNMfTAMDvQbjtqzh6wXG7vURgKLsB8OgSKQCUrr&name=YB2qQqxMY9fRaiT%2FWENPdKUsmKsACbs5gUZKm0%2BGVJXNSLhXnXpBWGnyV47sv8QMilYbA%2FIHRY2xl84frkH6DYfIgv2d%2FwEsnnG01Sd1PU6dQ6BNt1BNmQoE80rjlmLpOC8X9A1P8Y9u7OJcaI3PjQ%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "1ea04318dfb6eb4f",
-      "title": "辽宁凤城vs保定沃隶",
-      "keyword": "01月18日15:30",
-      "sportItemId": "4",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "男排超联赛A级双循环赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "辽宁凤城vs保定沃隶",
-      "modifyTitle": "男排超联赛A级双循环赛 辽宁凤城vs保定沃隶",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月18日15:30"
-      },
-      "nodes": [
-        {
-          "name": "辽宁凤城vs保定沃隶",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=0f90d53ed475c3761495df96527e085d&id=bBpwon0S51nytiNZ5Jv4%2BVXXyOSbXvfPa6rim7oxs5xt9n1J84V%2BYIlSzqHzb%2FAOjJME0cqQmuM8q4V44xg3pkfBQ6SP6NXBmIbPXJowZta3EuNdRgYjnZINUFVzHVYbYCbKHvm1J8Hplq5%2BWf%2FbOhbzZ5YparVDw2AHb8zMPi2kNjfjxprj8aD72O6g4RUFkhHLyiWcvdvlWvf%2FcVLbAvnxB%2Fbdw3J5tmKYQhuQ6o9FWCFYEaWCGjq0IZKF6O2lq63AFLX42Apg%2FAh6Q07I8sZya3RUqeBZdEMgLX6VQlVUdHrTs0iLNQrUshAv6UMo&name=nQstX%2F8Jn08Kfpt%2FktvDGuxL7O4S6eDUGcllI52bQhbil1V9UkUho7zriBVBdalvhhDoCzmslQokgXoo%2BuQ1WI%2F2gAw8TyxKA9sLTWiLTnVUomQ%2FJs3foUVNu77%2Fhma2"
           ]
         }
       ]
@@ -647,8 +621,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "00e6a1e040df2327",
-      "title": "25_26赛季中国排球超级联赛男排常规赛B级第11��：四川vs黄石",
+      "pID": "8677a0ccbe41f7f3",
+      "title": "25_26赛季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
       "keyword": "01月18日16:30",
       "sportItemId": "4",
       "matchStatus": "0",
@@ -656,15 +630,15 @@
       "competitionName": "男排超联赛B级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "25_26赛季中国排球超级联赛男排常规赛B级第11��：四川vs黄石",
-      "modifyTitle": "男排超联赛B级双循环赛 25_26赛季中国排球超级联赛男排常规赛B级第11��：四川vs黄石",
+      "pkInfoTitle": "25_26赛季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
+      "modifyTitle": "男排超联赛B级双循环赛 25_26赛季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
       "presenters": "",
       "matchInfo": {
         "time": "01月18日16:30"
       },
       "nodes": [
         {
-          "name": "25_26赛季中国排球超级联赛男排常规赛B级第11��：四川vs黄石",
+          "name": "25_26赛季中国排球超级联赛男排常规赛B级第11轮：四川vs黄石",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=77eb82c6c74a64aa41765bca9603f68c&id=LCEd0Vck39txYRbMBqGgeJbgnuiYvZmckl9rR5nLBE8ihIkkIaJ47upWuAgMsE%2FDQaCwlUCkRUyrorzM1t%2FucPntwAcKySzI5hm1b9ACRG1FTaoPEgUmLtoAYmFze4D%2FEjC15pkl%2FsxoZcIWZOa28%2FGrLanXZehOlJslu8QxnK8m8Txc1iNduMGAu0ygslst%2FN78avcWwJoxHZzxauZQ%2Bp4Fe4uJtYVMLiIU4YIKOz1sWJuWhPcM5aXqPa6ynYj8SP2HBvAO3n2X%2FvFw%2F9j4UB0WESavQPrI81YLon0d4Ctd3dkamDE7YTxLABwOczdf&name=Chqm8%2FQChSm%2BjN2yJoyJBtNi0zNiO9lvfp0ihSWz34WyVpWrfST1M%2BmmXAMm1wTDIG1gb2SG5%2FMV4FQJYGBxyGNhsvFHVZ6qwOaq%2BYy528FOHfENSjhRlCrTdZcl04aTN%2FiltBFBwTTISERl3gD%2Fgc9I3JBHQO9J95Fv69TwBxwc%2BJ4x892Gu0pwaZwOrDoq"
           ]
@@ -874,15 +848,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769317222-0-0-e914c8c4621ebc225b63458d1177a5aa&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260118133021FF171DE07AA0D09443E5-18vBRe&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6975b17b&major_anchor_level=common&sign=e79fcb9774799a59d83ad69d3ceb1c07&t_id=037-20260118140027BACC786AC092192BC7C2-geSR2r&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-18T05:30:22.233Z",
-  "shanghaiTime": "2026-01-18T13:30:22.233Z",
-  "count": 31,
+  "timestamp": "2026-01-18T06:00:28.125Z",
+  "shanghaiTime": "2026-01-18T14:00:28.125Z",
+  "count": 30,
   "mode": "today",
   "source": "real + cba_live"
 }
