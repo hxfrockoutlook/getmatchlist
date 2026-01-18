@@ -379,7 +379,7 @@
       "title": "湖人vs开拓者",
       "keyword": "01月18日11:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -725,17 +725,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "403be020ab0cfaf0",
+      "pID": "d099753fa6a9bc29",
       "title": "浙江振德vs北京北汽",
       "keyword": "01月18日19:00",
-      "sportItemId": "4",
+      "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "男排超联赛A级双循环赛",
+      "competitionName": "���排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "浙江振德vs北京北汽",
-      "modifyTitle": "男排超联赛A级双循环赛 浙江振德vs北京北汽",
+      "modifyTitle": "���排超联赛A级双循环赛 浙江振德vs北京北汽",
       "presenters": "",
       "matchInfo": {
         "time": "01月18日19:00"
@@ -848,14 +848,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769308222&major_anchor_level=common&sign=39884662291a8007b921aa4f966db540&t_id=037-20260118103022768B987E93D0946740CD-HD3KT0&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260118110028673260D339B03987D562-o52k99&unique_id=stream-695139366675415724_684_flv&wsSecret=ba77e4aa8069258254331c99d24d80f2&wsTime=696c4ccc"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-18T02:30:23.133Z",
-  "shanghaiTime": "2026-01-18T10:30:23.133Z",
+  "timestamp": "2026-01-18T03:00:28.595Z",
+  "shanghaiTime": "2026-01-18T11:00:28.595Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
