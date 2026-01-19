@@ -335,7 +335,7 @@
       "title": "猛龙vs湖人",
       "keyword": "01月19日10:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -538,14 +538,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769401827-0-0-ec7d875794456e775e4642a6afda2afa&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601191300277A3820E5F6B083A009AD-SyVgnw&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6976fbee&major_anchor_level=common&sign=9858d4693aed3bcff67001404c065274&t_id=037-2026011913302296C564D2C1432F778ABA-jA0M8o&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-19T05:00:28.084Z",
-  "shanghaiTime": "2026-01-19T13:00:28.084Z",
+  "timestamp": "2026-01-19T05:30:22.945Z",
+  "shanghaiTime": "2026-01-19T13:30:22.945Z",
   "count": 19,
   "mode": "today",
   "source": "real + cba_live"
