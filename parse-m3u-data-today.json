@@ -413,7 +413,7 @@
       "title": "LPL第一赛段组内赛第二周",
       "keyword": "01月19日15:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "LPL第一赛段组内赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -558,14 +558,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769409024&major_anchor_level=common&sign=9aec8ee02eaa506815bc48474a2004ae&t_id=037-20260119143024A733358CD210CB4041A9-G9GAzR&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769410827&major_anchor_level=common&sign=cede981ecc289157154181323541da78&t_id=037-202601191500277E3439003E62023D2EFA-HOmRGm&unique_id=stream-695139366675415724_684_flv&volcSecret=cede981ecc289157154181323541da78&volcTime=1769410827"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-19T06:30:24.317Z",
-  "shanghaiTime": "2026-01-19T14:30:24.317Z",
+  "timestamp": "2026-01-19T07:00:27.806Z",
+  "shanghaiTime": "2026-01-19T15:00:27.806Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
