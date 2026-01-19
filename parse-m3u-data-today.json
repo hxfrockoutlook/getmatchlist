@@ -71,7 +71,7 @@
       "title": "快船vs奇才",
       "keyword": "01月20日04:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -167,7 +167,7 @@
       "title": "孟菲斯拼搏vs撕裂之城混音",
       "keyword": "01月20日07:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA G联赛常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -556,14 +556,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769464822-0-0-da6a699ed7d2530c8d315632260c884f&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026012006302206797F8ED9A0FD4BC45C-0YveaN&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260120070028A71E5E2680195964F3B5-7jWrVS&unique_id=stream-695139366675415724_684_flv&wsSecret=8d24e8b6752a58e3a1494dfceffff928&wsTime=696eb78c"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-19T22:30:22.757Z",
-  "shanghaiTime": "2026-01-20T06:30:22.757Z",
+  "timestamp": "2026-01-19T23:00:28.280Z",
+  "shanghaiTime": "2026-01-20T07:00:28.280Z",
   "count": 19,
   "mode": "today",
   "source": "real + cba_live"
