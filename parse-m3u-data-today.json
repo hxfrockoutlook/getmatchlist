@@ -471,7 +471,7 @@
       "title": "长沙勇胜vs杭州经���",
       "keyword": "01月19日19:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBL常规赛第11轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -536,16 +536,58 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "name": "CBA:广厦vs青岛等4场比赛同播",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769425233&major_anchor_level=common&sign=a5506e5bd18c089d76eb72af3c2985b6&t_id=037-2026011919003379222DE6FB05F48E7446-lfNHU4&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-f3.douyinliving.com/fantasy/stream-406928777780659031_hd.flv?arch_hrchy=s2&auth_key=1769425225-0-0-590e0da8ec37e10ef6c98c1c6292434d&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20260119193025823B660866A99C5C3276-T3uLu1&unique_id=stream-406928777780659031_855_flv_hd"
+          ]
+        },
+        {
+          "name": "四川vs广东",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-695159162189120343_hd.flv?arch_hrchy=s2&expire=69775051&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=b74ea0227fc7f8d59f1127153a4c9805&t_id=037-20260119193025823B660866A99C5C3276-V13UMJ&unique_id=stream-695159162189120343_855_flv_hd"
+          ]
+        },
+        {
+          "name": "吉林vs山东",
+          "urls": [
+            "http://pull-flv-f6.douyinliving.com/fantasy/stream-118698413239042903_hd.flv?arch_hrchy=s2&k=5fd36eef7c2db0ed&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1769427025&t_id=037-20260119193025823B660866A99C5C3276-btrymU&unique_id=stream-118698413239042903_855_flv_hd"
+          ]
+        },
+        {
+          "name": "龙狮vs北控",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-406928794750813015_hd.flv?arch_hrchy=s2&expire=69775051&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=4dd18e7fea79b3b46fd002ff4cfab0ad&t_id=037-20260119193025823B660866A99C5C3276-X5WCWC&unique_id=stream-406928794750813015_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:广厦vs青岛",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-695159176479114071_hd.flv?arch_hrchy=s2&expire=69775051&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=8f8f92cb42fa031f547bd7582417fc5b&t_id=037-20260119193025823B660866A99C5C3276-yWXa3L&unique_id=stream-695159176479114071_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:四川vs广东",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-118698426997146455_hd.flv?arch_hrchy=s2&expire=69775051&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=732e7bc9265c292fbdc4bb7425018635&t_id=037-20260119193025823B660866A99C5C3276-YFxV7u&unique_id=stream-118698426997146455_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:吉林vs山东",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-406928806633800535_hd.flv?arch_hrchy=s2&expire=69775051&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=179389e434aab0d881e8b1d4a4687542&t_id=037-20260119193025823B660866A99C5C3276-2dsX5Z&unique_id=stream-406928806633800535_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:龙狮vs北控",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-695159185878025047_hd.flv?arch_hrchy=s2&expire=69775051&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=00ca27af24ea4e2a7a53e706541dd086&t_id=037-20260119193025823B660866A99C5C3276-aUOj9A&unique_id=stream-695159185878025047_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-19T11:00:33.973Z",
-  "shanghaiTime": "2026-01-19T19:00:33.973Z",
+  "timestamp": "2026-01-19T11:30:25.687Z",
+  "shanghaiTime": "2026-01-19T19:30:25.687Z",
   "count": 19,
   "mode": "today",
   "source": "real + cba_live"
