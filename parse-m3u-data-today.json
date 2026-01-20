@@ -88,12 +88,6 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=62adc70dc2227ab985b829c95b2fc277&id=2e5K362Qm%2BWlqtHvJ%2FYU1YTHbgPwJrMUayFL3XtYZjNzu9HosMKeQ5%2FDsId2FY3YOEbmFtgpb550kEE4KqD6%2FYf046CsQ%2FQZEKRBAKPxB1NKelKy4loOaJKWILzxvi%2BeuYEEefUK9zF%2F8ButdJaagt%2BC8fVUCrP1pmoO5fFAowTBx2IFC6vmJrG7iykx%2FcL5E0zriD%2FTHwQBRlz9WDFqP2KVXGEUMQ1sTP60uNOoCDCtUuNE85Liao%2FTGebuxQypCynTxmPeEPQy8qPHyERoLVQr6JrDus23F3iBmCSs%2BldwB3vciYifo9Z8DC9GJNQZow0A8x0ELcbAbQDd2Fuquw%3D%3D&name=Ke9rj0puSSkllQMnSamWXSWRIsK7xBsHwAln%2B%2B4pqOh4%2F%2Bx9eRcIzJP5oIwpFuZCb1a27iOL%2B%2F7Ie1Ek%2FKxZogAO%2BsQY1Vt98tPUFZBAtbE%3D"
           ]
-        },
-        {
-          "name": "英文原音",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=df73b0c28c836789962a8242a9e44482&id=b%2B9JH6nbZ1Civ%2Bs2nD2gOsE7OfrhWmTDtJ3NCtXkcBEuXf%2BLjzv%2Faox3OULMI3%2BI2TWzvfJj7w%2FwPBcFzdBCqNAGZ%2FWAGshMaQerqDzZS5OekoFjlb54PAfqyIOXxaKtZyML8WVh%2FBhUQBNcH7cA2wjiwVsa%2BtvNDEE8cPMVuZ3Rp5mRSgxQuqovzqnE5CWDIhKQlrdEt0msnYks8mnf%2FBNw6fREZNlNR%2FguVZs2If3iL%2BdPQtH6%2BdiWL5YQG4Y5j1JbyybtUBKcxlkppNfjKDcCvt6UiKySBPfzD3HZU2HKQxhoc1gfDJCuK8F80FELVMaQyoGBJhnDPqTShgwMfw%3D%3D&name=zMk4pZBmV8Cu8ZSo6A4lq%2BWbMI2CZpjCYbScApAMli%2FZGq66KOUSJnON%2B0HubmlRV1FtwdG4zVk%2B3b3E8RO3P9vkTipTWOJTtfeGRe2Pf70%3D"
-          ]
         }
       ]
     },
@@ -103,7 +97,7 @@
       "title": "独行侠vs尼克斯",
       "keyword": "01月20日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -135,7 +129,7 @@
       "title": "爵士vs马刺",
       "keyword": "01月20日06:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -263,7 +257,7 @@
       "title": "凯尔特人vs活塞",
       "keyword": "01月20日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -485,32 +479,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "29d12f0371a070c2",
-      "title": "香港金牛vs石家庄翔蓝",
-      "keyword": "01月20日20:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBL常规赛第12轮",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "香港金牛vs石家庄翔蓝",
-      "modifyTitle": "NBL常规赛第12轮 香港金牛vs石家庄翔蓝",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月20日20:00"
-      },
-      "nodes": [
-        {
-          "name": "香港金牛vs石家庄翔蓝",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=4c3e7b0ee6602cfea3fbde68c8ca0521&id=c%2BZcIVYQBZLKS6EM0wEH7Z9BHvxfghRSa9I%2Ba08b5GmDyDziQ%2F6v6XUTr14aeTVslHmomlnPzFofBUa3qMmrgInRz08Ue1jV4a%2FNuo3KA7ivVLRbHaJOItp57dDtSxNLbllurOPoYwc4QbW0DQSRqANAY0hR4YKKCB%2BpC%2B%2BLEALCChMrX60vhR0attAJ6TTfUfbNIypvOvRLr1pyeKcBtJGiaa0YMvv6idlNl8IHDDYi7Gsu85%2F4t2E9N7%2Ba3py%2F9UQ3NYcoNN16GWbPl4wwDQ2aCnQJ4wE2a27jDlmomFFifdxayfFz%2FR8hodLXOzv3&name=KmtTS9OrwegtOy7E%2BFmo7Ema%2Bg21He1MMtbGdRhWXFahOYaJ6%2Bw8djKG4gYoeDAK5cERr%2BgWwRMQOYeVMW5%2BtlMp1PzlID5h6uJ9R6m22bYMle2W9%2F52xJEqqe9QCVaA"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "ddc513f546fc58c0",
       "title": "NBA常规赛精彩回顾：热火vs勇士",
       "keyword": "01月20日20:00",
@@ -556,15 +524,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769473824&major_anchor_level=common&sign=cdee3800a05823390b29b9a203168938&t_id=037-202601200830245C9B9B000134C97520E3-25rk7V&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769475625&major_anchor_level=common&sign=fa66030efc48f7748bc817cd6b1b2cae&t_id=037-20260120090025D5067E00F7C8701248DC-Bar3dh&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-20T00:30:25.108Z",
-  "shanghaiTime": "2026-01-20T08:30:25.108Z",
-  "count": 19,
+  "timestamp": "2026-01-20T01:00:26.062Z",
+  "shanghaiTime": "2026-01-20T09:00:26.062Z",
+  "count": 18,
   "mode": "today",
   "source": "real + cba_live"
 }
