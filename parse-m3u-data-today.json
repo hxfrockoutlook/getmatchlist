@@ -347,7 +347,7 @@
       "title": "热火vs勇士",
       "keyword": "01月20日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -385,7 +385,7 @@
       "title": "NBA常规赛精彩回顾：骑士vs雷霆",
       "keyword": "01月20日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -407,8 +407,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "b614e7c36bc99e12",
-      "title": "淄博十一中vs潍坊一中",
+      "pID": "351a6e586867f27c",
+      "title": "淄��十一中vs潍坊一中",
       "keyword": "01月20日15:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -416,15 +416,15 @@
       "competitionName": "CHBL基层赛山东赛区男篮淘汰赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "淄博十一中vs潍坊一中",
-      "modifyTitle": "CHBL基层赛山东赛区男篮淘汰赛 淄博十一中vs潍坊一中",
+      "pkInfoTitle": "淄��十一中vs潍坊一中",
+      "modifyTitle": "CHBL基层赛山东赛区男篮淘汰赛 淄��十一中vs潍坊一中",
       "presenters": "",
       "matchInfo": {
         "time": "01月20日15:00"
       },
       "nodes": [
         {
-          "name": "淄博十一中vs潍坊一中",
+          "name": "淄��十一中vs潍坊一中",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=112343201e3d42179598c38cc08fe426&id=PtZBBO36cTJ0UROijpBLO%2FIBVnIP48yWPCjewTnY2o8VQgKHKzE6XILpOAhxAj7%2BL4a%2BLkWEp261FCE9WBxwpw%2FwMYC%2Fu8lqAJ0XsUCJA0b7X4BZDCI%2F4j12K%2FoC3qqsm8GvbacR9ycLqCObAiMpITPaRRo2Cd2hFi2KV6AOdMN2kiWTOcPDoHD8W78EmcawELzr%2FVB9TrMdIzhMhTVf8X%2FHmsAHz8nQZTUykxN9lALTq91qiTvbo9DPZhliCCJi6rT6TQGojlhNN9oDkYRygJ19pEbWq11VD4a%2FVQu%2BbGCP5FW4f3DTpAEi%2B5UPuazb&name=Jx9snWkSpM30nnWmNM1%2BQ%2BQIyRy0Q1SuF5YMMSAj1H6lDV4StpM4hDUDcZX%2BEOIuSprkKPywLzw2zJ13Tc7nvrnhupr1YwpTdpWEKBGn7i8%2F8IGLt35pJpT464%2B0%2Fgfx0OGo%2Bli3COuCVhYItUzcxA%3D%3D"
           ]
@@ -560,37 +560,11 @@
           ]
         }
       ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "01月20日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月20日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769491825&major_anchor_level=common&sign=3e429786eb6b03953c7b38ac9652a6bd&t_id=037-20260120133025E75E8928E7E20EFAD1ED-9wG9ck&unique_id=stream-695139366675415724_684_flv&volcSecret=3e429786eb6b03953c7b38ac9652a6bd&volcTime=1769491825"
-          ]
-        }
-      ]
     }
   ],
-  "timestamp": "2026-01-20T05:30:25.360Z",
-  "shanghaiTime": "2026-01-20T13:30:25.360Z",
-  "count": 20,
+  "timestamp": "2026-01-20T06:00:52.395Z",
+  "shanghaiTime": "2026-01-20T14:00:52.395Z",
+  "count": 19,
   "mode": "today",
-  "source": "real + cba_live"
+  "source": "real"
 }
