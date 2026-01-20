@@ -238,6 +238,12 @@
       },
       "nodes": [
         {
+          "name": "李雪儿",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=39bec16b3de8e8cba1bae435c9c02c03&id=jWINXhvWquAP9YMvT4S2Q0mDTE%2FvZuMHsJ1g8pM46e8qa658MD6HYX4TtAgD7NToyTYMXFsLzDGaghVIpOnKhnphPziaQtz3%2FpeGSdFzqtzZWgKWOk0d4SwNT0idCUnIoT1ZQ%2BRFjzjt5KPB%2F5%2BBUhvXmh%2Fbbdcs0Qj04YPNGaSm6FPuWxZ8IGV8sLLVpcPEZrL82CNS%2B8wkWQxHVjE%2BAgXlXGQP%2FnaLO2S2ARqscgGUp9WzPU8%2B3DsjgKbo2sg9ThWCDklHdPfesllUO7NVSbvBmnAyaUDB0RD2BjpHRDU%3D&name=Vb1p9yXYwDjFJlKvEnNf1XSRAVIpoH9VuA8qKnBXU5YY6R9sKITpzdaupOM5XAXg2aIMKWinXpjNmFwA2sXAKDhpdWEggfog1t2jo8zUMhY%3D"
+          ]
+        },
+        {
           "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=98d7179060266d7cc140209857299561&id=MltU8MgBPiaLGeFcmF4RoG5MkGlluDl%2F%2FRxgx%2F3XradAuMdwHlAk9VksCUAr%2BXETJPPl7PosVVnVvw47e3hXicPK%2Fa1AlCtvo1ncNx%2FNZX9UdJusEzt%2B%2B5lUW%2BWwBAelBbG2%2FhAGgHy5iche4dPJ%2Btjf1NZ9SqE36Mx7X8J%2BePIyyWkC8wsB47J3THEkc%2Bw7%2BWeqbwsDi%2B5CricgYsaejr03H9eIR4%2FDHEmmeg1JxNF9sdXbbvcOf9rPzupnoLb23KFSL53XVBjZkRYbzhE9RhcIAmIFC5VOZP%2F1%2FvAzgSs%3D&name=Gf18E4OU9vvv3Fs997xsschQ8k0gugpEW18sdSZ54YwmhIgt%2Bs0oeEZmEMt2U76eHqH8zGLE3Q3wNRhjNode1IvYqqi%2BVMu7zkiKfkkJXgg%3D"
@@ -576,14 +582,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6978628d&major_anchor_level=common&sign=6c5eb0676439ae82ed1b9ae210233670&t_id=037-20260120150029D6C7F3FA7B181D8E98FF-Cz47bX&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769497224-0-0-48f7daf92a40c1618b5c7c985114dea8&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026012015302337F83C917C875584C652-jEyjcy&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-20T07:00:29.303Z",
-  "shanghaiTime": "2026-01-20T15:00:29.303Z",
+  "timestamp": "2026-01-20T07:30:24.239Z",
+  "shanghaiTime": "2026-01-20T15:30:24.239Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
