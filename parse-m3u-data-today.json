@@ -487,8 +487,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "ef0978642f0e9513",
-      "title": "天津食品集团vs保定沃隶",
+      "pID": "be37a01e75f6e02c",
+      "title": "天津��品集团vs保定沃隶",
       "keyword": "01月22日19:00",
       "sportItemId": "4",
       "matchStatus": "0",
@@ -496,15 +496,15 @@
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "天津食品集团vs保定沃隶",
-      "modifyTitle": "男排超联赛A级双循环赛 天津食品集团vs保定沃隶",
+      "pkInfoTitle": "天津��品集团vs保定沃隶",
+      "modifyTitle": "男排超联赛A级双循环赛 天津��品集团vs保定沃隶",
       "presenters": "",
       "matchInfo": {
         "time": "01月22日19:00"
       },
       "nodes": [
         {
-          "name": "天津食品集团vs保定沃隶",
+          "name": "天津��品集团vs保定沃隶",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=b1ccfb23fac25c7eafbbfa47caf813f0&id=RX06IvvhgC93Dr4RmuoGYIu2gaQ5%2BINolrFoAayhwxzzPDh2Q71fkhjShFBRU00J2IXUQhVNiJF%2BCYPNMG7WY5bLJcFyputX01drNfOEhL54EudHKB9C0ZCXF4HIoyZez1fyl9XXHwsHdL8uBjQH2J17EtDkcPrCyWSxlPu%2BRXpP%2B%2BB5fgdDoANsH6D%2FWfkbsa%2BvTYLfMwef00RzQU7dL1E%2BfP%2BZZgy3WIRqAW44PBWyKq9MDe3%2Bl30K9uz25SV%2BKLEENUELKIeCPDQ7V9sM5PsyqjqvIWRfKTVI36TUHPo1%2BH9Uf3GJ0fnljwqnZAgG&name=bA%2B9y8EX%2F4ygMZoDyCPSswT5LbnKVTJaJ2S12Db%2FZ7SyIrzZrj4qZvLZpTP4BCVzXYWQvYMfXIGodndR%2BNbOR7YMVJAhkNxQVTCrjVtDS98Wu3316XvO1vEKV9oEbs%2B4"
           ]
@@ -746,14 +746,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697a6af1&major_anchor_level=common&sign=0e479ac618038d65cdb55772ccb110f6&t_id=037-202601220400491F2EB0A92282DA49BDB8-WyFTHp&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769632243&major_anchor_level=common&sign=09fc5e70fa947b2e6034ece98431ebd2&t_id=037-202601220430430A7FC57DC6629F435ADE-VwljaC&unique_id=stream-695139366675415724_684_flv&volcSecret=09fc5e70fa947b2e6034ece98431ebd2&volcTime=1769632243"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-21T20:00:49.465Z",
-  "shanghaiTime": "2026-01-22T04:00:49.465Z",
+  "timestamp": "2026-01-21T20:30:43.917Z",
+  "shanghaiTime": "2026-01-22T04:30:43.917Z",
   "count": 27,
   "mode": "today",
   "source": "real + cba_live"
