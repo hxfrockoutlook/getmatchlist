@@ -409,8 +409,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "c91ce73a676ef209",
-      "title": "NBA常规赛精彩回顾：猛龙vs勇士",
+      "pID": "d02efac1fa223536",
+      "title": "NBA常规赛精彩回��：猛龙vs勇士",
       "keyword": "01月22日18:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -418,15 +418,15 @@
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：猛龙vs勇士",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：猛龙vs勇士",
+      "pkInfoTitle": "NBA常规赛精彩回��：猛龙vs勇士",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回��：猛龙vs勇士",
       "presenters": "",
       "matchInfo": {
         "time": "01月22日18:00"
       },
       "nodes": [
         {
-          "name": "NBA常规赛精彩回顾：猛龙vs勇士",
+          "name": "NBA常规赛精彩回��：猛龙vs勇士",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=65998f4c166cceaec15580bdc4801ab1&id=70YIzCKCAheB1BFQ1I9PahClka9wo7gXGfZh514ICESSFZAQ0EqirMCCEitv67ztxhjPrUJsb0Sim%2BoiABOs49hY%2BJd2s7LAeLOATbobsmRyG3XAuJr%2BJWq%2FqVcu0Fv9EGsv3D5jaXrkcZeeLEH4EzL169IF5v7qYwMWuYLtuogNc2EhDO0Y7hZZTPwtCfPYJVGG%2BT%2FunXi1tavV2x5K4zJQCCNaqYK94RYrk%2BBbJSz3dqLWTkg2YVZbTyTOUI55nHwi%2FqFx9KOGqZ3rV4NApxmgG6CN39JxQltmTAS%2Fki1QecOyD%2FC0WWc1U6x7F9Yk&name=a3YM6bgpwbn%2BfugpFM2dla2Fq1ROTyvgF6sPnO1mf3h4P%2BrN7ynTc7%2BR0MCxvJqajhNXtiMjMNnFt9t13MXjnl9UeQ7kpD2VrYkZA%2Fcl0mxx54coVcCJPiOX33PqL07f"
           ]
@@ -746,14 +746,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769641231&major_anchor_level=common&sign=2b3b637c61c019d44b96464fab8c0636&t_id=037-2026012207003132F7E05F0585264DB04B-Ih5gqW&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697a9c0e&major_anchor_level=common&sign=02e8060b30edeb43458ca159399536af&t_id=037-2026012207302215D9C562799E95532544-iwHrnv&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-21T23:00:31.799Z",
-  "shanghaiTime": "2026-01-22T07:00:31.799Z",
+  "timestamp": "2026-01-21T23:30:22.931Z",
+  "shanghaiTime": "2026-01-22T07:30:22.931Z",
   "count": 27,
   "mode": "today",
   "source": "real + cba_live"
