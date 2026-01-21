@@ -29,8 +29,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "43db2b04c7fe3d8f",
-      "title": "国米vs阿森纳",
+      "pID": "0b22db6bb2e59899",
+      "title": "国���vs阿森纳",
       "keyword": "01月21日03:45",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -38,15 +38,15 @@
       "competitionName": "欧冠",
       "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "国米vs阿森纳",
-      "modifyTitle": "欧冠 国米vs阿森纳",
+      "pkInfoTitle": "国���vs阿森纳",
+      "modifyTitle": "欧冠 国���vs阿森纳",
       "presenters": "",
       "matchInfo": {
         "time": "01月21日03:45"
       },
       "nodes": [
         {
-          "name": "国米vs阿森纳",
+          "name": "国���vs阿森纳",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=5d15d0873fc0a7266ebcd24ba4a113a4&id=w1H76inNQBdWZj0DsdeSLozslWts9nYSUbOg8PeOv9w8ALmUBxI%2BJhlojjXw7Qr%2FblIiHwoNil9E89QRupZ6gGTL%2BOD5VBG5YE6RdyZis9wHOsLr6kILLjSobHgmjqQ2dmXDSje0bIUJA414B5jzOeGVWHx3PPJ5HOVHnGbfL6IJx9F1engrawrR3g%2B3lRAHnh72KKd3diNERftnv8d9nZze3KFwb7auSxdDQ7k4RphnOv%2B%2F16laWQ%2BOlXbBbrCshFS1DxhPuaaRipFDnwRzXOxPMcR9H0yD6vj0AH9%2BbSDLBveU63o5RFExlZcIIazQoLcQJnv9OiUA%2B%2FKttw%2BogwpOAlTCArlP5XVQ9h8a9qDrOGT5bq75l%2Fe6wjb%2F%2FwQM9JZ7pkViu%2BNYdKdg0zUaOA%3D%3D&name=ClRihmc2zC7i70TlXgAiQh1Ruk6fOvLequoLD7PfOFUJMEdO2f3XLD9b2dDu75bPLucAPlQpzKQTjzYS8b1DlA%3D%3D"
           ]
@@ -215,7 +215,7 @@
       "title": "太阳vs76人",
       "keyword": "01月21日08:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -764,14 +764,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&auth_key=1769554825-0-0-e63b734f3cf4b54a8f5ccde78ad5d022&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026012107302581CC50AC88CBA09283B1-PnAWS1&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6979519c&major_anchor_level=common&sign=deba94f4eb73e37ed26ffe9597baf979&t_id=037-202601210800285AD371934B8BD9D092D7-q7sl3I&unique_id=stream-695139366675415724_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-20T23:30:25.938Z",
-  "shanghaiTime": "2026-01-21T07:30:25.938Z",
+  "timestamp": "2026-01-21T00:00:28.887Z",
+  "shanghaiTime": "2026-01-21T08:00:28.887Z",
   "count": 27,
   "mode": "today",
   "source": "real + cba_live"
