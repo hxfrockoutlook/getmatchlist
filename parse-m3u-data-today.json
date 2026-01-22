@@ -929,32 +929,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "b460e5bc00368d83",
-      "title": "WRC世界拉力锦标赛蒙特���洛站第1直播赛段",
-      "keyword": "01月22日23:00",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "赛车",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "WRC世界拉力锦标赛蒙特���洛站第1直播赛段",
-      "modifyTitle": "赛车 WRC世界拉力锦标赛蒙特���洛站第1直播赛段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月22日23:00"
-      },
-      "nodes": [
-        {
-          "name": "金昊楠",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=d8f3dab15e53b2cca4802c0c9384dfa8&id=Ec%2F7VfIcqCDMAkzP7FmKA5ziXHT4gr5vI6vfaDmzdsq7WoY%2FcwWSCSPuodjkqUrGimcCWMuwECvVMMK3UTmOPchYzVdek8UDF%2F6Ecuf4hIAKBK3ejm7C34BmUGPvLTo6fKz6xVZIAQKFT9gYvlWxzkf7Tct6HpCwyB5q3YsQuKQ1BnPQxLYq17%2BR01IwxWaaIha2RDWh6lMx5%2FQq1mJmZ%2B%2FoyCle2cak8aP2tnyxx5nDfFjS8JXUQGpOeEIL1jVam1LkjaYK%2BJ%2Fa2pKlhg46mjiPmXbuTDdaoYPJZCEW%2FoD27B0Hs6oY3vJ4HM%2B913m3&name=dz3vqurqZdsXgnOcBfLEgvHuS2tx1%2FchG1wB9%2FOiglglzPV5427zw7CtxB3B9YLAXc5iaC%2BmdhzyxsILRvYstZT2KAiv%2FIi3GCkbeqinLpKPzHtfKzdVX%2F1dpACNzOrx9nGHdniB0imlBhbdUL8T3w%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "bb39dc2b6c497ce1",
       "title": "WRC世界拉力锦标赛蒙特卡洛站第1直播赛段",
       "keyword": "01月22日23:00",
@@ -971,6 +945,12 @@
         "time": "01月22日23:00"
       },
       "nodes": [
+        {
+          "name": "金昊楠",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=d8f3dab15e53b2cca4802c0c9384dfa8&id=Ec%2F7VfIcqCDMAkzP7FmKA5ziXHT4gr5vI6vfaDmzdsq7WoY%2FcwWSCSPuodjkqUrGimcCWMuwECvVMMK3UTmOPchYzVdek8UDF%2F6Ecuf4hIAKBK3ejm7C34BmUGPvLTo6fKz6xVZIAQKFT9gYvlWxzkf7Tct6HpCwyB5q3YsQuKQ1BnPQxLYq17%2BR01IwxWaaIha2RDWh6lMx5%2FQq1mJmZ%2B%2FoyCle2cak8aP2tnyxx5nDfFjS8JXUQGpOeEIL1jVam1LkjaYK%2BJ%2Fa2pKlhg46mjiPmXbuTDdaoYPJZCEW%2FoD27B0Hs6oY3vJ4HM%2B913m3&name=dz3vqurqZdsXgnOcBfLEgvHuS2tx1%2FchG1wB9%2FOiglglzPV5427zw7CtxB3B9YLAXc5iaC%2BmdhzyxsILRvYstZT2KAiv%2FIi3GCkbeqinLpKPzHtfKzdVX%2F1dpACNzOrx9nGHdniB0imlBhbdUL8T3w%3D%3D"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -1000,15 +980,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697af784&major_anchor_level=common&sign=184697670c60ab3c85579394d2f9d66b&t_id=037-20260122140036A4EE2BBF8B476E6FFB01-rRhvTU&unique_id=stream-695139366675415724_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695139366675415724.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260122143026EC70362A03456876488D-HgucBS&unique_id=stream-695139366675415724_684_flv&wsSecret=7756aa53a01f9957bd8bbb1afc5b74e0&wsTime=6971c402"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-22T06:00:36.510Z",
-  "shanghaiTime": "2026-01-22T14:00:36.510Z",
-  "count": 37,
+  "timestamp": "2026-01-22T06:30:26.786Z",
+  "shanghaiTime": "2026-01-22T14:30:26.786Z",
+  "count": 36,
   "mode": "today",
   "source": "real + cba_live"
 }
