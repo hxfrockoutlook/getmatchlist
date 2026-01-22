@@ -803,7 +803,7 @@
       "title": "NBA常规赛精彩回顾：马刺vs火箭",
       "keyword": "01月22日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -855,7 +855,7 @@
       "title": "北京北汽vs辽宁凤城",
       "keyword": "01月22日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -881,7 +881,7 @@
       "title": "浙江振德vs广东台山和力",
       "keyword": "01月22日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -907,7 +907,7 @@
       "title": "天津食品集团vs保定沃隶",
       "keyword": "01月22日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -933,7 +933,7 @@
       "title": "河南清园vs云南滇池学院",
       "keyword": "01月22日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛B级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -959,7 +959,7 @@
       "title": "福建福清vs黄石东楚",
       "keyword": "01月22日19:00",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛B级双循环赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -985,7 +985,7 @@
       "title": "有球必应精彩回顾",
       "keyword": "01月22日19:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "有球必应精彩回顾",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -1162,14 +1162,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697b36bf&major_anchor_level=common&sign=54242457283b42144a9c464356d37a1e&t_id=037-202601221830232EE290530DB95489D0CD-jFaNER&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260122190038CBD2C8D8AF9D4C8FD4CA-zXLvFh&unique_id=stream-695180860228633260_684_flv&wsSecret=1e85c146e2540cffed54f841a3d3f8ae&wsTime=69720356"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-22T10:30:23.960Z",
-  "shanghaiTime": "2026-01-22T18:30:23.960Z",
+  "timestamp": "2026-01-22T11:00:38.567Z",
+  "shanghaiTime": "2026-01-22T19:00:38.567Z",
   "count": 43,
   "mode": "today",
   "source": "real + cba_live"
