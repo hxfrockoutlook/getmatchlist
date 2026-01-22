@@ -238,12 +238,6 @@
       },
       "nodes": [
         {
-          "name": "柯凡 王仕鹏 果果",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=e9f650490f419ba1139aec3cb61678a4&id=7vYrgd0JlFyBpSxXJqAN5yp5g8mS6Xm20vZMrA2TeSswVVAF%2FWqu8%2BpUVdv5VIT6xo1btKeARcsQ%2BB0e9SDCIpuhWM1KwQakDgBOK0k8DTa9CuJM6MPq22HkAbvaJx1yYqpNYfuOEUNoSMW2N8urjB8VZKIBoX1pWxdHjA4UcrhFbxzzkLe%2FvSbTfrVuyvBeA%2BnuZ9WfT8OgroBtevMjtcxj9DmfvvvwKRSMjTYop8uQis%2FpLR8XxfIu0l95PXO4jlu8trTssl5QCEEq0mChfx5V8SIb%2F504%2B3XHoqgkCiSRrVVETNhIoPfKv6qm5OtDHVOk7sj1rsKfeBqG%2FwPxoA%3D%3D&name=t%2Fhqqz%2Fe6KLdas9tosh%2FZ4OK73ODP866ItDsjn6F7WKk3%2FM5cBnSirhNsy4I7dIq0QJmhrc%2FUWzGcSfEGZ1ESu0Yz4oXXUesAVHC9JJ5FW4knddaMid7cqWJSkt4BY7E"
-          ]
-        },
-        {
           "name": "二路_皓篮球",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=d025304dc0233872f8ac7e6ce671dd8a&id=G%2FSh%2Bxpdglzd2oaL3abgWWHS%2FLq9R1p1WCEZsKLZEwTdjq68c444vIaX1Tho5BksufTdvIeK1oX86hbJLBejiJKoPkH0nfS7xilGzOnFaqCSqDrzNiZSDrefbYq6EbBEWb7WExc0LpN4PKR%2FfH8xlpy5blVLy7LCDB5ukConLODnRyQG%2F9IMIkxFXgRSnTmq%2BqNyuUHRDUK7nn7%2BDNZfsT4BhZ%2BmgAsfqY%2BpzWmyIm43H6VqLaaPSUIWAF6EeEFYhADvYKUQuuAK6my9SZrDwLZGnftF64HLNccgPJecEMgpwYbC648rTYgEHAMNLU%2FeH%2Bcg8tRlbaPzEUiSpSkLGQ%3D%3D&name=ROCJnWs3tmHI74fOSoeABE5WimHUAoHhAf6Q1loac%2FOR%2FUKUp0QhvIItV%2FNk4CLKogeNDn45UHgJmq05YPXNeWM9dmjZMDrQqu56J%2FhW9i4%3D"
@@ -518,14 +512,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1769711428-0-0-cdbeeb1a0ba73fc84db5500979f0055d&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026012303002890DF613DA38493C5AA4E-GSNNGb&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=697bb54e&major_anchor_level=common&sign=9334fb84688d7eff3a13a015e410d60d&t_id=037-20260123033022EEF8D18F15A740C07A20-re517m&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-22T19:00:28.503Z",
-  "shanghaiTime": "2026-01-23T03:00:28.503Z",
+  "timestamp": "2026-01-22T19:30:23.069Z",
+  "shanghaiTime": "2026-01-23T03:30:23.069Z",
   "count": 18,
   "mode": "today",
   "source": "real + cba_live"
