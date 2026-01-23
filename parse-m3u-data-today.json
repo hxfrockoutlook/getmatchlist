@@ -422,6 +422,12 @@
       },
       "nodes": [
         {
+          "name": "郑诚",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=24709d6fa3101ded2ce1a62b787e798d&id=0jD443PIAGUWcUB4BR70oO1L0DfL1kKVdiHyh4tC8cwuAoe4KVQ7pCcazFlUfiAswC2qVPd%2FLUveMHZtZs1CN6tgTWUeKh2EtkPWdH289OC8P8uUzCNgaDP44TNW1T3LRWKUo%2FvCXptvKjnB%2B94AuqX7NG2%2BCzvVeCDlbwQPzAtadq2%2BG1zwqmK3qblCnB%2BYwldixXhXkSCKer3GfpgpmiTOvjqLvqjx6Xsgo78S2wXH19zb1g0XwMBZH6H%2FjtI44cfaO6aA8zCG%2F8QO4%2FIN%2F4ZIh6cG0NHTA7DUKg71y4nX%2FY48YR2KVnJDVxlVG7lX1zLaTxoyK9tc8YqtCQc8HQ%3D%3D&name=iA%2FrKoK41jP%2B9tgSiHWt4wagSBbj3GXohlhOXwkfQbkvcYO16x89dnXQLMtRZWNsDu1tqZKJDiS%2B6nQqURL4U32bfLJa%2Fw1GXfbQjhuLtzg%3D"
+          ]
+        },
+        {
           "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=1c0ac200886a47f68dd91b901db11343&id=5WtBjyfeRiMxrR8vYKGaqDWdLbztfJ2feMzRQzuxfrael4HALm8HvFw%2FLko5l1tTh%2BavLnblvH00i0GEtWCTVu0goI1rIiy6gIqgPN%2B2nT4gBVvyXuiwmGhScZUgvwg%2BiK5lmDTBbK04Ye2c%2BhSkAzzsCCD0D8T%2BnWPUw2PhBry41E541pe58Bc9SmxJYtjice1DKIXfAYjMWX4cecSgVu0AbicRgHAAy37fEoMu3NOCLgomgUeNInHOEg2P%2FTlflsgU%2BXPPIexJKroGofWG2YPyUTZKzlGTTqAsrBWecTyluBbG0ThxgdYp6CIIgGPz0C16BD9n1hUKhdNxGuE%2Frg%3D%3D&name=0uHgwtf9fnKJkTrRzK5zsLO%2BSgU3iyIKRfLc32IzRBd3mD2l4Cz7wAAQlKuIV60nYVinxNQyFwT0q5eXLN%2BHXHY1yRj4u%2Fwdfkck2VVpDLc%3D"
@@ -531,7 +537,7 @@
       "title": "[早安Tip_Off]第92期",
       "keyword": "01月23日10:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -580,27 +586,7 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=ca5273b04cf9fae4d1f02c56e406cf69&id=K2GrcMCcX%2BL5jCtIsAWPf3BvZYcJMxcilqYHMOLAeNQGuNzLRLcC%2F4ceIVdRCg4V%2FUwwA4wlvsRSHpEpxFAXM5zEK8rSro%2BDzCDFyzeBj54SxnqwHyWQ%2F%2Ffc5reJSoX%2FccqwBGjFvJyCXwNci4DfdHKZJbpN%2BHJTBQVN7XUZTEpO669Ri2t6fOvuiHG8j%2BX4mCGP1I9lMSE7V5zUMTPH%2FEaiI2rPO4n4pPc1RklhvdoFXC2ryfzwGKM4HiSQ8H3gmm1bYj6s66rDPCIm9wjmIIJsct3XJXAeYfE2TNj%2FAplH2cvTYgqG3kvz0W9gbQ6L1dUdoRcPo33cpUFcblMJzA%3D%3D&name=atdHHor9C%2FmXY%2B2tl2aqdPhaTB7wD%2BUQ0xTIdCOBO1isOx6fIhMhTLbUl3DkI6I%2FFt%2FtHrUbQ0dql344f%2Bxq9M6AbE27WT6yTmS4Aqgb5DQ%3D"
           ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "b3c74f20b8009f56",
-      "title": "��人vs快船",
-      "keyword": "01月23日11:00",
-      "sportItemId": "2",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "NBA常规赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "��人vs快船",
-      "modifyTitle": "NBA常规赛 ��人vs快船",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月23日11:00"
-      },
-      "nodes": [
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -870,15 +856,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601231000370F8FFA5053D36FDCED40-tabjHc&unique_id=stream-695180860228633260_684_flv&wsSecret=9342a3110d0739f628ba815caf3b8015&wsTime=6972d645"
+            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1769738423-0-0-4f9841407819e0ae8e011653b65a6a72&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260123103022A84C3B1A80A458D297C0-9uR9ff&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-23T02:00:37.367Z",
-  "shanghaiTime": "2026-01-23T10:00:37.367Z",
-  "count": 32,
+  "timestamp": "2026-01-23T02:30:23.200Z",
+  "shanghaiTime": "2026-01-23T10:30:23.200Z",
+  "count": 31,
   "mode": "today",
   "source": "real + cba_live"
 }
