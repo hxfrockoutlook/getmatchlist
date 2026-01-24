@@ -71,7 +71,7 @@
       "title": "勇士vs森林狼",
       "keyword": "01月25日06:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -686,14 +686,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260125060025DA6F5893F61CEA8DD4B6-jdCMU4&unique_id=stream-695180860228633260_684_flv&wsSecret=bd22ecdea79102e2d5ccaf725c334d38&wsTime=697540f9"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260125063021231D40F4BDBD63CE3797-cRHdld&unique_id=stream-695180860228633260_684_flv&wsSecret=9ad25b4fd863f74dba61becd471c7e1c&wsTime=697547fd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-24T22:00:26.090Z",
-  "shanghaiTime": "2026-01-25T06:00:26.090Z",
+  "timestamp": "2026-01-24T22:30:22.131Z",
+  "shanghaiTime": "2026-01-25T06:30:22.131Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
