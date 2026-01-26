@@ -7,7 +7,7 @@
       "title": "步行者vs老鹰",
       "keyword": "01月27日02:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -564,14 +564,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260127020043882C73F869C408D8CC65-PIe0U8&unique_id=stream-695180860228633260_684_flv&wsSecret=9b92d74a593f0087db661ab96b45e561&wsTime=6977abcb"
+            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1770055223-0-0-72414a1b0b44cdad9aa27e235090aa73&exp_hrchy=w1&major_anchor_level=common&t_id=037-2026012702302335C91B6F6B9D94DD4F3C-JXfUS2&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-26T18:00:44.056Z",
-  "shanghaiTime": "2026-01-27T02:00:44.056Z",
+  "timestamp": "2026-01-26T18:30:23.722Z",
+  "shanghaiTime": "2026-01-27T02:30:23.722Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
