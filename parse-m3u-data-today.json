@@ -373,7 +373,7 @@
       "title": "篮网vs快船",
       "keyword": "01月26日10:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -550,14 +550,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1769995824&major_anchor_level=common&sign=741e3569fd1cf48f3f789aa171a84d0c&t_id=037-202601260930241C08834AB9E7B008AD22-U94GPj&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6980053a&major_anchor_level=common&sign=98763ea720704ed51fc253bdacecc358&t_id=037-202601261000267165450AD8675812173B-jN65SY&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-26T01:30:24.447Z",
-  "shanghaiTime": "2026-01-26T09:30:24.447Z",
+  "timestamp": "2026-01-26T02:00:27.097Z",
+  "shanghaiTime": "2026-01-26T10:00:27.097Z",
   "count": 19,
   "mode": "today",
   "source": "real + cba_live"
