@@ -457,7 +457,7 @@
       "title": "NBA常规赛精彩回顾：勇士v森林狼",
       "keyword": "01月26日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -576,14 +576,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260126153024679B9C75AE27B923E503-qp1sgo&unique_id=stream-695180860228633260_684_flv&wsSecret=cc293af3b9206c506f70c5c3f0c37708&wsTime=69771810"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260126160027811C9EEA77BE1433AC75-Bdz1iJ&unique_id=stream-695180860228633260_684_flv&wsSecret=b04c4bf066a0e2f35509293f099f2d19&wsTime=69771f1c"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-26T07:30:24.752Z",
-  "shanghaiTime": "2026-01-26T15:30:24.752Z",
+  "timestamp": "2026-01-26T08:00:28.186Z",
+  "shanghaiTime": "2026-01-26T16:00:28.186Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
