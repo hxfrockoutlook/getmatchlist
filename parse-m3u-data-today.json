@@ -383,8 +383,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "10f4b9d725b74535",
-      "title": "NBA常规赛精���回顾：活塞vs掘金",
+      "pID": "adb3bbc880da0827",
+      "title": "NBA常规赛精彩回顾：活塞vs掘金",
       "keyword": "01月28日18:00",
       "sportItemId": "2",
       "matchStatus": "0",
@@ -392,15 +392,15 @@
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精���回顾：活塞vs掘金",
-      "modifyTitle": "NBA经典赛 NBA常规赛精���回顾：活塞vs掘金",
+      "pkInfoTitle": "NBA常规赛精彩回顾：活塞vs掘金",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：活塞vs掘金",
       "presenters": "",
       "matchInfo": {
         "time": "01月28日18:00"
       },
       "nodes": [
         {
-          "name": "NBA常规赛精���回顾：活塞vs掘金",
+          "name": "NBA常规赛精彩回顾：活塞vs掘金",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=f345b28c3308d476fc85791d4db3ac69&id=7PuGTH5t6AgsfS%2F8lzC26ZwCWwM7nGo2b9J%2BEgtebUVL5Sz6F2IZHTED4wtvpSWG2Istq%2FxOOpV14bdhLLViT7pE0%2BnOGNy6G%2BBzJPyAGW8oHd8xsai5rqsdVlSt6BnIk%2B5Fb5gLewpIETqjc%2FD8NW1%2BZC6cHojU4qAtdYSE1TBLNp15fxizR8SESBX3pmOJtDv97E7zOj%2BcLerUUBhDmE5bk49euEAih8pWyy9pH%2FsmhyihwQFjbhsmRGOJgmsqggv8sbFaO4Qs%2FnLD6Il4Lw8oiw5J%2Bp2e0wzdsKOaKC51wIG0cWMDq2Z045PQoyDh&name=ir%2B7bo1u3hUkQk%2F0k3%2FpVVbObupict%2F5Spx%2Bcl3ETtAzmYgxJkjrIkg379LA1EsoPW2pf%2Fyp3O6iTuOIVWBbW9UGXqGn%2BHzSc9r2FCZdBNIOTXZYNnAHG%2FMa6FOOEJqY"
           ]
@@ -461,17 +461,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "d72713b64da87475",
+      "pID": "a1002961f73db6b7",
       "title": "云南vs江西",
       "keyword": "01月28日19:00",
       "sportItemId": "4",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "女排超联赛B级双循环赛",
+      "competitionName": "女排超联赛B级双循环���",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "云南vs江西",
-      "modifyTitle": "女排超联赛B级双循环赛 云南vs江西",
+      "modifyTitle": "女排超联赛B级双循环��� 云南vs江西",
       "presenters": "",
       "matchInfo": {
         "time": "01月28日19:00"
@@ -558,14 +558,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260128060026B0375B55AE41FF892A0B-TnMavo&unique_id=stream-695180860228633260_684_flv&wsSecret=db1f186b0c1651361292689e91c6c1f4&wsTime=6979357a"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260128063026FCAC3588305D3DC9E826-F2P5q5&unique_id=stream-695180860228633260_684_flv&wsSecret=585a70b979cecdfc4cc72f21f1ae27bf&wsTime=69793c82"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-27T22:00:26.643Z",
-  "shanghaiTime": "2026-01-28T06:00:26.643Z",
+  "timestamp": "2026-01-27T22:30:27.092Z",
+  "shanghaiTime": "2026-01-28T06:30:27.092Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
