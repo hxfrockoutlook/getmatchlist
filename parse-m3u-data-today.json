@@ -65,7 +65,7 @@
       "title": "国王vs尼克斯",
       "keyword": "01月28日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -558,14 +558,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260128110026ED044A5D7AB4AE88373D-9niSAQ&unique_id=stream-695180860228633260_684_flv&wsSecret=b8f464c19f6f259e1435b42aa776fdef&wsTime=69797bcb"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770175824&major_anchor_level=common&sign=941f6478e2384147d686c7a001f73263&t_id=037-20260128113024174866A17199DAE7BC59-z7T3Dh&unique_id=stream-695180860228633260_684_flv&volcSecret=941f6478e2384147d686c7a001f73263&volcTime=1770175824"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-28T03:00:27.299Z",
-  "shanghaiTime": "2026-01-28T11:00:27.299Z",
+  "timestamp": "2026-01-28T03:30:25.203Z",
+  "shanghaiTime": "2026-01-28T11:30:25.203Z",
   "count": 20,
   "mode": "today",
   "source": "real + cba_live"
