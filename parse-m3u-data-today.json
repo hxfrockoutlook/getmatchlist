@@ -3,447 +3,395 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "31c11ac1ec37a8c6",
-      "title": "",
-      "keyword": "01月28日07:00",
-      "sportItemId": "3",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "",
-      "modifyTitle": "澳网 ",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日07:00"
-      },
-      "nodes": [
-        {
-          "name": "",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=e23739871745a29d5aeb8e2dc731d160&id=OMyWHldiPoQ%2BIwW%2FrkMv5vhmiliUPx6nCsedFvQsgk6hAnrfpI2QAEQt%2F5fS1S3mi%2BnLECvFTenWi5JOGb1185YVlmVlVTiA63DxI9fkgFt%2B8cas9gqedHRZjEcbcL%2FGtTlNvIkHrMezg5fbpnEi%2BSBvYZAAjtMoJl4yLXj0o%2FNnVGFuZCPo6qA8jvGEUZhL6PbZFqXnCaD82YeQi0WmjHl6ZnGlPjLfMqzQjLm%2BeD5TbMq2pKEBnIAITXT7I9vL0JzRCcj85KUlJe%2FUJ03ASa88%2BymbvY0vMfvnjhS5aLb92G6pXhkezmFAXjyk6APCO059XD4ja6XS%2FfK%2BmBgBuvYQxpaYgMOFAPDTHIlv28ANK57YjEFUU19pqEZDOLwJQAM0BhQkOTIE3tuwzsbs%2BQ%3D%3D&name=dKGpAioiFlmDa%2BtmEVw54tEueWrqh6oO1kwYUUFTHM%2FnCc2zAcSyPKOTBkIQgO7ZES%2FZSII9QWU49G%2FYYFCcrxEqMnoCjIxoXV1CwGT2faQ%3D",
-            "https://mgev.188766.xyz/play?migutoken=66fb04ca79420b87ce866a53955cbb67&id=Hjy2NYrESzWUf54t3yFmmd4oYwU%2BTdb%2BKVPtwVrCfGFJEpjQsVqa%2FFFER7kRgII36wBEvTh6mXcfaShM1I5B0LLNcAjhFWZ2hytu0a3yC7nZzHVOL%2BVN%2BGyvdsZqJv8lD14mdfrbH2uwHBdtFV%2BFtZ2faHjCMDedvd2ezr%2F%2Fke6NnMCz8f%2FL0TmpvxL32duWgRFj7BOcrWTmJ9N%2FXMhsa6mExg6EeBrfB6T4E%2BukOILwzgrfhyc1dIB8l8Rv6fwVsfteQ1rRYGaavC9904sThXodLsr65bR2EXcH00rVy%2BKjxyZuUcyXNUQIDhAYeuVSfZwGi0eH0eNnEpYEMJsBibXFT6mgXhNFNEd813wy1mER2S55HTTKzO4vT3KHUfcYF3SFEghBXyf%2F7ONz7p29Lw%3D%3D&name=0uy94bZPplL5R7q3fvmTf2hhhBgvT4t9baDY%2BHNY%2F7SW0tf22T8bAAGOnS27xmTJR1fg8RoNmEmZMUBPzfe2yaFPxW8Ccw3Oj8ODQoUlMPI%3D",
-            "https://mgev.188766.xyz/play?migutoken=c634bd2fe6d92530ce393af9208d3a72&id=zG8cH1eRQBnw1MMbnSRA7L0nEqQgv1vqIhlqtdS1sNuM8IQEy%2BGb5tRsqEBEO%2FHr5Qdzqf7pAXGiHckTtSC%2FxehNQtltZmv157g%2FoADNsHx%2FcTkuU0YdTuSnVJwVM1aJ3tT4L5%2BH%2F0oTA3qlA6esNzuu1oi1Khg8DWb37wFoJYxy0FnkhHspgHcc5ljYGsQYRGqSgPtL2HgKo3Ozw%2Fih628agCHfAjoYHfYg5yqY6RVKwLdfmS6vImALwK9wnC0DMfGfr22lTEHvjXVJn7ickim8JPpMgvERQ0jjbTZg%2BwC8nOjMe%2Fv9Fqk%2FAanp%2FVlblNojaRWDLDeiSQ%2F4TTz%2By1jGOlw%2FZu7bYflncTbgPeSJ51Qm3uTQJCrwz5rnTSJJNHMpd%2BOM31i0yTVbLNDBEA%3D%3D&name=zGzVl5hRg9ParwB%2F1x7Hf08NKSJsGn10fl9faN96HoEEgGKBEz6%2FXOg2PqPuTZ8gzFSiFcIgKhcBAgU5vCL2ijd37q%2FA%2FE1j4TlT%2FngmZ1c%3D",
-            "https://mgev.188766.xyz/play?migutoken=da02ebf02e366adfb14b37b4a0f6eecb&id=jLPk%2BnXKkwr2Gi7M6dGdKxrYfjGaBPzEHq7ORVIfDjgOz6TXSN6tPgHCQm3O1v5k0Ec%2FTo%2BnnMUDLZkcKV6SBlVWvinczIlp7vhLBnSOhjvmyWIjAp%2FTCXUOizCKicpPkWHbkTbzCOcuGcSIzzx7n%2BgnvELfZOPb7iViLE%2FXTlJHKGaGDJAzL16Fo8OCnzzOSaRnB2BxrsekLfrt9bkEFT04C7NOMrApqMSXkKRjzi2bOKAIZvBwERe0V7VWEdEDAMKv3A4WoquFCJD3G7nVmI%2BoPdxu8vx2PK%2FHH6LrOmu2hZYLFDvyu0uZXIrElDwN5%2BtYp0LMsSMMXuBIntfFuj%2Bv3279g0agU61OQXTR8y%2Bw4hYgviBrdw%2Fc4udOP2FsKBPgyiDvcQU%2FSmoDGDp0Cw%3D%3D&name=GJq2%2FWcPm%2B9n8PikOQxBgRCdGthghIeIXk5BOc%2Bo33XLDrVOrfcRx5cQTfsibkomXGqtaiitxEIeH2iebvsuSRsRji%2BqysokLONcWYpHIdg%3D",
-            "https://mgev.188766.xyz/play?migutoken=6ac1a8b7497170ddc6808c3239855508&id=95HwBxa5CUXNHWXtJZ16Bd3KrNWWsu%2Bd5qH8%2FKGv4ESpESR29m%2Bq26MmOTc%2F14RhgWL4TgiCu6JTylnP1tGAAAUdRtfHnmIV9z3eGt7l1n76hogCjAEGJ7Rgfz%2FdyC2zlHPpy7yeYr1AAtBdYHO698QR0b0Wg49EA91Wr%2BPQQuc3e2suPKf4Vxq%2FyyCVS0UqXmRasMJsoqsJ9BsrKURV5RXN0sJgsSoL36zh%2B8hyBM%2FjVlF27NZUaPPtzxy%2BM5hy1kaUPU%2FwvE%2Foq1khk65kqutu16SivR1WP7xf6TW9fK0Na21IGPxQWiaPvwJeuvSK%2Bsh1PB2kahOypLruEhhGob784SzGKFTvUChQ90W4urDX9%2B%2FB6MUV8P1LfmmznDe0%2BoNFxPAAD1jdkH67bkK0KQ%3D%3D&name=tTwO5OFFh4QmtQDWfgFTc3zDzKm5tp7lKL2w%2Bkf58JBtk3P817wM%2F7gNU0qB4tAyVOdz2HjaXhaaCrUUKjtdj%2Fnh9f5Rjvx7fYWywc5mwVs%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "2bfb2fc266e4ff5c",
-      "title": "[早安Tip_Off]第97期",
-      "keyword": "01月28日07:30",
+      "pID": "3558ccbc1527a02b",
+      "title": "[早安Tip_Off]第98期",
+      "keyword": "01月29日07:30",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "[早安Tip_Off]第97期",
-      "modifyTitle": "篮球直播节目 [早安Tip_Off]第97期",
+      "pkInfoTitle": "[早安Tip_Off]第98期",
+      "modifyTitle": "篮球直播节目 [早安Tip_Off]第98期",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日07:30"
+        "time": "01月29日07:30"
       },
       "nodes": [
         {
-          "name": "王子星 王仕鹏 辰辰",
+          "name": "孔祥宇 杨鸣 美娜",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=88a13587bfc849d60c483d7637c8bbbb&id=tNZo2YcmI7jbC1frjDiFl7u4hTtfKeGUPUjxkYS%2BgCQn0Yztn%2FIm9gHfyQdDMtI9sPOWnmRJUBVzWWrcjdExH1hTxyFDbCF9zuPpGUD28PnD3S6HglWAkpwq5HZo8ziblqcG40GPFsla9g8veqRDVD3Kt6TIMOD%2FPT2%2BrS3rGxOPV%2B57OJPTE6WDRF1mkDBArs5%2FEEA8CObAm%2F3Y%2FfjQCHEo6jcDi1NdqdlKhG7eSBUTrz2mXltmwYwpH063cydxNf8ldW9OtSSA7jNJoWWs3uwWRDomHV%2B6JcX%2F6VtlI6A%3D&name=Rkp48rui3GFXXXYowShOkhoF9H2uK8mH%2BhmVN8Ln2aYjXBi4KsXGPcEsmR6SjHn0zFwMuqrVkxvWTzphyIM3K0Np9FFlwIbw9fwFv5TROBRzNzUcUyJkn4fCfwqMWhn6IUO9Rvs0g9Ek5PChvduY6A%3D%3D"
+            "https://mgev.188766.xyz/play?migutoken=85b49d21f696f5c5c8ea2980299595e3&id=4fJjyJLQ1FkJa2ViHcKK6wxMQHIrHwNzpIdleuyl%2BwNW16CLpscu5ww960TM5vDF8nmLEIf%2BgWPn21uKx8VXzf6OT9aH%2Fpp3LjE4miGzQ7CJKWwneeSdz9Ony2JyY62Kybdl5lBudVttxyxV%2BhZ5WANgBF0jmzCnLYyZewnNoRN4KxPFR9O2yelLiA5j1T2LXoGRqDgHRwgB%2Bn4p%2BcjJvLqfHt%2Bb2TovLjujJEc9EEcwgP0Yze48cpD6%2F%2BkA%2B7%2FSB1TfZwGL5fBNA0ymuyAaq%2FPvbZvmowURpD89GY3gi99kpSJZSvZqwWEZJv%2FF8F8r&name=g2HxVDUiHl4KBz5dGykcso5Lz4MKMdK8jlvBFroOR62%2FhcBERcljKsWhUry1GBYoHJySw2lbjOzN%2FK%2Fj1dU449ZYvWJB1nxv%2BsKcM2cXEboq%2BJp6wDpArH9DDBdZ8H%2B%2FrL6N1KSVvHbPDzsnl641ag%3D%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "3ee192645c0a79ca",
-      "title": "开拓者vs奇才",
-      "keyword": "01月28日08:00",
+      "pID": "96d7aa11da7c3fd2",
+      "title": "湖人vs骑士",
+      "keyword": "01月29日08:00",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "开拓者vs奇才",
-      "modifyTitle": "NBA常规赛 开拓者vs奇才",
+      "pkInfoTitle": "湖人vs骑士",
+      "modifyTitle": "NBA常规赛 湖人vs骑士",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日08:00"
+        "time": "01月29日08:00"
       },
       "nodes": [
         {
-          "name": "王子星 王仕鹏 辰辰",
+          "name": "孔祥宇 杨鸣 美娜",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=86fd9c3bdce95e4051d0104ad5b14032&id=2%2BbrPwdrGe0b8C%2BRi2E6g0fx%2Bwga4myUfELwrSBV9BdsfSOnQSINBlblSNwKw2lUoSJ8Kns3waeQUrx0beDM%2FQi%2B1v9ebg3Q03r4exwagZqH93KOLb559ZM4xBArcAcAJVdMvg5%2FQJYUDdE8R66qfBGzE%2BKROkn8XG6nRmOwAqAHZjC1TXGz5BwDW7sj6W6pHQbfDj1fIw8arRjGJDa1YoJkCNsi4PYiLtMksLHO3ttrdz%2BgqgHUgr2jberTpruKM%2FuaKmmMa0XBFNlHyMvBgq6aiNwlsK6Zrcgdp6yGcCk%3D&name=cDlQ4m%2FLHBnNxlaIAN6IlRnaD9GyNKyNlVumWR79sqqjP4lZFDNXrmMgr%2FcRFtbx3I3OJv3hYCdIVX20tmhHabqV0Wygq68KJ8qoGFnV%2BHnkdsgc%2FjRTSCejt00W4%2B7e"
+            "https://mgev.188766.xyz/play?migutoken=3c43b22080859fceec8c868e1582ec7c&id=5sWln3gBCu44FJIvizwJYr0mDL0%2BKZz73l%2BPu%2FGY%2B%2Bt6kXCupQrcUJcjQ8tXxmsZuSK2ubhyqwy0JElBfiEKYKHVqqKfNFpvQ2af%2Bvoo9EvjAdJRzSAxs9t8IccGgy%2Bml9Nz3iNSe0hoahJ8ros%2F7wQapK8b7Xn6TNSx1NDN39fIMVt5L35P32KQqj4AcHAifXm4LreKeTkijWVcsvN%2F%2BPhdfwcS73O3saKH9N2wc1xc9GuLrrx2ZLxwV7hEGjetLos4AQqH86LsQE%2Bsj%2Fer5m1zx4RBtXYR%2FrJSeaF46bpqJYlpH%2BdAqezNLAEuHSxXVhkH1gpQpI437hrx%2Bi5Bkg%3D%3D&name=Wa4itIAyoMlW0YA0UwPoV%2FOkVs1e8vyJ3ps4Ac1os8F6waE7MZJrj2Eb1LcJ6BQmPKWlMQ06u8TRogDol1KewRkhWAwOIdStZzvqEs5mKW90craCT4fWKhKEQFVsp%2BFk"
+          ]
+        },
+        {
+          "name": "二路_皓篮球",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=a9a7e0188b8a7a446e01a3553a075693&id=LNycayoaF07CjAYwIiQPtVP42TbrsQx8HEoERPyLvtwoW%2B999XA5UruC5UDWKiCAsh%2FfbScbOHe%2F4Q4Z3QYTiJNu%2FNTXWvs1WcivOyM7hB9ItEPH%2Bl8vbdjGd3hEV2tF2qTpA3o4W0W%2BVodAM8%2BbI2PEVKXRZekGt5HEOTKKVCO%2FKv9%2BGc%2FLs0dGRCF7yR4Cb7nyFc0V52GaF3dIdIThB9DZbDIh48ol0MPjn8%2FFdLtqo7kOG6NWT44zzL%2FpdBy29Cvbca%2Fk2L9liYYcnwlsJY57HbYjr5c9HXLK00f6N%2FC9Db4L%2Bfz1iD0t8SySdbtXCZAZCEojf8Q5ekRfI6290g%3D%3D&name=a9O7OQF%2FU0mAs8Fgpf2tlC3zMMpjeO1tkDxVYaJRU8OfmM97RcP335hTZbQSKs73bPMAcDMReS7LYaGIwVcCiLDbpXEjANgNgcGs3MoPNc4%3D"
           ]
         },
         {
           "name": "英文原音",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=cb198870f5d5574ffe444100e183ea1d&id=s37MqeYQMRyNq4egD2qNhz4we2GaO0yh1FIAPCt%2FfCZXLDwENzNJmtv2NVEGwejbYsBMHtnWAYEnMW0S7EXdVl4O5zgpWOI53WlBKUXebAP5ii3Ooqb%2BSoKeK3ydJR3ge3sLYbO%2BfKXrNFk7Vz7mOXd2wKak7BPuLGo3FnVoQwj2MY5Oex%2BzkNJ43Gk%2BqX64deZKX1%2F8J%2FwcBdsk3WCofapGepmwXfScwnaLqAy3xUkxRfKHrLXcIIUbqsTxZHVVPJPieQ5yT7ajeaooP6KWIj7d4czmXTFDyvYKPCrCULQ%3D&name=vwPmdoMkbJbV3xvioGTzq9gs63t%2FOeS4wQtMBZYn%2BwhIP7a4hkuJqiFdGq3dsJg4QOtEMhteAVqOUYB%2FN1c55rIjDJiyb8IeKIjPnzIGt24%3D"
+            "https://mgev.188766.xyz/play?migutoken=627e21a4400da36ce5287352e8f49fe5&id=UpVa%2FOP13HEd0HXWeOO%2BFYyX3dc%2F%2BJGFmHt2tPXlC1zVnlHFIcAc64GRpF%2BkBm134%2FXyu3Ol4G92%2BHYUGD05apxDTQktfsKAQ39sfzOX2itOMoiL43ku8%2Bt7XC1Wz0RXTI%2BbrNe1Qj3MzuVZJdMgSTRBcVYGO8BBDkvKoUPaywwXIppLIvevUDMXr%2BW5lyyYi4XvQzx%2BEm35gpFe1mN4Gut7eYbFBsbr2HneatFKqwroKBsxeop%2FA5IZ4PBJdI2iQZCfT2xKSDIcKnxcJsoHwWfRsbnbpW3lIbbwNGFMu%2FLExtdN8VFc%2FZDcevS0OdqFtQhjhEiXn%2F6Nn2P0EEqf%2BQ%3D%3D&name=l0cdKOfemln3QOWpgtEHqfpo1%2FPlPy5E1ZrBqJebPU6dDSufFdcbB5taTRyhjoyXGT82G5qOpV3g4N3WSjviLgcTDIh3guDH4U8GUvHOyxI%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "b251f1c0c54f52ce",
-      "title": "2026澳网·女双1/4决赛：穗积绘莉/吴芳娴vs梅尔滕斯/张帅（中文）",
-      "keyword": "01月28日08:00",
-      "sportItemId": "3",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "2026澳网·女双1/4决赛：穗积绘莉/吴芳娴vs梅尔滕斯/张帅（中文）",
-      "modifyTitle": "澳网 2026澳网·女双1/4决赛：穗积绘莉/吴芳娴vs梅尔滕斯/张帅（中文）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日08:00"
-      },
-      "nodes": [
-        {
-          "name": "2026澳网·女双1/4决赛：穗积绘莉/吴芳娴vs梅尔滕斯/张帅（中文）",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=8fd7a6d295107d8c6bd2f3ccd371479b&id=t8iDGrkFf5GuV2JDD0OEwgEMxgWt%2FOeGkDMo8d8aN%2B6SlXWfw0pQ8%2FhQHWEiBfaMQumUafOlgkO3CyR0VPiCJ2qPztZT7D0MvJ%2F8Oh3Kthg2I7EGvEK86XbhFi2YRV83ayedbUOVjYk52%2BPWnIbL3EfQ175YZjbv7mV6OMt10jpp27%2Fx56Jx1D8CZNtlSQWW9kn2TFbzZE5VW9Jrm80o1LrGfV5il7R268aRgNyd5QgrXkJZf1SYsmvqRHqFOOZN5KjrpUKoE2T7hdCJSVKNm1rVGiwFYNj8pU%2F7YsGvAttOMRD2hk8RI9cLuLqIoNqMTVtovyhDFqQCNQoeZwUKtHuruEtyZ8RwYWYJwcuGQZVEZTAJSyYHbsQKycIrZc6o%2BT9hmMJ8mN1fNBNWWkuv7Q%3D%3D&name=PM3TyvS4yV2XTglBfDAXbG4FncsPKAy60o0HQRfiqJWZzijwJDi3zuAcytfiYuL%2FdeAeAVlrKJV0a31zTnDFiHcvPJkRGaXwO1ifPSzlxnt9%2BfPk%2FnkOQJK9uqaPx6lzTRmDBQQZWnhiCF8tTd%2Fy1FmQuMfCD%2BxDwq1ZkWGSjMo%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "0634c6e1a3a350d1",
-      "title": "",
-      "keyword": "01月28日08:00",
-      "sportItemId": "3",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "",
-      "modifyTitle": "澳网 ",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日08:00"
-      },
-      "nodes": [
-        {
-          "name": "",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=5a71a41a7504026d0b77058c339537ec&id=dx26Q5aZ5Xkg8WKVhtCfOFPAJuyn%2FSyuvcG1zOCaPLt5sTe48EMxKhsFecEmOLLtOw%2BXXxJO9EnYs%2F2G%2FJUgFNOFC6jhuUlF41fP%2FYOCLkp9MGLnUZftSyBat1uBORP7Z5V8b6E6jUaNWdO3ux%2BS8N2fR3xrMTI1lGUpYwIWnoiAwSSAALtcRD%2Fl%2BYeT3TR%2BTS6RbhQwLYurFsfuOM4eR8QJEymH9ea7rW%2BqCGN3ll1xMydf2IaAN1i%2FZrPqW4tMDCOsnTVo8Xq4jLhqbpOqvof50Um%2FsRhxfN3oOaIN6obMJbVgkZg66duB5oELiYKIfv0pErk1Frd4KpgdXvHbU019UYQdG6zx8hpqz20GW05O0BKA0eUKmHZ3eO6nfZvOTZcRqTQc039%2BSvgR9YOabA%3D%3D&name=C6GebkbZAPnWavaT8yrBmIbSjRWuX5cpj6Ty3%2FX2frprZWR4wFR226k3ybE6hPmrqvN3JlAuol2jqaF%2BO6wW18t4Dj8DAXHwDgiRovSRG0M%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "e58d119b7b03d0dc",
-      "title": "国王vs尼克斯",
-      "keyword": "01月28日08:30",
+      "pID": "7dcf6670db0decbe",
+      "title": "公牛vs步行者",
+      "keyword": "01月29日08:00",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "国王vs尼克斯",
-      "modifyTitle": "NBA常规赛 国王vs尼克斯",
+      "pkInfoTitle": "公牛vs步行者",
+      "modifyTitle": "NBA常规赛 公牛vs步行者",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日08:30"
+        "time": "01月29日08:00"
       },
       "nodes": [
         {
-          "name": "郑诚",
+          "name": "石楷文",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=5d97e1a7a16f6c8249fff0c28b9c4336&id=pJq02FVRs1uq7icSzilfor6lESN5Hy4QZH8AHQpCUEs5fDxoQESvU1WWzgZ2c6BE9mZdX2spckwxoKIVQxTB7%2BCNWfp9vIFxYOXZE9IX0D6gbbwE06OnlGaleBazAW2lqVArx6GcDk5ve7%2B9VMlE4uhtA3syTooDfqNiBRHGOWmmf86AJbP9W9MlQh1CdGelJACDM51YUDpb1Njj%2FSZSF6PQ9CuhSZeR%2Bs4zYBICultKMo752W0oDEyKXu53YEdchMQAjAXgrLTM09ftREL9G9LsZxSgXtbsvt%2F86x3qCjA%3D&name=56PlQgypjNNyT1aWimwmioRWurcgVhf7hLn8zgktnOCKo4hmAUnrONDB362WZBqkGQpAUVyVPpSIMsFsxRTNywJu289Jv7Rrf5V9lzwL4gA%3D"
+            "https://mgev.188766.xyz/play?migutoken=e6a1b1e02994221161a066d4640bb119&id=iwEnPVEf2gnEkNR7JplPZ8%2FSHPB7EG9ZerGNPo4UijJc5Exhq119jwSSHhmcPn6rGmzrmgqC7hDbQn5OgyDY7L8%2BavLBa8qqsqJAL0oFBSRGj62iyepDs4RZ4cGQ7oVLLYHd%2F8s5eFbNA9es6YtaH5MtCnHq8CX6tjeZzyuiTWzYUBFCLKc5UJG9LpbhJhWVlFCbwGIFe7o7j%2BWdNsMOmN3kq%2B7r6pIy841K7SAjZiNSYUbwmBevfOxx3ZKLefvF77k5MiXz1rDKxcYVxQFPGZuo1frzZFCfNVeW5QCTZsVh8FDpZzTXqqeK3s6MOXmFrNGkhyr4Vx%2FkwDcwL5gz5Q%3D%3D&name=dZr7wqyHnQVOKN7SDohC40POI3HKH2psxaNprnIYpCYxNfjJOueOITeh57qgZK4mwhF2oEd64xbC8EQZ5Iw4YHkX1laWO4AYrldq6jTXZAM%3D"
           ]
         },
         {
           "name": "英文原音",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=d04b4b9b3cf0f2a2583f55b339ed3259&id=QleUaow0Z0FmqkZ6YkYscxl4llAAu5s9Y1QFbfie43hF3%2FwIkyiohvRnaY3idoWHrNEXC3R%2FiOHvkVapQQBwvKT4dgMjweV8YCuL8iomYNcWaf4RwN%2BhZHyMJbrhKzjhTXnUSVRIQysgvXQ89xvaxoWvtTaI1j7QJXlh7oQoxcqhPPWe6oKntE1mR6npWWPeoe4aPQaqqu9RAA40WRJnr3ETTRtDERW%2FRSwanDeEz6hwTdSVhfDM8h4KEs%2BJrZvAh%2F9lMZHg%2FVj58kjyKdIKqYuF17XjKOr%2FDKmh7XxcAM0%3D&name=WiRSowRTv%2B9QV%2BTLEgEsn2Ogx5wrl7%2FFdfoVONf39gqvixkbzQyjVhq2p79YRfYofTUMPoGrvp1A7zW%2BOiRHadJGEUXfw0M4vuP%2BwXZVjPM%3D"
+            "https://mgev.188766.xyz/play?migutoken=1e63d9fbf445ccbafa3001afda3ab31f&id=4UOOMLCf%2BEtGMdSExJN6%2FuI9h78giceL%2BLLOPxgRWpVcHW3seW8i%2BwuOVnt8oeYrHnpt1cHATghytq5bBnienJsDOtSEeTYY7uOf9HSi89xfXNNYnCiSFk0Ul9b2knrgZevkHJq31bS6cb%2B9%2F2eGU7Tri0rKzn%2FPgSoCOtSeTQwnfJWMv05d3mzd366%2BtTjbJ46qayXnBbuf%2FwGeyVoXLiNnUkaYDOqxUnRQ23YS40utEhUnlJ4dC0x7Vby%2BubTb9td5ts2M09RPSYfnSVQRL%2BmJhrhBoJPtLF3oiE4Uir3un0MkRKZg4My9YgfH2q%2FYfEPxiQzXueS7FjG0IwRzgA%3D%3D&name=FrfG%2FMELGA2vqlis4S30QNv9GP7Hwgkp0OT02sr9tCzBLn6caJV2c7ZremrYka7p63%2FXRGR6ZnfshJ%2BkhNjMI6dppAydV%2BPLL7FCq5gGstU%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "58cd588322af4a6d",
-      "title": "2026澳网·女单1/4决赛：莱巴金娜vs斯瓦泰克（中文）",
-      "keyword": "01月28日08:30",
-      "sportItemId": "3",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "2026澳网·女单1/4决赛：莱巴金娜vs斯瓦泰克（中文）",
-      "modifyTitle": "澳网 2026澳网·女单1/4决赛：莱巴金娜vs斯瓦泰克（中文）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日08:30"
-      },
-      "nodes": [
-        {
-          "name": "2026澳网·女单1/4决赛：莱巴金娜vs斯瓦泰克（中文）",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=47dd7de289c7b0a670b74acc012208ff&id=wxua8KElwMZy0i5agBw5mGkQo7j6dxgcSpw8Y%2B3MkMnx12PHeebffB8P%2BIwuwR6ln6Qex8Tko1QdCfm5tEH7Eu%2FCJtGW%2BV7a5I4fl5aWqDW84RJX9%2BzpkSmduEuBjpOcPJyaF3JecG3UrO8VbK%2BmYM%2B2Lyyv%2FLPB6ds9A690FeSxb97VdmZyy1IF%2BbV5ymE0xuJVSJ3gD%2FfWs1NqEILhBY%2BCU6qkjQe%2FzJDQhCjb0%2Fz83GM07gl0iLkwX3FL3PswT5CzKVksnfbNiWdZfaMxtWNWDHGr4qZiHFjfnTIwSXRgqhwzZeE3CfBwbeXZc8%2FPDtBr%2BkIDYmLUPrJKibJmHbdtgwv9Zf%2FiMepvPJB3987Wax08tGl3npeaujBoSYJKPrYb2N1FKCrZfgrIIgGI9A%3D%3D&name=xIft0C%2F%2FiDGKObvmcwbiOZZtnb0yQNf3uMLBPmPnJUW3UUos2OoafZHR6%2Bla2zdjGFNBN0sazsdIHPzJGFPEFVwa415js2P3ptuK%2FXg6dzc%2FG3ZhtkFfosWRTFiYFdIBtIyjhPU2J%2BMdHAgkgUE%2Bow%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "684bd7d02bbe66cd",
-      "title": "雄鹿vs76人",
-      "keyword": "01月28日09:00",
+      "pID": "65f8c04f3ec6e08f",
+      "title": "老鹰vs凯尔特人",
+      "keyword": "01月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "雄鹿vs76人",
-      "modifyTitle": "NBA常规赛 雄鹿vs76人",
+      "pkInfoTitle": "老鹰vs凯尔特人",
+      "modifyTitle": "NBA常规赛 老鹰vs凯尔特人",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日09:00"
+        "time": "01月29日08:30"
       },
       "nodes": [
         {
-          "name": "丁楠",
+          "name": "李雪儿",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=94279e5d361cb01e50c879d56abd73d2&id=hlS0ehxhw3aa4aISEvcSQBPnL9NK1OlYuHeMlEDwK%2FpcVG2zanRphXJmnbKOAUnHXFAhd1NFURCfwnK8K3hC8R3fcwBEHM4gakPBYUSyYE4enJBF8iCatC%2BboIbGi0b9Y4x194rjj7Ev6JCXXkjpMr9FbkCvkLDlKbAEandqm1XQxu2KFyzIm1uiQ1Ob4q3IjOxlfAk5HNW%2FdFXfrINH%2BiSNaS856VlTSYrGwqfPPCjvxzhfoPx9OCoN5ZFfCKkNg5WF782rTeacmgi%2FSVXgntugFh1zBzs0x2ScGOJ9h40%3D&name=i4e1XFYp1L%2B4Zl4OUAdegMNBXDKYYoZaX5p38fL1ZV1Dgue76h8QTRfY%2BoDaE2tO1V2kTJXBiOGGayG1hlxnBddnoCT0U1y6Y2d8ohbfKdw%3D"
+            "https://mgev.188766.xyz/play?migutoken=70ff3d6916b080b6270ef45acce9335a&id=Xut7AbrwxiVh4cGQd5OsYydiUEKqFhljN0%2FznxiBU2byGsyob7AybJ0SeNYontCW9lNAHY7rICX1O3dYXUAc29dIYYmk0Rs55n0tCJ%2BEK1CDX5c1lQcQzrHy2uUgaZJfQVqaaFiOFRzqw7Nm%2BU4s68SfwKJrX2gkqygEqIr1uuLxU0KMi7uozdebNP%2FNR2naM%2BEjm5ZBAzKFu2hQc6LpTPGTIG8H3aKVd9pXZkOe642r6%2FCjITIsUyjp7E%2BXOrbNgkRaTPLrXgS%2Bk7NB7dSX8UD82PmwYmRJhAwWCTNS4%2FOjcYZy0PO6llZND9Wua1pzmd4iYXOR6HBxPvGEJRI78w%3D%3D&name=N2r8%2FCizVpCMh%2BHj%2BSDCdzVZrn70Yh%2B3fZ%2Fn7Sx7VuuHOQBEQ1oT2cVamdivPFrG%2Bzydg2UBVV4ldG%2Ff6cXSJwI00RsnURPwk1FoTaxqTOI%3D"
           ]
         },
         {
           "name": "英文原音",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=48eb44b661c2f6cd5730eb45ab92cdaf&id=oXE5mIWPZUFfMDbWl1fJu9UqimrH%2F2y%2BmPFgnL60aMoBhQsec1iUCzGKjLNpS4E7uCrCzLTYPnw07zy76xNuoILwC3GHTJ5c7lOkxz%2F9kNvnPQZLvOhOInwFY81QurQCLv7PlZgf9FX7V1u63J3szsg4%2BM8CZr8MLdAAJYvscdUuHIXm1Ea2EyL1e5yEGBy%2Fol8ZjVt5S5qaepCqOrWis6hobqnV1GaG1BuSUhVn0vAo8Zj81new4OowanE4FOStk5y7LdOnOeq%2Fxtg2CBzmQaQRcFICWJgiy9rheQIw%2Fb8%3D&name=NslN2cVQyMFEtQZ3phE9aG77DwUNmTeO2DiWx8Dm%2Bz8G1Y8CMQnAiRxXEHztRs1Slq%2FbXSgJic2h9s9v%2FgHNicJSMC%2FJXyqZY3yzDgYn7qM%3D"
+            "https://mgev.188766.xyz/play?migutoken=6b2e3a7ece51709a9e20cd61d9aaca6c&id=RQPvzHFOG4jsr9QkcdA299KkNvVqHRtTp%2FpmwCUQRTaQLAxzytgXXyENIv02ekC0pvig3a8WYzUH8Ae8YZthNEem6xiDtWjULrPka8pYzEAdK51FIKfH7VzoYblH8PsfIKbi5VmRDvHg1XIHD3pTjBy5CB9idlxVcFkD%2FjW9gcjJoQ6m%2BRpyWDPN3OvOOIQ7VeLmy%2Br2YLkJsWRfmitTX4Ukxmgb%2Fgx%2BcfdBwkiXPVLUUk%2F96JbjwCmaxXBX4K6cMj5L2GIHfM6U0gH3LuDzxXcS%2BiQMugS3vBeD29SmUjEaeJFjH2cFgCP5Ui96UsXKhgHYl0ItDU8MBSiZ8LRwXw%3D%3D&name=huZNm3%2BaU0PYLg6vdt60NhMlrABioqsjVMCy1Hlfpu6obFn8Ac%2B8umMLX%2FWPy3YwnksjgXuY7zmN6Rp0X%2FVihaRJH5XNbsMTtDicJEr0nnQ%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "f07b9b5f3203ae96",
-      "title": "鹈鹕vs雷霆",
-      "keyword": "01月28日09:00",
+      "pID": "79b59e793d5a6c17",
+      "title": "魔术vs热火",
+      "keyword": "01月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "鹈鹕vs雷霆",
-      "modifyTitle": "NBA常规赛 鹈鹕vs雷霆",
+      "pkInfoTitle": "魔术vs热火",
+      "modifyTitle": "NBA常规赛 魔术vs热火",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日09:00"
+        "time": "01月29日08:30"
       },
       "nodes": [
         {
-          "name": "王兆丰 吴谦 炼炼",
+          "name": "金浩霆",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=6f702c3de827fc8c0d7921662e99f45f&id=CIPyXhhoVpkk7aCmFossI1%2FcYJhCe8sqnqE8b7UYC%2BuO%2B0Hw7PpBFei2Hm9DB%2F7sndU0mROKe6n5ATmC6%2FaOj30enlSXO8S5fm4XmzsQZTNn5IV4eBYDoA2XvRpCiLto3raFrVH8I2jpgydQuZ6Dm8WdXIn1G1V1WigX0PQcEeOPKUR6lu76b7kdlvaM6Uv0hcmS78kzSynDnvrZfsXzYCPlmT1XNgggPQON2%2FClcUfSM2M6vqJXzhkxIGkny2tWd6E1CD4iNBryXvd9bWAk70VXPPfG3Zdz0Tfl5fPi9oo%3D&name=DndtF3Y57ZT%2B8%2BLMDJ8%2BgSjn2mwj3HPvPTWWmAphB762ONuzLzvlA2K5%2FrgrhBqf4uSVHRLeucCxFgRh3t1fksVsGVBXxW3C0FTkHMvZzfzgciMPrgp9OiUQmU0QFku0"
+            "https://mgev.188766.xyz/play?migutoken=e1958c5a06868b6904578ccbba44cde6&id=bkdPbLAwLqEnyoBYi%2F3C3V9dV412kxP60SPJ%2BlfpuyKoqiKIN3YY6EIfoszB85yokgYmdpKAlNgDQgyYaB5EdWtfTel2Ez8yPW1a2B%2BjlbuaqOEC95xfVZpiuYPebRc78w%2BEqnIwyomN2q%2FBa7HRAX155HIkgTcFEF4As0p5MiftnX6wYAQXln66gCsne%2BDsUy52t9FWTvEkWu%2FWffAmJNTG3%2BOmk3vCfHbxVPh58ljn7a7x8CSOHuhF6m7nIRWtfZZCpv6BJxBdtIzgxqc3Iwp8gyt3X3yfVuPbeCyButnsQhfvh3QfihAyuuky1DkOxfcVr0kI2f3LrsQtfBxdrg%3D%3D&name=B6YzIaNfz5zzvhwNw0fnw0CiIDB%2BgfC%2BqkspU6CG5%2BuHrHdb8KFm%2BNabBwUNSeMgTMAmK1hHzsRilg2NLJi5jmBlsdYWyvta28Z8Edv6D0o%3D"
           ]
         },
         {
           "name": "英文原音",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=0319db4bb3be28fffd683d4e6a81a227&id=TODfhomGNKeVHxE93HGhf1z8GNuz1QkHCOsmGMH63oHu8adqUAvZLXc3wFT83tf04BUPVfDvrBfo64ymPqipOG5%2F%2BDzuzAHuVp8zJmoN81isnQEGBcYU7F1HRAiMveTtLo4PoC%2FMq9CI5TBavA2PImfksqUoxzluf3VBdR1NmjUVRHFeC81fkueAX%2F7H79nVfGyqW8Rza5MHQGpW6%2BxcRp7Th%2FiL9%2BQH7G8Jm5NEiJejcLJP1%2FD9CBnc2m8l4CzFcOZqq3JvAKSs%2FKhlEC9CNMk9m2dmUlSWcKoJK959fcY%3D&name=b7dcq75VRZ7tkrsTB%2BL5ccLw7SaJxt5sCwdc2VctMx6jY094ctGQ2%2F510vlrwH%2BgailhyWSHyXScwSqEQ72rH4LAjSrTgb3Mq7d%2FEerVJIc%3D"
+            "https://mgev.188766.xyz/play?migutoken=2de2508750aaafc67d0f04836b57c560&id=nYP3Tozc%2FgUB2bJc%2BAgFrGk0Lna%2B2OaliGTTngw71aUqXRa2bk0YQfXEfJ3b%2BK9%2Ba5DAgkmeMvX%2BZxs2ROxnkPkvwLB2qQduY4ocSAzFgsgqpB4Iu0erXy1rW24DLBI%2FB1wXDn%2FiIctvIctJ%2Fr37jSmkX0hVq8Q6CqgVzGy13mqzzwTe1UWQYKTrj2lJuBI55x0u%2BlXqLpHLb37Loip2Dlj2Sya6vAs2QNjBNfp5GONkaUSRvcjYesi2GV2zZMrumkxvLcBSD54lgARMCzfuxre%2BIPVwZMvwkfiAvNFmXnJOpRqTlyTFHj1J8qKNYyy1es1tEqf34UoLiFtFw%2BNtqQ%3D%3D&name=3X4thvEA5UZE%2F5Jo7AOrC7t2FUY1gMRslZ72PG1EO23Ft3qT6dl913APK1MZF7z%2FtPTEQYb2ufFKe2X%2B9lszjYK46G6wLbgOpoWXjuRi05o%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "96c730d8b044f8d7",
-      "title": "活塞vs掘金",
-      "keyword": "01月28日10:00",
+      "pID": "3d524f573e8ed410",
+      "title": "尼克斯vs猛龙",
+      "keyword": "01月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "活塞vs掘金",
-      "modifyTitle": "NBA常规赛 活塞vs掘金",
+      "pkInfoTitle": "尼克斯vs猛龙",
+      "modifyTitle": "NBA常规赛 尼克斯vs猛龙",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日10:00"
+        "time": "01月29日08:30"
       },
       "nodes": [
         {
-          "name": "刘乘源 殳海",
+          "name": "王子星",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=189f24b45bb053f4bb30c703210b3ae6&id=de3oMwYOE98yiYryFOz7hZKHaUn2rbc9KGpUt%2F9p5K9zHt4lB9gedjytrWvTz7VRB3oju0RehJ%2BPB5mQMZj18ULCu90Yh%2ByJ%2Bzkky7ICHQZxqmWf4%2FIj9rvTHFDghDRicwC9g11pOYEoDmS1kN%2BqFXjyoRmuqJ%2BojK3aR7qKaAFDlVhMWmgfcVKQQIENMOhwqqJkBhdJLdEhcRolc0096w5nc5j2hPnR90Q0pj7v6v0p1LvnHMHgsqhyyBHPI9gZMJU1RTNvosBDF%2B%2BbfIMYzCRUG9N6JlEdBPkn8%2B%2BCCAk%3D&name=BQDZawjQBoc80BA2u%2Bu98hzBjENU9ZCERZ7H%2BBfgaMD71Y2PrB1MqHcVOOPCdL9LlQPF5I5Tf9%2B56%2BbHBpewkzC6AatTefGKvfnzZpDD3yQ%3D"
+            "https://mgev.188766.xyz/play?migutoken=aacf461a17155c60e87732838790110e&id=nRynAbnTXK0DBj1DWzDQouNjdujzW7p719tQ1bzWKIyVzT8evZnUUh9VsqHD%2BpXduUbAecnV%2FsAJq8Lw9PNJm1OPowtFM2Vfk39c058Z57z%2BUTxq5myEBN97EBW46oO1jeMqPFTce1OaoxiL4tig1im%2BA2BJH4gu1VvkqZdXk%2B5rbfA3ZIbHXlXRINMetVZ0pOeC%2Bu8qvvsqv%2BUP4Lne%2BiEWkFyCTubRIzhUl3P%2BiW8QYmwE5nGN9lrmgUYCki9DoLbmpyYjXK7SmBS0oEi4TG517dHiL8rsSx4hDuAq4ZPC%2FHi4ovjwGtadYS7HQs26ySZMDj6UB%2BDSz9E19pzZqg%3D%3D&name=vCBQCFlIloTn24cBnVJIgvFFL7S8QaSlX3nSIYkq79Uo2FXp1HFlIWyThaVDo%2BWsEznBQrbp3SAWv8HhCPvkbVuIYlo5L1%2FIExX3e9IPPKU%3D"
           ]
         },
         {
           "name": "英文原音",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=3916f0d5473dde098ce181eff0a0c065&id=%2F09COaV%2BYibVGxpvB8gYAipwEw%2BZCXh%2Fd%2FfpIfHIcX15LZbwk0rWQhjPfRisIBqTylp9P0Kh%2FJnuYNwd5IrEC94uP3CGzJp6i4guIZmKZp%2F2b%2BU4PwH%2BVxmDG89xDhSsve7A012BV7D3w5ttpLAvjuqT5GelVXQ0SubDnQIetFQrKJvNfAyWpydyKQ%2BptOSezJzs01niGLXXpcKqaqyXUoqvMk79SgZ%2BntRzMH%2B8p7fOO5B18FH%2BuABGEqKM7e%2B%2FYfGo%2F6J2fyOSL2xPuE1b58CKzpz8nQisW5iVXsb6RQA%3D&name=h7aasFjzijpDe8Z1TfAdt4SDnuU4%2F6LDYik50Aq5iPqOPfshvS2sopdq3VLgDnSNq6G4eR%2Bw9XLzCaqyQFRxON5FiaihHhx6wg7hAzQ2AWI%3D"
+            "https://mgev.188766.xyz/play?migutoken=209c904642130f21590adf47f23abfe5&id=1oD1NOoLMkj5QHk5IqSE0MTiHhrFUDlNhYp8YxC7%2BWolqUGt6mi63OU27fIMrnPkMrDc54Bno8YxMvkJqgdiYnHA9HMrhg%2BgiyapDuTw5Mg2wxfipc79ismOX7HoC7haruBN91B%2B%2B8iX6SU%2BBT5uy%2BISMef25Sg4dMBhCPyXQ5%2F2lYNoNdK5Ne1DAhOwOENM3NlFZXHTNtE5xU3YlJhtnbG8ldAtUYKCGyN%2BK3zYWYKVraiQfAUyOkGTkKJ3UtF9AkJzQtxZ3noOe9FQCTw7WqOnU80RVE1tSLm3Lhu1DbdHtJ2qKESF9aq%2BRA4P4bNlONfssVZmMHG4dOv2GUL5SA%3D%3D&name=n1iVccbEmTQaRUOIBZ2r1NKWnGglqIB63XWpwLa8jW6Vx52Xmx8OvGj6kDQbUx52V34%2Fp58E9PhbWVDwUgTwfktjUxciU2BAWysKbh0RHsE%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "d77b7ff1c98b0606",
-      "title": "篮网vs太阳",
-      "keyword": "01月28日10:00",
+      "pID": "19b8e22fc9c5eea5",
+      "title": "黄蜂vs灰熊",
+      "keyword": "01月29日09:00",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "篮网vs太阳",
-      "modifyTitle": "NBA常规赛 篮网vs太阳",
+      "pkInfoTitle": "黄蜂vs灰熊",
+      "modifyTitle": "NBA常规赛 黄蜂vs灰熊",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日10:00"
+        "time": "01月29日09:00"
       },
       "nodes": [
         {
-          "name": "寇逸豪",
+          "name": "王嘉琦",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=b8bc25fe9ba8db9b1b6496a094a3f6ca&id=PRGzJU9NelAxQtYiHqUGE1DOey2ZwHQ0DcVdH15TVMsM0al4Ce6vxD9xp9EMk2LTnOLKIcLvrCje5ssOljYzU%2FDuDjqtb94zScf%2BgyqCEhJbcJe6GSAVDzVaqfFf10SGL%2FLlPK12wgWZGHZd6WLUsUsx0BU6%2FuDtzk76o%2FwpJzUGAfLxt3qHohEBrtF%2BWrmLEsn7RG%2BBvkMZMNWNaA2CdMQC1FXqPaJFi00T2cCDRsd49B1fngQbbrb13MKZA1Y2koPc5x0cPagOTab%2FO3oI9KZKsDZtflHXekmI33234Po%3D&name=seLzPCNTql1udVsOya%2BPmlYLg1XV8isUV0Nc2Q7yUbJ2dzjUGxr4ps6D76qJAa3TiTs21NNjFeAnzsf346hQpyNUtGuNb6bfkVJ60pxLOVQ%3D"
+            "https://mgev.188766.xyz/play?migutoken=506712bd178d5255c1cdcb7bf910e771&id=HQqXedUJ8w96w%2B16DcoFNfLBhdgjyrolv7kGmVoKjBUdzikQZvo%2BGqDQSCS3bQ%2Be1Xvv7QNy%2FEM1pwg9qq%2BOeFuaew6o%2BRhTiDvTFNKd1HbS%2B4jinaB2%2BgEfL9p7ON1f4jfZOrahjuP61kgyN7Ick22FN1vkx%2FTBFxj%2FAtWXCpGZnaUOOf9zeKPcoVtUlb83fA6iN4nJrh9QUBG24AppiEoutfPKKvMdB50ed1J1SXfPovz0sgijanKGhmuqR1jusMmttEm7%2B7ziICdsCGFk0gkU7Ahv6IycSGj8CAqdjsVinFl4V7qIUvxkGeuKNo6aIlyv%2FhCZUObi2lPjAoARGA%3D%3D&name=vopopwLoGl8r0moG8izQIc9nNUGAGqqIMCibu%2FeoDhmUaWpVCjSx5AR3%2FdQco1zINcZqvXX3mXvcD%2BH%2BJ9%2FBqSRtt%2ByedyDdp3%2Flq5OO0gU%3D"
           ]
         },
         {
           "name": "英文原音",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=60f0e6a7a405c22dbde6d97e5968459e&id=oYBgbKVJcHstGXp7rr1O1jorZZOrGu7X2no4M541dWJmVjtC4FY8MRa43zVpIzygpEiIoXkMWR3CuhddcW1zQ5b03QJh5d%2FSFqmJd%2Fo%2B4T%2BcUgeP2ZAHJRkPfML6UdqqKEDop2rHOZKyA8wNa6iOaz3k8VKmYFII9HakgI3Sl4pEXjKLOT2nVA2X%2B0BuTLuHDM4SoJzkgf4E1oFTE6SpdPx%2BkQdyDvQd54firJcn2bKJYBa0%2Bk4vcDOUV4SMvpkdbSWzt9T3nEo0RXLqEuPVLVGql4DLkDJ%2BzeVZdVW8ELg%3D&name=74PRzdxBttkPpZY9HIY0WSJgztxHSeYfveIWsgrCXQ1v%2F6damPbvmo608xEzP6lO9lgv03sugqvUFp38UcJN2M%2BiWQUVSqLD%2B8NG5Nty6%2FY%3D"
+            "https://mgev.188766.xyz/play?migutoken=6d185198d8c46befb04a316b92d9b700&id=z1uI8v9YYwV8B1YnCfNk7CnBOZkTb%2BQJPaMwSWpirn9p0hLDY7HknjlznNB7p0YoaU0KZI2WHdS9J3RNxBqLRfCsznoN%2FMElwDWApm5iz2z1NuZHypbCmALqUpgGETf%2BfiWk%2B4pTuiLXd1rx9RtCDLCH%2BwFMyz1xwzLt0Jagw%2FxgYmgnkPdkGxmf4nuuGMjg8OAOqpkVod%2F%2FdnGgN5rJ7vXDJTo0bcIVK3C4AAscPSS8SyiJKcR9Q%2FGmpHN3YTVB7KYz0B5nsLp8l6d9%2FL1Ck8H3ptjfUbOss7%2BLGUai73cs0TrH2Bn7wOB4UQ6yRaejBowJYPTTcrXFvyTTTySnkA%3D%3D&name=X2a6X6tpHRbJwFzAIIJMOn4wvanc5u%2B7mBBwWPBuhW118jFTqhqrf3GCDhAG89Cz7YdM7HOLxPoC2NlEveoRq9b4zvjrciY%2Fbf54oyeGU04%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "af35e641ad8b7f8e",
-      "title": "2026澳网·女单1/4决赛：佩古拉vs阿尼西莫娃（中文）",
-      "keyword": "01月28日10:35",
-      "sportItemId": "3",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "2026澳网·女单1/4决赛：佩古拉vs阿尼西莫娃（中文）",
-      "modifyTitle": "澳网 2026澳网·女单1/4决赛：佩古拉vs阿尼西莫娃（中文）",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日10:35"
-      },
-      "nodes": [
-        {
-          "name": "2026澳网·女单1/4决赛：佩古拉vs阿尼西莫娃（中文）",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=42ee703cc2d2d5cbbd803ddca4de7e02&id=74itrKzLAs8GNMbYnU%2F7jqxt7pGo8lcJYOt95s8%2FyLSzzH6jn7q4k19oMz6w07t1tUOjldgTJpROJjiKh54sSg%2BP8g9yX9w%2FNlDmKhQ%2BFzDT0%2Frk8W8OqslfuNdwFknxQ7Foit6r9uq6LsXzr%2BhHZD2%2F0w1pDVydu%2F%2BqrEi17qdRtu2GiyX0MYyD1gtSCzPBu3BADmDGPCCHHZtPpDYpaHIg72HHIaXvF7ISC42i6c7Ku89pCMmjSv%2BetbEsXqBEUVsu6%2F5EJNThcAZzuDbCatvsNVL9Al8wuNi0EnqO7Dun%2BfMrlNlqSecEAUYIWcvFm3IO61CTmhyakAkyB6F1idpfZPV7rXVtw50vqpzi70GKDT3yLLQSUF%2BH34UOl0cJWSdJfZ0ZVUXbyIRtJ8aZiw%3D%3D&name=opcTKDHz4Cc6lA%2FqUlhX5O3d8hL77LBm0HBkZDDku0P5VGAoqJ7Qg5vyLdU3ZUCVEKBZi6uM7Q9QqGlji6Q5aJ1RUqHJ6sLU81RGrGY7FRpgkAv%2BxLp4KNm%2BxhVWv%2FzDfhiMQo%2FDy3RnN1qZ9PRD3A%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "b57620f0557948b6",
-      "title": "快船vs爵士",
-      "keyword": "01月28日11:00",
+      "pID": "fafa2279005c1e25",
+      "title": "森林狼vs独行侠",
+      "keyword": "01月29日09:30",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "快船vs爵士",
-      "modifyTitle": "NBA常规赛 快船vs爵士",
+      "pkInfoTitle": "森林狼vs独行侠",
+      "modifyTitle": "NBA常规赛 森林狼vs独行侠",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日11:00"
+        "time": "01月29日09:30"
       },
       "nodes": [
         {
-          "name": "柯凡 苏群 婧雯",
+          "name": "王兆丰 孙悦",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=16df9f6fb9e995559b986d94a4781d7f&id=FsiIT9ZhwT4hOx5NL7D1zGYkMv2TwZGvtPxB1ECG%2B9be%2F2Nl7107VaJcmj8qCsjV2vDOmbtpSdE%2Fei0FgsSvycF1D%2FmtKgrq37UF52VLjy%2Bny3a8xyefXR2gdj31ZbVFhSxVWG1rEmMNY7G7BvBwVfd8dUxKbczyBaBsoVynrVAl0I%2Fbs0rm%2BZBjk1rc8ojvWB1L%2FDaSL%2FntzLS3xIvCcRXT8VEMhJ9pdhrZLvMnrbuX3qItv%2BxjHF1n9lNVzgn7DRO3qiYM0v8No5mVqF6Ru5OL%2BdFD98rKIvIEeTvv7Wc%3D&name=v6rpGCot0ektPjlheFA44uFenGLjpVO6GrPVph8DOW5REFA526Etj%2FdnzdixpeH4MtHoF4PrR4k0vPSj1qs98fhxznP71dCB8aqMYFvCsVA%3D"
+            "https://mgev.188766.xyz/play?migutoken=a03506ce74cc1c5f14ae3d99c7d8f179&id=mgErLBNN3aVMxPjJx5yfjTso1OvCgjJ6J8UuizD0mlmzoI5JDgPaFEXqjDcD1BrS%2FHCYsnOnUnlCy2BrsiK%2BK%2Fq6RIRQ6Td%2B9%2Fr0GXAg2yxKNdB%2FCZcRR%2BF5MHGTtC6uyVk4hEUKr62hzY4bcSKmoG%2Bmr9tAZT15QdeSeDciOhgZDNR66IqywsbeKLvt%2B2ow04jkpi%2B83SWDP%2Bef8ZuDAavbJvIRUyjiAyXOPW60Qwt8PrOrwRwQCvQSDJp9cYylnTx9E3cUTgnozSA0M4%2BvRHSeFJ9GMhDe%2FkP8PCwleC5LOZAoZoAcbRqdBdJ0eloN8D%2Fwp6jN6%2FOeX3kYLXEspA%3D%3D&name=FeYxd%2FkzHxxQfPZSeY8O2%2BdHh2lW%2BaS6Y2BJCQdspItPBg9ET2j6u40xjeZeT7g5kG%2BrJmJBfwIIsZSt3IaBH0miK6JBJ4xabc%2BacEgU8Ov9AC5hdpggkVIR8SGJlkJ9"
           ]
         },
         {
           "name": "英文原音",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=52efc264681e7114f4b3ab1dc4467957&id=2EX3jjtH%2Ft18zjHeiXDmuGnYLqIjS6QGAsvai4NGaLXtlUX8zl%2FWa92K%2BZc4IFZoMFXvS5A7xLRjFkc0eS02fLBWAxf0WeAgiQzf%2Fbq9mwaMKFGgtJHwW%2FJG6y9KNpq2Kb2VCozHNjyejOd6Vqqn4dLysdJdsdL%2FQPJtUB0EeacaLI%2Fk23U9vCXjvXYzHJCW0ogKWkno11UJfYNzmiDIcY1cE66MdTWUrYnqAPwPlJK%2Bek%2F4Wmzto7eCYIPsK3%2F6Rq0bF7vU7FBN1%2Bypr%2B8OuUi70AJLDVQ%2FLgpCqlfBpaQ%3D&name=hIWhboJraJRBHUMNFG%2BarzgsPfILA7dlfBVLjRf7SGl7RDxnzsvfkNRzc0H9VImYf8Zo6vZ%2Bkdi%2BbWll5p%2Fkdmu5zRzF9IoaRhWvwdaPtsE%3D"
+            "https://mgev.188766.xyz/play?migutoken=042d190e1eea22eddfb56e1fa5d8da94&id=ED8HF2mAzst6a%2B20GBWlrWBm7AzyZDTcmIZn8KtqVF6LnwOQjSvyCCXa6Qn%2FFjCvCHX7DWBOr%2FRMysPdGrGQIbpkhlfNb92dqxOCaZftEoXq3Xry%2B1jveIfFcaBXyzczr6OMtnD1XbZ9LpNVldMKwgnqVp5q76HtWY2jMm%2Ff1h9c1SU8CypdAQWEufvTCuQD9cjFijeBYZp384spj45WXAcI%2FhZ5ZxovWFvGtmUDbP9PEwLigrI68gni4RchVlMAqbnwUAZ4tD0%2F3fzKyjo4uS%2FY0ZaPoBa4a28u27oqJ8y0AA3u%2BIRFha0suX6qqfBvuQZrZMqsBG2GMtVkjtTWLQ%3D%3D&name=%2FskNuB7yAkfue03Jjmfgwtf1vekdYV3Ogx0Ux8pVFIBxtDhuydBGzZwBTSJWo1wzVMdN4XXc9GnAUgoWSIYY6aKB2OvOhNk8V2mMTBOFl4Q%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "6201be59b7c4a3e8",
-      "title": "2026澳网·男单1/4决赛：穆塞蒂vs德约科维奇（中文）",
-      "keyword": "01月28日12:30",
-      "sportItemId": "3",
-      "matchStatus": "2",
+      "pID": "16e26f567db5d970",
+      "title": "勇士vs爵士",
+      "keyword": "01月29日10:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
       "matchField": "",
-      "competitionName": "澳网",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
+      "competitionName": "NBA常规赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "2026澳网·男单1/4决赛：穆塞蒂vs德约科维奇（中文）",
-      "modifyTitle": "澳网 2026澳网·男单1/4决赛：穆塞蒂vs德约科维奇（中文）",
+      "pkInfoTitle": "勇士vs爵士",
+      "modifyTitle": "NBA常规赛 勇士vs爵士",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日12:30"
+        "time": "01月29日10:00"
       },
       "nodes": [
         {
-          "name": "2026澳网·男单1/4决赛：穆塞蒂vs德约科维奇（中文）",
+          "name": "段冉 李克 辰辰",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=7a6ac9127406bb4a75314f32001edef2&id=lANUhB2o6DnCheulZunooRoDL8y7%2Bjy8wKMcAKPDc4jrc%2FQA9WX%2FbSm1%2BASx67avGNyVMsUB5V32B%2BYsIjFkSVqcppdpTB22x%2BD1TQ9%2FUyLeo%2Fuaw2CJ9SE%2FK5af2GEoO70RoNoRcRwoC%2Bd0K4rn4FrVlLneKUbTRtksYLe3ODNU6ZoY1i2KgA9%2FUpcgvzxA43GYrFkkuDbOozdmRReNlUITCYJIubl%2F4%2F99nfiCnrFZOpvQStXNaJ7pMVdkortJxw7vPDCDwtjVVLaWDfhpsjRqq1zJbh32JHPzrXsBGLHDLPGASR6rznLn2gh48dvjfnURkiQlRR%2FBlfHZZimPB6wPiLhdcu26YaVprU0oFBDoEgB89ofVjwYif%2BM9aDloI0BE209RPN%2B4vbIxqIhDVA%3D%3D&name=FMn3oT%2F9B%2B1lmuZpDmrTkzU6p3LBpmviTvVMsnXn5u3%2FUv3iTWaRYiOn9ssnBMxmxm2J8I1UJlkZO4dSZ%2FsBwBuRTqenHWlZLHDD2cV%2FPbvvPoszYs05efRDRFa%2FI1O5VgZgRsS5wGZNbQpF2cwBlA%3D%3D"
+            "https://mgev.188766.xyz/play?migutoken=4e7446605387b0f93fe8fead88dc5855&id=KYvNbbv0SAVfMELJ1pIj1kxw%2BOCLsuJbdWpkT7gRfVQVACVNtCgqqGCRhvqsDedO7%2BNhSrUAQQKUo43QozpAYa7DVOJxHeuESTkq9XAwMUeVfJ8Z3zVGhKjRLP5V%2F3i5%2BV6HiggSVMwB4FKYjZBjJ33uEQfJhvZnMGgGiK9FMZRjUGfnq68Ji%2FLhpSyBohXufvRDJ55GCAdbqxUfdIoBrsdnbLn6gIv%2BVGtj%2BONvA6zximaOIsxN%2BNnFjQcFbcaBAr%2BidYaDZ6ihauqmY4FCWWGSC36fgEUXQaewmU%2B15AhQApsfw3dwUtosnyNCkzxEcPgxPTyaQOrabOhedJWQ%2FA%3D%3D&name=DKclQjaSzhRWVQmeEy6fcn0MqV0iJEJhwJ2I8Zf4X%2FjSYG%2BJkZyQCisk5kp824mdFxWGUrgSs8WS6HO4qG6t7nRw9FC2Xmib2eQUkf1JhhI%3D"
+          ]
+        },
+        {
+          "name": "英文原音",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=6cb93bf9dc881118f768218ca3c777c6&id=V22hE9b4lAarIQR3yRa0BXKiUfPO91110fPGCwvIDsAGHkh%2B9%2FAP%2FzZmU%2BHpW0Pn9tsxbY9956%2BBofIIveEPyH3GusLzzCnK%2Fw82vIN8lsWGfJ%2FRGNb2AxIhOWnQFuPoC3%2FdahiUywlf1A4RXF2MSj2bqtLY7aS%2BL1uk1MvTuqpDV%2FRlNkX2snRUs1Q9AivB%2FhmeOOgyE9flPMb5dZyEZPT%2BzyE21GypxjJghd4jYexc%2BJM4JrHlmiEtJPCV83J1tzw8B3htj0IbcmTxLoX0dNSrQVyXDXfCJ%2BxgJxAH9gl%2FcXfs%2FOKsOIO7z4ujLpjasdIc353iT%2BW2si8L3G4R7A%3D%3D&name=R%2F2P9rvnRsK%2F8OzmSxT4a1mhHp%2BwFlik029sPLnA4hVXTi6vlugyCvGWWxYWh2TmOl3sX3XI0PXLIO5UvOksoiRTdYZPZYirWDq%2FYUtgssI%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "1cc4e13ec675771a",
-      "title": "阿富汗室内足球队vs沙特阿拉伯室内足球队",
-      "keyword": "01月28日13:55",
-      "sportItemId": "",
-      "matchStatus": "2",
+      "pID": "a408776e8ee465e4",
+      "title": "马刺vs火箭",
+      "keyword": "01月29日10:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
       "matchField": "",
-      "competitionName": "亚五足",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
+      "competitionName": "NBA常规赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "阿富汗室内足球队vs沙特阿拉伯室内足球队",
-      "modifyTitle": "亚五足 阿富汗室内足球队vs沙特阿拉伯室内足球队",
+      "pkInfoTitle": "马刺vs火箭",
+      "modifyTitle": "NBA常规赛 马刺vs火箭",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日13:55"
+        "time": "01月29日10:30"
       },
       "nodes": [
         {
-          "name": "阿富汗室内足球队vs沙特阿拉伯室内足球队",
+          "name": "刘乘源 王仕鹏 炼炼",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=eb84923dd8019a30bf2dff06642e7a9f&id=IILPJIlFqynCaufBuLZ585PjDbpoB7c0Ds8FacETpUZmpPOfNanl8uIeirQpYPH%2Bb7gFjWb%2BU9FdJMZKdQs18zZ%2BYyHzjoWeewBx78zNWWlKYFEvAu3BPA8A%2FEivf2Lw%2FtvxqMQhR%2FkQJHR0LvsrIxIkBoQ4UunGpLmLmQMNBGaFZ1btjRZREybIiSXreW8zibbO6v1czhHSKM0cym2zkCAoRa%2F2jI1JankRIOJ0gcik8LqwgOnpSNPFq2uBI6oCSy4uMnfvNBE6WPE5D6ryP8iV0TBXoUqa%2Fthz2xPWzJocdMBKKZ1qMKpDVb4YJdSbGmns8raAhIqFKxrqozYgYPGlhg90L39b91MAZQiluP33D%2BSb7gthBBKokLY2m1cmj4oNU7dFhpIQW7EMSolAXQ%3D%3D&name=hegBFGWHbX3uJSWL4ShfNzk4eB%2Fxt7BVke7sAX1U%2BeT1byWmMSt1rJMbC54ix0Vx8qD15cxsXNGnkM7oo7pmoc%2Fh46lqHQ%2FkHZj8J9zZcNH5eAcj0JlhfkL7HqywcM2%2F8%2BO7WBRSuqbsc0o%2F9EwUPg%3D%3D"
+            "https://mgev.188766.xyz/play?migutoken=ed1fb9ebf0c8011f2dcccc10f4b07b90&id=2x33zX4wfHarHyTzMTM5jOMq4mbbkcWv487qEZOhlFpE99wN9MqE%2BDqdn9W1w7YmlZnomvNuP6fZcxCdfdC890aCmfreGTbZ1rqtCR2FeGcHmNa%2F0gdQy3NoOC5x5em0c7Of%2BkTTY37GQUJJcN2TuZxsWBzlehVS6DhTcNfFStOhSag8Jw%2FcFQjqt3Vj9bBJsYuttHLUj1%2FqPgw4tHXMoDMjPurN7FxBzHoTMDY%2FhUW0QChflNMSe19GAxht2jsHE6p3e%2BZ0K2kKzDrylSW1nsvFotAlx7y0z9UNiL7ziIM13uilg8eH4Gz9JY%2BW0iZwBCcAI9JotrTkLxvO%2BNoJHQ%3D%3D&name=fZsTaJY620267DZOqMN%2BBsyO0qQD0vabYQlDB7lpE6clDdIk2lMWS2zveL0YqQQLURGwdin5JGUnw7sh28dSKCz0%2BJwla6%2FU4CGl6tQEuKI2bBsXv51ThNr0YKu9%2F27%2B"
+          ]
+        },
+        {
+          "name": "二路_狂言Doggy",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=9a5e288ab7db3aea036bb8fa15279f92&id=kB2nfxcunEHsSTv7G6PQzdsqh7AHMAaJl57ZeKiO47PON46uZdguDiiCikr%2FV2e%2BXv60MTYolimjiYhY6ooeVCo1lZ2OfMayGZlZXfGEWLnAbgltN0%2F2Z0loy1clVUYHnkIoBwsTteBIeQsNvxxYym%2F2iZY8O67x%2Bnp5mm0Rds8cW1W1sQBDg0pEEc0iZH3FsIvoM8c30algJFQLTVhYbJLqzX1mo%2FHb0yLl4yq34vA%2Fo2ww8g13chE0N6wBuocj8fEMcD0zId0XGDHG3UYDoOU6AuRPBcHMO0xwnMgsiAdNtjDHFsNRz%2F%2BNLZ7kWxy7s344BanP1WB70iKHZzUlpw%3D%3D&name=XnJLJO3TPSY0CmMWPnEm91Gh4EdPDh8ce0pQJVWNprFs7uwJWUWkXGtoPJU%2BGOvOalxR1I7TH86Ys3EAKJtb0IGK0rc6KWs5YFZeFfMXctc%3D"
+          ]
+        },
+        {
+          "name": "英文原音",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=78d62675aa03ec569345da346fe4976a&id=daZm7Vft8USTSmItDmygDxR1p0aP80dUcn9dN82wzxdBkkstgiy4DrZclS6olL3xXusf%2Fh2CIGYtvwBMmkc96KSgvEaGGx21Ko%2BxOR6dGge51krH16JK6MYdoTBg4UoJNqZZwwlPyu8pKFW8%2B%2FJikxp5YMzeHYuo%2FBwaXO%2BLR8d0MNvZhrI0PbN48I8Nrn4YN27q2bjJTGiZknvypbrSUo61NWiSbGAnMJFX09d1SLHGNmakJvlkgQFuj29ahLItZt7kra5Hy2Tem6P28MdQxqvFd6Z9dm9HYVvDRQgNiB4IGE4mIDddUb2yeNGbs3XtiuRyKOVc6KokPVGi2TkbRQ%3D%3D&name=lENFZq%2BibhgbJfBnhDz8dBc5zLlD0DQyPW7sLZcBV5MfPcFlheit96SXSGB80wyBEcol7QsKXEU4jBxJKXMchuOghe3YVXT4HactgOwaZgI%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "26942157dd4c5f74",
+      "pID": "fc0987cb1f60336a",
+      "title": "NCAA篮球",
+      "keyword": "01月29日12:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NCAA篮球",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NCAA篮球",
+      "modifyTitle": "NCAA篮球 NCAA篮球",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日12:00"
+      },
+      "nodes": [
+        {
+          "name": "旧金山大学vs圣克拉拉大学 寇逸豪",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=c088970a8a80956f685819dcae145ff9&id=vTkECmEq2laAFl6%2B6mvagR%2Bn6V8BzkRgOaX7N8ZFO%2BBEU%2FdM74b5mvQ%2BCDDvCQIMybZdx%2FILetRWb5MdsesV97shRhjT7qiUUnWGd91Bfio3G7ka5egFRCaE0ebdvjxOgukXMphFmcaITJEc6ZPoIGc5yAkanRPkbLdjFxpZCGnOPrgbipqs93DmZlyIBjakOMVF2iOTChfzUUJ2GZcSMg%2F3HiSXWtarnTCeP4DVSBpOBEWPL95ceoTVror2GTO92GybtPb%2FPjevhK2fg0F6sCo9BMOXUdEs7u4%2BrpIf4jCegdBlRR5YyuGJY3Z9jUoj&name=%2FBfwCrYklm4w5Eg36WJVSuUn7QQi51dOZQJCiYeddY9FcuGHJIWFIoxBjZoWl558dQFytGIcX2fNagOIAkubW3gcFGm2Xm17iulnOAoaj45p3g1z4cfw%2B31v370owMvt3N2IkfnrmKTRXU9HF1OQEA%3D%3D"
+          ]
+        },
+        {
+          "name": "旧金山大学vs圣克拉拉大学 英文原音",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=0f346b827bc9e5773979dd993e812aaf&id=t0x3kaqHbwzW6stcXpx0hv48EiKKDSIkKPWa9MA4BhX%2B77vPmdEqk0KOH0IJax4nUfMzmvoxaCsYMbENKdVbq3h%2B15QdFZvPjYnUv9FiRS3Ny8uysnFZiXgNWS0CzWKEozeCVx66y2dv5c%2BOJPs299C2N6zD6b%2B2rg9Rc%2BpBWuSBoOwvy0tsXbq2eDTroeKxtCuPETwAmEb6v2JfdVILYyccR89JS2ByM5Wp%2B4A834VlUczz%2F%2BiFyI6O4dQb2EriLAZ9C1d4HXaT%2F%2Bt9JptW2f0flaMhMPiCceOAmIyG1bX7axWlFEk74cCMQM5aScqu&name=I427Ufo%2B8FkfxxDnVBKy3UR3kQgzmqgkHvVcC1AYamGmQFwXtK9zINsGNI84IPHFtRH3e6dutOtVtOxhrGZljK9ucBmyXp%2BSwgS56Jw5e4HWCT1kjhipRlih2z1J2AvzHR7d9JJ1Zi0JWdEWcjx9qw%3D%3D"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "4f925537ffba5d69",
+      "title": "有球必应",
+      "keyword": "01月29日12:30",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "篮球直播节目",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "有球必应",
+      "modifyTitle": "篮球直播节目 有球必应",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日12:30"
+      },
+      "nodes": [
+        {
+          "name": "有球必应",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=3da56bc28d052ab7ed7a662952e90983&id=qiXPGPdWyY9BTnkulRn1%2FmW7OCY6KET1divWhrqAtO1FEBUt%2BV11SWXpA2xE8h%2F%2FcRM2sm6Uzk5S01%2FWFjTvaPTObeOxAX5XdOIm397feTJYDVFu8Gxc1syRq%2Fi57r4kb2Ty1NgNWXter9hgzrfmbXuc7CoOWxHpChkff1cURkwzn8IX5oMZZo%2B%2BTaaDQ9cqfVZOj23LDA7ZeT6HcmPK1f5WwgvUuYHr0hG9mrxyi8nOlHN61WYIL8noIiTD0XrCItkVF8D0M2rw%2BzTS99UCv34J3qH5jiQ3GGr69qOkHrLwCgDMlZE4Li2Kp6KnDy3z&name=srykC0QMeXWTwbXEvKp7yDmEzT6HtDHbYz5luCxE7ustnNLp1fFmnNdIJ6CSCspg13NGnbRDlTzPr1BON6L2uw%3D%3D"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "89e3310f2ddb7ee9",
       "title": "KPL春季赛常规赛第一轮第三周",
-      "keyword": "01月28日14:00",
+      "keyword": "01月29日14:00",
       "sportItemId": "",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "KPL春季赛常规赛第一轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -452,24 +400,76 @@
       "modifyTitle": "KPL春季赛常规赛第一轮 KPL春季赛常规赛第一轮第三周",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日14:00"
+        "time": "01月29日14:00"
       },
       "nodes": [
         {
           "name": "KPL春季赛常规赛第一轮第三周",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=079d0cd0a148025bf188cdfce07b000d&id=gzmYfQjGzlqXZsFJqgIMB7DEHl1Z3Y%2B2gqGy9x49d2CqfnYkFvrhoOW4jGxWEokOZNcpxyeJxcatpMOSE00kDaNtblHTV2S2Tp5StKJxyaZAp500jCmxmIOt44D7Ei8beiYvjZPkCPm6r9Uv6iAEsCaUOkqESWXSEpPE3Ua7tW6fCcfCUpgMMD4WwII9jmqdDDRv3LKFULOyhOVVXpP0OARRQok7g926Okq6TKEynhRZ6VbJQt0SeZJHhgsq3keJomOF0WDS0LSHYKoCpr%2BzLcSbSFJntY%2BJhtB9687VKxXYVEFhcE%2B6CXonXGLOw0Dk&name=UDR%2BrPtzDyYClOqTYgfG6vL%2BpqdDDYHbQWQMg9T5g3APrMxpNv9Yt3VCF32qFLHPwL1mpH12sRWhE%2FDpvLfiFhrEYMeBxsRSw53J%2BCxpqQJn54ZcK0zcpeNIyQ45hPSmGXlnNwGqLu4LkzN%2Fthc5QA%3D%3D"
+            "https://mgev.188766.xyz/play?migutoken=0ffe5656ed9155237eec468db597ceda&id=%2FP4vvUWCyIVoK9scJalmjEwy%2Bf%2FFMoyRdPwO6%2BFDpmmAy5lb6sLq7cemESiK4SmLFs0g3DCHa2k%2FgoI412aK4tioBZ2SKCCPW7yg941Vx04BsAoQQLgzIfasyKhuh6aV4F92d7x0vQIqhkYwJmGyoik5fCCV4pT1AQ%2BD%2BA7DM1oNxilA%2Bx9S%2Bebyy5SnpX6lRFtW0va7ElhypdbgUD5jVG8GtMfoaUJotYup6efgOKtWQbmksuJtVzbgqfrQqMJRWGw98aDQElnBRbV58hJPFfR1XvfH7I32kcI4eiTcRqN08MP5JOhaPMhuC%2BH3BvvE&name=YT6q%2B6nOLMvfScVpNHNR8LHj0Q6z%2FOWcaTQ%2FWIrpMpLPvSmAT84GMLp9tJtdX9L3v3lyoxhjjRdHK%2B%2F9%2FpbOxhn847loBHoKt%2F9vz%2BLF0tljlEyVoJ7R%2BwVkD8gPIhAcwpZcGBk%2BZvzKcgpnLXHq2g%3D%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "963910ad824ff0cc",
+      "pID": "05e2370b099e0ee3",
+      "title": "NBA常规赛精彩回顾：湖人vs骑士",
+      "keyword": "01月29日14:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：湖人vs骑士",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：湖人vs骑士",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日14:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：湖人vs骑士",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=48c8bc1a2066982569d0ea7b27b76ff6&id=ptz%2FWc5wgqf3peNt0le6KJfO%2BOdnI3t6E%2FYf5HZT%2FNEblzvFH75r9NlOiL3CslrID6LPH%2BNpOQoeorB2YAREE9jxtJD%2FE2dFIBoW73DjJMulsCu%2BVyb3GdzLN7y%2FWoSropJQ%2FXHkD%2FOCYSHn0hIIenqiIhn4mys%2FwNu90spIKc0utyy%2FWRSgGJRzlGkE%2BGBCnxrQP1eHnJjpI3S7CuyCgjYXpJC73kRwGYMZi645yUE%2FSd5ZJYxqHzgR%2FJ43S9G5TeZYqXiyZ9MQBYaYgTKHkcjQE9cuHCu%2FKwPRGn%2BFN6PRpyVEUMU2Ku5eereuCNqa&name=9Sa8u%2BwLtUxQAk73imFcQjKtV8o3NjoK3ULlzf2xedzP5CoTUqXUmzfjPBHte3h4mRzAM0C2AHef0KV9ZoWYar9bY6X3yhVoJpR5W4ng%2BpknnZe9xnfDOugZiREOjze%2B"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "ea57a3e66be00b22",
+      "title": "NBA常规赛精彩回顾：湖人vs骑士",
+      "keyword": "01月29日16:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：湖人vs骑士",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：湖人vs骑士",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日16:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：湖人vs骑士",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=b8a929571b33d3d9ed34c566e25bec2a&id=rcnntm%2FHptUsDm4VE7ktrvZFwOFj1d82FjOeV2l8n7JWrwtaScvf1cH%2FNgKGsKcr%2BDCFnEDLNJvvd4xQLg6qkpb7aHlsA0yYlYzWfwwt%2BWlky%2Fu%2FTBo3tPUOD9vAOB7BVvyDFJBTQBiwp6kWgCANCa7dB4eJjrvoC3g2bf4zF9Zrc6GcURyc5bhXst6FJgimo76Y4zDvpKkdfiOE63hnv4PrfsU0QR6XNrdU3xoT3LBSdquD%2FsYOPdMLbSn8tMeV%2BWTowb8bGfzhw92Oww986G40jx%2Fz%2BU6KXsRS%2FKAyvmvWCw65UqPnWHaqzLUXaJF%2F&name=aJVocbj2Qry5YeIC8VLtOqEoAsmNDtCN0e213yXPatOuO4WUCIrmVxhWKKDuzKnfdAzp5PJBAiRVrfn3P%2BVbtas1dzrgdM2mswCsOI6dOj0zl%2FLrHP6A2CqHeTRsjR2Z"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "4a89aa3130ca9073",
       "title": "LPL第一赛段组内赛第三周",
-      "keyword": "01月28日15:00",
+      "keyword": "01月29日17:00",
       "sportItemId": "",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "LPL第一赛段组内赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -478,50 +478,24 @@
       "modifyTitle": "LPL第一赛段组内赛 LPL第一赛段组内赛第三周",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日15:00"
+        "time": "01月29日17:00"
       },
       "nodes": [
         {
           "name": "LPL第一赛段组内赛第三周",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=766975bb080721a586a499e7e5550ccc&id=avw8Z2l1XcxNnrD5B2W2fYlJHxQm%2Bwl%2BW3f8M25YoQHluKhEi0HsG7GkmvFN1ZZJwUD2e8EqY5%2FlM1AKa6piykuS2LV6rqgFAinbkb4n9OVyxOnGaTUkvHTUmH1bDfndcM71HNDC8jrF9fNTINlo2x1W%2B9I%2B8axcCcYMt25gosH1KYh0Rye6s1SVKM%2Fq9N2i0gy52DxjPba9w03ClFiH680DyBSJ9i%2BlTVXf2kZv%2BSvxuMpdl2%2Fgz%2FbiHlYHF3uJZYsxmKp5KtxA%2FFtuMTzvW6%2Bkjaoq1q8w8sAW6%2FWsIyZJAJq%2Ff1%2FrT6%2Fsnb0aQ6wf&name=cTSj6ain%2FErHkcZhIqWGJO9kq5xG%2BJVjzonmP4SOjpgzkCzuqZ3tCdt4r13eXsN4rpFtxDUVtg1Ialtf82ibYB7THbHhqhKC5DY4aE%2BiwWC835pQbHRdFzhXJ5oNBYJC"
+            "https://mgev.188766.xyz/play?migutoken=e8793ac31b9bb6f1cb3b98f42f7dfd3d&id=nVoUSXnzX0Rr7Fc37EUpYULkL5QkZmirtPriragXa3WUL69PF%2B1KSWbjZjN07jDJs2cxShM0%2Fe38ugbY374mneMgCkC%2B%2FYM6an4BYqfNSDPtcI%2B63Ck9bQ%2FLYxwxN019U2qR%2Fj3hqk2VmWXPRGheLO%2FvbWl2H4Q7aQP4CrwkjjPrEoWGQjKnmQwXwnAmWGS0bphZZApr6gw2gwzjh%2FL1P9uYm70GfEVtE4QoshPkG1Rh88Etyc%2FQ%2B5Ev%2F8SOuKQqcps3dFwfX340VTudD%2Bp8Fz8MFqy8hMNw%2FS0K38OUz81StpyFNi89JnjBG%2FLn163p&name=OF9ccNlr%2BpCn2ZsWFFApwgZ%2BivZab3a4XuESA%2FNFCUUAlyzv5SW3wckQ9YLdXeQVH0beT1QOD%2BZLZ%2BTQM1TAas%2Bf%2FbCFybtBxWjQxV%2BVaJSj3KnBmFuyxfG%2FjyHmij5X"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "bb63d5350cceec09",
-      "title": "日本室内足球队vs澳大利亚室内足球队",
-      "keyword": "01月28日15:55",
-      "sportItemId": "",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "亚五足",
-      "padImg": "http://catvod.hxfrock.ggff.net/爱奇艺体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "日本室内足球队vs澳大利亚室内足球队",
-      "modifyTitle": "亚五足 日本室内足球队vs澳大利亚室内足球队",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日15:55"
-      },
-      "nodes": [
-        {
-          "name": "日本室内足球队vs澳大利亚室内足球队",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=c3b1c89151cbbfc3df750ff36d9c959c&id=wX87Kk0R5dXPB6XKC%2Bi%2BnufIxfrAbnBKtjje0PWXvRRA4Hjfhaxs5nn8quV7CFPYZFL8jO5mZX1WQt18h6UWDaMekzFmbJVsVpRUuKtIAhCzLC4QGK3iM0FCQSHDwC38q1K4MaLae0aU2cHhJfVHxjG0cBukFZjYt%2FXbw2u4hchCHZWsYnHDuNlxu7GgaHbwSVgTGZzv1gNBpl1yR7sWTx6ob4Od1KCrF0cXSy8TWfsnYoSEkPmYtozxCOY3AXgl62y1K6ZuIciEaoRlyfvAbML0pRpzDB4yq1DXFQ2MCb0jwgjzUvHCGOo0quzQjZoPpqAoY%2BxbRKKPd%2BVQO3cPZH%2FdPFUHWRb3%2F5ATY8CnbhhO2%2BughBH2A8fWm5bPwQt1bipJ0%2FXWbD6ajaw44AX7gA%3D%3D&name=htO%2F%2FSgie0m%2B6gEAnGyKxu7bf8Fu4t0gpa1uJJtTcgDIFngk%2BOizIJ%2F1hTjHjxbCxJucwq%2FPc5OPeOAksNRdtGJl%2BGdYzpZHozfZ2cZrj%2B0DnD8rghDfYlH8m%2FuD3BlC"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "ef54b4d8579ec344",
+      "pID": "d46f76f9217cecee",
       "title": "无畏契约VCT",
-      "keyword": "01月28日17:00",
+      "keyword": "01月29日17:00",
       "sportItemId": "",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "无畏契约VCT CN启点赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
@@ -530,279 +504,325 @@
       "modifyTitle": "无畏契约VCT CN启点赛 无畏契约VCT",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日17:00"
+        "time": "01月29日17:00"
       },
       "nodes": [
         {
           "name": "CN启点赛突围组第一轮",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=02426a157348e589a6e822f8f63d2898&id=L%2Fj2SUnOsinxtWglUcEPkxfGIEANEEy0scCaRSiWt0ZJg9Y3P7d8ldHFWvm79yXo%2Fa%2B8q3FKxdcxiQkA2gamdr8%2FICHyXNVICRsX2BfmDHzUehccOAr28krnFaJkcyFo9cLCZj2Znm2q7o9rfkcgTQjsDugYqNQ1so8jeEpb9YEwRmo%2FjtLweKt5eGuYwaT%2FLQqOaidyjHvH5Q4u%2FUrJ6kBLW07Ke6ucnuvFqz6ZfYs7dPrZ9gRocfwZfkaFdOAYmpzSCwKZ8zEoHhSBl%2B%2FVIJ4kHWp6ViSuoim2SFDSKfkrJzv%2BoeoLwaWwOl7F6FTR&name=TlE06axHoqHNFLbolgcCnYFmN8pSCRMOogvtHs33aXcGxpqvwINH5EXZDBmyejlzixrLy3j4qqU%2FxqoTLvq2IlYUdm5pz6vaIw7466H8brvgyeslHO3gM3YXfm3U36c%2BDylr0seT%2FhylvYxuQ6hzyw%3D%3D"
+            "https://mgev.188766.xyz/play?migutoken=74ae2733e260fd5c38f79ff3e76cadc7&id=%2F%2F85ZvHKpdOr4twJZd5hhyhm5%2F%2FL1cSgJZLn2D70Wu1AOKhb81CT8gqD2DDjGE2qi9q%2BfYDY5JRf6WmLXTf5GTuGas%2B%2BL8Z6RpwPTfVYab6CST0dFm9UprJrtQJq9Nn59%2FmFroQW%2BuP5ceeCi6DuUll37pFHRol4qCrKGYYLn0uhH2DzgJbtPQ2rmFV%2FmWPQdQILxAY1hJaY7H%2BFXUd1BTHD6McTDV57vG9K9fAnLUqbPugIlB7vAB%2BD%2F4ST9Gef%2FM7AQ01PUcgS9KDkbU7T2VxHPkmr%2BvMwpTkHSyk4ZzZoo7gOfIL3yMghNjNtG05P&name=fg0JqhWC3EIKNIHS1op%2BX2raCQGpsrfaemSRUpLC%2BckXn1eSQFRlmulGuFBodfMtVpJfgmZRLF27LD1GTBdJgSCTpQ4JZN2gTJk10oQ56exBj2ezRKI5xvANwSOZCtsWZJaMhd0SXfNJxG%2BIdrcJqA%3D%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "cb641e56597177b2",
-      "title": "东亚超级联赛",
-      "keyword": "01月28日18:00",
-      "sportItemId": "7",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "东亚超级联赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "东亚超级联赛",
-      "modifyTitle": "东亚超级联赛 东亚超级联赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日18:00"
-      },
-      "nodes": [
-        {
-          "name": "首尔SK骑士vs富邦勇士",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=303042fe2d801754152110ca87f989af&id=Uielt9LbpoJUjqz6C%2FGmv5MQdyH59Tj4wufdFTMMFMHb8LslrLRH0%2B2Lsigk5CBFTJfI0I0BwNPlsGmSbJu0gH67e%2F0sQoYRKBakSo8ZdW8e7ohK860XG2ghLFZ%2FrdaibVfDAAC0wgaA4KtyQDxnrZRe8Fhg2V7HgNlQJbwQu6yuzfYna0TgU0veR635waJfqZfPHDmH9pBIcC9bRlJiNv15zXooI%2BiOyMXRlCdoL1vtjA4j%2BEy2sVKQIf8Du0QpiE7UNFlsSqL1iW8icxXVjx8IxMUZVwPm%2BfP57ghMwKrF%2BFOMO89UobwC78xBIICT&name=D1HY9RcxplT3K%2B%2BrFnlR0TwBNKENtQTAGFAb%2FKYikWejJ4%2BEhZGK0AP%2FplL4jRpkXk27NiTqM2Y%2FqsoZoJi4fA29J%2BSiOXT2NzpHhITqsYUfk8tPg7QBQIB1vn%2BYmmTRalw1KImxke%2ByU2Er2t%2BxZA%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "adb3bbc880da0827",
-      "title": "NBA常规赛精彩回顾：活塞vs掘金",
-      "keyword": "01月28日18:00",
+      "pID": "3292c87b3fc97b45",
+      "title": "NBA常规赛精彩回顾：勇士vs爵士",
+      "keyword": "01月29日18:00",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：活塞vs掘金",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：活塞vs掘金",
+      "pkInfoTitle": "NBA常规赛精彩回顾：勇士vs爵士",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：勇士vs爵士",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日18:00"
+        "time": "01月29日18:00"
       },
       "nodes": [
         {
-          "name": "NBA常规赛精彩回顾：活塞vs掘金",
+          "name": "NBA常规赛精彩回顾：勇士vs爵士",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=2a13f51c95388a726f2e09569072cd2e&id=ppWjDzHr9UVGFu1X70XIFkiT1HQqTHNPUPiBtwQkxtLGG%2BhyGUFudxiViszcGuymwyaPHQdKiIUN60lLBCTio35Sti4%2FVbNGdzDeu6Yqi%2BdtcvKYHhERv8kVs0LMpRhBxshK6g07CtVIOGk0UsLYooBEOZ2fmdyspfCvp0lEd7qaPaWr4G%2FLPF0CePK1lE%2BsZP%2FajCUlbeuAX2GjTbjsPRxEVeqTtskQbIb%2BsNUTt76X3RqYdV1I9eDTrYsOUynVHldbUPhEn%2ByFrQNnhTVdakZdBMUbR5dLI4ZqBcJ9feM3Akkw%2Fj%2Fg3xt2Bi1ZjCGz&name=%2BIESEExs4Jzu9jsP8AFUgt1EZ9W3AtjGDGh9ZLPYT8L6RSAooja76ffaoM6NG5pUoqW6nn3kFB1bzjsoQFf0QXzmFnZzSHC5caK1RlgQp5E8AOaBphHIYphiAWKxASDK"
+            "https://mgev.188766.xyz/play?migutoken=597f9b35eabce3a967a6ce3f6a03aadb&id=IeRzekM0wIIN%2FX2gAwRFS8c1derDy1eTAYLGsp%2BFJD8DrBacCDwC855o%2FCtKxFFtL%2BDQCvlb1PVHyTUq%2ByyZltOF0llXsdXWAYJv3ppnKN6VvxFRsBvpzTSJ5vQbIHLyPL7OZOPatDtOgictM9Nv9I3dH%2FPwBXdWiZzLZkxfcUO1QPYU0xE0UKR2hEVLMO6AVxkF81rW3F9HkHx5XpSnqxeDOf7KI3BnvC1RSzcVzr%2FZ4VmITmatwMvIgIqmJzG08bxXMvZP5%2FzgPqdrC96BAvXHVJFJ0zKcsYDcLrxKZSAoMxxtY%2BcOpT4xzMGA3whf&name=icQLjTu51uZ2AGfTPupkxTNQVy8obyu1sM%2FJ7xy%2BODmtn%2FnIMvBOqsNOz3xB%2BchqFJh2H4oDbaDQlv%2Bz%2FkN5o5yr4C6zm3DADkbez%2BhDUfaAZQXPRVRgP4EA8do4%2F%2FQh"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "5ce7f9b52f9d8cd1",
-      "title": "安溪铁观音vs山东日照钢铁",
-      "keyword": "01月28日19:00",
-      "sportItemId": "4",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "女排超联赛A级双循环赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "安溪铁观音vs山东日照钢铁",
-      "modifyTitle": "女排超联赛A级双循环赛 安溪铁观音vs山东日照钢铁",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日19:00"
-      },
-      "nodes": [
-        {
-          "name": "安溪铁观音vs山东日照钢铁",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=f345b28c3308d476fc85791d4db3ac69&id=kKLvqT%2B59f2U%2BzD3KppxBUFF2OZfiPqdownBgTDywoRaVJ8KcbZivauJCrIuQ4IoIov3OyUMyD4EjcKSGFzqtZFtPqy%2BjNhKnKNDdbwIjvRl%2BRG3SnEAu3EjuEhbAoRGB8pNWTzE5vtwm4I9jT70u1caTM0w2jpYkuEkSvMJotUSLz65PHDluANwvQz5YuciEeQ1rVBp1yqWoa4CFR0uh5TzWv%2Bza5fzxlNHLNG2iDvNNOIypLCExf3RsR4n7a%2BCSmYoxVcqHFBJ2IEcQ42g8iL5JXdzrdWa%2BQfuqgl3HzPkghMXNBCgOouTxmITL1g%2B&name=h41oSojCQyVyoQdnLbllZtQrbLD3rbEa4wdQaDSNO9%2B%2BZAx0RthroXRJIKaIsmWgss%2BFCtTgxS8jkCCZdZb7ndTC7qtN3h9FvD%2BTmc9ggoLYyHGXLsfK8mBC9rrgO4CU4tcqRrE62oWNarYTwF8%2Bww%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "5cbc0f875542c649",
-      "title": "江苏中天钢铁vs北京北冰洋",
-      "keyword": "01月28日19:00",
-      "sportItemId": "4",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "女排超联赛A级双循环赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "江苏中天钢铁vs北京北冰洋",
-      "modifyTitle": "女排超联赛A级双循环赛 江苏中天钢铁vs北京北冰洋",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日19:00"
-      },
-      "nodes": [
-        {
-          "name": "江苏中天钢铁vs北京北冰洋",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=d1e2afb31dae8dfb60b0fb0c2b680661&id=Pray9XhLubqfB8qyvD7JfBqAyMWIgkw98RvmVXCrtmXbE1FKfddyhfaxDMeDV09LnCgKJnLCC4%2FDNjGqqqwSQu3dlfNLBl7LD0KXEfz8XPivA1qlhgFIzBEOLz%2Fzdtc%2FEq1Ev6JYO0idDS2mp1S4LPwIIKWvTytPBwLJadDJEyDGkcIWaKLaSlZHhTDwdfYqgnvgUi9RnKYR6jlFjk%2Ftb5C8HIKfAOVSQ7pmql3lop0Pq13vGP9N9oHwjtZUtVhEIdsde3obj6PUS8UGoyJiUwNp8b1xM%2Fcqtp5H6mNvAjZ3C%2F9W359HqAIDuS%2FGcoRn&name=z19iNNainYh4W7ZFwQtRK5dO5rvONJBHheOhJh3m5D6LUZ6EeFXmUZH4G7LRnX2v%2Fm4C5X4DStJF0mFUHAozQhNXXzTIhP1DwriVLzrVY51FhmOjCKBLWYsAy09HAeJ%2Bp0t%2BLU813KeIN%2FT%2F5Q%2Fgug%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "d72713b64da87475",
-      "title": "云南vs江西",
-      "keyword": "01月28日19:00",
-      "sportItemId": "4",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "女排超联赛B级双循环赛",
-      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "云南vs江西",
-      "modifyTitle": "女排超联赛B级双循环赛 云南vs江西",
-      "presenters": "",
-      "matchInfo": {
-        "time": "01月28日19:00"
-      },
-      "nodes": [
-        {
-          "name": "云南vs江西",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=dbf220249d3093df51114c03bb9ec577&id=jGrNUlzjY3zSazyOa7AR28o5ZqMGCUW40oWZ6W75TVe7YAkpbTdpPuVimw1eTqL3Q2WqmwdpvjIxyQbXmxniRBwcxVx5YGYJj20eEzVBetiJN52Q0Kqf5GFe67lB4kmLDbTsuGS9F%2B2S%2F%2B59nEBnO2erErn3wR06OuR4gZEqpay4hsXZEw5MstVWzVADqljqIsHYjXx7Qw4TIQ6AwvMFFFd5UiqzIvHjdCSPLK0lUni2cvU42ol46Dj5scNf3zmOgEaq5kI4wU88RcSOe1pZ4d5Dk2X%2Fs1XynrZUuclp3RcHW8bd9AzZD159nrbCuFRf&name=wV4n%2BuZgZOdMsVIGkmznG61LJZTsU2n6GVqkDKkW4PMHaUSrCL%2B0SewCERj2UQCNwrIYNMUbK%2FaRJdekiK0UA%2BbaNMyeR%2B1FuJETnuLlwIE%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "551b43bca6f63153",
-      "title": "长沙勇胜vs焦作文旅",
-      "keyword": "01月28日20:00",
+      "pID": "ec8303deeb4a521c",
+      "title": "2026中国棒球城市联赛立春联赛外卡赛",
+      "keyword": "01月29日18:30",
       "sportItemId": "",
-      "matchStatus": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "棒球",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "2026中国棒球城市联赛立春联赛外卡赛",
+      "modifyTitle": "棒球 2026中国棒球城市联赛立春联赛外卡赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日18:30"
+      },
+      "nodes": [
+        {
+          "name": "2026中国棒球城市联赛立春联赛外卡赛",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=8525c2f84806c46937b04cea00f41cc6&id=CFLqPIstN4KGCuepG3izcB7RGx1ddz13hmY4U374jKnWlcIySrx1w5P8Dypj0w9S%2BvHgPYHeN70FuJBTDkYiv1JTo4y3kzHJdaPa9oby3d4bqAWAG5IIv20harcFXBiDEKn0UozUc1VrUV%2FJUyZFk%2FUr1OXw7594vNWDt4gRDnHPKo3TdASCfGnU%2FDI8F%2FsnO2WSnu2%2FXSztCFr7pOS1b7iVkLZSSWuy73F3%2BJL8klWMCBu%2FplyHxbWj153Y7NHKrjpFErWh%2B4LHjE1K6MQOEcWjcUgCzgIJqmBXPkPaqGraA%2FkOdPNkCSPrtY49d4yp&name=5isOGxbvqLej5TMN%2FJ9B2BTQutjgu0a16PHcUVmbBPujNs2CwcXFtJSAdWbmf%2FFGkv6RYNcyhAvU%2FAXInw5hiN4mL%2BxYSNduRZTxOmrxmLOjkMLzxIIS7VXH%2BQO9lANr"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "dc50a0ae30d27d89",
+      "title": "北京北汽vs上海光明",
+      "keyword": "01月29日19:00",
+      "sportItemId": "4",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男排超联赛A级双循环赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "北京北汽vs上海光明",
+      "modifyTitle": "男排超联赛A级双循环赛 北京北汽vs上海光明",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日19:00"
+      },
+      "nodes": [
+        {
+          "name": "北京北汽vs上海光明",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=3337e03932e4fa64c0a33ff336e2ab1f&id=K3AIflP5iPhdF8kN8OuOtYZk%2Fby%2Ftoec3YD4%2BwTOehc81v9rpobXrz2SZOxlVso3NDlxPpgWhf9ELu3Sn2Maxs9aLt2c%2BQKg5k0jxo3Ryr6UfWbO6mDTVsgkD3WYbOTGniDiDpq%2BRlPAwQKvlPo7pVUCWFps2Lw8y3nKSrkacQodHgS8Js6kbqbUk7jzK1Lo%2Fh5bKBPCyXh253o0K3k85JtOHRr9hgVQbQZzsVetthUZZLVy7A8bdVzBgvGtiosMAEEc4yK3S9z6a1MN9%2Bsl1jSa4mf0axPu%2FyRNwf6xy8dgIYIwklzAO6NaajfeM7z2&name=V31jAfZFczF5mgm60SDEZnVFQNzYtb%2Bzr39vThZzxBiS2TmSe2g00Kd7fa%2B3bUfnGJblw3WB73AzLzj7jXoPmOW6%2B%2BH2sGEao1wd3dliqXD4NUrBGjC6fzaqG2AdGpBZ"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "20e73d373eafff11",
+      "title": "广东台山和力vs辽宁凤城",
+      "keyword": "01月29日19:00",
+      "sportItemId": "4",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男排超联赛A级双循环赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "广东台山和力vs辽宁凤城",
+      "modifyTitle": "男排超联赛A级双循环赛 广东台山和力vs辽宁凤城",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日19:00"
+      },
+      "nodes": [
+        {
+          "name": "广东台山和力vs辽宁凤城",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=b92f426178c905134be72e1e05fba133&id=IBJm6bZNFmG%2FqqFQ6q90rl2mQG%2BXuycVtfhEtpE2oZpcfy2Jll7rN0Pj0NJVlnmskZGg1ZWXt30hf7fg0E0g%2FLp6tcyXJpNZK9kALBTyohkZ%2FMsj%2B%2BLP8RnHmmKlSs3nNaYgIcRosfJ8Zp9jTzpTbGfptwUFGiyboZGp1yxc2s1OH7SvLyWl%2F%2B6rAvX9TS11LX%2FT9Ib0RX5lAm2Q%2FR4O4gEpjSYwHdVZLBjsAlEUX6ul%2BgAeg7h5ba5oiUIIh1xxUuSagjNb76opCLL2ZtRiFRTyWZHNLF6k4bGHtbedj%2F%2Fon09WJ5iFJ%2BiALYtgVtQv&name=X%2FLcq%2FREZLG582YRaQ2t4OPvBqbiSFJLtXm7IRA%2BZdtn8LbP7rRfYicSa1XN8sJ4FqBQdtkbd40oTPR0nsP%2FJ%2FaZsVxiohq%2FWhmoeYGUGOMpM3gFJ%2FZ4dYSqMerNhcES"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "07e9dda129fa92a3",
+      "title": "黄石东楚vs云南滇池学院",
+      "keyword": "01月29日19:00",
+      "sportItemId": "4",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男排超联赛B级双循环赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "黄石东楚vs云南滇池学院",
+      "modifyTitle": "男排超联赛B级双循环赛 黄石东楚vs云南滇池学院",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日19:00"
+      },
+      "nodes": [
+        {
+          "name": "黄石东楚vs云南滇池学院",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=51597a7693e1aeaf0c5f5f7201497889&id=oaNdxkH7F599QCyjVRrGJlgnFP3zg5IFU7UwrbI86ig303rg3sjQeZSlOJ34oNbcHNqecHwq2iSOvjyPNGyll%2B%2F3Dnr9KgqRxlWlIEFysGAXuLLHwrpJHuIIbpcTwvooRtYE%2FsqX7h5C6hm5oycf%2B7b4HSXmBT8%2BkALL6tolA1EvSM34J8g0%2F19XTPBytSi9RbHuBjqPzGpq8TGIM2IHHj6mstvpxPFGB6nK34PEWzgQInhNc%2FaPsLzlpI7yah4Nn3%2B493a615e%2BPmdy%2BKNdzaIACVnalcj0DArlWumjte6zWEK%2FHGR4KXE7RJuBKuzq&name=I3w9cnoT%2BeX7hzNkx9noqT5dmRAcfgpmH9JccNvKgh5nxogmwyJpR%2B3cOCwwZjIAark5uszmdkS7yV6dg8vwFZ5Imb7YkHrN%2BMa%2BFynlsf50XqLIMCOOk5pm4t8EjsXF"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "9931f33e654900da",
+      "title": "江苏男排vs河南清园",
+      "keyword": "01月29日19:00",
+      "sportItemId": "4",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "男排超联赛B级双循环赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "江苏男排vs河南清园",
+      "modifyTitle": "男排超联赛B级双循环赛 江苏男排vs河南清园",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日19:00"
+      },
+      "nodes": [
+        {
+          "name": "江苏男排vs河南清园",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=6cab50d00268b202bde656bf32567030&id=drBJco2BieLT41KXTL96gJil%2FbkjBtgUnInp6A4aK%2FcfMi3%2FgPWGfSWJmNsCBrRboVW6jgooL9d3f5FXWx0pkiS4gFtRdAQMxDB07Dr9q0I5ZvnxFB5MnKYS%2FImZ4WY%2FKwvLybgYhe2y3F3%2B8fdYjKvVWMx3yIzsUbNofn2QHVbeYqS%2FwyuMKKFSQQnaXrj1BwK8BtIFOVwblkRNYnNUILj2NDOhMvIFg0I8nJL8m5W4L5b7HtHNJkEFhX05Ah1UB494Ao%2Fx9UCdUdyycBXmR8jMDF04oNDJaEHWu6Lt%2FiFAWQVr%2BF1hRNeWVVpS%2Fdtp&name=7D430dOh98JisTvaaoDZXgN2WHUgSKRJ%2BbcjzA5T%2FVsMTPIgyUnIUCAndndVOTDkE0P%2FlgB%2FSE8gGLmOImOJdvabwBh%2B%2B95ofR5CZNlooPVX5Wb6c1ezdRKkxb8y3vsu"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "a70a04524a81b80a",
+      "title": "山东蜜獾vs安徽皖江龙",
+      "keyword": "01月29日19:00",
+      "sportItemId": "",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBL常规赛第15轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "长沙勇胜vs焦作文旅",
-      "modifyTitle": "NBL常规赛第15轮 长沙勇胜vs焦作文旅",
+      "pkInfoTitle": "山东蜜獾vs安徽皖江龙",
+      "modifyTitle": "NBL常规赛第15轮 山东蜜獾vs安徽皖江龙",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日20:00"
+        "time": "01月29日19:00"
       },
       "nodes": [
         {
-          "name": "长沙勇胜vs焦作文旅",
+          "name": "山东蜜獾vs安徽皖江龙",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=0a5c2d22b2eca240ff716b7b5c14dd6a&id=urUsIUGKsuM7rnIAP4sUFVAq29nPR82NZwyo2gRYW46vKzbmTlI8ZwkFffAsADKoqsliCqOGfyrSHpoUzd6wzZSNRJS%2FIN2kaV1ulPMV%2BxZcThoNTSzt4g0VGI6QgqyLLnl0GRDpt1yESPsXq7zk02vTCit3D%2BgiE86OQKI5j94FAnwDjVxh2d8o0H4LR4JRcoMoy0LPyPfXk0YgDir5a756%2BXNoBpgao%2B93HLAa95vOV8GlRZ8MoFET00pmKHVcIPHICw%2F3WsMy%2BU9dv94zkN1woJlfHHhq54%2F904e33kNHLpoRJ7DDn6%2BPsdvzvhiu&name=h%2FIYs0kdDjBGG8jYt9fbioeItTIPFeVRiiHK1CGR%2F77MoU6FgOwB3GeMhs7g3RugOO%2B%2FFJAWl%2B1Sh%2FtaSlPpbTOd47VrplktkYe%2FCZk2KJE%3D"
+            "https://mgev.188766.xyz/play?migutoken=6a63c0b397c72413623d31ffa014f8dc&id=YWFKswDchOPZoCVRdK5KQQjzKsKBtpjO%2BiUw%2BS3ZeQB6T904AoYtNi%2FH0F7wjnX9a025%2F43FcdPAKY%2FGx7CmzsWddqmrnyq9J5IwM1QaA6OXkFLirGbEXMLQTZvKNR3AzgZzUma1%2BshoQiGZNpYNqrbuUYsbZ9tnapkyCNfDdjxJddaq4%2FKsZIkcqheS7fIYmfIto%2BUPFo8juoVUMhM6UN3Xdxtr5mlbKCLlZa2XUlKxiZi3vaiUr%2FIWtb27fdgtJOwf4sKkmALHSpfK0IojlIE2YZeddxg6sQEob1Q6yUp%2BYKM1OLNqzoXftd%2BofQmv&name=Jlv%2BulsUz%2FLo6YSI7R30j%2FzHO8uJz%2FDX0t%2F%2F0Sldbf9IqyeCa9jGNqlj21HvLGpWdrSVJF2nHvyeGq%2Bpjq5C0CdosEqatVJzZqaLDtLJGSVbTOqUuS%2FznDs6lT7b0LW6"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "146e40717abafa99",
-      "title": "NBA常规赛精彩回顾：活塞vs掘金",
-      "keyword": "01月28日20:00",
+      "pID": "c7b2a6e5156f2eac",
+      "title": "有球必应精彩回顾",
+      "keyword": "01月29日19:00",
       "sportItemId": "2",
-      "matchStatus": "2",
+      "matchStatus": "0",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "NBA常规赛精彩回顾：活塞vs掘金",
-      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：活塞vs掘金",
+      "pkInfoTitle": "有球必应精彩回顾",
+      "modifyTitle": "NBA经典赛 有球必应精彩回顾",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日20:00"
+        "time": "01月29日19:00"
       },
       "nodes": [
         {
-          "name": "NBA常规赛精彩回顾：活塞vs掘金",
+          "name": "有球必应精彩回顾",
           "urls": [
-            "https://mgev.188766.xyz/play?migutoken=16dcf2fa5f9f4caac5f2b22587841699&id=NQIk8ZKmqNkq7uVJo%2Fl2ibKShrf1PpZBUxrSoy6Z%2FlxNjpjC4jZcmPN40m9dQ5ZbT%2BJb9Zrli9phNUsE5TBgYwZ12lHyX3dyzdU5Kf5Y%2F70xho4ZdGwVVQCSCGfS67G%2Fs%2Bl1D1H11JWjOVQvWqgJBwkqQ5khPxq3p%2Fx7BsAiv6dKyCPfKzJFeN5BiIcFsJpR69x%2F4%2BNnv%2B0e%2BPh3%2ByI6B8KbMC%2FBVHbSH28w5cWG9KbgRlJRH1GCYo%2FhbabaBoDf8gpgrHPNkXS%2FaA72O%2BW09lhFMeP1KPl7ggQYszUwiwujLjY7NvgZu4DtMrEQwIhl&name=YEMocrotZRg8eVcNK5UjwPtlUAo5EqJWpECfDI9uWQvOloA1URMpnZHXYvWuTOMKU4gfX%2F1ILL6pgkRYQAWQb68e%2F4GXEzArX5ec%2FLo2M0fsBmj6T3GEjKY2yMofOK%2BC"
+            "https://mgev.188766.xyz/play?migutoken=a61674e7a69c538da90aaeca720d056e&id=JvLNcA340AECkJx6q7%2Fn%2BiHvYDdcgOnEufmx5WZ8KGYc2xM9ptgNzUU8jyiDSXnKb%2FLKpbCwIwZ53uZWc8Q5RWWwgQabFIpyjdp4kXoj3kZ6czBC7GjeBDAZjIFf6B46KO2ToTuVEFM8gdmb4hI81Bna9FPQz2snht85sItuJOP%2B%2B5wuY6A%2BPIWhu6%2B%2FKfnRjKbs5R%2BFux5ywsewG2SrZ0Hh6x9Us0Hku2BBmqrz1nT74GkpNyf5Ay%2BiAwPIK9ZG3VYxwWdiLXmRXTnilYYoYC7JaenUsU36P2rP424YNjhgSkKxoWOua76OYYcfn%2FyT&name=eFqNzZaUFigORerEj7%2BoKJtQiZ1URdum8x0XtDQ%2FqWDRLKW6tVmYRI4WxA3FMoSspnNTeMrUrlYRIElZF6PN4sEU%2BRFl%2BBjyzIjrreSdhUE%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "7600252740648228000",
-      "title": "CBA:天津vs北京等2场比赛同播 93 - 78",
-      "keyword": "01月28日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
+      "pID": "bef8ec3408b6e731",
+      "title": "保定沃隶vs浙江振德",
+      "keyword": "01月29日20:00",
+      "sportItemId": "4",
+      "matchStatus": "0",
       "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/7ec7f8b865cf4ad8a9dd601eb0f14d85~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1772206227&x-signature=tr7%2BqV00%2FE2c%2Bv93sfelIj69dfU%3D",
+      "competitionName": "男排超联赛A级双循环赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "天津先行者 vs 北京北汽",
-      "modifyTitle": "",
+      "pkInfoTitle": "保定沃隶vs浙江振德",
+      "modifyTitle": "男排超联赛A级双循环赛 保定沃隶vs浙江振德",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日19:35"
+        "time": "01月29日20:00"
       },
       "nodes": [
         {
-          "name": "CBA:天津vs北京等2场比赛同播 93 - 78",
+          "name": "保定沃隶vs浙江振德",
           "urls": [
-            "https://v6-show.douyinvod.com/9c1a6092b41bff5d081d40fd91ab6467/697b9c5c/dash/hls-v0dd09g10000d5t0t6vog65tdfiav6k0/tos-cn-v-5c21e9/os1SvW6SAGA6ALAMAEFoeDaDbfemvpgEBhCB6E.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=MzlkaXc5cjkzODMzNDxnM0BpMzlkaXc5cjkzODMzNDxnM0Boc2ZhMmRzcXFhLS1kLWFzYSNoc2ZhMmRzcXFhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1769614168&l=20260128232927EA8884692EB0598C8F99"
-          ]
-        },
-        {
-          "name": "原声:天津vs北京 93 - 78",
-          "urls": [
-            "https://v6-show.douyinvod.com/8ddb08bf2c4d724717a43cdbdbf2e74e/697b9c3d/video/tos/cn/tos-cn-v-5c21e9/oEAiL7JDwiEF5076RaB0IQvOuJwXgotp0ikIh/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=3718&bt=3718&cs=0&ds=4&ft=9eUQ9bBOBBkq8Zmo~UwOU_vjVQWw&mime_type=video_mp4&qs=0&rc=NTc1NDQ8ZzY2Z2g2N2Q6O0Bpajc5d2o5cmszODMzNDxnM0AuMjEvYTFeNjQxXjMvMzVgYSNxbzFxMmRrcHFhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1769614207&l=2026012823300714C13AFD3CED1D1ED5F3"
+            "https://mgev.188766.xyz/play?migutoken=9ca23576e07b03f3dae40d506796215c&id=oO6hm6ES0xjHZktPQM6fGjGP1GqM5Bzn0RH3cYEAhWWOYBNTdAHnYMjgjpl18%2BQvwEi%2FzU9eU4p%2BcQNJ8XomcxKYBwlueVCbnWYdeLDUsmbwKuD8dyNXffPkXcigZ9opYKMs%2BPdxCUjTIpg4Yvy4VIQfkad8DpllJsHtXjcWNi2Jf8i4NeRDZNFA%2FPHSkZf9m78OPqPAe32XClSpePUaeRpWlbfVHBGnR6ZpK9IrTFksHaxp7Tt9M%2BglWnigNoJx9vhJoRTHI1XuTxTxI8Fxaj52rCD2wizoBGb0Njna%2BnX4X928fgNk27Hglt3ngnN7&name=eCrOk57u5tWt5GpHw2joAnBfDzmAQqCQGjXmklDpdRpY4wVTQ8c7TJATlA3rdS3zmwfzKe8cKS%2FU7TV3vi2pBl%2F%2BkEMIvz9bx5Bdjqh7NsZhXjnPODNLarp%2F8qKHCePz"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "7600286259387454000",
-      "title": "原声:广东vs吉林 93 - 78",
-      "keyword": "01月28日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
+      "pID": "a8495b9891d71019",
+      "title": "青岛兴轮呦呦vs天津食品集团",
+      "keyword": "01月29日20:00",
+      "sportItemId": "4",
+      "matchStatus": "0",
       "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/4a320f8ef7c047698af2d3653b81ee37~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1772206227&x-signature=n6w7bgm4FMDIJpmXBSzzN%2FWC0vY%3D",
+      "competitionName": "男排超联赛A级双循环赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "天津先行者 vs 北京北汽",
-      "modifyTitle": "",
+      "pkInfoTitle": "青岛兴轮呦呦vs天津食品集团",
+      "modifyTitle": "男排超联赛A级双循环赛 青岛兴轮呦呦vs天津食品集团",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日19:35"
+        "time": "01月29日20:00"
       },
       "nodes": [
         {
-          "name": " 原声:广东vs吉林 93 - 78",
+          "name": "青岛兴轮呦呦vs天津食品集团",
           "urls": [
-            "https://v6-show.douyinvod.com/7da92524aa4f9d26ff25b3c33ee9ed43/697b9c29/video/tos/cn/tos-cn-v-5c21e9/oofC0e2GBACEJ7AUjQDJESJ9eQI44RLGgFGhr6/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=4285&bt=4285&cs=0&ds=4&ft=9eUQ9bBOBBkq8Zmo~UwOU_vjVQWw&mime_type=video_mp4&qs=0&rc=NzQ2PGZkaTZpO2k4OjY5NEBpajc4Oms5cmczODMzNDxnM0BgNjQuYjM2XzExNS4yNTZeYSNlbzVpMmRrcHFhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1769614207&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026012823300714C13AFD3CED1D1ED5F3"
+            "https://mgev.188766.xyz/play?migutoken=752fa55ed3efd2fb14d5004e2ebb90db&id=am0vJ759AAGieiE%2F15%2FHTg%2F8UOwLnq7rrh6Vjoio50veY6ViTthxRGmiTXFskbDN9Ok6FUTgNBZN2RVCFx5%2FFG7TXRm7DlXP68U6p8THlMM8y1jJTUATZKg2jUJcpAmCevNVzDR0BD2P1PouJTqe3KOczo0WrJdtge%2F%2FfWXtwetc%2BuJ3OMrDLBp0weyldLrzFER29yMVcOqFXJxnkX34w0G%2BQMhROaiFya8fb8jUdtIDBz0nLLxNmBPVsZvnQNibV3OSQkLeauG1fkYsVht0D%2BJIncJn0dPt4p%2BhWp53bIlD0wtq7dgkelJmx8L40OCA&name=YlJuRGzB9U%2BrMe0aOvT%2BeKLNQIjh27sb82XTBo0CZX%2FaKD3%2FZtugXgEI16eB4TCeg7FjkYyYjrDVy5UvkG%2FW1qNduaCUiaasLkvm29O402AWi51h99Hqef5%2Fe8AOXzMCuuVPiHx9q4xGAa%2B4qp45fg%3D%3D"
           ]
         }
       ]
     },
     {
       "mgdbId": "",
-      "pID": "7600257440899257000",
-      "title": "广东vs吉林 89 - 81",
-      "keyword": "01月28日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
+      "pID": "c8d93a6a0896e489",
+      "title": "四川男排vs福建福清",
+      "keyword": "01月29日20:00",
+      "sportItemId": "4",
+      "matchStatus": "0",
       "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/addae618653e4956bbdde94417e36fca~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1772206227&x-signature=OGQObs6owqyjEHNddoLW86I%2F97Y%3D",
+      "competitionName": "男排超联赛A级双循环赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "广东东阳光 vs 长白山恩都里",
-      "modifyTitle": "",
+      "pkInfoTitle": "四川男排vs福建福清",
+      "modifyTitle": "男排超联赛A级双循环赛 四川男排vs福建福清",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日19:35"
+        "time": "01月29日20:00"
       },
       "nodes": [
         {
-          "name": "广东vs吉林 89 - 81",
+          "name": "四川男排vs福建福清",
           "urls": [
-            "https://v9-show.douyinvod.com/a2c195b1dce7481d262afe1b9d168c3c/697b9c58/video/tos/cn/tos-cn-v-5c21e9/okZIJWIgJia0B3iXO50WEEOoIQPKT4PWNA6tX/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=4329&bt=4329&cs=0&ds=4&ft=9eUQ9bBOBBkq8Zmo.UwOU_vjVQWw&mime_type=video_mp4&qs=0&rc=aDo5NGU0ZWRnPGRlaDRpNkBpanFzOG45cmkzODMzNDxnM0A2XjY0LjQvXl4xMDFfXjI1YSNwY2ZwMmQ0cHFhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1769614174&l=20260128232934FB1E0D32C457F4EB15DC"
+            "https://mgev.188766.xyz/play?migutoken=4577106ff4556f6f8f605ffd043f40fc&id=ozfYHXnj6N%2Fax0as705mZ8oDTgd97Qq5Qfnjv3TDKIbUg%2B0jDu2cPOefK6dSQzi73Mv%2BqfkKENEh2sP9Uzds%2FK5lMZ7BuMydD0LYD8O2WLlpj8aiZ6iG0bbQNznhVe9RKwXl6P4UL0WpfPBk6w19kq3JttqS6wJGLEcaoVqc%2BUTE15JC9UZLhpHfbZZ81qdJByAr2OD8rabW489WOBFaLdcqWT7EGCCMApeZ524J%2B4iq%2BEWUlNmW031YJP0CmLhBKuvP%2BeW0MdmfLXcWu5bHnUrkH1zd2zdCdLbjr9Up3h7qsxdZm2HT0kBEihGsUrTb&name=VgvsccUDxRlWEt691FXE4iIbUVlfx17YvpCGlvOywBsQDLqV%2FBqH4gJMd%2BXnDpeYwyDqUBtZzYDeSRwf%2FkMvuO0oeWaQ0cOe%2FqqAshokvN%2F%2FYJCSRsnqcRFgdpwQwPM%2F"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "4801b877d9f4e8bd",
+      "title": "NBA常规赛精彩回顾：勇士vs爵士",
+      "keyword": "01月29日20:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：勇士vs爵士",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：勇士vs爵士",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日20:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：勇士vs爵士",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=f3f92cb219e1f832b006244b2c091e6f&id=N4XP%2FGGtfZMGFLo9%2FFyAN7RjjaQtdrqga0%2Bsd9ihZv%2FL0n9MQDLXiImRTJKV8iNEI3v0qSETi8CBBnfty%2FGcnp30bTRy6g2zHvdL9TF%2Bi2sFPlzZVCaKNWpkiC7X1o1HWfR7eSWFmHZGVM8HYuk3aKR9t7i8nzV8dh0ZlZRnzBowuqJy9cMMFEPoyV9pyu6QvPzRdFEP7o7GBgGRZ21a6xirHEMZOhpUD8LnWYLIvV7EKlpDCnoK7jaDUYS7%2BkyypmO%2FtiiwH2VVp4zZd5blxaAoLsTlLTXIByqTkddAO%2Bf8yXldz4F3F7UZjSsYAmPD&name=Xy6HiMQRg%2Boks12PbJfyiza70tnQni0z27zS8SefwTXEQdm8VQ2mT2ApE7kEn%2BrNq6YssuJSPyKO6qF%2BQln57Ve4qI4Dn7wCK9ukEj%2BN9uZwVEngjed%2FTNv0T32J9Ml0"
           ]
         }
       ]
@@ -811,7 +831,7 @@
       "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "01月28日19:30",
+      "keyword": "01月29日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -822,20 +842,20 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "01月28日19:30"
+        "time": "01月29日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6983661a&major_anchor_level=common&sign=857e5375ac7a2096b74647508afb555b&t_id=037-20260128233034064D1141BFEF0EE4AF9B-uDnusf&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770220828&major_anchor_level=common&sign=9107c1d8a63639837a9f2c72df84339b&t_id=037-20260129000028D28741B3463AF01D7EAC-J7Y5MU&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-28T15:30:34.302Z",
-  "shanghaiTime": "2026-01-28T23:30:34.302Z",
+  "timestamp": "2026-01-28T16:00:28.941Z",
+  "shanghaiTime": "2026-01-29T00:00:28.941Z",
   "count": 30,
   "mode": "today",
   "source": "real + cba_live"
