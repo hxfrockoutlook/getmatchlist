@@ -331,8 +331,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "26942157dd4c5f74",
-      "title": "KPL春季赛常规赛第一轮第三周",
+      "pID": "10bbbb669e7e0cae",
+      "title": "KPL春季赛常规��第一轮第三周",
       "keyword": "01月28日14:00",
       "sportItemId": "",
       "matchStatus": "2",
@@ -340,15 +340,15 @@
       "competitionName": "KPL春季赛常规赛第一轮",
       "padImg": "http://catvod.hxfrock.ggff.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "KPL春季赛常规赛第一轮第三周",
-      "modifyTitle": "KPL春季赛常规赛第一轮 KPL春季赛常规赛第一轮第三周",
+      "pkInfoTitle": "KPL春季赛常规��第一轮第三周",
+      "modifyTitle": "KPL春季赛常规赛第一轮 KPL春季赛常规��第一轮第三周",
       "presenters": "",
       "matchInfo": {
         "time": "01月28日14:00"
       },
       "nodes": [
         {
-          "name": "KPL春季赛常规赛第一轮第三周",
+          "name": "KPL春季赛常规��第一轮第三周",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=079d0cd0a148025bf188cdfce07b000d&id=s79etgzs%2F6xKP7rCN3BKEtAMypbAO3gyfgUb9wx7qPRh5i4IxsLAuBXE92Mj6%2F7rmx07BBCJsqWJhKkLhI9LJMmwspCVL5UrgEBHK5iuBh77kloSVxZbXVpaCM8KE2VpltVa%2BIcsgeuC34VHEfjQFPpjoQ3mMN%2BcusvuxBE9ErK4E8pTYpKWYGWMdl8%2BsxKxmYRHyGzoeUyxdY8PrbWWHC8QeRFGEJRctOtG40VS5o82WPxcCXTLg7q3lrXd0g9j3tiEHBqTm%2FpCOAIGx8dvsmY6EDEKUiFHUxyK5b%2F52zyLRpJvT%2BtvjxNpuyizyiMC&name=SNtcAUwgVk5Tb3XiTdbqeAxzF24mbE0yeMj9MHRB7P8PfP6G4IgtUYTefzBJydiDzcqIvGulFQ8hT%2BkJmr8cck7mSBMRXK7ZxpDg6Bcc0rbRrWu5RGbgW97%2B3kDCxcoRvqcSfWYiAik%2FaZeJoJNpBw%3D%3D"
           ]
@@ -662,14 +662,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770195630&major_anchor_level=common&sign=6be8f5084a778a2cb93b23eaacb90695&t_id=037-20260128170030D6E1E7FEA7ED2992EE77-XWLbUP&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698311af&major_anchor_level=common&sign=222bde0bbf70fe79b712737901d15fe9&t_id=037-2026012817302385C0A186A95F8F7A6344-noa8IE&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-28T09:00:30.486Z",
-  "shanghaiTime": "2026-01-28T17:00:30.486Z",
+  "timestamp": "2026-01-28T09:30:23.454Z",
+  "shanghaiTime": "2026-01-28T17:30:23.454Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
