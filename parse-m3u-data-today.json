@@ -389,6 +389,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "b5c164c2032c571d",
+      "title": "NBA常规赛精彩回顾：活塞vs太阳",
+      "keyword": "01月30日18:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：活塞vs太阳",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：活塞vs太阳",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月30日18:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：活塞vs太阳",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=8a64093f75ae4a8dbe1ebb9470ddff3b&id=MlcH7RLaDgV9Bfh%2FiLzkjzXdFtnGKWHCsRn6r%2Fzd2XR1p%2FGMuFiB2PwU3bRboyqwT51ArtkJ43R3wN0iTgWrWcTOp9nyqJYRfH4vvoMjcrL%2FxRHG2SvPaFmOGETBza5%2BpWPmmKXBDEQenz9hJe59jEEszK8eXImZlcBFZqjy1aoCj0jkgQLMrp8FzyZlPGxi6LRcLQaKK4LQ5pGuYaIdsjisRDrXadux8hYo6DjgCuFaU6%2FS3NRqjV4bjvAcmNOYDyGo3SZ6ipDlB5%2Fjd6K7K07mUm2rfiZVIynUxdSL42QCYgELuVcqqspKzKhbCEEr&name=WYnk8v%2B8xjofeHPFvj5v%2BH9qByvxrTBiqG0RQeT%2BpSeveTFtwetxerfftmTVGatYywCsdTnHWwEos7l3UpzXBu%2BMthyppYA3VhbvJoE7sqKZenwfXs4K5ssRq9cwO03p"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "82c17216ec936f9b",
       "title": "2026中国棒球城市联赛立春联赛冠军赛G1",
       "keyword": "01月30日18:30",
@@ -460,15 +486,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1770307237-0-0-72b37fc2dc03a2c4bceaa718719c7eb4&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601300030374E2BDB0F932546387C75-hlY3TL&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260130010028D16EFAF90A113D42C84D-qXilZi&unique_id=stream-695180860228633260_684_flv&wsSecret=57b0bac9d143b03bc6c64881c1e045c6&wsTime=697b922c"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-29T16:30:37.347Z",
-  "shanghaiTime": "2026-01-30T00:30:37.347Z",
-  "count": 16,
+  "timestamp": "2026-01-29T17:00:28.965Z",
+  "shanghaiTime": "2026-01-30T01:00:28.965Z",
+  "count": 17,
   "mode": "today",
   "source": "real + cba_live"
 }
