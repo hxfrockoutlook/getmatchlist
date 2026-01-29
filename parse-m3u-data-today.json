@@ -755,7 +755,7 @@
       "title": "有球必应",
       "keyword": "01月29日12:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -1238,14 +1238,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1770273025-0-0-a790f6329c106670e10810f6622fb2a8&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260129150025070FC7300E6BF3FE7C69-jCscPB&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026012915302390099137C7B9224C1B92-Hdt4yC&unique_id=stream-695180860228633260_684_flv&wsSecret=f9feb52b47eb6b1fd0439e00d1f417da&wsTime=697b0c8f"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-29T07:00:26.068Z",
-  "shanghaiTime": "2026-01-29T15:00:26.068Z",
+  "timestamp": "2026-01-29T07:30:23.468Z",
+  "shanghaiTime": "2026-01-29T15:30:23.468Z",
   "count": 45,
   "mode": "today",
   "source": "real + cba_live"
