@@ -363,9 +363,9 @@ function mergeMatches(channels) {
       if (channel.logo) {
         const logoFileName = channel.logo.split('/').pop(); // 获取文件名
         if (logoFileName === '腾讯体育.png') {
-          padImg = 'http://catvod.hxfrock.ggff.net/腾讯体育.png';
+          padImg = 'http://catvod.957.de5.net/腾讯体育.png';
         } else if (logoFileName === '爱奇艺体育.png') {
-          padImg = 'http://catvod.hxfrock.ggff.net/爱奇艺体育.png';
+          padImg = 'http://catvod.957.de5.net/爱奇艺体育.png';
         }
       }
       
@@ -1007,7 +1007,7 @@ async function main() {
           matchStatus: "1", // 直播状态
           matchField: "",
           competitionName: "CBA联赛",
-          padImg: "http://catvod.hxfrock.ggff.net/抖音CBA.png",  
+          padImg: "http://catvod.957.de5.net/抖音CBA.png",  
           competitionLogo: "",
           pkInfoTitle: "抖音CBA直播间",
           modifyTitle: "",
