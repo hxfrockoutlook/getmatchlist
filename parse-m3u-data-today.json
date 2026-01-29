@@ -107,6 +107,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "0b2edfd51fcd4a77",
+      "title": "埃因霍温vs拜仁",
+      "keyword": "01月29日03:55",
+      "sportItemId": "1",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "欧冠",
+      "padImg": "http://catvod.957.de5.net/爱奇艺体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "埃因霍温vs拜仁",
+      "modifyTitle": "欧冠 埃因霍温vs拜仁",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月29日03:55"
+      },
+      "nodes": [
+        {
+          "name": "埃因霍温vs拜仁",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=535b7e46b9f224583233436fc8bd771a&id=ZOQ3NRwC0U00xVqYnlxGCOwPiKs0%2BjLuNnOvhjosQ6wbtFyEu%2B5SqEPCG5I8AOXtrodg2XJhboa63XpSPKhygB%2FoH%2FIyh4xZNZyRqJMLBH4try8h7P4EKRw%2Fnu90ejh1ZTZaikCePTWh6BLJoX5wQ0n2xxTfbfkkUYHFYxYEGZtgfXQos5xSnhK5QXLBAi2eENi4Lat3COYel7ASdhD8I%2Fk6CwbdQfpXGhLni7%2BSZHUjlTomcub35q74qV9aouRYSmNWrubc9lZkc%2F%2BrQHtiNQ5s0q3Fy%2BGksO722I6%2BUxHv7IDApeoVvjohvgiZ6HSN%2BYyB1mxKQrCN4O7qYhdbqVSrK9ybgYcaZ3inCwAFhnKg7K79EUOkCRHt%2Fky%2Fgzw2FVHQk6kDBlwM9SS5WkMYQA%3D%3D&name=xLwBDL1IQiuNDicXQnFiTBSTYnzKrkahimU6GPzmUgY38CwMpkYjpdPAwO1%2Fm4yZ0STLDRSoaZJOqizvIMorFw%3D%3D"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "0a68835be0ddb13c",
       "title": "圣吉罗斯vs亚特兰大",
       "keyword": "01月29日03:55",
@@ -233,7 +259,7 @@
       "title": "老鹰vs凯尔特人",
       "keyword": "01月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -265,7 +291,7 @@
       "title": "魔术vs热火",
       "keyword": "01月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -297,7 +323,7 @@
       "title": "尼克斯vs猛龙",
       "keyword": "01月29日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -978,15 +1004,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601291100297C70EB33B57B63E69DFB-qADlEB&unique_id=stream-695180860228633260_684_flv&wsSecret=fab58af26d021c22034cca54ce3fa982&wsTime=697acd4d"
+            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1770260423-0-0-a949b83a5da0fdcf505bc6221f050e49&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260129113023292BE5B6A7497E3998D4-wmC3S3&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-29T03:00:30.119Z",
-  "shanghaiTime": "2026-01-29T11:00:30.119Z",
-  "count": 35,
+  "timestamp": "2026-01-29T03:30:24.180Z",
+  "shanghaiTime": "2026-01-29T11:30:24.180Z",
+  "count": 36,
   "mode": "today",
   "source": "real + cba_live"
 }
