@@ -883,17 +883,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "8863b8a6e371d616",
+      "pID": "dcca761febeb70b7",
       "title": "无畏契约VCT",
       "keyword": "01月30日17:00",
       "sportItemId": "",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "无畏契约VCT CN启点赛",
+      "competitionName": "无��契约VCT CN启点赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "无畏契约VCT",
-      "modifyTitle": "无畏契约VCT CN启点赛 无畏契约VCT",
+      "modifyTitle": "无��契约VCT CN启点赛 无畏契约VCT",
       "presenters": "",
       "matchInfo": {
         "time": "01月30日17:00"
@@ -913,7 +913,7 @@
       "title": "NBA常规赛精彩回顾：活塞vs太阳",
       "keyword": "01月30日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -1006,14 +1006,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1770368423-0-0-e116b1ea2cd5fe8684f5db99dd8346d3&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260130173023219AB9C772FCEA88D71C-wLReWh&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770372027&major_anchor_level=common&sign=a9a221731d545fa9f377018c57ed79e5&t_id=037-202601301800275677C0522339A5E2FDE1-MTjeeH&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-30T09:30:23.451Z",
-  "shanghaiTime": "2026-01-30T17:30:23.451Z",
+  "timestamp": "2026-01-30T10:00:28.005Z",
+  "shanghaiTime": "2026-01-30T18:00:28.005Z",
   "count": 37,
   "mode": "today",
   "source": "real + cba_live"
