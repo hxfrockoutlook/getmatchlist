@@ -241,7 +241,7 @@
       "title": "国王vs76人",
       "keyword": "01月30日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -273,7 +273,7 @@
       "title": "雄鹿vs奇才",
       "keyword": "01月30日08:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -720,14 +720,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770345024&major_anchor_level=common&sign=6c296a874b8bd666e4564f7337883095&t_id=037-20260130103024446960EFFA8B8F78F82D-UKCOZ0&unique_id=stream-695180860228633260_684_flv&volcSecret=6c296a874b8bd666e4564f7337883095&volcTime=1770345024"
+            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1770345029-0-0-df78f607ab89c54b5eceffb2005e8c86&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260130110029C62385459863D699C9F9-EWnMoX&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-30T02:30:25.197Z",
-  "shanghaiTime": "2026-01-30T10:30:25.197Z",
+  "timestamp": "2026-01-30T03:00:29.999Z",
+  "shanghaiTime": "2026-01-30T11:00:29.999Z",
   "count": 26,
   "mode": "today",
   "source": "real + cba_live"
