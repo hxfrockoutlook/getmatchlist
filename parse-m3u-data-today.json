@@ -305,7 +305,7 @@
       "title": "[早安Tip_Off]第99期",
       "keyword": "01月30日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -475,12 +475,6 @@
           "name": "王子星 孔德昕",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=3bcfd142d280f2ca58a512c175a320e0&id=5WuIXewobv%2B0zZz4zfUjgGGPsD0EP6%2B11lCKhtANiGrP1r0nfVb3qry23DKsrZHVqxV9myZcT0Ui1XeKpCIrNpBiZdmPVyZypdEFwv6vhRCQUiEI40WqLYb7iG3xhObEKjKwsWG5yxILkRtKaK1c6vl5T%2FXCh%2Bh9jytflNQ6sxKwHPhSLH2V65yX5m%2BzT6ZMidpHALR1E3IdPaH%2FJb5yzCym9fyVQromJktZ%2Bpiuw5FnsPfk7z7JIeHzHV36RA5wCfL4ijCNOTaclMrk%2B9XipJ5O04qWSD4CmK3HpjndZ2IBqLZ%2FDjXKYjhfmc1HioxLDJ4J%2F7Pknw28klqX%2BtKPww%3D%3D&name=6xyE33r5Pd%2BhtQ7%2FVXnmf3BW5QznNpQ0aHRU8Smor09j9iY2D6LFf7N3%2BDG1vRc44G2jmcdXP7tOQg89sLwV9lulF3QabVZbIXFiNXKzodg%3D"
-          ]
-        },
-        {
-          "name": "英文原音",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=191d807277f2a6615d2750b86fb8ef36&id=zTmQokTZACRRhCzBuRMoaqVzcrIfZWv7YOGecoOU515bRP%2FIhWrvMeYTEVjSKHJgXMU9BxZaGsMtZZzHFc7dZeCozKa%2F5KqpBYG2AvjI3ATxqoqN8kemsitOJFN0I8m5HORM1DclQepTcAzCoLroi%2BmvRnRc6Dv%2ByNHUmrQEjXmiD7q9Lr3DIavgeoDyN0cdW7PADd2QBl99rlh4XisqOQTRxtABmnNvO3igINrTvgTRB%2BMIOrkrqMY7Fpd97KAXwrOuKxsSvFW6BcXrD4Cqf5mMXOb22RptbIvCTzUxgiuZ%2BlI%2FctpDgzGmKyikjKSCu%2B23Llypul0PjEPb2o0pvA%3D%3D&name=BYkMBFDzlMB2LbHTZl9KUPEtshg9IYZUrViqrXF9Swqd0PmIlHHeBm8TWxLm%2FKWje%2B%2FlubdL2Xjczn6nWwwqDRSulADcBPqudAlG9K%2F55ZU%3D"
           ]
         }
       ]
@@ -720,14 +714,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770336028&major_anchor_level=common&sign=99fb3b0716890c75bb6e982966a240b3&t_id=037-20260130080028CAB5B1903B5D5F2F0044-TQHHdQ&unique_id=stream-695180860228633260_684_flv"
+            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1770336025-0-0-be8ddc07022754fde67d153903907aba&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601300830257C5CE69A9AE259B70A18-zvZgF5&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-30T00:00:28.950Z",
-  "shanghaiTime": "2026-01-30T08:00:28.950Z",
+  "timestamp": "2026-01-30T00:30:25.835Z",
+  "shanghaiTime": "2026-01-30T08:30:25.835Z",
   "count": 26,
   "mode": "today",
   "source": "real + cba_live"
