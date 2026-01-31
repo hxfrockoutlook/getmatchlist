@@ -537,17 +537,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "c7b1a45f9d9c2647",
+      "pID": "b5b6c767474dc4ae",
       "title": "普洱市",
       "keyword": "01月31日16:00",
-      "sportItemId": "1",
+      "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "云南省城市足球联赛",
+      "competitionName": "云南省城市���球联赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "普洱市",
-      "modifyTitle": "云南省城市足球联赛 普洱市",
+      "modifyTitle": "云南省城市���球联赛 普洱市",
       "presenters": "",
       "matchInfo": {
         "time": "01月31日16:00"
@@ -771,6 +771,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "4484ee5356655773",
+      "title": "四川女排vs浙江西塘姚庄",
+      "keyword": "01月31日19:00",
+      "sportItemId": "4",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "女排超联赛B级双循环赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "四川女排vs浙江西塘姚庄",
+      "modifyTitle": "女排超联赛B级双循环赛 四川女排vs浙江西塘姚庄",
+      "presenters": "",
+      "matchInfo": {
+        "time": "01月31日19:00"
+      },
+      "nodes": [
+        {
+          "name": "四川女排vs浙江西塘姚庄",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=13d9d2c28ee7c8a2194d5c8558dc223d&id=jjpcXbcuJyvZQ0TT8NGmUyw6TJDVVDILRuk1xB5BeVn7f%2F0vXcdI4%2FcuQjCkwgNQXtzdh%2FPA3hhNfaY%2F0Vf1%2Ba78%2BF%2FuUm87WapZoy8Ac%2BrpidXx3HyCfCltv6zGbU9ofEIEFPYlFfgLTzfGH7DcaLaoQDeC%2BwV9LIXB4Q2sviaHNnTbqbxEfPfwxSz%2F9xnMxlP76kEnO8G69uc%2F5cj4dHdcb1Gdnv5qZD6%2BU%2F0Msu5BtfHKRqeRRVqvCLjDGt4iKsMGplacRRsfbTkyNQVLqAmft9d20m19sG4nhpY%2B2wJXoQclxkmCVXsER6ixAJ7c&name=u1rpcJMwqkQ0RlEZy67YvomC2mQla36%2Br652iHBoty%2FeEscXFwJTI7nhIyjiK9vrWdqIuCIIdBoWVMrTWAkbvLgZBJAsWpabq6z9NpUkKHDsjs2t%2BC%2FCX96ZY8syBZdn"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "376bbfb23a5e3b3d",
       "title": "赣BA常规赛第五轮：新余vs赣州",
       "keyword": "01月31日19:00",
@@ -894,15 +920,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601311400289E2F1576C330614144D5-KHJZnh&unique_id=stream-695180860228633260_684_flv&wsSecret=a4108e6709a574e2c26bbd1b1386aa3b&wsTime=697d9a7c"
+            "http://pull-f3.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&auth_key=1770444024-0-0-0e66f007a58f4236134302ee9bb5b1e0&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601311430231CE0C01B5971A2ED4D88-vBNjFI&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-31T06:00:28.363Z",
-  "shanghaiTime": "2026-01-31T14:00:28.364Z",
-  "count": 32,
+  "timestamp": "2026-01-31T06:30:24.216Z",
+  "shanghaiTime": "2026-01-31T14:30:24.216Z",
+  "count": 33,
   "mode": "today",
   "source": "real + cba_live"
 }
