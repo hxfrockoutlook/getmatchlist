@@ -46,7 +46,7 @@
       },
       "nodes": [
         {
-          "name": "王子星 ���德昕 婧雯",
+          "name": "王子星 孔德昕 婧雯",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=13a800c623eb59e3fab853ba54111c16&id=f2F4Xe7wZoUgf8zgFQmIQDJEBkoWAX3JnplA8HjlFXvyf7NT0xBox0yLt2UAFDLpCbufVrCuI3luoBjJrChi9VXcVxXyjh1iecSC1n13C4eUP8R6hxv9J5Aa7fYd97Ru1W5%2FulzhfJjQMfLMg3ogqDDoZppq8BdpmUkMiAiC9tuTQMdhqcCKjzHtVLpxEhu283fLpdKX%2Bnl8n8%2FMCBVyt6vc1AvNBg4jNPC42mJPtO%2BjgMzNNpsgyPrdg1306soysrUdi%2F5QyNWevesxSq0g5OJ4rcmSTv9PTbOtP8bM6KKSpJ%2BcmijxKe9fr6Bgr32BbBePEFjQ2G09BUv5J9Jtcg%3D%3D&name=m%2B%2BHpBuZ4lwT34%2FNlrsRUWgejZZvLjcMn3WdfeJbMd7Zwi%2BCoYk8psnO0FepUHUDulZzACemDvqxEexyXwsUzKuGZ1fSB%2Fvv%2BiabrZEm10dLrgdSuhAYG6rFUaUyuhrp"
           ]
@@ -71,7 +71,7 @@
       "title": "猛龙vs魔术",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -103,7 +103,7 @@
       "title": "国王vs凯尔特人",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -135,7 +135,7 @@
       "title": "开拓者vs尼克斯",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -167,7 +167,7 @@
       "title": "灰熊vs鹈鹕",
       "keyword": "01月31日08:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -894,14 +894,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770422426&major_anchor_level=common&sign=2c98b81b004bcb240f4de321e6d3daa0&t_id=037-202601310800269911F2FD9D6A6C1D75CD-jVfFwW&unique_id=stream-695180860228633260_684_flv&volcSecret=2c98b81b004bcb240f4de321e6d3daa0&volcTime=1770422426"
+            "http://pull-flv-f26.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698687a0&major_anchor_level=common&sign=37b32eb87987671cd596d8845a9ddc12&t_id=037-2026013108302460A30934EB90F0F9B562-nePY4r&unique_id=stream-695180860228633260_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-01-31T00:00:27.105Z",
-  "shanghaiTime": "2026-01-31T08:00:27.105Z",
+  "timestamp": "2026-01-31T00:30:25.036Z",
+  "shanghaiTime": "2026-01-31T08:30:25.036Z",
   "count": 32,
   "mode": "today",
   "source": "real + cba_live"
