@@ -162,12 +162,6 @@
       },
       "nodes": [
         {
-          "name": "寇逸豪",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=e1aa5ec933355bfc3286060f8d5520f4&id=nDjEi63HeXJiUKqbb1cxh8zcwNq3bpILgSoNTVoCNJb5mP10%2BMffagpMClgu9RaurzLPjkHFIEPEK%2FaCdKfgKXAW838ND0l3MI3Vk6UXMaSydC9hcuiZZjb5TPrj3liO7GKVlYO0tAZoahEFn1q%2F92G153TJY0ihyeuDNnuWkV6OaAJ8kSJdOxRbG3eNortj5%2F3ChF4yGf22zSOzylS9kfQM9lb55OwCmfSmD9ALlK7eJxTg86ocMaz%2Bqh4VFHHnP5VfA2YeRa3LsSHSC8X2Y0fob9N1LOdW9Ovv4CPekKakuBKgd0tp5Uk%2B3hVBgGh%2B5H0kiZlYt8p9bhb1pKx4kw%3D%3D&name=IbR6%2FB03%2B5LAHIwbTWauc4ippNksJ9JlTZcPnvMie%2BpLsM1sKXjqfvqzRz91emZHd9W8d%2Fxbl5%2FJ5h9zcRTtJoxIAW8q%2FmmbnRc%2FrOReelk%3D"
-          ]
-        },
-        {
           "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=3bb87e82489a6d4871d94f42723f2542&id=G4aW%2BUDy6PQnVf0wjD31MJO9AURx0iOsFR8LWtvvy9BtO8pA5xNlCe%2FCPFU5%2BPNcUqFNChbYfo4qx7%2B4E2ea4pHGjqIXbFr7QCn4VY0KR64WfHNjlc6VXle3za8%2F4j6rAAVtCKKBr6uLlGc0Au2o4OXdvn%2BSs01S18Vfj3ch0WW5ugellbmU1ZAxDPdr4PCZ0pz3nEaTVgKYssS9ZRI8Lc6oDx%2FpXJ0OSS2xhUCRUEV9iLC4EQionKhD4dlocgrS8PvDletOEXkwcdH8rcS%2B%2B8KHFdhVEIUa8GnpdqzsSwJCfVNlMy4ohdhOTWe%2FOTYQ%2Fyp3yp%2BLU9j0%2BUAayFoVhw%3D%3D&name=lIhO%2F%2FYBM1pyh5pf3wuN%2FX4c%2BFoS0mB9Lae3WGWApEUXTUjFiEqVCOipaq261Gd2rWdOfeVMykroSYsMfGm9Pq19htlFNZ5VPDSM0d8BP1w%3D"
@@ -617,17 +611,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "6f55836085576762",
+      "pID": "252e52206aa4402b",
       "title": "江苏男排vs黄石东楚",
       "keyword": "02月01日19:00",
-      "sportItemId": "4",
+      "sportItemId": "7",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "男排超联赛B级双循环赛",
+      "competitionName": "男���超联赛B级双循环赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "江苏男排vs黄石东楚",
-      "modifyTitle": "男排超联赛B级双循环赛 江苏男排vs黄石东楚",
+      "modifyTitle": "男���超联赛B级双循环赛 江苏男排vs黄石东楚",
       "presenters": "",
       "matchInfo": {
         "time": "02月01日19:00"
@@ -766,14 +760,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69882678&major_anchor_level=common&sign=cc3a0f44868e2a34e138ca1c48097f15&t_id=037-202602011400245899763771C0FD7D7CBB-tgRID7&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201143022C9E6465F3FFED57A249C-MsQOva&unique_id=stream-407007113483911852_684_flv&wsSecret=5ab705c9f217d06a40d67ee372ee47d8&wsTime=697ef2fe"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-01T06:00:24.687Z",
-  "shanghaiTime": "2026-02-01T14:00:24.687Z",
+  "timestamp": "2026-02-01T06:30:23.123Z",
+  "shanghaiTime": "2026-02-01T14:30:23.123Z",
   "count": 28,
   "mode": "today",
   "source": "real + cba_live"
