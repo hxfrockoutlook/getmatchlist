@@ -35,8 +35,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "35209b377dc8f97c",
-      "title": "莱万特vs马竞",
+      "pID": "b4a1b82d2540c109",
+      "title": "��万特vs马竞",
       "keyword": "02月01日01:20",
       "sportItemId": "1",
       "matchStatus": "2",
@@ -44,15 +44,15 @@
       "competitionName": "西甲",
       "padImg": "http://catvod.957.de5.net/爱奇艺体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "莱万特vs马竞",
-      "modifyTitle": "西甲 莱万特vs马竞",
+      "pkInfoTitle": "��万特vs马竞",
+      "modifyTitle": "西甲 ��万特vs马竞",
       "presenters": "",
       "matchInfo": {
         "time": "02月01日01:20"
       },
       "nodes": [
         {
-          "name": "莱万特vs马竞",
+          "name": "��万特vs马竞",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=2e38d257d041cff98b6a9c5a14480607&id=p71Knj%2F4Uh3MuwOgGs4YoEFnv1o0if1I0wyFi8zLfQrsMuig8UUZU2AKVfx2n73%2Ft4u1ZVWsmYrxxP%2F5YJat6UuZS9E5lI05TFSuVzXjx%2FAGhcqpUzIURNYuyxfCcd4v1fQFZYu70BBxEjAXT8oWUhaayIH94QglWFajQczU8JCzxPugi0NbKYP0AyE6KSt0DQv3O5gHvWXWDNbSyCxKXC1E2BdNRV0LfglsziGiGvmpOtMcjCxvea4lVwrjr4DRExOgtUzQErbxX14UcGxdPN1Ty3c9%2BlZ36N7Q9XQrOO3MLZXbE3ufjoS10lSZwbrwp5XZxpd59kT0P0yLOQhibleikU8svhfuj4ndx5sbgBQwrQabahFrkj0r43lVcA57OItVCk9hjR87AspktTijyw%3D%3D&name=ACrbP1L2T5R4eBdLO6lW4oU32ACojtGtBdbHdL%2F8JgKSUFhpnCB5xmBfEC%2Fk5hMTwMG6u59kfwOVMIchzysh8g%3D%3D"
           ]
@@ -465,7 +465,7 @@
       "title": "四川男排vs河南清园",
       "keyword": "02月01日16:30",
       "sportItemId": "4",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "男排超联赛B级双循环赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -491,7 +491,7 @@
       "title": "2026中国棒球城市联赛立春联赛冠军赛G3",
       "keyword": "02月01日16:30",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "棒球",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -764,16 +764,46 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "name": "CBA:北京vs青岛等6场比赛同播",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69886cd2&major_anchor_level=common&sign=34049a698976869c22c6fde220389ee7&t_id=037-20260201190034D3170A6BCFED1981A543-9AtDXZ&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-407004309337670487_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20260201193021676E3562BA40C57C1B61-EUd57i&unique_id=stream-407004309337670487_855_flv_hd&wsSecret=6291bc84042da026d29e7e8592ed7b33&wsTime=697f394d"
+          ]
+        },
+        {
+          "name": "宁波vs广东",
+          "urls": [
+            "http://pull-f5.douyinliving.com/fantasy/stream-407004314710049623_hd.flv?arch_hrchy=s2&expire=1770550221&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=0ed3b162b6f07f7a8e64e97477c991a8&t_id=037-20260201193021676E3562BA40C57C1B61-dix76Q&unique_id=stream-407004314710049623_855_flv_hd&volcSecret=0ed3b162b6f07f7a8e64e97477c991a8&volcTime=1770550221"
+          ]
+        },
+        {
+          "name": "上海vs南京",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-118773943255958359_hd.flv?arch_hrchy=s2&expire=698873cd&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=2d704874a9de232d42c528ec7ae584a8&t_id=037-20260201193021676E3562BA40C57C1B61-1EjsJG&unique_id=stream-118773943255958359_855_flv_hd"
+          ]
+        },
+        {
+          "name": "江苏vs深圳",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-407004322089927511_hd.flv?arch_hrchy=s2&expire=698873cd&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e39be6b0c3a5c94e36c96950fa5a0455&t_id=037-20260201193021676E3562BA40C57C1B61-lTfkGm&unique_id=stream-407004322089927511_855_flv_hd"
+          ]
+        },
+        {
+          "name": "福建vs北控",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-695234703679554391_hd.flv?arch_hrchy=s2&expire=698873cd&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e3b1264854779fcf3a17a5f5594c222b&t_id=037-20260201193021676E3562BA40C57C1B61-94rSqU&unique_id=stream-695234703679554391_855_flv_hd"
+          ]
+        },
+        {
+          "name": "四川vs新疆",
+          "urls": [
+            "http://pull-flv-f26.douyinliving.com/fantasy/stream-118773954802352983_hd.flv?arch_hrchy=s2&expire=698873cd&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=cebf1a7d40df8cceeb5ac319a8a8aa4e&t_id=037-20260201193021676E3562BA40C57C1B61-8HtqC7&unique_id=stream-118773954802352983_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-01T11:00:35.052Z",
-  "shanghaiTime": "2026-02-01T19:00:35.052Z",
+  "timestamp": "2026-02-01T11:30:22.186Z",
+  "shanghaiTime": "2026-02-01T19:30:22.186Z",
   "count": 28,
   "mode": "today",
   "source": "real + cba_live"
