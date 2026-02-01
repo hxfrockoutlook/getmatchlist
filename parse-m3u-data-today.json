@@ -361,7 +361,7 @@
       "title": "青岛兴轮呦呦vs辽宁凤城",
       "keyword": "02月01日15:30",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -387,7 +387,7 @@
       "title": "天津食品集团vs浙江振德",
       "keyword": "02月01日15:30",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛A级双循环赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -413,7 +413,7 @@
       "title": "福建福清vs云南滇池学院",
       "keyword": "02月01日15:30",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛B级双循环赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -766,14 +766,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201150039AC974A811C0404CC2711-6SBGbB&unique_id=stream-407007113483911852_684_flv&wsSecret=e651a8beccc0bad44425cfc5e165d8e2&wsTime=697efa17"
+            "http://pull-f3.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&auth_key=1770534022-0-0-d09fb1c61e48d28e252bfadc69666c3a&exp_hrchy=w1&major_anchor_level=common&t_id=037-202602011530224E2BDB0F93254674AE63-ez7V7O&unique_id=stream-407007113483911852_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-01T07:00:39.512Z",
-  "shanghaiTime": "2026-02-01T15:00:39.512Z",
+  "timestamp": "2026-02-01T07:30:22.904Z",
+  "shanghaiTime": "2026-02-01T15:30:22.904Z",
   "count": 28,
   "mode": "today",
   "source": "real + cba_live"
