@@ -271,7 +271,7 @@
       "title": "独行侠vs火箭",
       "keyword": "02月01日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -766,14 +766,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770512425&major_anchor_level=common&sign=582b88131086d93b87f852302884ac80&t_id=037-2026020109002550C9C1DE144AC36F89E4-egLZq5&unique_id=stream-695180860228633260_684_flv&volcSecret=582b88131086d93b87f852302884ac80&volcTime=1770512425"
+            "http://pull-flv-f1.douyincdn.com/media/stream-695180860228633260.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602010930239E50774866998FC00560-nf40lr&unique_id=stream-695180860228633260_684_flv&wsSecret=30b84fc4911a5009968fe63ba9555548&wsTime=697eacaf"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-01T01:00:25.571Z",
-  "shanghaiTime": "2026-02-01T09:00:25.571Z",
+  "timestamp": "2026-02-01T01:30:24.185Z",
+  "shanghaiTime": "2026-02-01T09:30:24.185Z",
   "count": 28,
   "mode": "today",
   "source": "real + cba_live"
