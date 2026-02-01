@@ -26,7 +26,7 @@
           ]
         },
         {
-          "name": "英文原音",
+          "name": "英文���音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=e3d3caaa55fd3edbe9eb528caab866db&id=ZOBPMGVoZJRrct9PM7Pb9qbRQwJMxkfWuYlKWzdCoycgDYHEKTmGSr033VWNSAxbDuC3z8VJ0%2Bg6sLr%2Fp%2FpBvQCKsiZyDYnlVO6XSn8Snxxpzf6j0j0qWmjUSG4V8pWbZmsviDBpkzJiLfvUxdpc0YcyxGsDFe93yfZaMnvS4Fg%2B%2BKseXV3BkQERS9TTQcqCWCA7sqEWiLkXGW3WaWb%2BPHnLeXbg8M9vdKaYNeB2UUCQknt9MCFrO4kzpGZ1%2ByWft3cS5OyVSduzmxGKESTpUiJv3u70cADE6%2BTTIB6bdjhaY0Y04HGBKswfUhsWkl7whfSoxzjxrCG3462SvMMqCA%3D%3D&name=mnKowMJ4qhdPRhTUXx96XShcu4dqEY9kApUpv%2FvCdDuxJ3KLj2BI1%2FZu0MVDWNHb1bA6CIdcWvbtTYHAWcCBA5QTXKm1LEsHdA6B5zRjmfM%3D"
           ]
@@ -542,14 +542,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602020600251A5D85FBF8126F9B0774-8fygqt&unique_id=stream-407007113483911852_684_flv&wsSecret=7482c81b903a77c6e10b2a0b106700b2&wsTime=697fccf9"
+            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260202063027B501ACC555C711BC6907-EQVzen&unique_id=stream-407007113483911852_684_flv&wsSecret=c118664aac48803c507e28f5c014866b&wsTime=697fd403"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-01T22:00:26.121Z",
-  "shanghaiTime": "2026-02-02T06:00:26.121Z",
+  "timestamp": "2026-02-01T22:30:27.405Z",
+  "shanghaiTime": "2026-02-02T06:30:27.405Z",
   "count": 18,
   "mode": "today",
   "source": "real + cba_live"
