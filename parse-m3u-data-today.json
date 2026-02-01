@@ -465,7 +465,7 @@
       "title": "四川男排vs河南清园",
       "keyword": "02月01日16:30",
       "sportItemId": "4",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "男排超联赛B级双循环赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -491,7 +491,7 @@
       "title": "2026中国棒球城市联赛立春联赛冠军赛G3",
       "keyword": "02月01日16:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "棒球",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -766,14 +766,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6988429a&major_anchor_level=common&sign=a8922d454a907f618142d23c76602273&t_id=037-2026020116002649D141EFAA683A792541-tX3yVs&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2026020116302400B8BB0B4696CD94846C-KAo0Pv&unique_id=stream-407007113483911852_684_flv&wsSecret=4286a6df746f76e4d419a3d796f776de&wsTime=697f0f20"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-01T08:00:27.181Z",
-  "shanghaiTime": "2026-02-01T16:00:27.181Z",
+  "timestamp": "2026-02-01T08:30:24.360Z",
+  "shanghaiTime": "2026-02-01T16:30:24.360Z",
   "count": 28,
   "mode": "today",
   "source": "real + cba_live"
