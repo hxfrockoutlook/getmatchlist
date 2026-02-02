@@ -140,7 +140,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=4d3269e600284c0fdbc7db3ba1b66c17&id=VO38gohgxxpk2MJpGsynlMrYHsTE02oifAdA%2BeCepebhTFuJUUA%2Bv5%2B4Z9GvOeYUpxC1LWSbCebNlNIHxWNuSrFAkozSClVydhkvKOPhL03Gia4x%2F90qtnCXhWOw%2FarI8oblMFDKXzssRJJj9hYVWaDF%2Fe%2FXhvgjxN54xSILOhijVbXx1puEzp%2Bgi09JCFObqfcTvp6N78XVONPfVVd9%2F6DxjMUFiGilN1v00jw70mUFqztyH459QCrUeoX0DsIHTgXsrQnLSf8LERc1xVfPCqA39Mfe7223HmRtpbDshX0%3D&name=Tfptx5chDzMGJXJkX87I9AUc11lw%2B%2F2%2B5OW9mfwnYKpoSjW7%2FeeYte0jcG7tUmtlfHwJFewZSaYNhaGTFps5jva%2BE%2BVec1xunypwRnTlPaI%3D"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "3444c0f90f623f23",
+      "title": "公牛vs热火",
+      "keyword": "02月02日07:00",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "NBA��规赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "公牛vs热火",
+      "modifyTitle": "NBA��规赛 公牛vs热火",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月02日07:00"
+      },
+      "nodes": [
         {
           "name": "英文原音",
           "urls": [
@@ -257,12 +277,6 @@
         "time": "02月02日08:00"
       },
       "nodes": [
-        {
-          "name": "孔祥宇 孔德昕 婧雯",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=c932f723584ca5f1442283dbbb72e634&id=Kb0FMuj5BW3%2Bgq18yl2iFtaPPR3Yzley8zHs45WcikI4Q9B2a1160JhFr%2FzSCrEOQ554wdI6WC2G5X%2FbksoE6eyLwIOXDX7rpipyLm7Gx112M8G4GHBfmV1DPSVrb%2Bi7Aamr%2BFTcNr%2BaD7%2BRyZctGUqmuD04oSeqHjd2FLgrT48%2BDEkPrJynJaYt5PKfcAE9YBifYgtuosrQjI9ZuY0pKeU9JWesfCdBVQBuRgmf7pl0cxmKil6jpi70NgbZs2ruD8QVqiy2dljVI9gS1S7QwikANvXJ6BvyYHG5WNszwH4%3D&name=UHBTwDZO0lG08Ingg49A6UVxE972V1GNA07F8p7e3QJfz3dWF4jADTuzMDBNMhNmTfGACOCP8hsAeDL2kMLsaeyx2dns6HvYdR7cR9Kk6SJSIU1LJzIR2CrajGiF16i9"
-          ]
-        },
         {
           "name": "二路_皓篮球",
           "urls": [
@@ -594,15 +608,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&auth_key=1770607825-0-0-bccea5c026b4b8e5cb7c2d26392c5b55&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260202120025E2DFFF4CEC6E95DD8687-zC0SW8&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770611422&major_anchor_level=common&sign=a75bf8b9a6f3aa0b3bc5b940abf117fe&t_id=037-202602021230224597FEFAA6413947448D-YB1X15&unique_id=stream-407007113483911852_684_flv&volcSecret=a75bf8b9a6f3aa0b3bc5b940abf117fe&volcTime=1770611422"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-02T04:00:25.892Z",
-  "shanghaiTime": "2026-02-02T12:00:25.892Z",
-  "count": 20,
+  "timestamp": "2026-02-02T04:30:22.392Z",
+  "shanghaiTime": "2026-02-02T12:30:22.392Z",
+  "count": 21,
   "mode": "today",
   "source": "real + cba_live"
 }
