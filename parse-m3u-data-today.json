@@ -364,27 +364,7 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=fd06bf2103a6fa27ee039f07139d7c91&id=s1dg2z8BCcaxES3idycX%2FIwFVnY5a1IYx0iP7hKmgT3tx3E1J2e9%2FbXJzOE%2BK9K3Hpcu20oKbvnjZ%2F7NjuJN6Ujc%2FxwT9hnOEThn9Axn72GEnzhQFQtbiEwcE3gs%2FCyXwh4Y%2Bn%2FJMmITEiM7VEiAVMfgRMGjEvzu%2Bw6mp%2FNclccmHVCq1tC%2BvohzIc2fkhYfBjJ0SVZYSCaoiOl7kHZPdnuooSM9gxpgDlHFoA1lzRfXbG4Bzrxw9A4WlDjbaL%2BX6c1fYb2wKLxyl3EiOkEAgjyO6F3Rz2C%2FlYba6luQ1HVnRcdI70RFCyEfEbJttoWcij2GAWPR11kC342fQ%2B5oNA%3D%3D&name=NUbq3tHy%2B0ntNwVfgp2uhA420iy%2FfaCbXt1n2Ky73CHyUyAty2ivr0AiaGu292kzwW11jTlk4aRpL5ZctfFwu7oPfLIHDhGCD%2B73g9MPeeUAeIWI3euK6VIfftRGRaPS"
           ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "02d5ab9e3266ab5d",
-      "title": "骑���vs开拓者",
-      "keyword": "02月02日10:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "NBA常规赛",
-      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "骑���vs开拓者",
-      "modifyTitle": "NBA常规赛 骑���vs开拓者",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月02日10:00"
-      },
-      "nodes": [
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -614,15 +594,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602021400283AEBA9087A7B2E1A5C1E-xzr1eD&unique_id=stream-407007113483911852_684_flv&wsSecret=7ebd989950a14cb383b4366397f08035&wsTime=69803d7c"
+            "http://pull-flv-f11.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770618623&major_anchor_level=common&sign=3a037932f85284a1cc01613b5f915efa&t_id=037-20260202143023ED122FBA82C25DF41C03-wIlbuJ&unique_id=stream-407007113483911852_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-02T06:00:28.775Z",
-  "shanghaiTime": "2026-02-02T14:00:28.775Z",
-  "count": 21,
+  "timestamp": "2026-02-02T06:30:24.047Z",
+  "shanghaiTime": "2026-02-02T14:30:24.047Z",
+  "count": 20,
   "mode": "today",
   "source": "real + cba_live"
 }
