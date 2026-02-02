@@ -39,7 +39,7 @@
       "title": "[早安Tip_Off]第103期",
       "keyword": "02月03日07:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -604,14 +604,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770678032&major_anchor_level=common&sign=7080a574021a99af09d7f968065e5550&t_id=037-20260203070031B3BACCDC143044E9A1DA-KFzNa1&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770679829&major_anchor_level=common&sign=a6f8c141da2f07b15e28b07d937394d8&t_id=037-20260203073029EB0C800B8F23992C5788-gVquh3&unique_id=stream-407007113483911852_684_flv&volcSecret=a6f8c141da2f07b15e28b07d937394d8&volcTime=1770679829"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-02T23:00:32.377Z",
-  "shanghaiTime": "2026-02-03T07:00:32.377Z",
+  "timestamp": "2026-02-02T23:30:29.783Z",
+  "shanghaiTime": "2026-02-03T07:30:29.783Z",
   "count": 22,
   "mode": "today",
   "source": "real + cba_live"
