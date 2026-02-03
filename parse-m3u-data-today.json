@@ -271,7 +271,7 @@
       "title": "NBA常规赛精彩回顾：火箭vs步行者",
       "keyword": "02月03日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -481,8 +481,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "0ec722d50e33d2c2",
-      "title": "浙江西塘姚庄vs河北雪如意",
+      "pID": "fe7de42692ae0fcc",
+      "title": "浙江西塘姚��vs河北雪如意",
       "keyword": "02月03日19:00",
       "sportItemId": "4",
       "matchStatus": "0",
@@ -490,15 +490,15 @@
       "competitionName": "女排超联赛B级双循环赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "浙江西塘姚庄vs河北雪如意",
-      "modifyTitle": "女排超联赛B级双循环赛 浙江西塘姚庄vs河北雪如意",
+      "pkInfoTitle": "浙江西塘姚��vs河北雪如意",
+      "modifyTitle": "女排超联赛B级双循环赛 浙江西塘姚��vs河北雪如意",
       "presenters": "",
       "matchInfo": {
         "time": "02月03日19:00"
       },
       "nodes": [
         {
-          "name": "浙江西塘姚庄vs河北雪如意",
+          "name": "浙江西塘姚��vs河北雪如意",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=19a497e2dc27bc9a8a6b18255326dc21&id=HbjS3ntY2Ieasn6YCdO%2BgJI5Wozu2wJ5iEq7GAkCsiGPtNfxSjktfyIqRf7mpVeNtD0IMoyyAutZ5voPUdUNVNRCl5qq9VsM%2B4AaXiO2C49YdEPDdBve0Z2MpIrA9mg8S1vJPUf89tBbtxuniL%2BbnKZOsbEE5AguUNXtN5%2FHq%2Fx5l%2BBPGVmvUS%2BYefTpcQr89tvzyO47G02FP3JbFF%2FkV%2BnNMCh0otGzCp7uoorId88Rr8Q7HZeJd5qEw04mSlI8YEM%2BRhaJ%2F7cZGxslcvkwEQUc7mqrV8WUN82VlEoyz3vWo6IxRp5FQNxj8zdtvh3t&name=bMHNowBn2GTJ4a%2F58AztNb7WAxResbNpG8jBKjKRuGPF2W9rVQ4PW2nXn8aFvSm6zgBz6umF1bmYz0MHaV9feCX%2ByAOLtY1%2FrhKj9ezuKkvcZSISR8mXLsACmr0o%2B8x72HO6q11jkZWd%2BxdEIroasA%3D%3D"
           ]
@@ -656,14 +656,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698ade8f&major_anchor_level=common&sign=38ea7024e5d0c5425d833e69b0baf358&t_id=037-20260203153023A929582F71F46F459E78-VbaIxz&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770710427&major_anchor_level=common&sign=3b776f94947ad7680ba456ba2ffb02f7&t_id=037-202602031600271D86DE23D2BCFDE36355-4hBuGI&unique_id=stream-407007113483911852_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-03T07:30:23.594Z",
-  "shanghaiTime": "2026-02-03T15:30:23.594Z",
+  "timestamp": "2026-02-03T08:00:27.737Z",
+  "shanghaiTime": "2026-02-03T16:00:27.737Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
