@@ -527,7 +527,7 @@
       "title": "纳波卡站1/8决赛_王欣瑜vs马萨罗娃",
       "keyword": "02月04日17:05",
       "sportItemId": "3",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "WTA250克卢日",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -736,14 +736,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698c6f67&major_anchor_level=common&sign=0b1fbefb55bd0b76c11a890e7d3077f0&t_id=037-20260204200039859DB5676352CB15E7B5-zn3gwY&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770813033&major_anchor_level=common&sign=29a54e6f3b24fe3a28aed27566984bee&t_id=037-2026020420303396602EEFEF5EC4F46E0E-eeuuIs&unique_id=stream-407007113483911852_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-04T12:00:39.335Z",
-  "shanghaiTime": "2026-02-04T20:00:39.335Z",
+  "timestamp": "2026-02-04T12:30:33.995Z",
+  "shanghaiTime": "2026-02-04T20:30:33.995Z",
   "count": 25,
   "mode": "today",
   "source": "real + cba_live"
