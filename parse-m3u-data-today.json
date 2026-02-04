@@ -29,24 +29,24 @@
     },
     {
       "mgdbId": "",
-      "pID": "47b9c129f9508619",
+      "pID": "5aa86f7fd754d200",
       "title": "[早安Tip_Off]第104期",
       "keyword": "02月04日08:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "篮球���播节目",
+      "competitionName": "篮球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "[早安Tip_Off]第104期",
-      "modifyTitle": "篮球���播节目 [早安Tip_Off]第104期",
+      "modifyTitle": "篮球直播节目 [早安Tip_Off]第104期",
       "presenters": "",
       "matchInfo": {
         "time": "02月04日08:00"
       },
       "nodes": [
         {
-          "name": "王子星 殳海 泱泱",
+          "name": "王子��� 殳海 泱泱",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=040a43602fd4762d2afc92bde2f5ed10&id=ZRJJXrSotWAJB%2ByIqCor6baS7S2jnRBcoBax9YUOoxK%2BpvzUDjO3q5YY4wPDShGVLCAqoqM1Q95d%2BgRgrGz8rLHUpaESjuxkiI7kq4PgT37rOpegajHW66Qd5XTrEmADupTb81SdSg4qBbqtkblusHcGdYPcxMdCgjYsTg5OTupo6IVt7OkiiFcrCMxxgtpTWV6UJjWnw3ZYFvgw%2BRH0e9TaxoFx2U9pfBiGRKu42O9saT6ViJI1aGv3acrFKAKtYEWrOgGY5Muq5bUz5%2FkHrwxO6YrqiGbOB7ZDLL8sfCc%3D&name=tR%2BwhS2iD1g61LWhkMMP8ce0XJKngrRhiAecxano9oHUgeKTAXgOCwPfewpf1V%2FdYxtfPLhYrIhqctebf4C8EQNZzmUmcTWd3f4lMU2Y%2BtP2hf3y%2Frwa76k2uHbjtknDiZzhmnI%2BfNWRqfaLqmTyCA%3D%3D"
           ]
@@ -347,7 +347,7 @@
       "title": "76人vs勇士",
       "keyword": "02月04日11:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -417,7 +417,7 @@
       "title": "NBA常规赛精彩回顾：湖人vs篮网",
       "keyword": "02月04日14:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -698,14 +698,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698c13ef&major_anchor_level=common&sign=b92ef2346d759f3ecce1cfef940a7709&t_id=037-202602041330223FFEB04CA1C15CB1B89A-9pRDRs&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-hs-f5.flive.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770789627&major_anchor_level=common&sign=3bf63e19d71292abb487b31fabc47754&t_id=037-20260204140027722F123CB650492DA53E-t7GgJz&unique_id=stream-407007113483911852_684_flv&volcSecret=3bf63e19d71292abb487b31fabc47754&volcTime=1770789627"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-04T05:30:23.230Z",
-  "shanghaiTime": "2026-02-04T13:30:23.230Z",
+  "timestamp": "2026-02-04T06:00:27.805Z",
+  "shanghaiTime": "2026-02-04T14:00:27.805Z",
   "count": 24,
   "mode": "today",
   "source": "real + cba_live"
