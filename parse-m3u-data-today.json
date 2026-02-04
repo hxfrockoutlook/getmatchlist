@@ -29,8 +29,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "5aa86f7fd754d200",
-      "title": "[早安Tip_Off]第104期",
+      "pID": "cdf46852e1c7c3c4",
+      "title": "[早��Tip_Off]第104期",
       "keyword": "02月04日08:00",
       "sportItemId": "2",
       "matchStatus": "2",
@@ -38,8 +38,8 @@
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "[早安Tip_Off]第104期",
-      "modifyTitle": "篮球直播节目 [早安Tip_Off]第104期",
+      "pkInfoTitle": "[早��Tip_Off]第104期",
+      "modifyTitle": "篮球直播节目 [早��Tip_Off]第104期",
       "presenters": "",
       "matchInfo": {
         "time": "02月04日08:00"
@@ -665,6 +665,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "94693d7064277bca",
+      "title": "东亚超级联赛",
+      "keyword": "02月04日20:00",
+      "sportItemId": "7",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "东亚超级联赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "东亚超级联赛",
+      "modifyTitle": "东亚超级联赛 东亚超级联赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月04日20:00"
+      },
+      "nodes": [
+        {
+          "name": "香港东方vs宇都宫王道",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=f210d4e998032dc058c1978757242bf6&id=FRq2NUWuTq0HEcvFTdFCIE8IRSLit%2B4NvSN5N%2BXr4J2CIVikRwgvusUUDMPEaSGSvi3tJnsGALJ3Ipy8TovkWqWJ5mYKnrqOMM4VXdpYURAVEr33GHLaSr%2BmHC6bIgrp8m0Re614xKKTHIY8UrU4MV2D8fbldfUGv%2BnC6eszUn6TFiGkunOAkRYQNipENO2mxXDSAFFCDW9PvdmzctYAl3z8CCCxUwUzgYBylIZWON6y5hFkuRvu8wxzNPtf0uEdAS7rHWVe0xoIH%2Bo2eDeSnOmyrCvWu63nfgn4BCBa1zJd8dSbFnOH%2FWJRI91WjS5f&name=kkdxIH7i9SYdzGlHTGsEy8XS1H2fXJzKRj%2FYqEOiVEWylL3ym1kXPfv3ezQgez%2BLMGdfVkTVIlDhhGz45V3I%2FwPHpoGZl5KsBlZ6ObIqZPuLlg4yn1sVJwhfclXO28f1IX%2Bk2PKDUSIElMZXpkCTvw%3D%3D"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "7d8f374989493021",
       "title": "NBA常规赛精彩回顾：76人vs勇士",
       "keyword": "02月04日20:00",
@@ -710,15 +736,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770818434&major_anchor_level=common&sign=80552990832599ac1e32d7a2ea7b7b47&t_id=037-20260204220034D36489FE8A144BCEAB13-DdNnBP&unique_id=stream-407007113483911852_684_flv&volcSecret=80552990832599ac1e32d7a2ea7b7b47&volcTime=1770818434"
+            "http://pull-f3.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&auth_key=1770818432-0-0-44f57b6f4d2c405fa5a85e509b67122d&exp_hrchy=w1&major_anchor_level=common&t_id=037-202602042230321F0DAB7FD530A6187926-fAUclP&unique_id=stream-407007113483911852_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-04T14:00:34.675Z",
-  "shanghaiTime": "2026-02-04T22:00:34.675Z",
-  "count": 24,
+  "timestamp": "2026-02-04T14:30:32.638Z",
+  "shanghaiTime": "2026-02-04T22:30:32.638Z",
+  "count": 25,
   "mode": "today",
   "source": "real + cba_live"
 }
