@@ -469,7 +469,7 @@
       "title": "NBA常规赛精彩回顾：湖人vs篮网",
       "keyword": "02月04日16:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -575,12 +575,6 @@
           "name": "第3日",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=d2f12627c9b037ebaba1656eb2be6c80&id=FM0lErsbHOULV4gZreIm%2F7GRCMUFsOkRwv%2BSixhPjJB3YuRaQZB5%2FxPJRkh8j81SRUDpSlh0dQHRs8Lm5F0VXKIwspR0Gw2wgpzOnStOq26JNblytN5vrVqc%2F4FjY2qLVS2KPtqyl14QHdwDQAOCxsZqmI97%2BnWXHYZz%2B2GEsIM064L85VGOgTpE5Wgrs0%2FcYfU5lZpske%2FQQopKtjvKyoORq75h0pw7N2LDh7aYEl8CNx%2Bo0QiEq9ITIoPeqqGamrKDo%2Fme%2FZleh6eF9UrwsmZVSfLygenA19jtCtQSwmZuwOUTZjbW6Px6tbN6FL1E&name=o2j1t4NhjTeKAAp8i359kJbGrPMjWLoDEWvssY07UuZ%2FFG887OEK%2F7zWNTTUwvuPsy2%2FR%2FQBYLmlXiVg%2B3aBuAsoB4gvYpVoBLBxfTJ4ONfVDk1cscmIHzEdtZ93bJZf"
-          ]
-        },
-        {
-          "name": "第3日 赛场原声",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=dc672244b2358bbdd8bc95642d04fa7c&id=53UyNBT5MJiolnKBIkp6u0nPa7P0m3w%2FauN7hsgV%2BygrbtvAaqTvOoVWR91008NdjIvy1b1balwIcZFlVEdtLT9mTelXFjbAhcLK9N2%2FFo0%2BYxL5zQwtVIxX9%2Ftl55UpbAOVJcqmOlwwLr9HLUgW2FnKpjv3LBl5p1Xo3P3dac8HP2I2hL78LUd5EaON5kzvuO8ngnsGHozUiHUftXD7f2OCq9YEnTSEvOb04%2BbAAoa16u%2F1mlK4%2Fb%2FkYSaOVZgqlo7sy4I3MGuGj5Vp4F2za5fjQQKgHRSzK1R69ySB0ZMxB52kFIJTF66bXi22ZOD0&name=lhqv7128PNggwdNeyKc09%2FX%2FQzByHh8SX%2FqRzUU7lsfMcarJ5vRidDitR96x0%2FfJshqKTicLWeCEThx6pn42gKrkyx6zhznWV%2BKgjnMvzyFT85%2F9aRhMt3c59KCuoDiA"
           ]
         }
       ]
@@ -695,7 +689,7 @@
       "title": "KZvsXROCK.斗鱼",
       "keyword": "02月04日19:00",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "穿越火线CFPL春季赛常规赛第7轮",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -788,14 +782,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698c5a44&major_anchor_level=common&sign=d7544cdc0e400d58701e7c33f110a011&t_id=037-20260204183028650E9D8CF31639571629-y51B55&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f11.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770807635&major_anchor_level=common&sign=379a17725800e6b99936679fe139f67a&t_id=037-20260204190035C6EEE2D90B4515CFDF7C-beDBRr&unique_id=stream-407007113483911852_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-04T10:30:28.956Z",
-  "shanghaiTime": "2026-02-04T18:30:28.956Z",
+  "timestamp": "2026-02-04T11:00:35.874Z",
+  "shanghaiTime": "2026-02-04T19:00:35.874Z",
   "count": 27,
   "mode": "today",
   "source": "real + cba_live"
