@@ -589,32 +589,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "0298e4c7af1007b6",
-      "title": "WTA250俄���特拉发站",
-      "keyword": "02月05日21:00",
-      "sportItemId": "3",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA250俄斯特拉发站",
-      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "WTA250俄���特拉发站",
-      "modifyTitle": "WTA250俄斯特拉发站 WTA250俄���特拉发站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月05日21:00"
-      },
-      "nodes": [
-        {
-          "name": "1/4决赛",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=8cb9fad090d52c9a29a9b971dd4d1cd1&id=X0Twbxvvye1%2F8Am52uMdH%2Bpnl6%2FWUC5bi1FuQs2FL2MFvUdjgHDggZ%2B2mQ2ljNVtUl8I88OAll9nUY3d0F90rGazeaAwSpKoktZCvQZaxT4p4la7pbyC1Sha66zoK0jId8AQ8r5laAQn%2FMWESmPofTY5vZJ%2FBVPjaZ%2B5Q5WmvJlLCYDP8mkdzueZWGinx2I6OB7xfzqjb5Jv67fpLycxHn8dJ5NtKg3AoGr%2BvIoerWhq%2Bn0Q8D8PzNm3ybWId57sM89tONFioNGyqjqqYEN8gwBQk%2BJBZDsZplekVu2gDSkNNPvn3lGD05SYHOfF5wh4&name=SAr%2Ftguo%2BMPd3t64llHTsxo%2FH3QZWi94LARPaC4fk4Wp2bryfwKVFoYfjDRirNmvNd01KPex7P3gBpLF9Vkn0M5ySqmuIgd%2B9IdmjjnM9RBRU1IooQLPkz2Z5mxb3xyJ"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "a86fc92d89ade844",
       "title": "WTA250俄斯特拉发站",
       "keyword": "02月05日21:00",
@@ -631,6 +605,12 @@
         "time": "02月05日21:00"
       },
       "nodes": [
+        {
+          "name": "1/4决赛",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=8cb9fad090d52c9a29a9b971dd4d1cd1&id=X0Twbxvvye1%2F8Am52uMdH%2Bpnl6%2FWUC5bi1FuQs2FL2MFvUdjgHDggZ%2B2mQ2ljNVtUl8I88OAll9nUY3d0F90rGazeaAwSpKoktZCvQZaxT4p4la7pbyC1Sha66zoK0jId8AQ8r5laAQn%2FMWESmPofTY5vZJ%2FBVPjaZ%2B5Q5WmvJlLCYDP8mkdzueZWGinx2I6OB7xfzqjb5Jv67fpLycxHn8dJ5NtKg3AoGr%2BvIoerWhq%2Bn0Q8D8PzNm3ybWId57sM89tONFioNGyqjqqYEN8gwBQk%2BJBZDsZplekVu2gDSkNNPvn3lGD05SYHOfF5wh4&name=SAr%2Ftguo%2BMPd3t64llHTsxo%2FH3QZWi94LARPaC4fk4Wp2bryfwKVFoYfjDRirNmvNd01KPex7P3gBpLF9Vkn0M5ySqmuIgd%2B9IdmjjnM9RBRU1IooQLPkz2Z5mxb3xyJ"
+          ]
+        },
         {
           "name": "1/4决赛 赛场原声",
           "urls": [
@@ -660,15 +640,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-f3.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&auth_key=1770845427-0-0-391f40d9e8ab6bc700a843aefec75079&exp_hrchy=w1&major_anchor_level=common&t_id=037-202602050600270732BA1E8BCC65510985-NYH1df&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698d02fe&major_anchor_level=common&sign=e27a88760a45b9b4080349c9c527c1ce&t_id=037-20260205063022FECBC17CF326351B6691-bf4skC&unique_id=stream-407007113483911852_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-04T22:00:27.568Z",
-  "shanghaiTime": "2026-02-05T06:00:27.568Z",
-  "count": 23,
+  "timestamp": "2026-02-04T22:30:22.653Z",
+  "shanghaiTime": "2026-02-05T06:30:22.653Z",
+  "count": 22,
   "mode": "today",
   "source": "real + cba_live"
 }
