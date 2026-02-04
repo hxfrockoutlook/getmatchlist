@@ -140,6 +140,12 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=3f5d8a5ed356b302eadc3ca3376bdeef&id=vPMU1kUaJj9IW%2FSN9HNE888%2FttRbwFCB0l9rfYybTmBlOWLeC0NMM56M4iJY1qLu8QMw9JxGEaM8qUm0VsWmiwMvR2Omyokzbgh7jT9hWw7r8Hy%2FDqFQrtCJvFz6AvRB%2FlcJ4GPYZSwZ49WGTcSHya0C0hSSrgA%2B%2B3Vsorf9UoBK71M0KJf2L4%2FIa1njLItsMF56k67d7waroQDidG1iWfMdOTPACD0H7XPD65Ke1pDWubjwKfXr1nfYkK3woVNRrA7%2F88QQekpbZonLZF9wkTU%2FC9HGcmomZTydAAEqk0w%3D&name=lx%2FWIOyTxhdR0czBXwb2Wq%2FoqVlQn7k4W2tSdCe5QXDOJVbNStygbT1ZsIo1Au5ZNEerKx1jXAyiv%2FhFC4qjWcUfXlsQfQf6RZlDcte6hnE%3D"
           ]
+        },
+        {
+          "name": "英文原音",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=563896eab7874026cb7d36a193cf0590&id=16NUrZ6DO5IUrJu4NPY84mEmIadCwt02cVoJViz0VM1Si3i7RcbR1dOMA54rtwK3j0uCpI3zK3MGPXDBXwPNG3M46P6heeaZ8qqnIbbPRzLZ4S9D%2BrImoxsgjPonJfMba5IgFp5ziKMC6cCMv6HylN%2Boei%2BmbDur%2BHlMbpjdblgWOu9RqbpyYuxsUj2xLRroViUMg76E3j9fpZ%2F714Y30reOSF2qTTaohuir8HGXTNK9PNpkJYySuJ56Owv5cY3wEF1mw%2Fi%2BUAg%2FXagtSA6S9MmhHkwyMqtFaBQJeqM5ExQ%3D&name=LpT5e66lWuxKedNd9x1n5%2BaIVdM%2Fydcf6MtqPxdFMOaFl0DmSMxYuxvbMi6JCnuywSNmyXR7h5onaIiz2DD6EWAydcUxlubFhM9MAGoS4wU%3D"
+          ]
         }
       ]
     },
@@ -611,7 +617,7 @@
       "title": "东亚超级联赛",
       "keyword": "02月04日18:00",
       "sportItemId": "7",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "东亚超级联赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -637,7 +643,7 @@
       "title": "NBA常规赛精彩回顾：76人vs勇士",
       "keyword": "02月04日18:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -782,14 +788,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698c4c2f&major_anchor_level=common&sign=e579786b0c74929f988581ca90902526&t_id=037-202602041730231D24E657447314D9ACD4-b9gOp5&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602041800277274AAE2885277C567D5-EjaZ6Z&unique_id=stream-407007113483911852_684_flv&wsSecret=af3c950a1397bf6a63c4dc7c77a9fb0d&wsTime=698318bb"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-04T09:30:24.022Z",
-  "shanghaiTime": "2026-02-04T17:30:24.022Z",
+  "timestamp": "2026-02-04T10:00:27.375Z",
+  "shanghaiTime": "2026-02-04T18:00:27.375Z",
   "count": 27,
   "mode": "today",
   "source": "real + cba_live"
