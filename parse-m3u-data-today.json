@@ -29,17 +29,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "1cb68e2dc2a3e74e",
+      "pID": "5aa86f7fd754d200",
       "title": "[早安Tip_Off]第104期",
       "keyword": "02月04日08:00",
       "sportItemId": "2",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "篮球直播节��",
+      "competitionName": "篮球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "[早安Tip_Off]第104期",
-      "modifyTitle": "篮球直播节�� [早安Tip_Off]第104期",
+      "modifyTitle": "篮球直播节目 [早安Tip_Off]第104期",
       "presenters": "",
       "matchInfo": {
         "time": "02月04日08:00"
@@ -469,7 +469,7 @@
       "title": "NBA常规赛精彩回顾：湖人vs篮网",
       "keyword": "02月04日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -788,14 +788,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-flv-f11.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770795026&major_anchor_level=common&sign=13fc62a097e1a4af36127b13910fa152&t_id=037-20260204153026347E4C64A41E7CC32249-OIRRTp&unique_id=stream-407007113483911852_684_flv"
+            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260204160029F441DAE053EE98D003D0-6pab5A&unique_id=stream-407007113483911852_684_flv&wsSecret=0b894a3b58b12b96e11beaa6a90cdcaf&wsTime=6982fc9d"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-04T07:30:26.418Z",
-  "shanghaiTime": "2026-02-04T15:30:26.418Z",
+  "timestamp": "2026-02-04T08:00:29.670Z",
+  "shanghaiTime": "2026-02-04T16:00:29.670Z",
   "count": 27,
   "mode": "today",
   "source": "real + cba_live"
