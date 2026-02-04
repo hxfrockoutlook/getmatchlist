@@ -129,7 +129,7 @@
       "title": "湖人vs篮网",
       "keyword": "02月04日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -161,7 +161,7 @@
       "title": "老鹰vs热火",
       "keyword": "02月04日08:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -672,14 +672,14 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1770778828&major_anchor_level=common&sign=f0a196e5b0dde92597ef8c02f11f315f&t_id=037-20260204110028658E49E33E3D60C2D992-y0JRjH&unique_id=stream-407007113483911852_684_flv&volcSecret=f0a196e5b0dde92597ef8c02f11f315f&volcTime=1770778828"
+            "http://pull-flv-f1.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260204113023C4CA4C83B6371FD0C269-EqnvFp&unique_id=stream-407007113483911852_684_flv&wsSecret=8a91035746af0cd4af06ad5f3703078e&wsTime=6982bd50"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-04T03:00:28.961Z",
-  "shanghaiTime": "2026-02-04T11:00:28.961Z",
+  "timestamp": "2026-02-04T03:30:24.293Z",
+  "shanghaiTime": "2026-02-04T11:30:24.293Z",
   "count": 23,
   "mode": "today",
   "source": "real + cba_live"
