@@ -77,7 +77,7 @@
       "title": "帕里vs科尔帕奇",
       "keyword": "02月07日01:00",
       "sportItemId": "3",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "WTA250俄斯特拉发站半决赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -217,6 +217,12 @@
         "time": "02月07日09:00"
       },
       "nodes": [
+        {
+          "name": "石楷文",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=be9efdcd1d02cc101221e7d08ff3f899&id=dY71C%2Bg51ZU1m4A1jTOLuzcB0hUZNUTbhImFdb1OeOY0QtxxWJ5TKviwE8ghBaGsZEBc1XUFSTPGQ6AUH6m8yRENPqxfj1sig1MQpZe%2Bs566F54e%2FwJouH6o4mDLSZzRACx6ILbM46rsB8EC2uW0qzdN6A9BLdm1LQYWCWvLu2VttrMgIzuYMax8Z7V0HEXT3wE591mZGqq3OluSvgfsuzkHmaPVrsh1MU5z%2Bn2eseOaGyv7weDydxy5PCkIQjXm%2FlVkw8YAQPyNjdbg6wXBy4LhVTvU22OeYZTwW7g8NhJ0qWAL2dAXRoxU5zAuiAgbmtG5NW9GKJ7Z4cY8Lix2uA%3D%3D&name=%2F3z7lHcWSxgkfOStUTwtw0TBJfR%2FdQvQyjfQcm2gNDJXeFECWw%2FqBFhikCpLZbpGyAeF5QqUF00yD9ZO524AIYRhyMCebTITzf7mKLWTT0g%3D"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -421,6 +427,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "a7e56fb64c57cab6",
+      "title": "NBA常规赛精彩回顾：尼克斯vs活塞",
+      "keyword": "02月07日16:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：尼克斯vs活塞",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：尼克斯vs活塞",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月07日16:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：尼克斯vs活塞",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=dd2c19085df1072c8d33d2bfb6d3c77a&id=Y1%2F0gKdUVTu7SJ3acWlTEK9ww%2FNeKcgE52aqZg8AGkk2c0pefbEcyPjbptBZDtAp1gv5R7zhTOZ%2BSPdwTqd77EfWYAXrbQzXaSlSjULtuDSCtNiT7U0v151oy3QXoeZgcYc5VLe3EPYYGw6yl6Ud6bnTh7dPN%2F0YY%2BM473C0jz2W3EmtShMvgaF%2BBFiscWdTiscsNZvEMKT78WjwVnnlYGp0XXCINbnbchRbxQlAxN05BiINvM8n5I4DgI0PF36U8Muv6SYEIsNGbX9sEwlONWzQc6KE8BBx7Dgb2Sml%2B2R7znNeHxHiakhOU5TUMeOL&name=POHBelSA85NDL5C%2FZ1wQcPdBAfI9JRFei3wMwC6zlTRoG4p1FlcJU1ov3KUYIt8k5D%2Bp2NSMVwYCX%2Fy4yreCgiFnJ8prOsx5LFZB%2BCd%2BTq%2FpD4TaD0la503HdoG0RwZy"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "764ea2f2e845f7ce",
       "title": "NBA常规赛精彩回顾：灰熊vs开拓者",
       "keyword": "02月07日18:00",
@@ -570,15 +602,15 @@
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
           "urls": [
-            "http://pull-hs-f5.flive.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1771000224&major_anchor_level=common&sign=46724414d08a8983e896ef01852b0cd7&t_id=037-202602070030248E7E7F5EF30E01BE2A5C-52VJ2A&unique_id=stream-407007113483911852_684_flv&volcSecret=46724414d08a8983e896ef01852b0cd7&volcTime=1771000224"
+            "http://pull-f3.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&auth_key=1771000230-0-0-ef29b8ac114486c0bcecf544d00c6d0f&exp_hrchy=w1&major_anchor_level=common&t_id=037-202602070100307B8D9FE53C5F33B54D35-jUXIJp&unique_id=stream-407007113483911852_684_flv"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-06T16:30:24.769Z",
-  "shanghaiTime": "2026-02-07T00:30:24.769Z",
-  "count": 20,
+  "timestamp": "2026-02-06T17:00:30.604Z",
+  "shanghaiTime": "2026-02-07T01:00:30.604Z",
+  "count": 21,
   "mode": "today",
   "source": "real + cba_live"
 }
