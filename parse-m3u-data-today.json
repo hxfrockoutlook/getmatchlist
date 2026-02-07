@@ -7,7 +7,7 @@
       "title": "奇才vs篮网",
       "keyword": "02月08日04:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -163,17 +163,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "81331eaeada25963",
+      "pID": "df04a24100cd3985",
       "title": "[早安Tip_Off]第108期",
       "keyword": "02月08日09:00",
-      "sportItemId": "2",
+      "sportItemId": "",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "篮球直播节目",
+      "competitionName": "��球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "[早安Tip_Off]第108期",
-      "modifyTitle": "篮球直播节目 [早安Tip_Off]第108期",
+      "modifyTitle": "��球直播节目 [早安Tip_Off]第108期",
       "presenters": "",
       "matchInfo": {
         "time": "02月08日09:00"
@@ -291,8 +291,8 @@
     },
     {
       "mgdbId": "",
-      "pID": "2495fc5fbd2faa04",
-      "title": "第十二届亚洲室内田径��标赛",
+      "pID": "40e1ec2503e572e6",
+      "title": "第十二届亚洲室内田径锦标赛",
       "keyword": "02月08日10:05",
       "sportItemId": "9",
       "matchStatus": "0",
@@ -300,8 +300,8 @@
       "competitionName": "亚洲室内田径锦标赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
-      "pkInfoTitle": "第十二届亚洲室内田径��标赛",
-      "modifyTitle": "亚洲室内田径锦标赛 第十二届亚洲室内田径��标赛",
+      "pkInfoTitle": "第十二届亚洲室内田径锦标赛",
+      "modifyTitle": "亚洲室内田径锦标赛 第十二届亚洲室内田径锦标赛",
       "presenters": "",
       "matchInfo": {
         "time": "02月08日10:05"
@@ -366,7 +366,7 @@
       },
       "nodes": [
         {
-          "name": "石楷文 沈知渝 婧雯",
+          "name": "石��文 沈知渝 婧雯",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=839a100bba3020d81763f19974c68021&id=ox6hGRImyG6pA27dZ4U2OmW6iPSw6MvqA4A2trt5y0HhZKttaC2eXy%2Fcc9vFPQfeJnm7TpFR6elq0wLot0EAFzd4B%2BAj5pfsEasqObKSoeHAoShjIoE02tXrj4kjFp8%2FLJ2bo78WnpcVPDarfa3O16C%2Bg0zr9iiEp9Kn1twFx6%2B6Ibrd8FYnzXVTQuYGg4ESpKfILqb86B1qb6WJpeTNARcDFbhELz4Q%2FeIWF3%2FICO2dX6ZFL%2BJ4TDKzDgPLmZMxW8EFbPPsW0Bnqn8XLoxndvb6EvVyUqnFIaVkspGQ94%2FiOLL0%2F9Vq1ETuLFdW%2F4pD6STzJR1PWnbnkuhmUwNMRg%3D%3D&name=%2BU1%2BVa5kIh77dG9%2FvHx35Ta96WjUvp6scqYUUs6qU4UWz6bHcYdTlarGTUqnV71wIVtxEGEOtbqTqF8a5TDuBBzpGXSi4jGx8emVKqoH18PEHceRf2IMVJttflKhNdLE"
           ]
@@ -652,8 +652,8 @@
       ]
     }
   ],
-  "timestamp": "2026-02-07T19:30:24.165Z",
-  "shanghaiTime": "2026-02-08T03:30:24.165Z",
+  "timestamp": "2026-02-07T20:00:27.249Z",
+  "shanghaiTime": "2026-02-08T04:00:27.249Z",
   "count": 22,
   "mode": "today",
   "source": "real"
