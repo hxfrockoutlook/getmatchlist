@@ -647,6 +647,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "4c3ee13b1d36179c",
+      "title": "纳波卡站决��_拉杜卡努vs科斯蒂亚",
+      "keyword": "02月07日22:30",
+      "sportItemId": "3",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "WTA250克卢日",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "纳波卡站决��_拉杜卡努vs科斯蒂亚",
+      "modifyTitle": "WTA250克卢日 纳波卡站决��_拉杜卡努vs科斯蒂亚",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月07日22:30"
+      },
+      "nodes": [
+        {
+          "name": "纳波卡站决��_拉杜卡努vs科斯蒂亚",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=43a268cc363ef37adf33de1319715bdc&id=pi6VglWJD42ed17dMpXhOdLUaschhHnISnVE9n7TE8lUe9wCifqrjjE6tGe6arCfa2p7yngrZtow1KH3K4RB5GlsUht0XR%2BUL3hwyG%2ByE%2FPnNmIQZNlbbvag7wll%2Frpq1b8IKJ%2BiiNXZBpKnDdQT%2FzBdRlyx3YVtN2CNSMsuLwAn46xxZTp0GF78HEiOQz4IqrfveH48RGco8IaWoleUThhy8avjS7LqUOXKZqiSgIBwxgXcaPsYWut7F9uI6ILH1rFJzsN%2Fn6jyW55s1gTUHSct5Kdkr1vBfaM1pbUpHk1KJmDYqG2Bn09LzCFOK3EX&name=JO%2BM6cY0CFkTKwmWMHaO7QBVR1PQ480fCNEhYugqvNzjNao7j8lutSEowphQfuXwsSRd2uFibUDA2HXoDllcL2EOnnULeaQ36l9hrU%2BeDpiSFJ%2BvROBwlD%2BG5sR4TAdt"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "ede60909e7439524",
       "title": "纳波卡站决赛_拉杜卡努vs科斯蒂亚",
       "keyword": "02月07日22:30",
@@ -663,12 +689,6 @@
         "time": "02月07日22:30"
       },
       "nodes": [
-        {
-          "name": "纳波卡站决赛_拉杜卡努vs科斯蒂亚",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=43a268cc363ef37adf33de1319715bdc&id=pi6VglWJD42ed17dMpXhOdLUaschhHnISnVE9n7TE8lUe9wCifqrjjE6tGe6arCfa2p7yngrZtow1KH3K4RB5GlsUht0XR%2BUL3hwyG%2ByE%2FPnNmIQZNlbbvag7wll%2Frpq1b8IKJ%2BiiNXZBpKnDdQT%2FzBdRlyx3YVtN2CNSMsuLwAn46xxZTp0GF78HEiOQz4IqrfveH48RGco8IaWoleUThhy8avjS7LqUOXKZqiSgIBwxgXcaPsYWut7F9uI6ILH1rFJzsN%2Fn6jyW55s1gTUHSct5Kdkr1vBfaM1pbUpHk1KJmDYqG2Bn09LzCFOK3EX&name=JO%2BM6cY0CFkTKwmWMHaO7QBVR1PQ480fCNEhYugqvNzjNao7j8lutSEowphQfuXwsSRd2uFibUDA2HXoDllcL2EOnnULeaQ36l9hrU%2BeDpiSFJ%2BvROBwlD%2BG5sR4TAdt"
-          ]
-        },
         {
           "name": "赛场原声",
           "urls": [
@@ -708,37 +728,11 @@
           ]
         }
       ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "02月07日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月07日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "urls": [
-            "http://pull-flv-f26.douyincdn.com/media/stream-407007113483911852.flv?arch_hrchy=w1&exp_hrchy=w1&expire=698fc92a&major_anchor_level=common&sign=cf92540b341ca5699455825ae117051f&t_id=037-20260207090026D5045C3E066D34CE389C-u5XYvu&unique_id=stream-407007113483911852_684_flv"
-          ]
-        }
-      ]
     }
   ],
-  "timestamp": "2026-02-07T01:00:26.767Z",
-  "shanghaiTime": "2026-02-07T09:00:26.768Z",
+  "timestamp": "2026-02-07T01:30:28.726Z",
+  "shanghaiTime": "2026-02-07T09:30:28.726Z",
   "count": 25,
   "mode": "today",
-  "source": "real + cba_live"
+  "source": "real"
 }
