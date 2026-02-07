@@ -163,6 +163,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "81331eaeada25963",
+      "title": "[早安Tip_Off]第108期",
+      "keyword": "02月08日09:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "篮球直播节目",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "[早安Tip_Off]第108期",
+      "modifyTitle": "篮球直播节目 [早安Tip_Off]第108期",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月08日09:00"
+      },
+      "nodes": [
+        {
+          "name": "段冉 杨鸣 美娜",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=32cc93db0640159186531a5c43702ce8&id=G6MbDiBZ%2FnDSwfNfBo1HFWs3fr9wqozu9a7ZkkYrR5fKd66JUHXlHn39GPoV5GMvBc4frZu9u0vBVnl0ckoDXdMIJ3OnnQaRuHOsTvDktDEgJ1k6JlpWBkr5TrkeUjJzdDjVgbmeTi3iLfRIVinqzS1yER1wWJqWDhW75N%2BGgxOeuBUd%2FXjWjzISNgCnxVawpAk9V5uYv8vCPLLf4hMQdLzOFpA31othn4J2sOjmwYzqey%2Fm4joei%2FC%2BJKcrW7huPwcJQaZuRmx%2FLKC330i7OQ0parAw03jhJIA0%2Bl1HIEkSYVQIQuEcBVaiLeO3xfqS&name=gj8souy3va2M6AVFGD%2FelxHodBQXVizxd%2FEiNr%2Fb6PyTjtSe19HR2u%2BwJ%2F9EL2aEc7ytvZKkgU7QdwesvrDXIf8mPjdvaoUQhnZbLC6UfyzYllUYwvUrCbobv3a2%2B93S"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "8c79b6529228566d",
       "title": "掘金vs公牛",
       "keyword": "02月08日09:00",
@@ -626,9 +652,9 @@
       ]
     }
   ],
-  "timestamp": "2026-02-07T18:00:35.557Z",
-  "shanghaiTime": "2026-02-08T02:00:35.557Z",
-  "count": 21,
+  "timestamp": "2026-02-07T18:30:24.554Z",
+  "shanghaiTime": "2026-02-08T02:30:24.554Z",
+  "count": 22,
   "mode": "today",
   "source": "real"
 }
