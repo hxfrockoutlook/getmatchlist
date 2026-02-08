@@ -29,32 +29,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "90e3986d4cd5c70f",
-      "title": "奇才vs篮网",
-      "keyword": "02月08日04:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "NBA���规赛",
-      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "奇才vs篮网",
-      "modifyTitle": "NBA���规赛 奇才vs篮网",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月08日04:00"
-      },
-      "nodes": [
-        {
-          "name": "金浩霆",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=afa2a1ac4fd4a0e85eea243bdd258bfd&id=kCvgWB8JRjA0508kHtAXldoSqWNAez%2FEZ%2FNOs5u1iDokm36PLUk8HmeoIwp4nFTT%2Bvxk%2FtjEBXnFOIcA3%2FH3AGAWrv0ITtJ9QA0dso%2FpMc8H8rOku9%2BRo3UxHnNHOZ4JP6%2BUe9SW%2FLwtDSdC0DCGPa3G9z6p%2FsZGBbeqm0Myy43N1bYe4nB9RuvU77krM3iRETyWId7iCjulrUyr%2F9dyND0eHlemWym0f7u5QuyiSjQhXuHTaEoV7aiDTmhsupvkCOg3caWGSkBkTekW5BwH0AZcMHd9aEEkKwdUraVC9Mw%3D&name=qgtpuLahsz%2FjxkiUftcIscpSHX3%2BIrapoN%2FBCJ5tuBy%2FUytqveE86%2BR6xLKJIL4rbGAwTqhZIuI2166C8H2I1XKGNLjeOeKvpCtXFyEiSqQ%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "0d78b9308e03b32f",
       "title": "奇才vs篮网",
       "keyword": "02月08日04:00",
@@ -71,6 +45,12 @@
         "time": "02月08日04:00"
       },
       "nodes": [
+        {
+          "name": "金浩霆",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=afa2a1ac4fd4a0e85eea243bdd258bfd&id=kCvgWB8JRjA0508kHtAXldoSqWNAez%2FEZ%2FNOs5u1iDokm36PLUk8HmeoIwp4nFTT%2Bvxk%2FtjEBXnFOIcA3%2FH3AGAWrv0ITtJ9QA0dso%2FpMc8H8rOku9%2BRo3UxHnNHOZ4JP6%2BUe9SW%2FLwtDSdC0DCGPa3G9z6p%2FsZGBbeqm0Myy43N1bYe4nB9RuvU77krM3iRETyWId7iCjulrUyr%2F9dyND0eHlemWym0f7u5QuyiSjQhXuHTaEoV7aiDTmhsupvkCOg3caWGSkBkTekW5BwH0AZcMHd9aEEkKwdUraVC9Mw%3D&name=qgtpuLahsz%2FjxkiUftcIscpSHX3%2BIrapoN%2FBCJ5tuBy%2FUytqveE86%2BR6xLKJIL4rbGAwTqhZIuI2166C8H2I1XKGNLjeOeKvpCtXFyEiSqQ%3D"
+          ]
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -328,7 +308,7 @@
           ]
         },
         {
-          "name": "英文原音",
+          "name": "英文原���",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=35f55440636a9dc990825b69ca04bfdd&id=Mso%2Bzl0p5Zm%2FUh0H2Z985b9DQOYX2zE2aCQGqlqJcLIb9ygbpTegFpZE2Ny5%2BpcpkVCQedienE3nwiTqh%2F19bGIJN6lpP29eq34ZnOVbB7zhrO2ZMbZTmD9r%2Fr4skgUR1Lgg2UjXqqF24MIcaeLI9Ohi07F6iGdF9WbuP9PI5GkKenJOeLL2crVmGU7lxikGJZEYqAT6EmYvzlF8o%2BvobJE48dnV6GkNlzzr4d95WkWbVoH70m7X91p5kGJU2b8k6eocnpbU458Ec23AdB8blrsSHjAhy9Cq8uHOGavQ7mIWpGGk%2FQqsDPJNYrLxO8TJbXFdYdXesDA2SueOTKIYkA%3D%3D&name=cA5IODzwpb6rsGuw%2BwJ4uyGWwHFK4vxaZy52uPwUYeL%2Byj2v%2FWOKmn3J8UcYvj09gWQUiVIEyPklnB4WaOe6dS%2BkWHFMJLY1Rf4vxaUdUgQ%3D"
           ]
@@ -341,7 +321,7 @@
       "title": "第十二届亚洲室内田径锦标赛",
       "keyword": "02月08日10:05",
       "sportItemId": "9",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "亚洲室内田径锦标赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -698,9 +678,9 @@
       ]
     }
   ],
-  "timestamp": "2026-02-08T02:00:26.555Z",
-  "shanghaiTime": "2026-02-08T10:00:26.555Z",
-  "count": 24,
+  "timestamp": "2026-02-08T02:30:30.741Z",
+  "shanghaiTime": "2026-02-08T10:30:30.741Z",
+  "count": 23,
   "mode": "today",
   "source": "real"
 }
