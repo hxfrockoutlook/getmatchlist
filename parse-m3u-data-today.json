@@ -251,7 +251,7 @@
       "title": "勇士vs湖人",
       "keyword": "02月08日09:30",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -554,12 +554,6 @@
       },
       "nodes": [
         {
-          "name": "第1日 单文强 邱超 杨宇成",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=5654e3af1b7df00e04a23bbc9715a9ae&id=Hrcn%2FC8%2FkdxUech4FrtQH%2FO0BPJ6o%2F6d3T5WEYzOS1E4FmlWCcDLcoJbWTcSPK1ljGJ7dnfmzLiAx8hH4LeDczYRI0%2BOiy9RkeKOoJEjlXsljVLnzM1kZH5YC7YG6kXyz45w02%2F36TTAfpiVwW%2BXg1vJm%2FVkUSascgpGD8HewFuPkbr7U65FeXNBQzTnBushHSvGj46cz7Mw8zc0rVYl4OqTB8NFUfcrwzsFZBTxfAU9t2JZh2OA7B9PrGxWD%2BefWQpUYOHi1yrzx47R4w4gMIVmIk7dS6KYQmgSU9hS%2BZOvCl3IbvSFPDUqIM9FFRWL&name=%2FYU0i0qzopur%2FifbuQMCzBtSZF4nYWFYeaLfpeuFJ58N6YLqWom%2FimV04L4l9FnYHEIbAjcZTmUUAUV%2BpmjxXGMmjz0l4Ggq9OHTtA837zednazA5cFgwGcfnGpRajuuZekBUwdkVBsZSpwMx%2FiBaw%3D%3D"
-          ]
-        },
-        {
           "name": "第1日 英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=ab68e8cc6f18108c105f095d3a0fd9ce&id=Vn6u2uSxDsgJ1BxqCrbxbEwKa1C2Ks0dRHdLrzBRMeYpBd6Rvy2TybtQ3ZOsLvyVTgTvuxOngOlhJuHprhHO6EnNJkfyXNtMBggm4cLBpij5ILAJDA4zLeWwWTSPUxOegl%2B4W4TAaOnqDr1r0eQZRS2P09HJgGjtPhHEyHtqyVG1aVtCLn0ZE6Qc7fZFIXJJ08U6rVbodkG02CTLYGBQhZ%2B0APCX8v5Z3w6oDiORE9bgOc79NUSL65upyMJ55eu3nM%2FDTR4i1lbwsOnucFRpuPDk3CGEo9VRrVVQSpnpJCWQJNDfMqv%2BJNvw7MDOxpOx&name=EzwF4yAhHahrRPlsBMzHmP7EgPC5HcQx7fW6VSTHB5Y0KDDL3b7gzV01q9CtmV3NgwQGcXuuHjrrOTbJ8SlfW%2F2xUPQ7TtkLkrvzUn95pSXyRTEk7nFDqzBxxkFU%2B6OY"
@@ -678,8 +672,8 @@
       ]
     }
   ],
-  "timestamp": "2026-02-08T01:00:29.707Z",
-  "shanghaiTime": "2026-02-08T09:00:29.707Z",
+  "timestamp": "2026-02-08T01:30:24.661Z",
+  "shanghaiTime": "2026-02-08T09:30:24.661Z",
   "count": 23,
   "mode": "today",
   "source": "real"
