@@ -140,7 +140,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=3403170ce988ce1f3075a209838dda48&id=w1du0afgwF4g%2Fq3WMTno8yX%2BH4jLgVcTq73Stm5hmWvzkTWHv%2Bfq4g4gCSH1%2FmatqazlR1AKUYoXlCmkV%2BY8e1KaEk7%2FDPZD0KKMGjsJc5UIKLJ%2BdWLiY5MjBAdsxbH%2BdKE39IB4GcHLdU8nOi5h6Abc6s%2FlsiV1%2BchlDqn4SZFLcWFOyWypcnRQDz7CEOAIvLc9rWayOYyhVsziAa%2Fj7Rf%2F%2FPCMo84XrKVbgDe9%2BwejLlreNKbMWr5xE3WssYE7P%2F1rQ5B3ICv3VrxJQ9KlKfENiQ0E%2F8gUQkN4X3XEo6c%3D&name=ExL%2Fs%2FEVAhpl0KZEG%2BtljV9A7Q4TLofpVrhAeofOiI9qxCTQXflODEpmwYL6XJBNlr09L%2FfZhngWQ7wFxu1XTpGEd8gPUT92jl1N2E1bMEQ%3D"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "61ba6662dbded534",
+      "title": "��行者vs猛龙",
+      "keyword": "02月09日04:00",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "NBA常规赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "��行者vs猛龙",
+      "modifyTitle": "NBA常规赛 ��行者vs猛龙",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月09日04:00"
+      },
+      "nodes": [
         {
           "name": "英文原音",
           "urls": [
@@ -299,32 +319,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "c81fa8a5cc770317",
-      "title": "WTA1000���哈站",
-      "keyword": "02月09日18:00",
-      "sportItemId": "3",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "WTA1000多哈站",
-      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "WTA1000���哈站",
-      "modifyTitle": "WTA1000多哈站 WTA1000���哈站",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月09日18:00"
-      },
-      "nodes": [
-        {
-          "name": "第2日",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=443e49cafac3f562f6d3279169e7122e&id=J02SHT5Ipx88ZvcwsY0lOGFd2l%2BQLgIODIwWuWh4p8Z82v%2B2Qy7AM5RT6OY8da6%2FyQXwRosoc3oaW5sXB9arA2F%2BpgQm0UxPio6rKdOAZslq5%2B4aCzUEblvBvcQ4NAviRs3FUBJQK%2FXOa1JvO4gCZrgT%2Fhb%2Fo1iH23%2Fj0Ip%2BE9XDd93l0wFunwm2y1GXZdxfKFYQNOTjZ7DXKdxnXCJSP8GpH5Bh%2FFTbVAACIYRIxevarNa5cd41%2FS9dE9GMoKHzwIa6b95xCvAsyyboLX%2BcqM0TzmKGd1wugyCJyelSIY1XH9gDXZFQr%2BqnO3nt2t20&name=OWZEJvOUgKm17Mk4fSBXJfb8lllIkxSeDPUbYQQx%2BFNufjiV7SfX5lXVLHL6h4NUX0NRa8kDoC8kCU2GsAVClAbIdWKUTYNR%2BdR8FjwKn7Y%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "a312362358444fcd",
       "title": "WTA1000多哈站",
       "keyword": "02月09日18:00",
@@ -341,6 +335,12 @@
         "time": "02月09日18:00"
       },
       "nodes": [
+        {
+          "name": "第2日",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=443e49cafac3f562f6d3279169e7122e&id=J02SHT5Ipx88ZvcwsY0lOGFd2l%2BQLgIODIwWuWh4p8Z82v%2B2Qy7AM5RT6OY8da6%2FyQXwRosoc3oaW5sXB9arA2F%2BpgQm0UxPio6rKdOAZslq5%2B4aCzUEblvBvcQ4NAviRs3FUBJQK%2FXOa1JvO4gCZrgT%2Fhb%2Fo1iH23%2Fj0Ip%2BE9XDd93l0wFunwm2y1GXZdxfKFYQNOTjZ7DXKdxnXCJSP8GpH5Bh%2FFTbVAACIYRIxevarNa5cd41%2FS9dE9GMoKHzwIa6b95xCvAsyyboLX%2BcqM0TzmKGd1wugyCJyelSIY1XH9gDXZFQr%2BqnO3nt2t20&name=OWZEJvOUgKm17Mk4fSBXJfb8lllIkxSeDPUbYQQx%2BFNufjiV7SfX5lXVLHL6h4NUX0NRa8kDoC8kCU2GsAVClAbIdWKUTYNR%2BdR8FjwKn7Y%3D"
+          ]
+        },
         {
           "name": "第2日 英文原音",
           "urls": [
@@ -446,8 +446,8 @@
       ]
     }
   ],
-  "timestamp": "2026-02-09T06:00:27.532Z",
-  "shanghaiTime": "2026-02-09T14:00:27.532Z",
+  "timestamp": "2026-02-09T06:30:27.675Z",
+  "shanghaiTime": "2026-02-09T14:30:27.675Z",
   "count": 15,
   "mode": "today",
   "source": "real"
