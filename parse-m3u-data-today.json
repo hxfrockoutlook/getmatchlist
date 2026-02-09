@@ -180,6 +180,12 @@
       },
       "nodes": [
         {
+          "name": "石楷文",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=81346b6d4ce8271b879d055118081495&id=y8AkgWxdGUC8uJkiOIFF3KzEEakrZ%2FLANVV8iRN%2FdCcl9q%2BkJqlrPCBY1RnKAvm19yMaGvggtq9N1ib5rscvyK9hhLkrWXO8lE%2Fb5Cm9YEPA9BqfppuW%2FEvMhjFL0kW9HQs7h7asoOtOA4De00gRVWRfYzm16Etf%2BNiT50tt0yKJ7%2BCbIAUJeTjPg8SFVL3x36UjkfYDYlEF%2BscxlhRIs73XicRGXFnT2AawRiuLVSaKBqRT%2B%2FAgJmeBHzQN1ipvLe4mIPrRhgyzYNIPKh29bP%2B7lDmd5xtxFjTh0sL9x75sJbvyGzhyoWpFtyjpfd50IlweDL6F%2BEYGU%2Fwl%2FXWk2g%3D%3D&name=dA%2F5RZRYZT2Cd8dPeDlgUna4iKmvVANaHMpIHUSoxuopy5pna%2FqZi2028mNhDB238XOsownCf8mEUtcDDcpFTv2BA5wqiI91tiOPBjRaASY%3D"
+          ]
+        },
+        {
           "name": "英文原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=6a9d4e5787a2dbd48acc0a811ca2b332&id=gkLwbK0opIGQ%2BBn%2FbJoYPTpmPNMZhDeq%2BYditQJ3RiaSY%2FutS3a9%2B5eDgLx%2B%2Fv%2B8UdXI2%2F8TXeei%2By5a9hVfofx8xep7bOiPpu6EjaMyqOKpObOi5QfvUYU6WfQkUMIQ95ABN3g0QxbQEdEnrwNohWJ8Oqw48ZB0fCe8FoD6R1qeG3N3yz0qJZzbTFrZItXn33lBtix5UBwM1KjvsIo5vuuC35zx2diVBWJGZ1KLEJXaWWsGZ0rWu8NrbBtZigKEnjFHTejBVp0qLnkdpB8dxTm3Gmi%2B7ut1xn3zCYDw132gjI9%2FEbGKwGV5ahT9HQU%2FNQDoYms6i%2BRc5tY5RV6yhQ%3D%3D&name=8rrl0YNdtq60AJDWQiBQZJvvN%2BgZlzqgj3W%2FTqzPcB%2BKnt7pUNvr%2BfEhsV8tQ0qZPiOdMZv1cu0xScM3ddLZVZ7M0eqSqyOLhocCxb2Gsp8%3D"
@@ -589,8 +595,8 @@
       ]
     }
   ],
-  "timestamp": "2026-02-09T22:30:48.135Z",
-  "shanghaiTime": "2026-02-10T06:30:48.135Z",
+  "timestamp": "2026-02-09T23:00:50.713Z",
+  "shanghaiTime": "2026-02-10T07:00:50.713Z",
   "count": 20,
   "mode": "today",
   "source": "real"
