@@ -389,6 +389,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "dbef4bb4c0edb516",
+      "title": "NBA常规赛精彩回顾：步行者vs猛龙",
+      "keyword": "02月09日18:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：步行者vs猛龙",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：步行者vs猛龙",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月09日18:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：步行者vs猛龙",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=8e4b09efde68df65f5c7031e46365eec&id=pyram7NUdtFHqPWvPy04opXQ52wNXPpMTHJ249y5KhdAMFAD5iTrp1YKfHKOUrBusLojZpQLWkQwq9sQdPYmb6PsA2vtZH%2BsUAJITmQft4KzZJNgED3Esv5E9KkbDEyrF5SXu7%2F%2BIV60c9eFV8BCtm82a2ZeCvZDTQkWFKveNoxjSOX2myi39NhlKYKnsIavpVCmmtyHGHzvY8I15mkGJedyJ71LTlspN1917Nx3o3uYS3hHy0xivCNJsTwFRysbFZL5so2Ot9g5DUfl3AL%2Bp09p2oxmsfPXHq%2FJUkljB4JUljESa0u6mebD%2F1doSa7O&name=fK2MPbaD1lMy2pRFJIE9PADWsHTfnmH5aW0HggabqIpyS6NiSI4FErw1CcnKFxvlMx%2Bl8vZ8WIAtbx7hrWAsRWvmwADNuquoNtVghGXTUGmTytnAzahPjZEvHqCogRTZ"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "5db8bfcbb222105b",
       "title": "NBA常规赛精彩回顾：步行者vs猛龙",
       "keyword": "02月09日20:00",
@@ -452,9 +478,9 @@
       ]
     }
   ],
-  "timestamp": "2026-02-09T10:00:30.035Z",
-  "shanghaiTime": "2026-02-09T18:00:30.035Z",
-  "count": 15,
+  "timestamp": "2026-02-09T10:30:31.666Z",
+  "shanghaiTime": "2026-02-09T18:30:31.666Z",
+  "count": 16,
   "mode": "today",
   "source": "real"
 }
