@@ -329,7 +329,7 @@
       "title": "BLGvsEDG",
       "keyword": "02月09日17:00",
       "sportItemId": "",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "无畏契约VCT CN启点赛败者组决赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -415,6 +415,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "5db8bfcbb222105b",
+      "title": "NBA常规赛精彩回顾：步行者vs猛龙",
+      "keyword": "02月09日20:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA常规赛精彩回顾：步行者vs猛龙",
+      "modifyTitle": "NBA经典赛 NBA常规赛精彩回顾：步行者vs猛龙",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月09日20:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA常规赛精彩回顾：步行者vs猛龙",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=8855cd0bfc0c77cce577264e9eaca270&id=hLcZBlVVrBA96kEO0y%2Fyy%2BBogRu2siY7pFgL6BO7QkQgp7OZGd4IhdwT0o7oskQ6RkmYYTt5clMowEn73j9mDXSl%2FPskw2LIATZsHFUTh5Gx3SodjG6mSpynnGWhYQAkkfzgeF3MlOgwfA6lF3KXDRFQdZ%2F6uAtsQCE%2F4nW%2BtIlGpC0Bt51Ahg0fuBNNdQJHQE76ss8NC7Kea8J%2FUFjRa8wOuCsLEtgCMQjeU%2BPzYxswB3xw8iEJFlY0CQlyo7UT0CuwwnoockKixY3EEz8zHhhT2DHy9vrfIUwdMY7m3kq%2BpZN2N4O8ssiWbTwkNSOc&name=OR5AMcRFqWoxJ8EmPCWaZ4tNa6Uw8btBB%2F9zOe1rQJeXJJIucKCBucLhuL4ToSxdECCheoDnlJ116xv7tWojIy8mkZ6M3oJt4THINPGisKrs%2BUrdAu5nDAGGvuwysvIS"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "aead18030de3b2b2",
       "title": "郑钦文vs肯宁",
       "keyword": "02月09日21:00",
@@ -472,21 +498,21 @@
         {
           "name": "CBA俱乐部杯：山西vs广厦",
           "urls": [
-            "http://pull-flv-f1.douyinliving.com/fantasy/stream-118820675852960599_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202602091930296602D2C577562400572D-u2wRq4&unique_id=stream-118820675852960599_855_flv_hd&wsSecret=6ab57e5011bd3e387a4028bd9464620a&wsTime=6989c555"
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-118820675852960599_hd.flv?arch_hrchy=s2&expire=1771243235&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=606512efd69e1cd00ed1168619e685ec&t_id=037-202602092000355DBCCBC2CFDABC66A225-4OyylW&unique_id=stream-118820675852960599_855_flv_hd"
           ]
         },
         {
           "name": "原声:山西vs广厦",
           "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-695281434668565335_hd.flv?arch_hrchy=s2&expire=6992ffd5&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=af8c8739409d0a8507da2d868bdb3165&t_id=037-202602091930296602D2C577562400572D-hlXQdg&unique_id=stream-695281434668565335_855_flv_hd"
+            "http://pull-flv-f1.douyinliving.com/fantasy/stream-695281434668565335.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202602092000355DBCCBC2CFDABC66A225-rT5BL5&unique_id=stream-695281434668565335_855_flv&wsSecret=6dd6df041465a31e2b7be93a532f655d&wsTime=6989cc63"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-09T11:30:30.478Z",
-  "shanghaiTime": "2026-02-09T19:30:30.478Z",
-  "count": 16,
+  "timestamp": "2026-02-09T12:00:35.867Z",
+  "shanghaiTime": "2026-02-09T20:00:35.867Z",
+  "count": 17,
   "mode": "today",
   "source": "real + cba_live"
 }
