@@ -29,17 +29,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "da0d9e965bd372e9",
+      "pID": "7335cda3a2eea99d",
       "title": "克里斯蒂安vs穆霍娃",
       "keyword": "02月09日01:20",
       "sportItemId": "3",
       "matchStatus": "2",
       "matchField": "",
-      "competitionName": "WTA1000多��站1/32决赛",
+      "competitionName": "WTA1000多哈站1/32决赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "克里斯蒂安vs穆霍娃",
-      "modifyTitle": "WTA1000多��站1/32决赛 克里斯蒂安vs穆霍娃",
+      "modifyTitle": "WTA1000多哈站1/32决赛 克里斯蒂安vs穆霍娃",
       "presenters": "",
       "matchInfo": {
         "time": "02月09日01:20"
@@ -427,16 +427,16 @@
     },
     {
       "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
+      "pID": "7604808170079622000",
+      "title": "CBA俱乐部杯：山西vs广厦 78 - 59",
       "keyword": "02月09日19:30",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/c8b13ff742c24bdab082450fab107488~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1773235826&x-signature=sLADmEw99TXn4uId36DwQ6KfkkU%3D",
       "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
+      "pkInfoTitle": "山西汾酒 vs 浙江方兴渡",
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
@@ -444,23 +444,43 @@
       },
       "nodes": [
         {
-          "name": "CBA俱乐部杯：山西vs广厦",
+          "name": "CBA俱乐部杯：山西vs广厦 78 - 59",
           "urls": [
-            "http://pull-flv-f1.douyinliving.com/fantasy/stream-118820675852960599_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20260209210033697319A29B426AED4548-lIekPN&unique_id=stream-118820675852960599_855_flv_hd&wsSecret=5e31f7a062d75fad1e9a5f959bfa7a31&wsTime=6989da71"
+            "https://v9-show.douyinvod.com/0b29cdef8dc682dd655eaf53695364bc/698b514a/dash/hls-v0dd09g10000d64ttk7og65nirghufl0/tos-cn-v-5c21e9/oUJcgiDAAEpAFCf7SNfBlLQdtvPD3dQIDEAqIE.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M2lrdXE5cm53OTMzNDxnM0BpM2lrdXE5cm53OTMzNDxnM0BpcmRmMmQ0cTFhLS1kLWFzYSNpcmRmMmQ0cTFhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1770643800&l=2026020921300098521C793A9526A57236"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7604807570249274000",
+      "title": "原声:山西vs广厦 78 - 59",
+      "keyword": "02月09日19:30",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/c5966c3dfd9d4d6aa37c5126aa111f3a~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1773235826&x-signature=hI5q0AKQQzToV4JZG1Hb2EWE8ys%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "山西汾酒 vs 浙江方兴渡",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月09日19:30"
+      },
+      "nodes": [
         {
-          "name": "原声:山西vs广厦",
+          "name": "原声:山西vs广厦 78 - 59",
           "urls": [
-            "http://pull-flv-f1.douyinliving.com/fantasy/stream-695281434668565335_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20260209210033697319A29B426AED4548-xEbXcj&unique_id=stream-695281434668565335_855_flv_hd&wsSecret=6a533918f7a120eadb9f2ef569fddf6a&wsTime=6989da71"
+            "https://v26-show.douyinvod.com/29a0febc5e10d037dc0fe95e74369434/698b512a/dash/hls-v0dd09g10000d64tu0nog65ldrngokr0/tos-cn-v-5c21e9/ocJuQxBAAE0AiCMfgmvASbA2w1UJ3Oo8Big2jE.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M25qdW85cjN3OTMzNDxnM0BpM25qdW85cjN3OTMzNDxnM0BvbGthMmRrcjFhLS1kLWFzYSNvbGthMmRrcjFhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1770643826&l=2026020921302626E30F6F7F2C53239F4F"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-09T13:00:34.071Z",
-  "shanghaiTime": "2026-02-09T21:00:34.071Z",
-  "count": 15,
+  "timestamp": "2026-02-09T13:30:38.657Z",
+  "shanghaiTime": "2026-02-09T21:30:38.657Z",
+  "count": 16,
   "mode": "today",
-  "source": "real + cba_live"
+  "source": "real"
 }
