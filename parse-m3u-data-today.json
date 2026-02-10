@@ -29,32 +29,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "57b944b42b3075f9",
-      "title": "米拉·安德列娃vs里内特",
-      "keyword": "02月10日02:25",
-      "sportItemId": "3",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "WTA1000多哈站1/16决赛",
-      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "米拉·安德列娃vs里内特",
-      "modifyTitle": "WTA1000多哈站1/16决赛 米拉·安德列娃vs里内特",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月10日02:25"
-      },
-      "nodes": [
-        {
-          "name": "米拉·安德列娃vs里内特",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=d24fae267b8688635d02bb6616d893e9&id=gakk2bdrkc7dZd2TBuwhvgwGNkaFMKQCJRttCRW8oZ2%2FTtMd810UCw9yppl7Pxq1A0eBDszQ96lo26tpsLCC%2BzEnCy5NGVZXPHttnN%2BQI04diHCGZE4zsO1wb6D%2FhRy9nqumboA874xE9q0vmxyB08SPJCkTKOBdVamaRj9HtwMfwXRLPLAdos3Do%2BH8k3pokkFRVMZM9habKZP3rALHUvdKgK2oNI7G2jFPmfDwQz1rkGMUE7Zag0Tam2BZnmVwEYYlR3eUTjuWy9WGORbiPwrCVSGUSKZqLT2O1WmDwaI%3D&name=AH9OQkojjibHSA5X%2Bj%2Bb3xfJ9WnRNdFqCUMCOyFcibmoVvE8vrgpc1ZbSMFhnaOwtw%2BqlGT5SnTjFuatSHwRoHcF9qmkRva2qRpiRHs%2Fu9iFuSmvfb6f3UJOOu%2FRHCsQ"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "e2de4cc3977ae10b",
       "title": "女子大跳台决赛:",
       "keyword": "02月10日02:30",
@@ -239,7 +213,7 @@
       "title": "老鹰vs森林狼",
       "keyword": "02月10日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -271,7 +245,7 @@
       "title": "国王vs鹈鹕",
       "keyword": "02月10日09:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA常规赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -378,7 +352,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=7d1e4028a682e9c6e7a4bb9fe6e4729c&id=Rw4rx6uNqQ%2FYkAO5WSln3cT82BbD%2F9G6tLNsrtIZPXyYCPJVn2%2FTLyYO7E%2Fy46yBFLfvTs9sgVGHjIy9suP9OeBQyFH4mN4vpMUmyexy1jQqtCSTPWNJswsDbF5d%2FXqMhzq7%2FGUgdwjssRrDFczzzVhLz9HhnW7ia0hRr4RPt3mPkRtykUzlcvivUUd%2BDm68lzNltoYkiud4aqbDdnfjRFZ3hnojFCdDMFcgCrHZn3CFVR%2Ba9cOeC6Jxj3UVExFCMer4jOyC2L%2BzWTXgTdqq4TgyN6FmOeJTRGi5E1jAjs5OREYeo320B1JOyRK2ipLTGHOv786UPYb1KeC6%2FqhRPw%3D%3D&name=uxDuvTUDV3mL9gkWKhSjVDXBhfU%2Brtnc6U3%2F98pSlh2DGq1ElbvP4tyN87p8Q%2F3y%2B6ZKRqXtIwlrHJMB3UCeoM8SS5Yt8fjuB1nGd9r8BRe1qH5GyRUOgoSTNzo5d63Q"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "70dd3f1ace25d674",
+      "title": "灰熊vs勇士",
+      "keyword": "02月10日11:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NBA���规赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "灰熊vs勇士",
+      "modifyTitle": "NBA���规赛 灰熊vs勇士",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月10日11:00"
+      },
+      "nodes": [
         {
           "name": "英文原音",
           "urls": [
@@ -699,8 +693,8 @@
       ]
     }
   ],
-  "timestamp": "2026-02-10T00:30:25.874Z",
-  "shanghaiTime": "2026-02-10T08:30:25.874Z",
+  "timestamp": "2026-02-10T01:00:29.209Z",
+  "shanghaiTime": "2026-02-10T09:00:29.209Z",
   "count": 24,
   "mode": "today",
   "source": "real"
