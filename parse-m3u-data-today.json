@@ -462,7 +462,7 @@
           ]
         },
         {
-          "name": "英文原音",
+          "name": "英文���音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=e903e6ea765e4c2975c8c9c2552fd4ab&id=jkoZC0nGXqB24J4naDpK5Qj1JZj9BuOksDCa2Q4RuIaJZ9VCEWcpKYt8h78GTNwWYuJ7W4OAfPai9opdSjhuopfw%2Bu6uc57UM2gs%2BbogO0b0R6whIj5XTZpRTNWfNs3aTDArHRzM3Ke%2B4Jb5xY1znFGoTuI02UEWJAjFusuYkoH2UZws6TwqvzT7hOClaEHWq%2FoHlSx5vbw%2B0CqVRA5ghAN%2BJfSt25Hpdia8%2BsMl2%2FrJnxiiwdVFyiNQOztO5hIxkRReFjJfMLUmnIW01kOiBgXm1wWc2n%2BXjlMCM54M848%3D&name=gllWlDmR%2F2gy%2FfX6C0H8kX9r%2BNwOXGebwd%2BEXpF%2FBCv69KFCw8B59jkX7dkm1n9MMh3iP6EAO%2BGGpPrkXe0x31xkfLwxOFxkuM2y17f0HMM%3D"
           ]
@@ -556,7 +556,27 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=ea4e6c59b3db15ee5dc47b44e4bca661&id=GXh22LsSrSBbR%2FnIIY%2B8fe4IkTWee8A0Hm0RxprfRWnsfVWwdcokDYnoT2DQQRZI9sAtNkcNRpYtWOVt8GM7%2BSnQKr8pdzmWGRUPQGwEBECFufm%2B9TSItPWGCegaalmaPQn1ILVuXjxyVIu2hasUHEUmbrE1zZWT39phFgpOuzDpJMyvmlczUSbg2hnH8n7K4FcGAQtl5S9vjfPCfjNkkvIDEePE9UU6joLd7K9R3JZ6hmptRRM%2FVJ6DARbn%2BWLRpyFDT1L52c6JUNSN4zNMm%2FpJ5aQA9h3sJuUQpO4s9Kc%3D&name=Zmszf1bjrDkSV7aOkwMgRLuIcUnx8zKPLW1ei%2BluCJOYCNUeFWL3BZRop6iDZJhleKOfrV9ScfwbZa5iksXk6Vzuf%2FN1zjdsYHrJhlloxz0%3D"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "ea7f37d8c5a98f1b",
+      "title": "灰熊vs掘金",
+      "keyword": "02月12日10:00",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "NBA常规��",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "灰熊vs掘金",
+      "modifyTitle": "NBA常规�� 灰熊vs掘金",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月12日10:00"
+      },
+      "nodes": [
         {
           "name": "英文原音",
           "urls": [
@@ -868,17 +888,23 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "name": "CBA俱乐部杯决赛：上海vs山西",
           "urls": [
-            "http://pull-f5.douyinliving.com/media/stream-118842459794178898.flv?arch_hrchy=s2&expire=1771498831&major_anchor_level=vip&s_anchor=1&sign=0f93437cfe37bc61f5b39f2ff741e407&t_id=037-202602121900311221C95AC0FE89E1D189-HfKnHj&unique_id=stream-118842459794178898_850_flv&volcSecret=0f93437cfe37bc61f5b39f2ff741e407&volcTime=1771498831"
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-695298536964096855_hd.flv?arch_hrchy=s2&expire=1771500631&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=a8b2349813ce9339b79df977848c7f70&t_id=037-20260212193031283CD2ED19E282E6E811-wazc6t&unique_id=stream-695298536964096855_855_flv_hd"
+          ]
+        },
+        {
+          "name": "原声:上海vs山西",
+          "urls": [
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-695298543671051095_hd.flv?arch_hrchy=s2&expire=1771500631&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e8a7ca3b2cb885304b27afa0ad7ee898&t_id=037-20260212193031283CD2ED19E282E6E811-EZWhP7&unique_id=stream-695298543671051095_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-12T11:00:31.983Z",
-  "shanghaiTime": "2026-02-12T19:00:31.983Z",
-  "count": 29,
+  "timestamp": "2026-02-12T11:30:31.578Z",
+  "shanghaiTime": "2026-02-12T19:30:31.578Z",
+  "count": 30,
   "mode": "today",
   "source": "real + cba_live"
 }
