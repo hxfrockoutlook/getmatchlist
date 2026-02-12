@@ -29,32 +29,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "3bca4a165ca6b80f",
-      "title": "WRC瑞典站第1直播时段",
-      "keyword": "02月13日02:00",
-      "sportItemId": "",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "赛车",
-      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "WRC瑞典站第1直播时段",
-      "modifyTitle": "赛车 WRC瑞典站第1直播时段",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月13日02:00"
-      },
-      "nodes": [
-        {
-          "name": "WRC瑞典站第1直播时段",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=ca9c7508986cb925af1ec29b5b89ffd4&id=GoQ8gU92M0PqpQfcYbuxaOPGlMQOnMMhzNsqFE7tH7zV9172uKcaYX6ZOXhr3fOrOuoLjzybKbzm2YLUjle86zENitsC7P4hCAU877A6PWEZhWbmc6Fjw4UIrGd1R0Mgw7bHmgFQjqdRi2XbecSf9QTuP6Fm4I04wUVW7%2FDqWtpQz3ZUnyy3CHh83I0gMCTff1gzbot8Buf4Ae%2Fz3LvsqKX6qRD%2BEdnV8pgn4XsHOgLHlZkqeqXNfAHo3zZQeDoCsOsSe4zVm2d%2Fod%2Fy%2BTN3rctsUKCJqjAe9ldOp%2B7Q%2F2M3vLFlW4r0PvjdiywaBG%2FG&name=wZGbfBg0J9RlDNy0DFwDpcR9u1320eBjByfk6E0Pm0urn%2FSc0EMBtxSol26x7dybCCOeJsaSQAmT0tTW3NI4iMN2hPqYyh%2FsEYnoZOYV92Q%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "5ec0687c8b95f508",
       "title": "雄鹿vs雷霆",
       "keyword": "02月13日08:30",
@@ -215,17 +189,17 @@
     },
     {
       "mgdbId": "",
-      "pID": "4814218672370793",
+      "pID": "e3e1b8d3b8f8b3a0",
       "title": "KPL春季赛常规赛第二轮第二周",
       "keyword": "02月13日14:00",
       "sportItemId": "",
       "matchStatus": "0",
       "matchField": "",
-      "competitionName": "KPL春季赛常规赛第二轮",
+      "competitionName": "KPL春���赛常规赛第二轮",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
       "competitionLogo": "",
       "pkInfoTitle": "KPL春季赛常规赛第二轮第二周",
-      "modifyTitle": "KPL春季赛常规赛第二轮 KPL春季赛常规赛第二轮第二周",
+      "modifyTitle": "KPL春���赛常规赛第二轮 KPL春季赛常规赛第二轮第二周",
       "presenters": "",
       "matchInfo": {
         "time": "02月13日14:00"
@@ -396,9 +370,9 @@
       ]
     }
   ],
-  "timestamp": "2026-02-12T20:00:31.865Z",
-  "shanghaiTime": "2026-02-13T04:00:31.865Z",
-  "count": 14,
+  "timestamp": "2026-02-12T20:30:26.144Z",
+  "shanghaiTime": "2026-02-13T04:30:26.144Z",
+  "count": 13,
   "mode": "today",
   "source": "real"
 }
