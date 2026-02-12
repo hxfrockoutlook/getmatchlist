@@ -609,7 +609,7 @@
       "title": "有球必应",
       "keyword": "02月12日13:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -687,7 +687,7 @@
       "title": "NBA常规赛精彩回顾：开拓者vs森林狼",
       "keyword": "02月12日16:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -850,8 +850,8 @@
       ]
     }
   ],
-  "timestamp": "2026-02-12T07:30:25.893Z",
-  "shanghaiTime": "2026-02-12T15:30:25.893Z",
+  "timestamp": "2026-02-12T08:00:32.333Z",
+  "shanghaiTime": "2026-02-12T16:00:32.334Z",
   "count": 28,
   "mode": "today",
   "source": "real"
