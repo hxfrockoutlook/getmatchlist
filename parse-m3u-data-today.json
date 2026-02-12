@@ -26,7 +26,7 @@
           ]
         },
         {
-          "name": "英文原音",
+          "name": "英���原音",
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=a3710c81ebeaf49414716fe7ee005bb3&id=Wt7frklKKlvoXaICgo%2FzFSzfIan79HCu25nvy67YOmho06a55b5dMra13MQZd%2BzqFREernqzvdZxjf%2BBBTgTY8810IW42yhBUfNNDXhuzlZulOZEYJ8HKO1nvtAxsAdBAidVewVxhc9WLP6HXUwiO6Ra4DOS2hFf7kIFE%2Fcnn7%2FxqC%2Bustl4gM7g6T6ioff9QJk%2FRHF6siX7buCEPFnCtpDxtpYoSN0XD7Ca6tH%2BRIsxYEavu3Nj1vQCICMXZ4Cq53RT2lk5BGwyhdG46ziKsW%2FkT4mv4i0oq17xnuFuRIE%3D&name=pbCbL0AYRXPmGEDIl22IfYJ03Jp83kkb6Zg4fInuLhABAbx2ocIo2CevavpaYHJtF4F5Cdk8oyQUBGYC5PPjpUG19ffs7tQlRmBy8dyl6UuOTr8XWFMWNfu1C47EMKNF"
           ]
@@ -757,7 +757,7 @@
       "title": "有球必应精彩回顾",
       "keyword": "02月12日19:00",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
       "competitionName": "篮球直播节目",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -888,20 +888,20 @@
         {
           "name": "CBA俱乐部杯决赛：上海vs山西",
           "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-695298536964096855_hd.flv?arch_hrchy=s2&expire=1771507917&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e73d7f5caee3ceb24ac1b7c85ecba950&t_id=037-202602122131574B1385258FBA5923C62A-NFCPdl&unique_id=stream-695298536964096855_855_flv_hd"
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-695298536964096855_hd.flv?arch_hrchy=s2&expire=1771509629&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e70a1f5fedb8bbfeac69ee5ed9fd57d1&t_id=037-202602122200298C0F00DC3C8E509E9D75-pXza5c&unique_id=stream-695298536964096855_855_flv_hd"
           ]
         },
         {
           "name": "原声:上海vs山西",
           "urls": [
-            "http://pull-flv-f11.douyinliving.com/fantasy/stream-695298543671051095_hd.flv?arch_hrchy=s2&expire=1771507917&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=3bd8bc852bda50d080db0a5329136124&t_id=037-202602122131574B1385258FBA5923C62A-jDRzTG&unique_id=stream-695298543671051095_855_flv_hd"
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-695298543671051095_hd.flv?arch_hrchy=s2&expire=1771509629&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=ebf96d910fc65635bf3ef5809059db13&t_id=037-202602122200298C0F00DC3C8E509E9D75-zG76xF&unique_id=stream-695298543671051095_855_flv_hd"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-12T13:31:58.275Z",
-  "shanghaiTime": "2026-02-12T21:31:58.275Z",
+  "timestamp": "2026-02-12T14:00:29.675Z",
+  "shanghaiTime": "2026-02-12T22:00:29.675Z",
   "count": 29,
   "mode": "today",
   "source": "real + cba_live"
