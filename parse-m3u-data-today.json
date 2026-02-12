@@ -294,27 +294,7 @@
           "urls": [
             "https://mgev.188766.xyz/play?migutoken=018ed24f36fd22272de304cd91728194&id=2vFYWs3x5tPvH%2B5phFdrcd7oiKOxZtaXqT73MnAuZQD4ar9EGA3RLF%2FqBERTa8u1UdJdGPg1wQV8VNl%2F0DtapbixuoC9Av6MWNgfhe063TyathMpT6drYpTvAMa7G0c0m93nYzu0XAuohYuOZidSUk%2FO5kiv0JLgv2j5WVpQHn5znf263jwmdgSNnluSq8k8NHWanB3Hu0avOjVYae9t8SDaW1x5QMpI0UTSZWnzcHXfJBYHxt6yf3UMo5KOSJvFBkcsRh%2BxwQFFeEftpXluT6hUkJGb%2F9Jpa1T2qxrTd5c%3D&name=CQOGuZJuzSz6xWh3eLilps98prca6OgsaVoWRAeJcrrw01qmUL0tv4ZCktULKT8cqVAgGO2Clq6B8%2Brp0aa6vdHCKHHK1a7T0KdqQvkxbY0%3D"
           ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "ef888f98d8bfe9ba",
-      "title": "步行者vs篮网",
-      "keyword": "02月12日08:30",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "NBA常��赛",
-      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "步行者vs篮网",
-      "modifyTitle": "NBA常��赛 步行者vs篮网",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月12日08:30"
-      },
-      "nodes": [
+        },
         {
           "name": "英文原音",
           "urls": [
@@ -908,21 +888,21 @@
         {
           "name": "CBA俱乐部杯决赛：上海vs山西",
           "urls": [
-            "http://pull-flv-f1.douyinliving.com/fantasy/stream-695298536964096855_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-2026021220002955B27C370E267BABBF91-NQ6r2X&unique_id=stream-695298536964096855_855_flv_hd&wsSecret=21f96c9933d608af584eeb2b05e57ba3&wsTime=698dc0dd"
+            "http://pull-flv-f11.douyinliving.com/fantasy/stream-695298536964096855_hd.flv?arch_hrchy=s2&expire=1771504227&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=730493d4cd7abbc56540a25fbccceb11&t_id=037-202602122030279AFC4AEA63EA61E3F389-mGrvfD&unique_id=stream-695298536964096855_855_flv_hd"
           ]
         },
         {
           "name": "原声:上海vs山西",
           "urls": [
-            "http://pull-flv-f26.douyinliving.com/fantasy/stream-695298543671051095_hd.flv?arch_hrchy=s2&expire=6996fb5d&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=90b7aaff41189147daaeb8f6079d9ef0&t_id=037-2026021220002955B27C370E267BABBF91-ygsiwc&unique_id=stream-695298543671051095_855_flv_hd"
+            "http://pull-f5.douyinliving.com/fantasy/stream-695298543671051095_hd.flv?arch_hrchy=s2&expire=1771504227&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=009233ad35964bafdef196eda5968455&t_id=037-202602122030279AFC4AEA63EA61E3F389-nMvwDR&unique_id=stream-695298543671051095_855_flv_hd&volcSecret=009233ad35964bafdef196eda5968455&volcTime=1771504227"
           ]
         }
       ]
     }
   ],
-  "timestamp": "2026-02-12T12:00:30.272Z",
-  "shanghaiTime": "2026-02-12T20:00:30.272Z",
-  "count": 30,
+  "timestamp": "2026-02-12T12:30:27.638Z",
+  "shanghaiTime": "2026-02-12T20:30:27.638Z",
+  "count": 29,
   "mode": "today",
   "source": "real + cba_live"
 }
