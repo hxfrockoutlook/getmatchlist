@@ -358,11 +358,37 @@
     },
     {
       "mgdbId": "",
+      "pID": "60c54df49197932c",
+      "title": "NBA全明星赛回顾：NBA全明星名人赛",
+      "keyword": "02月14日18:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBA经典赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NBA全明星赛回顾：NBA全明星名人赛",
+      "modifyTitle": "NBA经典赛 NBA全明星赛回顾：NBA全明星名人赛",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月14日18:00"
+      },
+      "nodes": [
+        {
+          "name": "NBA全明星赛回顾：NBA全明星名人赛",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=e2d09e73c122219270656b63e4d53918&id=DUiS9IUyvLn33aFgL7zsuvblAFiuoAtGlzjwnj1Lf4KhfHgEIC8qNatzodLiFWOzEM1EDwJWgPAU9gjcpH1kljP%2FsNJS4G2NYgWfOPPf37sWyIgGw6keMxx%2B8Q9f25RqU5EiYfKOzTa2q4l%2BJnXZ6pX%2FoJmp8Ej5a88llp8fo56r104OELaFBHQHBEpD%2Bx6aVlY%2FW6teVEzN8AtB9D8BjMxmigu5C6SOYlcLG%2BMI2qYLYwoUhSqEK6JqYzwwiP1OR%2BFooKac18AG3NdoI6XRgMN0QZYFuGOMx56U6HwFM7rHTjt6ejPkO9XTreS1Oh6S&name=TlLSWAembseMfU2%2BahlXS0CtZzuYnVzt%2BjdvxrF2b%2FNkKGGAj7RCjPTFFUSeRkkV0yWiPT%2BhojO0cU2gv6seS6bKf8vrfA0gmT53zCqThcXqDxsIsnESd12mPjP%2Fig3A"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "1cfefe96c3ae0be8",
       "title": "FE电动方程式世界锦标赛吉达站第二回合练习赛",
       "keyword": "02月14日18:30",
       "sportItemId": "",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "赛车",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -410,32 +436,6 @@
     },
     {
       "mgdbId": "",
-      "pID": "b2d48c972d74824c",
-      "title": "FE电动方程式世界锦标赛吉达站第二回合排位赛",
-      "keyword": "02月14日20:40",
-      "sportItemId": "",
-      "matchStatus": "0",
-      "matchField": "",
-      "competitionName": "赛车",
-      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "FE电动方程式世界锦标赛吉达站第二回合排位赛",
-      "modifyTitle": "赛车 FE电动方程式世界锦标赛吉达站第二回合排位赛",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月14日20:40"
-      },
-      "nodes": [
-        {
-          "name": "FE电动方程式世界锦标赛吉达站第二回合排位赛",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=832620b439279856c2e04182998e7db5&id=u5Ddp64mu%2Bec92a5P9g%2FJPnT%2F6ZotHvUs7Vp7StmmR%2Fv7Tg6ilwvNH7VB92KGI0VY8K%2FD377lS0tzp1G%2B9ssyP25O8kAo9Sn1KwhWT6mC7BkFL7PRuQqQwUET6urQ15AgNFCWqGqiWoqhbp%2BQxMQAmCUW83nmCuGIhNhM7AekMxLp%2BTtMVHts1oe01c6AW4oRdxlT8R3m%2FrMZBMUeKnr46p%2B43N7NpVH%2Ff5TWivvfN47KIEsbGhG%2Boe4LX%2F8%2BWvfruiAByPsZa9C%2BGxFY0zoN80%2Fv2s0p1O5Csq64SyrVXdU%2FcSKibzbrrz6nk%2BFXxrh&name=T4MI7ycUdemGnWdlZlYAcK2sKBWFJGPkKm3RrTTRL2wEeA5JkxJAyRGENG0vJZoOkxudlsIxwQA8ZxAVVHtYIQvjI5FgVpsKbbpJgi3S0HT2mpD6KO9ccbyH3RSk1PqFyrLFYIv2%2BoiEnm3GkYVJUg%3D%3D"
-          ]
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "2258d29ab011946b",
       "title": "WRC瑞典站第3直播时段",
       "keyword": "02月14日23:00",
@@ -467,8 +467,8 @@
       ]
     }
   ],
-  "timestamp": "2026-02-14T10:00:26.880Z",
-  "shanghaiTime": "2026-02-14T18:00:26.880Z",
+  "timestamp": "2026-02-14T10:30:25.571Z",
+  "shanghaiTime": "2026-02-14T18:30:25.571Z",
   "count": 16,
   "mode": "today",
   "source": "real"
