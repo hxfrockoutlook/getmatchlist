@@ -291,7 +291,7 @@
       "title": "NBA全明星赛回顾：NBA全明星单项赛",
       "keyword": "02月15日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA全明星赛回顾",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -310,37 +310,11 @@
           ]
         }
       ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "02月15日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月15日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "urls": [
-            "http://pull-f5.douyinliving.com/media/stream-407090126208631634.flv?arch_hrchy=s2&expire=1771759831&major_anchor_level=vip&s_anchor=1&sign=f750d9b8250dad5d7a696550149d275e&t_id=037-2026021519303172A0856E02A2EAFBDC30-MZ3tQD&unique_id=stream-407090126208631634_850_flv&volcSecret=f750d9b8250dad5d7a696550149d275e&volcTime=1771759831"
-          ]
-        }
-      ]
     }
   ],
-  "timestamp": "2026-02-15T11:30:31.622Z",
-  "shanghaiTime": "2026-02-15T19:30:31.622Z",
-  "count": 12,
+  "timestamp": "2026-02-15T12:00:34.978Z",
+  "shanghaiTime": "2026-02-15T20:00:34.978Z",
+  "count": 11,
   "mode": "today",
-  "source": "real + cba_live"
+  "source": "real"
 }
