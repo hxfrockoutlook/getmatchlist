@@ -285,7 +285,7 @@
       "title": "NBA全明星赛回顾：NBA全明星正赛",
       "keyword": "02月16日20:00",
       "sportItemId": "2",
-      "matchStatus": "0",
+      "matchStatus": "1",
       "matchField": "",
       "competitionName": "NBA经典赛",
       "padImg": "http://catvod.957.de5.net/腾讯体育.png",
@@ -304,37 +304,11 @@
           ]
         }
       ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "02月16日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "02月16日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "urls": [
-            "http://pull-flv-f13.douyinliving.com/media/stream-118865585305813842.flv?arch_hrchy=s2&expire=1771846232&major_anchor_level=vip&s_anchor=1&sign=601dcf39a39b234c9389974801cfe45e&t_id=037-2026021619303299BA073E8816A51D702A-7LfBfY&unique_id=stream-118865585305813842_850_flv"
-          ]
-        }
-      ]
     }
   ],
-  "timestamp": "2026-02-16T11:30:32.514Z",
-  "shanghaiTime": "2026-02-16T19:30:32.514Z",
-  "count": 12,
+  "timestamp": "2026-02-16T12:00:36.923Z",
+  "shanghaiTime": "2026-02-16T20:00:36.923Z",
+  "count": 11,
   "mode": "today",
-  "source": "real + cba_live"
+  "source": "real"
 }
