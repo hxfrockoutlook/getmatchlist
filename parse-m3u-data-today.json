@@ -29,6 +29,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "95949fe4c7970a49",
+      "title": "NCAA��球",
+      "keyword": "02月19日10:00",
+      "sportItemId": "2",
+      "matchStatus": "0",
+      "matchField": "",
+      "competitionName": "NCAA篮球",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "NCAA��球",
+      "modifyTitle": "NCAA篮球 NCAA��球",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月19日10:00"
+      },
+      "nodes": [
+        {
+          "name": "圣玛丽大学vs西雅图大学",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=f262d6b841801a2f892aad67ea32ce06&id=Xqply8p7TZfSVzQ6U6K0mzEAKREMV1gniaxf9UfM5ujAm7h%2FmtvY2htJ7tzMB9jT%2BzyKI9O4pzzikO14nNWxU2q4hT5w68UhdGlO8lLnDpGfA5wmy6hUeUEuzTShvUqiflmMBUJBh7t7OJ9PMex2dlc3X2ZJi6Z1VDdr5fDpjBDZLHQcCTu9%2B2AfyFErkdbJ4VM3rc1aLmqbRcO7AHgTtXK%2BMeyTSEVypaO8xQpfbsP3TTj92yQFhTPk8lFvY9DKbFXrn7lTy%2BjLs%2BZiZahDH9nu5pdqI64uqrZlxifYKsOw0wPFAwNhTbchlRUd%2FmGr&name=Ww1RERJCoyfzIuzNZjOrjWrfyKVedhQNa8o8efCbIjo%2Feb4j3v6MPQzMBSCBOVR1MPIDJOo7a3BM2aTsmH6mek2j9C2MK4Q4m5Tm6%2BEfgw6qlfg3Ev8gdCUTFHDAUmXs"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "611aaad57483df50",
       "title": "NCAA篮球",
       "keyword": "02月19日10:00",
@@ -45,12 +71,6 @@
         "time": "02月19日10:00"
       },
       "nodes": [
-        {
-          "name": "圣玛丽大学vs西雅图大学",
-          "urls": [
-            "https://mgev.188766.xyz/play?migutoken=f262d6b841801a2f892aad67ea32ce06&id=Xqply8p7TZfSVzQ6U6K0mzEAKREMV1gniaxf9UfM5ujAm7h%2FmtvY2htJ7tzMB9jT%2BzyKI9O4pzzikO14nNWxU2q4hT5w68UhdGlO8lLnDpGfA5wmy6hUeUEuzTShvUqiflmMBUJBh7t7OJ9PMex2dlc3X2ZJi6Z1VDdr5fDpjBDZLHQcCTu9%2B2AfyFErkdbJ4VM3rc1aLmqbRcO7AHgTtXK%2BMeyTSEVypaO8xQpfbsP3TTj92yQFhTPk8lFvY9DKbFXrn7lTy%2BjLs%2BZiZahDH9nu5pdqI64uqrZlxifYKsOw0wPFAwNhTbchlRUd%2FmGr&name=Ww1RERJCoyfzIuzNZjOrjWrfyKVedhQNa8o8efCbIjo%2Feb4j3v6MPQzMBSCBOVR1MPIDJOo7a3BM2aTsmH6mek2j9C2MK4Q4m5Tm6%2BEfgw6qlfg3Ev8gdCUTFHDAUmXs"
-          ]
-        },
         {
           "name": "圣玛丽大学vs西雅图大学 英文原音",
           "urls": [
@@ -254,9 +274,9 @@
       ]
     }
   ],
-  "timestamp": "2026-02-18T17:00:34.474Z",
-  "shanghaiTime": "2026-02-19T01:00:34.474Z",
-  "count": 9,
+  "timestamp": "2026-02-18T17:30:26.499Z",
+  "shanghaiTime": "2026-02-19T01:30:26.499Z",
+  "count": 10,
   "mode": "today",
   "source": "real"
 }
