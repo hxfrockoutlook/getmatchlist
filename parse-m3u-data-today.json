@@ -29,6 +29,32 @@
     },
     {
       "mgdbId": "",
+      "pID": "4def5c248108e432",
+      "title": "科斯蒂亚vs伊埃拉",
+      "keyword": "02月19日01:45",
+      "sportItemId": "3",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "WTA1000迪拜站1/8决赛",
+      "padImg": "http://catvod.957.de5.net/腾讯体育.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "科斯蒂亚vs伊埃拉",
+      "modifyTitle": "WTA1000迪拜站1/8决赛 科斯蒂亚vs伊埃拉",
+      "presenters": "",
+      "matchInfo": {
+        "time": "02月19日01:45"
+      },
+      "nodes": [
+        {
+          "name": "科斯蒂亚vs伊埃拉",
+          "urls": [
+            "https://mgev.188766.xyz/play?migutoken=6023e83dcf74828289709f51f909daf3&id=J5rav%2F%2FH9%2FWM%2BRh1z19zDtgpRZ%2FjyVVB8MbixNm4iL0lsES3aNfroODvg5CqaJgeFb2Pp3d6uHxF5ld3EeEeia1yyqN6Q1e4RAXOq9tzFUstpxriHL%2FhRfALZ1LDgSRzwUvE0ywTdI%2F0feds2tOLGRmMl500NCOY3OciarUt9fQijrhjQoSwzmvlR0XH6TeW1kmZ1WS4lsA51VGACEiBoZZtV0sJEq5L4PcBdhqfkVRhZVYTLlZQsgFCSLjCUwN6A0H0t4JzC61Gi0BMzEanN7SB2%2FgxLqcMqMqiw25vxzg%3D&name=MIO0uFWuGjpG3y0RywPVC7pljg9%2BBk7yeCX7qxtXVHcpehEb%2Ff9AKt%2BuWNEqkygyaAv3%2BhZGv%2Bmv6VmUXs%2FLuHTHHZLjjWUCPlAjyxgOTi%2FwaPMdGdEmwMj0uw%2FbvZb4"
+          ]
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "0ca366594fe92509",
       "title": "多哈国民vs塞帕罕",
       "keyword": "02月19日02:10",
@@ -436,9 +462,9 @@
       ]
     }
   ],
-  "timestamp": "2026-02-19T01:00:27.941Z",
-  "shanghaiTime": "2026-02-19T09:00:27.941Z",
-  "count": 16,
+  "timestamp": "2026-02-19T01:30:24.437Z",
+  "shanghaiTime": "2026-02-19T09:30:24.437Z",
+  "count": 17,
   "mode": "today",
   "source": "real"
 }
