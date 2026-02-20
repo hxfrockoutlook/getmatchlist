@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 const http = require('http');
-const crypto = require('crypto'); // 引入crypto模块
+// 移除了crypto模块，因为generateStableMatchId已移除
 
 // 获取上海时区的当前时间
 function getShanghaiTime() {
@@ -12,455 +12,6 @@ function getShanghaiTime() {
   const localOffset = now.getTimezoneOffset(); // 本地时区偏移（分钟）
   const shanghaiTime = new Date(now.getTime() + (shanghaiOffset + localOffset) * 60 * 1000);
   return shanghaiTime;
-}
-
-// 获取M3U数据（支持重定向）
-async function fetchM3UData(url, retries = 3, delay = 1000, maxRedirects = 5) {
-  for (let attempt = 1; attempt <= retries; attempt++) {
-    try {
-      console.log(`尝试获取M3U数据 (第 ${attempt} 次)... URL: ${url}`);
-      
-      const data = await new Promise((resolve, reject) => {
-        let redirectCount = 0;
-        
-        const makeRequest = (currentUrl) => {
-          const client = currentUrl.startsWith('https') ? https : http;
-          const parsedUrl = new URL(currentUrl);
-          
-          const options = {
-            hostname: parsedUrl.hostname,
-            port: parsedUrl.port,
-            path: parsedUrl.pathname + parsedUrl.search,
-            method: 'GET',
-            headers: {
-              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-              'Accept': '*/*',
-              'Connection': 'keep-alive'
-            },
-            timeout: 30000
-          };
-          
-          const req = client.request(options, (res) => {
-            console.log(`HTTP 状态码: ${res.statusCode}`);
-            
-            // 处理重定向
-            if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-              redirectCount++;
-              if (redirectCount > maxRedirects) {
-                reject(new Error(`重定向次数超过限制 (${maxRedirects} 次)`));
-                return;
-              }
-              
-              const redirectUrl = new URL(res.headers.location, currentUrl).href;
-              console.log(`重定向到: ${redirectUrl}`);
-              
-              // 消耗响应体
-              res.resume();
-              
-              // 跟随重定向
-              makeRequest(redirectUrl);
-              return;
-            }
-            
-            if (res.statusCode !== 200) {
-              reject(new Error(`HTTP ${res.statusCode}`));
-              return;
-            }
-
-            let data = '';
-            res.on('data', (chunk) => data += chunk);
-            res.on('end', () => {
-              console.log(`获取数据成功，数据长度: ${data.length} 字符`);
-              resolve(data);
-            });
-          });
-          
-          req.on('error', (error) => {
-            reject(new Error(`请求错误: ${error.message}`));
-          });
-          
-          req.on('timeout', () => {
-            req.destroy();
-            reject(new Error('请求超时'));
-          });
-          
-          req.end();
-        };
-        
-        makeRequest(url);
-      });
-      
-      return data;
-      
-    } catch (error) {
-      console.error(`第 ${attempt} 次尝试失败: ${error.message}`);
-      
-      if (attempt < retries) {
-        console.log(`等待 ${delay}ms 后重试...`);
-        await new Promise(resolve => setTimeout(resolve, delay));
-        delay *= 2;
-      } else {
-        throw new Error(`所有 ${retries} 次尝试都失败了: ${error.message}`);
-      }
-    }
-  }
-}
-
-// 解析M3U数据
-function parseM3U(m3uText) {
-  const channels = [];
-  const lines = m3uText.split('\n');
-  
-  console.log(`开始解析M3U数据，共 ${lines.length} 行`);
-  
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i].trim();
-    
-    if (line.startsWith('#EXTINF:')) {
-      // 解析频道信息
-      const channelInfo = parseExtinf(line);
-      
-      // 下一行是URL
-      if (i + 1 < lines.length) {
-        const url = lines[i + 1].trim();
-        if (url && !url.startsWith('#')) {
-          channels.push({
-            ...channelInfo,
-            url: url
-          });
-          i++; // 跳过URL行
-        }
-      }
-    }
-  }
-  
-  console.log(`解析完成，共找到 ${channels.length} 个频道`);
-  return channels;
-}
-
-// 解析EXTINF行
-function parseExtinf(extinfLine) {
-  const result = {};
-  
-  // 提取tvg-logo
-  const logoMatch = extinfLine.match(/tvg-logo="([^"]+)"/);
-  if (logoMatch) {
-    result.logo = logoMatch[1];
-  }
-  
-  // 提取group-title
-  const groupMatch = extinfLine.match(/group-title="([^"]+)"/);
-  if (groupMatch) {
-    result.group = groupMatch[1];
-  }
-  
-  // 提取频道名称（最后一个逗号后的内容）
-  const lastCommaIndex = extinfLine.lastIndexOf(',');
-  if (lastCommaIndex !== -1) {
-    result.name = extinfLine.substring(lastCommaIndex + 1).trim();
-  }
-  
-  return result;
-}
-
-// 过滤频道数据
-function filterChannels(channels, mode = 'all') {
-  const shanghaiTime = getShanghaiTime();
-  const todayStr = `${(shanghaiTime.getMonth() + 1).toString().padStart(2, '0')}月${shanghaiTime.getDate().toString().padStart(2, '0')}日`;
-  
-  console.log(`开始过滤数据，模式: ${mode}，今天日期: ${todayStr}`);
-  
-  const filtered = channels.filter(channel => {
-    // 过滤组名
-    if (mode === 'all') {
-      // 全部模式：保留冰茶体育和体育回看
-      if (!['冰茶体育', '体育回看'].includes(channel.group)) {
-        return false;
-      }
-    } else if (mode === 'today') {
-      // 今天模式：只保留冰茶体育
-      if (channel.group !== '冰茶体育') {
-        return false;
-      }
-    }
-    
-    // 过滤logo
-    if (!channel.logo) return false;
-    const logoFileName = channel.logo.split('/').pop();
-    if (!['爱奇艺体育.png', '腾讯体育.png'].includes(logoFileName)) {
-      return false;
-    }
-    
-    return true;
-  });
-  
-  console.log(`过滤完成，剩余 ${filtered.length} 个频道`);
-  return filtered;
-}
-
-// 解析频道名称（修复版 - 支持所有情况）
-function parseChannelName(channelName, logo) {
-  const logoFileName = logo.split('/').pop();
-  const result = {
-    originalName: channelName,
-    dateTime: '',
-    competitionName: '',
-    title: '',
-    teams: '',
-    nodeName: ''
-  };
-  
-  if (logoFileName === '爱奇艺体育.png') {
-    // 爱奇艺格式: 11月17日00:45世欧预_阿尔巴尼亚vs英格兰
-    const match = channelName.match(/^(\d{1,2}月\d{1,2}日\d{1,2}:\d{2})([^_]+)_(.+)$/);
-    if (match) {
-      result.dateTime = match[1];
-      result.competitionName = match[2];
-      
-      const content = match[3];
-      // 检查是否包含"vs"来判断是否为比赛队伍
-      if (content.includes('vs')) {
-        result.teams = content;
-        result.title = content;
-      } else {
-        result.title = content;
-      }
-    }
-  } else if (logoFileName === '腾讯体育.png') {
-    // 腾讯格式: 11月19日08:00_NBA常规赛_勇士vs魔术 柯凡 殳海 炼炼
-    // 或: 11月19日08:00_NBA常规赛_勇士vs魔术 英文原音
-    // 或: 11月19日11:30_NBA常规赛_爵士vs湖人 二路_皓篮球
-    // 或: 11月19日12:00_NBA常规赛_太阳vs开拓者 王嘉琦 沈知渝 泱泱
-    // 或: 11月19日12:00_NBA常规赛_太阳vs开拓者 英文原音
-    
-    // 使用更精确的匹配模式
-    const match = channelName.match(/^(\d{1,2}月\d{1,2}日\d{1,2}:\d{2})_([^_]+)_([^ ]+)(?:\s+(.+))?$/);
-    if (match) {
-      result.dateTime = match[1];
-      result.competitionName = match[2];
-      result.teams = match[3];
-      result.title = match[3];
-      
-      // 如果有节点名（第4个匹配组）
-      if (match[4]) {
-        result.nodeName = match[4].trim();
-      }
-    } else {
-      // 如果上面的正则不匹配，尝试备用方案
-      console.log(`备用解析: ${channelName}`);
-      const dateTimeMatch = channelName.match(/^(\d{1,2}月\d{1,2}日\d{1,2}:\d{2})/);
-      if (dateTimeMatch) {
-        result.dateTime = dateTimeMatch[1];
-        let remaining = channelName.substring(dateTimeMatch[0].length);
-        
-        if (remaining.startsWith('_')) {
-          remaining = remaining.substring(1);
-          const parts = remaining.split('_');
-          if (parts.length >= 2) {
-            result.competitionName = parts[0];
-            // 最后一个部分可能是比赛队伍+节点名
-            const lastPart = parts[parts.length - 1];
-            const spaceIndex = lastPart.indexOf(' ');
-            if (spaceIndex !== -1) {
-              result.teams = lastPart.substring(0, spaceIndex);
-              result.title = result.teams;
-              result.nodeName = lastPart.substring(spaceIndex + 1).trim();
-            } else {
-              result.teams = lastPart;
-              result.title = result.teams;
-            }
-          }
-        }
-      }
-    }
-  }
-  
-  return result;
-}
-
-// 格式化日期时间为MM月DD日HH:MM格式
-function formatDateTime(dateTimeStr) {
-  const match = dateTimeStr.match(/(\d{1,2})月(\d{1,2})日(\d{1,2}):(\d{2})/);
-  if (!match) return dateTimeStr;
-  
-  const month = match[1].padStart(2, '0');
-  const day = match[2].padStart(2, '0');
-  const hour = match[3].padStart(2, '0');
-  const minute = match[4];
-  
-  return `${month}月${day}日${hour}:${minute}`;
-}
-
-// 解析日期时间字符串为上海时区时间
-function parseDateTime(dateTimeStr) {
-  const formattedDateTime = formatDateTime(dateTimeStr);
-  const match = formattedDateTime.match(/(\d{2})月(\d{2})日(\d{2}):(\d{2})/);
-  if (!match) return null;
-  
-  const month = parseInt(match[1]);
-  const day = parseInt(match[2]);
-  const hour = parseInt(match[3]);
-  const minute = parseInt(match[4]);
-  
-  const shanghaiTime = getShanghaiTime();
-  const year = shanghaiTime.getFullYear();
-  
-  // 简单处理跨年情况（如果月份小于当前月份，认为是明年）
-  const matchYear = month < shanghaiTime.getMonth() + 1 ? year + 1 : year;
-  
-  // 创建上海时区时间对象
-  const matchTime = new Date(matchYear, month - 1, day, hour, minute);
-  
-  return matchTime;
-}
-
-// 合并相同比赛
-function mergeMatches(channels) {
-  const matchMap = new Map();
-    
-  console.log('开始合并相同比赛...');
-  
-  channels.forEach((channel, index) => {
-    const parsed = parseChannelName(channel.name, channel.logo);
-    
-    // 格式化日期时间
-    const formattedDateTime = formatDateTime(parsed.dateTime);
-    
-    // 生成匹配键（排除节点名）- 只使用日期时间+赛事名+比赛队伍
-    const matchKey = `${formattedDateTime}_${parsed.competitionName}_${parsed.teams}`;
-    
-    if (!matchMap.has(matchKey)) {
-      const shanghaiTime = getShanghaiTime();
-      const matchDateTime = parseDateTime(parsed.dateTime);
-      
-      let matchStatus = "0";
-      if (matchDateTime) {
-        const matchTime = matchDateTime.getTime();
-        const currentTime = shanghaiTime.getTime();
-        const threeHoursLater = matchTime + 3 * 60 * 60 * 1000;
-        
-        if (currentTime > threeHoursLater) {
-          matchStatus = "2"; // 已结束
-        } else if (currentTime >= matchTime) {
-          matchStatus = "1"; // 进行中
-        } else {
-          matchStatus = "0"; // 未开始
-        }
-      }
-      
-      // 修复 modifyTitle 格式：competitionName + 空格 + pkInfoTitle
-      const modifyTitle = `${parsed.competitionName} ${parsed.teams}`;
-      
-      // 根据赛事名分配 sportItemId
-      const sportItemId = getSportItemId(parsed.competitionName);
-      
-      // 生成固定唯一的ID：使用MD5确保100%唯一性
-      const md5Id = generateStableMatchId(formattedDateTime, parsed.competitionName, parsed.teams);
-      console.log(`生成固定ID: ${md5Id}`);
-      
-      // 根据logo文件名设置padImg
-      let padImg = "";
-      if (channel.logo) {
-        const logoFileName = channel.logo.split('/').pop(); // 获取文件名
-        if (logoFileName === '腾讯体育.png') {
-          padImg = 'http://catvod.957.de5.net/腾讯体育.png';
-        } else if (logoFileName === '爱奇艺体育.png') {
-          padImg = 'http://catvod.957.de5.net/爱奇艺体育.png';
-        }
-      }
-      
-      matchMap.set(matchKey, {
-        mgdbId: "",
-        pID: md5Id, // 使用固定唯一ID
-        title: parsed.teams, // title 应该是比赛队伍
-        keyword: formattedDateTime, // 使用格式化后的日期时间
-        sportItemId: sportItemId,
-        matchStatus: matchStatus,
-        matchField: "",
-        competitionName: parsed.competitionName,
-        padImg: padImg,  // 修改这里：使用条件判断后的padImg值
-        competitionLogo: "",
-        pkInfoTitle: parsed.teams, // pkInfoTitle 应该是比赛队伍
-        modifyTitle: modifyTitle,
-        presenters: "",
-        matchInfo: { time: formattedDateTime }, // 使用格式化后的日期时间
-        nodes: []
-      });
-    }
-    
-    const match = matchMap.get(matchKey);
-    
-    // 如果有节点名，添加到nodes
-    if (parsed.nodeName) {
-      // 检查是否已存在相同节点名
-      const existingNode = match.nodes.find(node => node.name === parsed.nodeName);
-      if (existingNode) {
-        // 如果节点已存在，只添加URL
-        if (!existingNode.urls.includes(channel.url)) {
-          existingNode.urls.push(channel.url);
-        }
-      } else {
-        // 如果节点不存在，创建新节点
-        match.nodes.push({
-          name: parsed.nodeName,
-          urls: [channel.url]
-        });
-      }
-      console.log(`添加节点: ${parsed.nodeName} 到比赛 ${matchKey}`);
-    } else {
-      // 如果没有节点名，也要创建默认节点，name为title，urls对应url
-      const defaultNodeName = parsed.teams;
-      const existingNode = match.nodes.find(node => node.name === defaultNodeName);
-      if (existingNode) {
-        if (!existingNode.urls.includes(channel.url)) {
-          existingNode.urls.push(channel.url);
-        }
-      } else {
-        match.nodes.push({
-          name: defaultNodeName,
-          urls: [channel.url]
-        });
-      }
-      console.log(`添加默认节点: ${parsed.teams} 到比赛 ${matchKey}`);
-    }
-  });
-  
-  const merged = Array.from(matchMap.values());
-  console.log(`合并完成，共 ${merged.length} 个比赛条目`);
-  
-  // 输出所有pID用于调试
-  //console.log('所有比赛的pID:', merged.map(match => match.pID));
-
-  // 过滤掉 title、keyword、competitionName 同时为空的记录
-  const finalMerged = merged.filter(match => {
-    const isEmpty = !match.title && !match.keyword && !match.competitionName;
-    if (isEmpty) {
-      console.log(`移除空记录: ${match.pID}`);
-    }
-    return !isEmpty;
-  });
-  
-  console.log(`过滤后剩余 ${finalMerged.length} 个有效比赛条目`);
-  return finalMerged;
-}
-
-// 生成稳定且唯一的比赛ID（使用MD5确保100%唯一性）
-function generateStableMatchId(dateTimeStr, competitionName, teams) {
-  // 1. 标准化日期时间：11月17日00:45 → 11170045
-  const dateTimePart = dateTimeStr.replace(/(\d{2})月(\d{2})日(\d{2}):(\d{2})/, (match, month, day, hour, minute) => {
-    return `${month}${day}${hour}${minute}`;
-  });
-  
-  // 2. 创建基础字符串
-  const baseString = `${dateTimePart}_${competitionName}_${teams}`;
-  
-  // 3. 使用MD5生成哈希（取前16位）
-  const md5Hash = crypto.createHash('md5').update(baseString).digest('hex');
-  const shortHash = md5Hash.substring(0, 16);
-  
-  //console.log(`生成MD5 ID: 基础字符串="${baseString}", MD5="${md5Hash}", 短哈希="${shortHash}"`);
-  
-  return shortHash;
 }
 
 // 根据赛事名获取 sportItemId
@@ -556,7 +107,6 @@ function getSportItemId(competitionName) {
   }
 
   return "";
-
 }
 
 // 获取CBA回放数据
@@ -814,29 +364,11 @@ async function main() {
     
     console.log(`=== 开始处理体育数据 (模式: ${mode}) ===`);
     
-    let mergedMatches;
+    // 初始化合并结果数组，现在只包含CBA相关数据
+    let mergedMatches = [];
     
-    try {
-      console.log('尝试从真实API获取数据...');
-      const m3uUrl = 'http://bingcha.hxfkof88.cloudns.ch/';
-      const m3uText = await fetchM3UData(m3uUrl, 3, 2000);
-      
-      console.log('解析M3U数据...');
-      const channels = parseM3U(m3uText);
-      
-      console.log('过滤数据...');
-      const filteredChannels = filterChannels(channels, mode);
-      
-      console.log('合并相同比赛...');
-      mergedMatches = mergeMatches(filteredChannels);
-      
-    } catch (apiError) {
-      console.error('从真实API获取数据失败:', apiError.message);
-      throw apiError; // 直接抛出错误，不使用模拟数据
-    }
-    
-    // ============ 根据模式处理CBA数据 ============
-    console.log(`开始获取CBA数据 (模式: ${mode})...`);
+    // ============ 根据模式处理CBA回放数据 ============
+    console.log(`开始获取CBA回放数据 (模式: ${mode})...`);
 
     // 获取当前北京时间（上海时区）
     const shanghaiTime = getShanghaiTime();
@@ -844,9 +376,8 @@ async function main() {
 
     // 判断当前时间是否在19:00:00以后
     const isAfter1900 = currentHour >= 19;
-    //console.log(`当前北京时间: ${shanghaiTime.toLocaleTimeString()}, 是否在19:00后: ${isAfter1900}`);
     
-    // 1. 获取CBA回放数据（根据条件执行）
+    // 获取CBA回放数据（根据条件执行）
     if (mode === 'all' || (mode === 'today' && isAfter1900)) {
       try {
         const cbaReplyData = await fetchCBAReplyData();
@@ -869,7 +400,7 @@ async function main() {
       console.log('当前时间未到19:00:00，不获取CBA回放数据');
     }
     
-    // 2. 添加固定CBA直播间数据 (新增)
+    // 2. 添加固定CBA直播间数据
     try {
       console.log('开始添加固定CBA直播间数据...');
       
@@ -1025,21 +556,25 @@ async function main() {
     } catch (liveError) {
       console.error('处理CBA直播间数据时出错，跳过:', liveError.message);
     }
-    // ============ CBA数据处理结束 ============
     
     // 根据模式生成不同的文件名
     const outputFileName = `parse-m3u-data-${mode}.json`;
     const outputPath = path.join(__dirname, outputFileName);
     
     // 动态构建source字段
-    const sourceTypes = ['real'];
+    const sourceTypes = [];
     
     // 根据实际获取的数据类型添加source
-    if (mode === 'all' && mergedMatches.some(match => match.pID && match.pID.includes('cba_reply'))) {
+    if (mergedMatches.some(match => match.pID && match.pID.includes('cba_reply'))) {
       sourceTypes.push('cba_reply');
     }
     if (mergedMatches.some(match => match.pID === '983488708402')) {
       sourceTypes.push('cba_live');
+    }
+    
+    // 如果没有数据，标记为no_data
+    if (sourceTypes.length === 0) {
+      sourceTypes.push('no_data');
     }
     
     const outputData = {
@@ -1086,12 +621,13 @@ if (require.main === module) {
   main();
 }
 
+// 导出仍被外部可能使用的函数
 module.exports = {
   getShanghaiTime,
-  fetchM3UData,
-  parseM3U,
-  filterChannels,
-  parseChannelName,
-  mergeMatches,
-  parseDateTime
+  getSportItemId,
+  formatStandardDateTime,
+  getShanghaiDateString,
+  fetchCBAReplyData,
+  convertCBAReplyData,
+  getDouyinLiveUrl
 };
