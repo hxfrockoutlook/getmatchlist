@@ -152,7 +152,7 @@ function convertCBAReplyData(cbaData, mode = 'all') {
         console.log(`比赛 ${match.title} 使用原始方式构建节点`);
         nodes = [{
           name: `${match.title || ''} ${match.score || ''}`.trim() || 'CBA回放',
-          urls: [match.play_url]
+          url: [match.play_url]
         }];
       }
       
@@ -384,7 +384,7 @@ async function main() {
               if (match.title && match.originFlvUrl && match.originFlvUrl.trim() !== '') {
                 nodes.push({
                   name: match.title,
-                  urls: [match.originFlvUrl]
+                  url: [match.originFlvUrl]
                 });
                 validNodeCount++;
                 console.log(`添加CBA直播节点: ${match.title}`);
@@ -423,7 +423,7 @@ async function main() {
         if (liveUrl) {
           nodes.push({
             name: "抖音CBA直播 [非直播时间为CCTV13直播]",
-            urls: [liveUrl]
+            url: [liveUrl]
           });
           console.log(`使用备选方法添加CBA直播节点`);
         } else {
