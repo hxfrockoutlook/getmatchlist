@@ -3,6 +3,34 @@
   "data": [
     {
       "mgdbId": "",
+      "pID": "7613707222992131000",
+      "title": "CBA:龙狮vs山东 93 - 85",
+      "keyword": "03月05日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/460f328d214d47349abc9f3523e4df61~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1775311231&x-signature=ss6faJzHzT0k0S9b2q0I5xiGshI%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "广州朗肽海本 vs 山东高速",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月05日19:35"
+      },
+      "nodes": [
+        {
+          "name": "CBA:龙狮vs山东 93 - 85",
+          "url": "https://v9-show.douyinvod.com/680f6121d8cb7ff46db13722667eafcd/69ab0235/dash/hls-v0dd09g10000d6kohhaljht72mcb4arg/tos-cn-v-5c21e9/9cc6ac18c5094d268d42aa2ef90d6626.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=amRlcDprb2tyOTMzNDxnM0BpamRlcDprb2tyOTMzNDxnM0BvMWAvcWdeZWhhLS1kLWFzYSNvMWAvcWdeZWhhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1772719193&l=202603052159536E58F401A8C847E2804E"
+        },
+        {
+          "name": "原声:龙狮vs山东 93 - 85",
+          "url": "https://v6-show.douyinvod.com/7b863b4f44b6ae8c409793fe747f98bb/69ab0130/dash/hls-v0dd09g10000d6koh4fog65hfnnocghg/tos-cn-v-5c21e9/oYIEeALhEBGeJECpATAA9jeGaCLEQiUGxD8jXF.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ampycWs5cjdyOTMzNDxnM0BpampycWs5cjdyOTMzNDxnM0BlYGtjMmRjZWhhLS1kLWFzYSNlYGtjMmRjZWhhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1772719181&l=2026030521594163807828C414712696BC"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
       "keyword": "03月05日19:30",
@@ -20,19 +48,15 @@
       },
       "nodes": [
         {
-          "name": "CBA:龙狮vs山东",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-118946056961786711_hd.flv?arch_hrchy=s2&expire=1773322232&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=14fc65ac43578f1d0cbcb2dde701c756&t_id=037-202603052130327FA7489D14EBA2BAAF0C-ecAwnH&unique_id=stream-118946056961786711_855_flv_hd&volcSecret=14fc65ac43578f1d0cbcb2dde701c756&volcTime=1773322232"
-        },
-        {
-          "name": "原声:龙狮vs山东",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-118962460842787671_hd.flv?arch_hrchy=s2&expire=1773322232&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=57a034d60a4ef23e085b7717fd9240db&t_id=037-202603052130327FA7489D14EBA2BAAF0C-CKdJ77&unique_id=stream-118962460842787671_855_flv_hd"
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-hs-f5.flive.douyincdn.com/media/stream-695417071207187116.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1773324036&major_anchor_level=common&sign=40d26f8c0261319e7c9bb542ed114c08&t_id=037-20260305220036CCC34EEF9B04D88F1738-o5959i&unique_id=stream-695417071207187116_684_flv&volcSecret=40d26f8c0261319e7c9bb542ed114c08&volcTime=1773324036"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-05T13:30:32.707Z",
-  "shanghaiTime": "2026-03-05T21:30:32.707Z",
-  "count": 1,
+  "timestamp": "2026-03-05T14:00:36.777Z",
+  "shanghaiTime": "2026-03-05T22:00:36.777Z",
+  "count": 2,
   "mode": "today",
   "source": "cba_live"
 }
