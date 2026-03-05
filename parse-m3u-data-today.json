@@ -3,37 +3,9 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "7613707222992131000",
-      "title": "CBA:龙狮vs山东 93 - 85",
-      "keyword": "03月05日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/460f328d214d47349abc9f3523e4df61~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1775316625&x-signature=NWGKap6ofKKK%2BZxhrVwwfVBU6aI%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "广州朗肽海本 vs 山东高速",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月05日19:35"
-      },
-      "nodes": [
-        {
-          "name": "CBA:龙狮vs山东 93 - 85",
-          "url": "https://v26-show.douyinvod.com/6cfef4a0581ecc610e4694e603c66690/69ab1860/dash/hls-v0dd09g10000d6kojs7og65p3ml7d24g/tos-cn-v-5c21e9/okDATFtwnqOfDEDAlf1BYCQygNEaAFAIEp1TIS.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajU6cHM5cnZyOTMzNDxnM0BpajU6cHM5cnZyOTMzNDxnM0AxYWkwMmQ0Z2hhLS1kLWFzYSMxYWkwMmQ0Z2hhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1772724594&l=20260305232954F2B52D070BE0DF078944"
-        },
-        {
-          "name": "原声:龙狮vs山东 93 - 85",
-          "url": "https://v26-show.douyinvod.com/506217f3480362f5f59b83bc8d168f1e/69ab1658/video/tos/cn/tos-cn-v-5c21e9/o82IoTcnseBUV1gQESn4m93qMMmEVv0pzg0KA7/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=3992&bt=3992&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoD~l4U_vjVQWw&mime_type=video_mp4&qs=0&rc=NjY7NjRkN2g7Omc0Njg7ZEBpamZ4Z2lrb3hyOTMzNDxnM0A2NTMtXzAuXzUxY2IuLS80YSNnaDNecWdmaWhhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1772724601&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202603052330017BFAD4DCE16157CFB4BD"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "03月05日19:30",
+      "keyword": "03月06日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -44,19 +16,19 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "03月05日19:30"
+        "time": "03月06日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695417071207187116.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1773329431&major_anchor_level=common&sign=1cf455f6ce9296901894433b6dc8e73d&t_id=037-20260305233031A212D9A7705C8998A4F3-CHf7mm&unique_id=stream-695417071207187116_684_flv"
+          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695417071207187116.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1773331229&major_anchor_level=common&sign=1fa761caedaa500de61142f13511ea15&t_id=037-202603060000293924BB1390D6C1AC3B83-7GqB6q&unique_id=stream-695417071207187116_684_flv"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-05T15:30:32.142Z",
-  "shanghaiTime": "2026-03-05T23:30:32.142Z",
-  "count": 2,
+  "timestamp": "2026-03-05T16:00:29.329Z",
+  "shanghaiTime": "2026-03-06T00:00:29.329Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
