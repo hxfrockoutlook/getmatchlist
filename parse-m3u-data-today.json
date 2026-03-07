@@ -3,57 +3,9 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "7614278081800345000",
-      "title": "CBA全明星正赛：星锐赛、单项赛预赛 94 - 76",
-      "keyword": "03月07日19:15",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/bfd8c6fb0a84413a95f04d3e53771dbd~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1775489421&x-signature=tBX2FIxlThGfWcBiEjojnSFKn1c%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "CBA星锐队 vs 大学生联队",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月07日19:15"
-      },
-      "nodes": [
-        {
-          "name": "CBA全明星正赛：星锐赛、单项赛预赛 94 - 76",
-          "url": "https://v6-show.douyinvod.com/aebd094f0ac21bbee619b5cbb82af26f/69addac3/dash/hls-v0dd09g10000d6m3oqfog65rf7ior640/tos-cn-v-5c21e9/ow8NlJDpEFDxEOBrIAENAPQAA2D5flWspeGCgm.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=MzlyOnU5cnQ2OTMzNDxnM0BpMzlyOnU5cnQ2OTMzNDxnM0Axb2ZjMmRjbGphLS1kLWFzYSMxb2ZjMmRjbGphLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1772897387&l=2026030723294780708C083B49CE75EE55"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "7614312011149137000",
-      "title": "原声：CBA星锐队vs大学生联队 94 - 76",
-      "keyword": "03月07日19:15",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/90867b2b62d742ef9fd95037bb1f347f~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1775489421&x-signature=DSSi6r3yALRAXCjpvU%2FJC2GFmPk%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "CBA星锐队 vs 大学生联队",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月07日19:15"
-      },
-      "nodes": [
-        {
-          "name": "原声：CBA星锐队vs大学生联队 94 - 76",
-          "url": "https://v6-show.douyinvod.com/82faac012da127dfda83abeb1e965308/69adda69/dash/hls-v02d09g10000d6m3oj7og65r814ghqv0/tos-cn-v-5c21e9/okxrDf2MQEnCEEP1gApgFBJsEDlDDAReCAwAIw.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3RqNHU5cm02OTMzNDxnM0BpM3RqNHU5cm02OTMzNDxnM0BzZTE1MmQ0bGphLS1kLS9zYSNzZTE1MmQ0bGphLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1772897364&l=20260307232923551CA7A9111ADBB27A0A"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "03月07日19:30",
+      "keyword": "03月08日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -64,19 +16,19 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "03月07日19:30"
+        "time": "03月08日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695417071207187116.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1773502228&major_anchor_level=common&sign=54b455757566acf3d3208a2c1c76c591&t_id=037-2026030723302857312AAAD9E97533FC8F-224o2f&unique_id=stream-695417071207187116_684_flv"
+          "url": "http://pull-hs-f5.flive.douyincdn.com/media/stream-695417071207187116.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1773504033&major_anchor_level=common&sign=f0745cd52027c44a3453b2d8302d6a3f&t_id=037-20260308000033883F5A75AA9BF98B10B4-hf66uk&unique_id=stream-695417071207187116_684_flv&volcSecret=f0745cd52027c44a3453b2d8302d6a3f&volcTime=1773504033"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-07T15:30:28.327Z",
-  "shanghaiTime": "2026-03-07T23:30:28.327Z",
-  "count": 3,
+  "timestamp": "2026-03-07T16:00:33.628Z",
+  "shanghaiTime": "2026-03-08T00:00:33.628Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
