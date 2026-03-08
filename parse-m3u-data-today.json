@@ -20,14 +20,18 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-hs-f5.flive.douyincdn.com/media/stream-695417071207187116.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1773570624&major_anchor_level=common&sign=2204bb3301b9f70097790110513e44a0&t_id=037-202603081830249F243660B94F954C0A2D-EUM6sF&unique_id=stream-695417071207187116_684_flv&volcSecret=2204bb3301b9f70097790110513e44a0&volcTime=1773570624"
+          "name": "CBA全明星正赛：南区vs北区",
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407210971422524247_hd.flv?arch_hrchy=s2&expire=1773572427&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=22cb4f2129801ae571a5c9e91c09317e&t_id=037-20260308190027626216787B16C33BCFF1-misfC6&unique_id=stream-407210971422524247_855_flv_hd"
+        },
+        {
+          "name": "原声:CBA全明星正赛:南区vs北区",
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-695441361399186263_hd.flv?arch_hrchy=s2&expire=1773572427&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=f91c56b23d8af258af2a840f7b2a3524&t_id=037-20260308190027626216787B16C33BCFF1-uYeEVl&unique_id=stream-695441361399186263_855_flv_hd"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-08T10:30:24.917Z",
-  "shanghaiTime": "2026-03-08T18:30:24.917Z",
+  "timestamp": "2026-03-08T11:00:27.946Z",
+  "shanghaiTime": "2026-03-08T19:00:27.946Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
