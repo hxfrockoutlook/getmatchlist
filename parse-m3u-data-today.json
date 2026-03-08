@@ -3,57 +3,9 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "7614457437097416000",
-      "title": "CBA全明星正赛：南区vs北区 161 - 147",
-      "keyword": "03月08日19:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/488652cafac648eca7eb78bbd29dc9c0~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1775575821&x-signature=uSt26qEv9t8OfcwbWeTPjVj9pAs%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "南区明星队 vs 北区明星队",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月08日19:00"
-      },
-      "nodes": [
-        {
-          "name": "CBA全明星正赛：南区vs北区 161 - 147",
-          "url": "https://v9-show.douyinvod.com/cfe77fe77806afdae692ef49f375481f/69af1a54/dash/hls-v03d09g10000d6moaq7og65q91vpdgtg/tos-cn-v-5c21e9/oIt70FBlDDpCreQVhgAPDrWWEfwokgAETvEAYA.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ampzNHQ5cnRyOTMzNDxnM0BpampzNHQ5cnRyOTMzNDxnM0BxYXM2MmQ0XmphLS1kLTBzYSNxYXM2MmQ0XmphLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1772983816&l=20260308233016DACDC6B1B7DC0047798D"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "7614781691270780000",
-      "title": "原声:CBA全明星正赛:南区vs北区 161 - 147",
-      "keyword": "03月08日19:00",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/cecdd75667cd4e408f94e24c37dfe90b~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1775575821&x-signature=9OB%2FAG1XdMC04%2F73erQQRWApQtc%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "南区明星队 vs 北区明星队",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月08日19:00"
-      },
-      "nodes": [
-        {
-          "name": "原声:CBA全明星正赛:南区vs北区 161 - 147",
-          "url": "https://v26-show.douyinvod.com/e4cdd8223c99b94656e38949384f31cc/69af17d9/dash/hls-v0dd09g10000d6mobcnog65lu81el730/tos-cn-v-5c21e9/oAQ0TAELTa8iabsBFIhCL1GTEvAJtAqyngA2i.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=MzpoO285cmZyOTMzNDxnM0BpMzpoO285cmZyOTMzNDxnM0AwaS5yMmRrX2phLS1kLWFzYSMwaS5yMmRrX2phLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1772983809&l=20260308233009AAF0EA781E8D4043D0BD"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "03月08日19:30",
+      "keyword": "03月09日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -64,19 +16,19 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "03月08日19:30"
+        "time": "03月09日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyincdn.com/media/stream-695417071207187116.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69b6d095&major_anchor_level=common&sign=12e4ae93762895ee5ce526617a6516c9&t_id=037-20260308233029B4C5BACFE1C77972983D-0ckrsj&unique_id=stream-695417071207187116_684_flv"
+          "url": "http://pull-f3.douyincdn.com/media/stream-695417071207187116.flv?arch_hrchy=w1&auth_key=1773588631-0-0-b1c4287fb77265ec3b990450067592ed&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260309000031996F55167FC180464861-sYTn02&unique_id=stream-695417071207187116_684_flv"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-08T15:30:29.698Z",
-  "shanghaiTime": "2026-03-08T23:30:29.698Z",
-  "count": 3,
+  "timestamp": "2026-03-08T16:00:31.322Z",
+  "shanghaiTime": "2026-03-09T00:00:31.322Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
