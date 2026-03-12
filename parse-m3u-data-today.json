@@ -20,14 +20,26 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695463869641654956.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1773918030&major_anchor_level=common&sign=465274e99684a47352cc7bd2dee57533&t_id=037-20260312190030B9F19927A12AB4453926-g5Nekq&unique_id=stream-695463869641654956_684_flv"
+          "name": "CBA:龙狮vs宁波等2场比赛同播",
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-695461012683359063_hd.flv?arch_hrchy=s2&expire=1773919825&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=b95d615b7af7658cd60743d77c82a586&t_id=037-202603121930250EDC2D3D49AF64E07D07-qreUtA&unique_id=stream-695461012683359063_855_flv_hd"
+        },
+        {
+          "name": "青岛vs福建",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-695461036438586199_hd.flv?arch_hrchy=s2&expire=1773919825&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=d6dcdfcfc8409a258b83e1f63ed10151&t_id=037-202603121930250EDC2D3D49AF64E07D07-pvAcvn&unique_id=stream-695461036438586199_855_flv_hd&volcSecret=d6dcdfcfc8409a258b83e1f63ed10151&volcTime=1773919825"
+        },
+        {
+          "name": "原声:龙狮vs宁波",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-119000290316518231_hd.flv?arch_hrchy=s2&expire=1773919825&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=522f0b2d4460735efe113c008fc2b587&t_id=037-202603121930250EDC2D3D49AF64E07D07-qTPZLb&unique_id=stream-119000290316518231_855_flv_hd&volcSecret=522f0b2d4460735efe113c008fc2b587&volcTime=1773919825"
+        },
+        {
+          "name": "原声:青岛vs福建",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407230671226405719_hd.flv?arch_hrchy=s2&expire=1773919825&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=fa81b394cc023de7032a424860855a71&t_id=037-202603121930250EDC2D3D49AF64E07D07-xEKIDe&unique_id=stream-407230671226405719_855_flv_hd&volcSecret=fa81b394cc023de7032a424860855a71&volcTime=1773919825"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-12T11:00:30.831Z",
-  "shanghaiTime": "2026-03-12T19:00:30.831Z",
+  "timestamp": "2026-03-12T11:30:25.619Z",
+  "shanghaiTime": "2026-03-12T19:30:25.619Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
