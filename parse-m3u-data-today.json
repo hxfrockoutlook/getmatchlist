@@ -10,7 +10,7 @@
       "matchStatus": "2",
       "matchField": "",
       "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/2c551a2f58344c278936320f57c89a8d~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1776434435&x-signature=uTdQewQutoXQr3e%2FEmPjdM0nVFY%3D",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/2c551a2f58344c278936320f57c89a8d~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1776436229&x-signature=iHjYyzdjDXKpHckKv%2Bu2HBQuBlQ%3D",
       "competitionLogo": "",
       "pkInfoTitle": "上海久事 vs 山东高速",
       "modifyTitle": "",
@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "CBA:上海vs山东等6场比赛同播 112 - 96",
-          "url": "https://v6-show.douyinvod.com/d61580592d2888adc33b0adbe53969d9/69bc25c1/dash/hls-v03d09g10000d6tao62ljhtd2hpsr8q0/tos-cn-v-5c21e9/6bcbff1ec6e5434f88a6610139acca1e.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=Mzt2a2drbzlkOTMzNDxnM0BpMzt2a2drbzlkOTMzNDxnM0Bub20vcWcvbHFhLS1kLTBzYSNub20vcWcvbHFhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1773842429&l=2026031822002925275B3B1C5A71BC3696"
+          "url": "https://v6-show.douyinvod.com/bca177baa2047e61efb9eb471f1ebfa4/69bc2cb5/dash/hls-v03d09g10000d6tao62ljhtd2hpsr8q0/tos-cn-v-5c21e9/6bcbff1ec6e5434f88a6610139acca1e.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=Mzt2a2drbzlkOTMzNDxnM0BpMzt2a2drbzlkOTMzNDxnM0Bub20vcWcvbHFhLS1kLTBzYSNub20vcWcvbHFhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1773844209&l=20260318223008883478EA58DA49103985"
         }
       ]
     },
@@ -45,13 +45,13 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-hs-f5.flive.douyincdn.com/media/stream-695463869641654956.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1774447252&major_anchor_level=common&sign=08aee2537b8855073e5c7a59963827c9&t_id=037-202603182200525B753FED5E94C266576F-QYdBL5&unique_id=stream-695463869641654956_684_flv&volcSecret=08aee2537b8855073e5c7a59963827c9&volcTime=1774447252"
+          "url": "http://pull-f3.douyincdn.com/media/stream-695463869641654956.flv?arch_hrchy=w1&auth_key=1774447238-0-0-f1fb3a02a6c42782073fced4b5000acd&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260318223038C77089BAC915C766AE56-sIHKEb&unique_id=stream-695463869641654956_684_flv"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-18T14:00:52.945Z",
-  "shanghaiTime": "2026-03-18T22:00:52.945Z",
+  "timestamp": "2026-03-18T14:30:39.128Z",
+  "shanghaiTime": "2026-03-18T22:30:39.128Z",
   "count": 2,
   "mode": "today",
   "source": "cba_live"
