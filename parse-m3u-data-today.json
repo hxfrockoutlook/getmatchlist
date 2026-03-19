@@ -21,25 +21,21 @@
       "nodes": [
         {
           "name": "CBA:福建vs北京等2场比赛同播",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-119040495370634071_hd.flv?arch_hrchy=s2&expire=1774530038&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=83c9716aa17eb750a4a0236a722456a0&t_id=037-20260319210038DE3C97FF3585566C466A-QeIJ6G&unique_id=stream-119040495370634071_855_flv_hd&volcSecret=83c9716aa17eb750a4a0236a722456a0&volcTime=1774530038"
+          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-119040495370634071_hd.flv?arch_hrchy=s2&expire=69c534f7&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=7f4ffa226c0cd1628a1fbca2f8064ecb&t_id=037-202603192130308CCD1518E642E6698B20-J4Gt2m&unique_id=stream-119040495370634071_855_flv_hd"
         },
         {
           "name": "四川vs宁波",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119040504628511575_hd.flv?arch_hrchy=s2&expire=1774530038&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=20b30c28fa0c3f1ed8c0bb1efdc54304&t_id=037-20260319210038DE3C97FF3585566C466A-GyOm3L&unique_id=stream-119040504628511575_855_flv_hd"
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119040504628511575_hd.flv?arch_hrchy=s2&expire=1774531831&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=ecdff44e4f422b4f2933c67501911b28&t_id=037-202603192130308CCD1518E642E6698B20-uyJbke&unique_id=stream-119040504628511575_855_flv_hd"
         },
         {
           "name": "原声:福建vs北京",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407270885943149399_hd.flv?arch_hrchy=s2&expire=1774530038&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=34ba19d57c9257b90ed7ed69a5395b6c&t_id=037-20260319210038DE3C97FF3585566C466A-rO9OAf&unique_id=stream-407270885943149399_855_flv_hd"
-        },
-        {
-          "name": "原声:四川vs宁波",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-695501266999575383_hd.flv?arch_hrchy=s2&expire=1774530038&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=4a41f0bb9bacd1dfc114647d216179e6&t_id=037-20260319210038DE3C97FF3585566C466A-v9JqxR&unique_id=stream-695501266999575383_855_flv_hd&volcSecret=4a41f0bb9bacd1dfc114647d216179e6&volcTime=1774530038"
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407270885943149399_hd.flv?arch_hrchy=s2&expire=1774531831&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=157d8986be21c0265091276b99656c52&t_id=037-202603192130308CCD1518E642E6698B20-bjiqi9&unique_id=stream-407270885943149399_855_flv_hd"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-19T13:00:38.715Z",
-  "shanghaiTime": "2026-03-19T21:00:38.715Z",
+  "timestamp": "2026-03-19T13:30:31.437Z",
+  "shanghaiTime": "2026-03-19T21:30:31.437Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
