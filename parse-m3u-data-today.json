@@ -20,14 +20,26 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyincdn.com/media/stream-695505348295131820.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202603221900283F85D1BD39DA9CCAE84D-6ajfqi&unique_id=stream-695505348295131820_684_flv&wsSecret=5f99363d5bc77f8a6b2892158628e27f&wsTime=69bfcbcc"
+          "name": "CBA:江苏vs浙江等2场比赛同播",
+          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-407288448202834775_hd.flv?arch_hrchy=s2&expire=69c90d51&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=6bac0cfffef8952d23cc2dc032e28e77&t_id=037-2026032219302521A1C8626FA440C0EBFE-mErkww&unique_id=stream-407288448202834775_855_flv_hd"
+        },
+        {
+          "name": "深圳vs天津",
+          "url": "http://pull-f3.douyinliving.com/fantasy/stream-407288453573903191_hd.flv?arch_hrchy=s2&auth_key=1774782025-0-0-24868640c11cd350013dd0dbf1aad0da&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-2026032219302521A1C8626FA440C0EBFE-WjqdAp&unique_id=stream-407288453573903191_855_flv_hd"
+        },
+        {
+          "name": "原声:江苏vs广厦",
+          "url": "http://pull-flv-f6.douyinliving.com/fantasy/stream-119058081580319575_hd.flv?arch_hrchy=s2&k=4f98062c27f39291&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1774783825&t_id=037-2026032219302521A1C8626FA440C0EBFE-ygSHsu&unique_id=stream-119058081580319575_855_flv_hd"
+        },
+        {
+          "name": "原声:深圳vs天津",
+          "url": "http://pull-f3.douyinliving.com/fantasy/stream-119058089229157207_hd.flv?arch_hrchy=s2&auth_key=1774782025-0-0-5566b50b758116864405eac9cb248648&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-2026032219302521A1C8626FA440C0EBFE-ATOJnw&unique_id=stream-119058089229157207_855_flv_hd"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-22T11:00:28.748Z",
-  "shanghaiTime": "2026-03-22T19:00:28.748Z",
+  "timestamp": "2026-03-22T11:30:26.168Z",
+  "shanghaiTime": "2026-03-22T19:30:26.168Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
