@@ -3,61 +3,9 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "7619849731049182000",
-      "title": "CBA:江苏vs浙江等2场比赛同播 81 - 88",
-      "keyword": "03月22日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/d841dd011d3e48a7a380882906b454c4~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1776785435&x-signature=ekgiwOjuYUUOqya6HsHZJiELh%2Fs%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "江苏肯帝亚 vs 浙江浙商证券",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月22日19:35"
-      },
-      "nodes": [
-        {
-          "name": "CBA:江苏vs浙江等2场比赛同播 81 - 88",
-          "url": "https://v26-show.douyinvod.com/f672714e350aeda7649516c1ab65379e/69c1803f/dash/hls-v02d09g10000d6vv3haljht2gl0q58q0/tos-cn-v-5c21e9/98d5fad619964f68b9e6c5d1b96912f0.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=Mzt0bzVrb2t5OTMzNDxnM0BpMzt0bzVrb2t5OTMzNDxnM0BuMi1kcWdeMHNhLS1kLS9zYSNuMi1kcWdeMHNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1774193399&l=202603222329597AD8AF06F676A358023D"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "7619895386341135000",
-      "title": "深圳vs天津 114 - 86",
-      "keyword": "03月22日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/2311023c34c84969af86992f0e4bc8a0~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1776785435&x-signature=P04ctJLHQtSedfKYBXILfVHCBBk%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "深圳马可波罗 vs 天津先行者",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "03月22日19:35"
-      },
-      "nodes": [
-        {
-          "name": "深圳vs天津 114 - 86",
-          "url": "https://v26-show.douyinvod.com/22e103d95f0cb1db2f3d3ec435cf2fc2/69c18033/dash/hls-v02d09g10000d6vv4o2ljhtd9nph9t8g/tos-cn-v-5c21e9/beaa1799d38f43dea12438e25960ae49.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=andrcWdrb3J5OTMzNDxnM0BpandrcWdrb3J5OTMzNDxnM0A1Nm02cWcvMXNhLS1kLS9zYSM1Nm02cWcvMXNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1774193435&l=2026032223303589A54574A87BDB6BFD76"
-        },
-        {
-          "name": "原声:深圳vs天津 114 - 86",
-          "url": "https://v26-show.douyinvod.com/9a34a335df28b367e050cbccdd1ac77f/69c17b1a/video/tos/cn/tos-cn-v-5c21e9/oM0CN26fkQxfIcANHSkAV7ZEmAJGWafCIHwfAE/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=4069&bt=4069&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoxZQMU_vjVQWw&mime_type=video_mp4&qs=0&rc=PDZmMzQ4ZDw0NGg4NjppM0Bpamx4bTprb2x5OTMzNDxnM0A1NDBjYjM1Xi4xYGEuNC0zYSMxYWstcWcvMHNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1774193435&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026032223303589A54574A87BDB6BFD76"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "03月22日19:30",
+      "keyword": "03月23日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -68,19 +16,19 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "03月22日19:30"
+        "time": "03月23日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-hs-f5.flive.douyincdn.com/media/stream-695505348295131820.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1774798248&major_anchor_level=common&sign=f57e52d59203df9fdd5cc1da84d5d99f&t_id=037-20260322233048C88E1FE5C5A66E68F03F-1oDOjf&unique_id=stream-695505348295131820_684_flv&volcSecret=f57e52d59203df9fdd5cc1da84d5d99f&volcTime=1774798248"
+          "url": "http://pull-flv-f26.douyincdn.com/media/stream-695505348295131820.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69c94c9b&major_anchor_level=common&sign=a1d3f04b6b37e735a1b82fb14b27138b&t_id=037-2026032300002739E32AF11D9E9034FA6A-xqkhvW&unique_id=stream-695505348295131820_684_flv"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-22T15:30:48.955Z",
-  "shanghaiTime": "2026-03-22T23:30:48.955Z",
-  "count": 3,
+  "timestamp": "2026-03-22T16:00:27.945Z",
+  "shanghaiTime": "2026-03-23T00:00:27.945Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
