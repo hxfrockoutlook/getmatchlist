@@ -21,25 +21,21 @@
       "nodes": [
         {
           "name": "CBA:江苏vs浙江等2场比赛同播",
-          "url": "http://pull-flv-f1.douyinliving.com/fantasy/stream-407288448202834775_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202603222100306F62FDA5D47BCCEAE25F-ET4LAB&unique_id=stream-407288448202834775_855_flv_hd&wsSecret=eb2234e52cd84e2f72b01259679be1d1&wsTime=69bfe7ee"
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407288448202834775_hd.flv?arch_hrchy=s2&expire=1774791026&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=c2169f9bfeb06eae2b2982b1fedc3f0d&t_id=037-2026032221302636ADBBCEC12AE6B27D14-GrPxM6&unique_id=stream-407288448202834775_855_flv_hd&volcSecret=c2169f9bfeb06eae2b2982b1fedc3f0d&volcTime=1774791026"
         },
         {
           "name": "深圳vs天津",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407288453573903191_hd.flv?arch_hrchy=s2&expire=1774789230&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=e22c4355d391f2946f48ff1cad7a8543&t_id=037-202603222100306F62FDA5D47BCCEAE25F-EIEMr6&unique_id=stream-407288453573903191_855_flv_hd"
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407288453573903191_hd.flv?arch_hrchy=s2&expire=1774791026&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=ab4a5240a18fbae8ab6ea74f409a747b&t_id=037-2026032221302636ADBBCEC12AE6B27D14-u4nQxo&unique_id=stream-407288453573903191_855_flv_hd"
         },
         {
           "name": "原声:江苏vs广厦",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119058081580319575_hd.flv?arch_hrchy=s2&expire=1774789230&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=2dc79f2175fe996c3094c2bd2645e1fb&t_id=037-202603222100306F62FDA5D47BCCEAE25F-hK5CxO&unique_id=stream-119058081580319575_855_flv_hd"
-        },
-        {
-          "name": "原声:深圳vs天津",
-          "url": "http://pull-flv-f1.douyinliving.com/fantasy/stream-119058089229157207_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202603222100306F62FDA5D47BCCEAE25F-83ajG5&unique_id=stream-119058089229157207_855_flv_hd&wsSecret=82edea707c15696835973d18bf8d84f4&wsTime=69bfe7ee"
+          "url": "http://pull-f3.douyinliving.com/fantasy/stream-119058081580319575_hd.flv?arch_hrchy=s2&auth_key=1774789226-0-0-10a35905c326342dc11950fa6690f964&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-2026032221302636ADBBCEC12AE6B27D14-uqEjnh&unique_id=stream-119058081580319575_855_flv_hd"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-22T13:00:30.810Z",
-  "shanghaiTime": "2026-03-22T21:00:30.810Z",
+  "timestamp": "2026-03-22T13:30:26.799Z",
+  "shanghaiTime": "2026-03-22T21:30:26.799Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
