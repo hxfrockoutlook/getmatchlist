@@ -3,6 +3,58 @@
   "data": [
     {
       "mgdbId": "",
+      "pID": "7619849731049182000",
+      "title": "CBA:江苏vs浙江等2场比赛同播 81 - 88",
+      "keyword": "03月22日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/d841dd011d3e48a7a380882906b454c4~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1776780028&x-signature=q1Ik5ApDYnXbiT%2BIwqP88kG7c4Y%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "江苏肯帝亚 vs 浙江浙商证券",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月22日19:35"
+      },
+      "nodes": [
+        {
+          "name": "CBA:江苏vs浙江等2场比赛同播 81 - 88",
+          "url": "https://v26-show.douyinvod.com/65fa880953b2827c1f7a32fd17c64f48/69c16b0c/dash/hls-v02d09g10000d6vv3haljht2gl0q58q0/tos-cn-v-5c21e9/98d5fad619964f68b9e6c5d1b96912f0.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=Mzt0bzVrb2t5OTMzNDxnM0BpMzt0bzVrb2t5OTMzNDxnM0BuMi1kcWdeMHNhLS1kLS9zYSNuMi1kcWdeMHNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1774187972&l=202603222159322857EBEAB68080AA2DC1"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7619895386341135000",
+      "title": "深圳vs天津 114 - 86",
+      "keyword": "03月22日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/2311023c34c84969af86992f0e4bc8a0~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1776780028&x-signature=pLwPdMUnu9zpHrtauQqq%2BdfcwHI%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "深圳马可波罗 vs 天津先行者",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "03月22日19:35"
+      },
+      "nodes": [
+        {
+          "name": "深圳vs天津 114 - 86",
+          "url": "https://v26-show.douyinvod.com/40a8a1b7d482c18f5d33d7867e12f2b3/69c16af7/dash/hls-v02d09g10000d6vv4o2ljhtd9nph9t8g/tos-cn-v-5c21e9/beaa1799d38f43dea12438e25960ae49.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=andrcWdrb3J5OTMzNDxnM0BpandrcWdrb3J5OTMzNDxnM0A1Nm02cWcvMXNhLS1kLS9zYSM1Nm02cWcvMXNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1774187999&l=20260322215958C0E6D17DE4849F90727E"
+        },
+        {
+          "name": "原声:深圳vs天津 114 - 86",
+          "url": "https://v6-show.douyinvod.com/6455ae2e35f83df470dd42bbbf03292d/69c165f7/dash/hls-v02d09g10000d6vv3giljht67cm1hq6g/tos-cn-v-5c21e9/52c3c801fb4f431eaada7e26678e8db5.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=anQ0Zjlrb2p5OTMzNDxnM0BpanQ0Zjlrb2p5OTMzNDxnM0AzZWo0cWdmMHNhLS1kLS9zYSMzZWo0cWdmMHNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1774188028&l=20260322220028162831B39BE7E1CE36B3"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
       "keyword": "03月22日19:30",
@@ -20,23 +72,15 @@
       },
       "nodes": [
         {
-          "name": "CBA:江苏vs浙江等2场比赛同播",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407288448202834775_hd.flv?arch_hrchy=s2&expire=1774791026&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=c2169f9bfeb06eae2b2982b1fedc3f0d&t_id=037-2026032221302636ADBBCEC12AE6B27D14-GrPxM6&unique_id=stream-407288448202834775_855_flv_hd&volcSecret=c2169f9bfeb06eae2b2982b1fedc3f0d&volcTime=1774791026"
-        },
-        {
-          "name": "深圳vs天津",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407288453573903191_hd.flv?arch_hrchy=s2&expire=1774791026&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=ab4a5240a18fbae8ab6ea74f409a747b&t_id=037-2026032221302636ADBBCEC12AE6B27D14-u4nQxo&unique_id=stream-407288453573903191_855_flv_hd"
-        },
-        {
-          "name": "原声:江苏vs广厦",
-          "url": "http://pull-f3.douyinliving.com/fantasy/stream-119058081580319575_hd.flv?arch_hrchy=s2&auth_key=1774789226-0-0-10a35905c326342dc11950fa6690f964&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-2026032221302636ADBBCEC12AE6B27D14-uqEjnh&unique_id=stream-119058081580319575_855_flv_hd"
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f1.douyincdn.com/media/stream-695505348295131820.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260322220038AE06751DB538263508BF-74UixM&unique_id=stream-695505348295131820_684_flv&wsSecret=79927f5e647121b7ea0a393dff108e7c&wsTime=69bff606"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-22T13:30:26.799Z",
-  "shanghaiTime": "2026-03-22T21:30:26.799Z",
-  "count": 1,
+  "timestamp": "2026-03-22T14:00:39.068Z",
+  "shanghaiTime": "2026-03-22T22:00:39.068Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
