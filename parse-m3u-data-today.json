@@ -21,25 +21,25 @@
       "nodes": [
         {
           "name": "CBA:天津vs广厦等2场比赛同播",
-          "url": "http://pull-flv-f6.douyinliving.com/fantasy/stream-695530376876262231_hd.flv?arch_hrchy=s2&k=d61146412e7241fb&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1774960228&t_id=037-20260324203027D84FBB33675752CC00EE-viJ9x5&unique_id=stream-695530376876262231_855_flv_hd"
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-695530376876262231_hd.flv?arch_hrchy=s2&expire=1774962030&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=3503dfcc1eaf07a803f1cc0322730517&t_id=037-20260324210030072EF7BDE6ED7F2A736C-BAyJUg&unique_id=stream-695530376876262231_855_flv_hd"
         },
         {
           "name": "深圳vs江苏",
-          "url": "http://pull-flv-f1.douyinliving.com/fantasy/stream-407300005757453143_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20260324203027D84FBB33675752CC00EE-RKQgcs&unique_id=stream-407300005757453143_855_flv_hd&wsSecret=f752b5a682ec8843a7bb6e49328a6521&wsTime=69c283e4"
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407300005757453143_hd.flv?arch_hrchy=s2&expire=1774962030&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=1cfe0779f947f52d4d1c4e922bcf0542&t_id=037-20260324210030072EF7BDE6ED7F2A736C-H2BE2N&unique_id=stream-407300005757453143_855_flv_hd&volcSecret=1cfe0779f947f52d4d1c4e922bcf0542&volcTime=1774962030"
         },
         {
           "name": "原声:天津vs广厦",
-          "url": "http://pull-flv-f6.douyinliving.com/fantasy/stream-695530384660890455_hd.flv?arch_hrchy=s2&k=cf16d83a5b2153a6&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1774960228&t_id=037-20260324203027D84FBB33675752CC00EE-H2kZjz&unique_id=stream-695530384660890455_855_flv_hd"
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-695530384660890455_hd.flv?arch_hrchy=s2&expire=1774962030&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=08a7e5138ab6432f2918e97ffb04b0e4&t_id=037-20260324210030072EF7BDE6ED7F2A736C-mumNIT&unique_id=stream-695530384660890455_855_flv_hd&volcSecret=08a7e5138ab6432f2918e97ffb04b0e4&volcTime=1774962030"
         },
         {
           "name": "原声:深圳vs江苏",
-          "url": "http://pull-flv-f6.douyinliving.com/fantasy/stream-119069634235204439_hd.flv?arch_hrchy=s2&k=6c34660369ca8b4d&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t=1774960228&t_id=037-20260324203027D84FBB33675752CC00EE-9qFZHw&unique_id=stream-119069634235204439_855_flv_hd"
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-119069634235204439_hd.flv?arch_hrchy=s2&expire=1774962030&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=598b85167609f05299aa8cf0ba1e07f2&t_id=037-20260324210030072EF7BDE6ED7F2A736C-ux6CQz&unique_id=stream-119069634235204439_855_flv_hd&volcSecret=598b85167609f05299aa8cf0ba1e07f2&volcTime=1774962030"
         }
       ]
     }
   ],
-  "timestamp": "2026-03-24T12:30:28.636Z",
-  "shanghaiTime": "2026-03-24T20:30:28.636Z",
+  "timestamp": "2026-03-24T13:00:30.988Z",
+  "shanghaiTime": "2026-03-24T21:00:30.988Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
