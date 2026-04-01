@@ -3,32 +3,176 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "04月01日19:30",
+      "pID": "7623655351061468000",
+      "title": "CBA:辽宁vs新疆等6场比赛同播 87 - 75",
+      "keyword": "04月01日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/0ba9b1f4b91d4c828c3df321a5f45f2e~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1777651521&x-signature=F2TSlaKRy4KSk07kGhWCm41N7Q4%3D",
       "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
+      "pkInfoTitle": "辽宁本钢 vs 新疆伊力特",
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "04月01日19:30"
+        "time": "04月01日19:35"
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695579599148417708.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1775621839&major_anchor_level=common&sign=642883094aaceb483342f119a935f8d1&t_id=037-202604011217183D8774E94840296D9086-umipF4&unique_id=stream-695579599148417708_684_flv"
+          "name": "CBA:辽宁vs新疆等6场比赛同播 87 - 75",
+          "url": "https://v9-show.douyinvod.com/8a30687887625002d370d7db06f41312/69ceb8df/dash/hls-v0dd09g10000d76i4raljhtbpfjadqng/tos-cn-v-5c21e9/811a675bebc540cf87503f642f3d4f58.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=anRkaWVrb3VsOjMzNDxnM0BpanRkaWVrb3VsOjMzNDxnM0BrYWdtcWdeMTNhLS1kLWFzYSNrYWdtcWdeMTNhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&l=20260402000521A7ADE30EE4F0CD3D111D"
+        },
+        {
+          "name": "原声:辽宁vs新疆 87 - 75",
+          "url": "https://v9-show.douyinvod.com/cbf6f7849ef1941fe19d65d15c533d85/69ceb8b1/video/tos/cn/tos-cn-v-5c21e9/oUUmjqWmhzOaJmbf5ATA1CbaQfLkGleSmBNHMS/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=3365&bt=3365&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoKdMGU_vjVQWw&mime_type=video_mp4&qs=0&rc=ZjQ4OWY4ZDk5ZmhoNTVmNUBpamk5bGRrbzdsOjMzNDxnM0AuXzA2YmBeXzYxMjNeNC1iYSNoY29vcWduMjNhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260402000521A7ADE30EE4F0CD3D111D"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7623659752228935000",
+      "title": "山东vs福建 102 - 93",
+      "keyword": "04月01日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/41e368dd16254f4882cedeb47fd0a06d~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1777651521&x-signature=Vq0yiwLAXCbFSNjbsViH3LYdk10%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "山东高速 vs 福建晋江文旅",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月01日19:35"
+      },
+      "nodes": [
+        {
+          "name": "山东vs福建 102 - 93",
+          "url": "https://v26-show.douyinvod.com/47f182d8d71eabfdd577f809b0ebbe68/69ceb881/video/tos/cn/tos-cn-v-5c21e9/o4gQzEO7B6Eoppm0SUbAgF5mksEQIgeNQnG5K4/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=5555&bt=5555&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoTpMGU_vjVQWw&mime_type=video_mp4&qs=0&rc=aGRlaTo1OTZpaWQ7Zzc6NkBpajc3Zjxrb3dsOjMzNDxnM0A0MWJeMi0yNWAxYi1jNV82YSNhXnNxcWdmMTNhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1775059477&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260402000437A78ECE505FBA641B78C0"
+        },
+        {
+          "name": "原声:山东vs福建 102 - 93",
+          "url": "https://v9-show.douyinvod.com/396bd6b3034de5affa4669c0b3e8eacf/69ceb8b0/video/tos/cn/tos-cn-v-5c21e9/owMlsCZ5QFqSBI6W0EEXq3eMoRgNmpKOAagV4G/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=3636&bt=3636&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoKdMGU_vjVQWw&mime_type=video_mp4&qs=0&rc=O2dlaDZoOzRnOjY0NzpnZEBpanQ8ZGRrbzlsOjMzNDxnM0BfMC9gMjYwNl8xNi8uMV5eYSNeL2sucWcvMjNhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&l=20260402000521A7ADE30EE4F0CD3D111D"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7623666195614668000",
+      "title": "青岛vs天津 94 - 90",
+      "keyword": "04月01日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/9954b8a7ade542fb840a708d4fcfdca7~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1777651521&x-signature=fD8Npd2qIdPIEsifJvBxabeJ2jk%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "青岛崂山啤酒 vs 天津先行者",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月01日19:35"
+      },
+      "nodes": [
+        {
+          "name": "青岛vs天津 94 - 90",
+          "url": "https://v9-show.douyinvod.com/cc2f4614d325fb530893e04f5bd11b00/69ceb8ad/video/tos/cn/tos-cn-v-5c21e9/o8EmEjgBIsXNyYFgpO0oN4nA5Egvhn2qQBlejS/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=5193&bt=5193&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoKdMGU_vjVQWw&mime_type=video_mp4&qs=0&rc=NmU7aWU1aDpnZzs4OzM4NUBpanFwdTZrb21sOjMzNDxnM0AuNS82YGAyNWIxM2EvYzIxYSMtYm1mcWdeMTNhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260402000521A7ADE30EE4F0CD3D111D"
+        },
+        {
+          "name": "原声:青岛vs天津 94 - 90",
+          "url": "https://v9-show.douyinvod.com/2ac66d4ac13f8615ddd39a2ccd410488/69ceb7c1/video/tos/cn/tos-cn-v-5c21e9/oAIDAVtpxAfp6meQHNZNSyQkzBNJyg7gi8lJLD/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=3917&bt=3917&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoKdMGU_vjVQWw&mime_type=video_mp4&qs=0&rc=NDY3ZGRoZzQ8ZTw2Njw6N0BpM3B3ZDtrb2tsOjMzNDxnM0A1Xy5gYzJfNi0xNjVhLS0xYSNsb2dqcWduMjNhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&l=20260402000521A7ADE30EE4F0CD3D111D"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7623675352162391000",
+      "title": "四川vs山西 81 - 103",
+      "keyword": "04月01日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/a10eb2d69cae44d9a6b507e76acf66f3~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1777651521&x-signature=3uPC7UzuYtJCudovRzvcnXdr%2Fhg%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "四川丰谷酒业 vs 山西汾酒",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月01日19:35"
+      },
+      "nodes": [
+        {
+          "name": "四川vs山西 81 - 103",
+          "url": "https://v9-show.douyinvod.com/a616c19b8f8bde8a69adf7cbeba3675d/69ceb8ad/dash/hls-v02d09g10000d76i532ljht093d09q1g/tos-cn-v-5c21e9/389a4abceb2b4c11bf8fe96971f9e8eb.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=anQzNjNrbzZsOjMzNDxnM0BpanQzNjNrbzZsOjMzNDxnM0AuNmE2cWcvMjNhLS1kLS9zYSMuNmE2cWcvMjNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&l=20260402000521A7ADE30EE4F0CD3D111D"
+        },
+        {
+          "name": "原声:四川vs山西 81 - 103",
+          "url": "https://v26-show.douyinvod.com/475d6a8204dae9fa3d5edafc0e67aa05/69ceb467/video/tos/cn/tos-cn-v-5c21e9/oUIDAq7R4AO09K9oIasZpsQo5AhJBUTQXESeFB/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=4093&bt=4093&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoKdMGU_vjVQWw&mime_type=video_mp4&qs=0&rc=ZmZlPGg4O2dlOzc8ZzZoaUBpM3d0ZGVrbzdsOjMzNDxnM0BjNS0vMjUxXy8xMjIvYjBjYSNpZzRkcWdeMjNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260402000521A7ADE30EE4F0CD3D111D"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7623633550667568000",
+      "title": "北控vs龙狮 89 - 88",
+      "keyword": "04月01日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/d77c0cc914754733a36a4785daa177e8~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1777651521&x-signature=KicszbnT%2FKX9XIidfGDq36X8t20%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "北京控股 vs 广州朗肽海本",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月01日19:35"
+      },
+      "nodes": [
+        {
+          "name": "北控vs龙狮 89 - 88",
+          "url": "https://v26-show.douyinvod.com/1cb2df9e0d3c0139615d07709e2c2658/69ceb8ad/dash/hls-v0dd09g10000d76i52qljht00fhkete0/tos-cn-v-5c21e9/ab3133af434243bcb257d912b299b24d.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3duaTNrbzVsOjMzNDxnM0BpM3duaTNrbzVsOjMzNDxnM0BiYmUtcWduMjNhLS1kLWFzYSNiYmUtcWduMjNhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&l=20260402000521A7ADE30EE4F0CD3D111D"
+        },
+        {
+          "name": "原声:北控vs龙狮 89 - 88",
+          "url": "https://v9-show.douyinvod.com/b938786da719a9df1eef79b51e824b9c/69ceb8ad/video/tos/cn/tos-cn-v-5c21e9/o0vNSpxx0IhEomgsOA5eZTEsEE4gYgBTsQq0BZ/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=4080&bt=4080&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoKdMGU_vjVQWw&mime_type=video_mp4&qs=0&rc=Zmg5Nzg1NGdpZTM0OTUzPEBpamlrOWZrb3BsOjMzNDxnM0BhNTBhYmAxXi0xMmA0NC40YSNsNDVgcWdeMTNhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&l=20260402000521A7ADE30EE4F0CD3D111D"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7623614071095399000",
+      "title": "浙江vs北京 81 - 66",
+      "keyword": "04月01日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/a577ae9e5e5a4d98aeaba86fb8a17145~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1777651521&x-signature=hb3wsSqlo7z4bvk5x2%2BOiZ%2BBTII%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "浙江稠州金租 vs 北京北汽",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月01日19:35"
+      },
+      "nodes": [
+        {
+          "name": "浙江vs北京 81 - 66",
+          "url": "https://v9-show.douyinvod.com/fe91948036a15f8ce2cf8bfd042c3c65/69ceb8ad/dash/hls-v02d09g10000d76i532ljht1ejnm2rp0/tos-cn-v-5c21e9/6f26705ec53d4596ae68e0d8584d052e.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3VwbTRrbzZsOjMzNDxnM0BpM3VwbTRrbzZsOjMzNDxnM0BtL2ticWcvMjNhLS1kLS9zYSNtL2ticWcvMjNhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&l=20260402000521A7ADE30EE4F0CD3D111D"
+        },
+        {
+          "name": "原声:浙江vs北京 81 - 66",
+          "url": "https://v9-show.douyinvod.com/2985f678371bb3293e5540e5590ba14d/69ceb498/video/tos/cn/tos-cn-v-5c21e9/oMIog5shLEBp1DVkxkNENKgkDQsvzA4r0INSie/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&cv=1&br=3533&bt=3533&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoKdMGU_vjVQWw&mime_type=video_mp4&qs=0&rc=aWc4ODk1OWVmMzhnNWRpZUBpam9xc2lrb3BsOjMzNDxnM0BhMV4wMy8yXzQxMS5iMTJhYSMuMC5tcWcvMTNhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1775059521&l=20260402000521A7ADE30EE4F0CD3D111D"
         }
       ]
     }
   ],
-  "timestamp": "2026-04-01T04:17:19.259Z",
-  "shanghaiTime": "2026-04-01T12:17:19.259Z",
-  "count": 1,
+  "timestamp": "2026-04-01T16:05:45.748Z",
+  "shanghaiTime": "2026-04-02T00:05:45.748Z",
+  "count": 6,
   "mode": "all",
-  "source": "cba_live"
+  "source": "no_data"
 }
