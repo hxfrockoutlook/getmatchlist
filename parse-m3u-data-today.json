@@ -3,65 +3,9 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "7624047887843939000",
-      "title": "CBA:深圳vs广厦等2场比赛同播 109 - 94",
-      "keyword": "04月02日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/0e5a0f1643e24542af896d4f8934687d~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1777735838&x-signature=PSGmsULh2hikwSTFjVZGQkwDUlM%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "深圳马可波罗 vs 浙江浙商证券",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月02日19:35"
-      },
-      "nodes": [
-        {
-          "name": "CBA:深圳vs广厦等2场比赛同播 109 - 94",
-          "url": "https://v26-show.douyinvod.com/9f82b999d2ed2db20ae17799517152c2/69d00081/dash/hls-v0dd09g10000d7775filjht2tdmsuvfg/tos-cn-v-5c21e9/b863caee118f46c88cc4e96d0c9c62b4.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=anl2ZzVrb2k6OjMzNDxnM0Bpanl2ZzVrb2k6OjMzNDxnM0BjcmpxcWdmMjRhLS1kLWFzYSNjcmpxcWdmMjRhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1775143837&l=2026040223303635353C569BDEED5A0190"
-        },
-        {
-          "name": "原声:深圳vs广厦 109 - 94",
-          "url": "https://v6-show.douyinvod.com/57bc1f66aaf30d2ab06682b27d27480d/69d0002e/video/tos/cn/tos-cn-v-5c21e9/oAXnjqcOhzfGSpFktATA0C66gJLOGHfssBfQ18/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=3746&bt=3746&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoHUgGU_vjVQWw&mime_type=video_mp4&qs=0&rc=ZjVnNzc0PGY3O2g8ODZnM0BpanN0dTZrb3M6OjMzNDxnM0AxX2EyMmIyXjQxYTNjNV5gYSMyc25mcWduMjRhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1775143792&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260402232952DCE1CFC84CD0A61C4D0F"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "7624022904829679000",
-      "title": "南京vs宁波 86 - 89",
-      "keyword": "04月02日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/046fb2f933e5460b9f4df33815c17a98~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1777735838&x-signature=OC3E4o7osKVsPioNupL7ACN5zH0%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "��京天之蓝 vs 宁波町渥",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月02日19:35"
-      },
-      "nodes": [
-        {
-          "name": "南京vs宁波 86 - 89",
-          "url": "https://v26-show.douyinvod.com/df6a369b639521401b1cfbd2374515a8/69d0004e/dash/hls-v03d09g10000d77751qljhtd0p7i28lg/tos-cn-v-5c21e9/e155ac12574145f98565457c21d3e5b6.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajtsc2drbzQ6OjMzNDxnM0Bpajtsc2drbzQ6OjMzNDxnM0BpLzQtcWduMjRhLS1kLTBzYSNpLzQtcWduMjRhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1775143826&l=20260402233025BA66D3742847AC97E58F"
-        },
-        {
-          "name": "原声:南京vs宁波 86 - 89",
-          "url": "https://v6-show.douyinvod.com/9d4296ea9a36caea32b43b822e850c67/69cffce0/video/tos/cn/tos-cn-v-5c21e9/ocAOGoeVlpZHWCACBqxdlK6n1hezgDsQjBBHJQ/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=4018&bt=4018&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoHUgGU_vjVQWw&mime_type=video_mp4&qs=0&rc=PGQ6aGlpZDY6ZTNkOGk4Z0Bpam1kZmVrb2Q6OjMzNDxnM0AxXmI0X2BjX2MxYjEuM15hYSNrZmExcWcvMjRhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1775143792&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260402232952DCE1CFC84CD0A61C4D0F"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "04月02日19:30",
+      "keyword": "04月03日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -72,19 +16,19 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "04月02日19:30"
+        "time": "04月03日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyincdn.com/media/stream-695579599148417708.flv?arch_hrchy=w1&exp_hrchy=w1&expire=69d7c621&major_anchor_level=common&sign=ad51a84bfcd3024d3dcf7cc752df9cae&t_id=037-20260402233041FC6F15D3757EFAFD880B-M4aw2z&unique_id=stream-695579599148417708_684_flv"
+          "url": "http://pull-flv-f1.douyincdn.com/media/stream-695579599148417708.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260403000032BE39D93C4684EF3BE5A4-bubyR9&unique_id=stream-695579599148417708_684_flv&wsSecret=c0cc82b38570416c7ca3b83dd4355ec8&wsTime=69ce92a0"
         }
       ]
     }
   ],
-  "timestamp": "2026-04-02T15:30:41.511Z",
-  "shanghaiTime": "2026-04-02T23:30:41.511Z",
-  "count": 3,
+  "timestamp": "2026-04-02T16:00:32.666Z",
+  "shanghaiTime": "2026-04-03T00:00:32.666Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
