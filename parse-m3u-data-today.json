@@ -21,25 +21,25 @@
       "nodes": [
         {
           "name": "CBA:辽宁vs福建等2场比赛同播",
-          "url": "http://pull-f3.douyinliving.com/fantasy/stream-695611590483903319_hd.flv?arch_hrchy=s2&auth_key=1776164426-0-0-de6fec9fdfeb6e9f9637c2f382be2a18&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20260407193026AB80DC8F16FB1899E345-n401rZ&unique_id=stream-695611590483903319_855_flv_hd"
+          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-695611590483903319_hd.flv?arch_hrchy=s2&expire=69de2c5f&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=de1e2b0e394adea70ded359f40c71d7b&t_id=037-202604072000303FF4A2013E480EAF9F25-T7wm0N&unique_id=stream-695611590483903319_855_flv_hd"
         },
         {
           "name": "吉林vs四川",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407381221171266391_hd.flv?arch_hrchy=s2&expire=1776166226&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=7b66c85ba5d1d922fe33f797167f24c3&t_id=037-20260407193026AB80DC8F16FB1899E345-bL6coA&unique_id=stream-407381221171266391_855_flv_hd"
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407381221171266391_hd.flv?arch_hrchy=s2&expire=1776168031&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=6acfd90cb8d2a22960bf222f5e586c9c&t_id=037-202604072000303FF4A2013E480EAF9F25-126LZ3&unique_id=stream-407381221171266391_855_flv_hd&volcSecret=6acfd90cb8d2a22960bf222f5e586c9c&volcTime=1776168031"
         },
         {
           "name": "原声:辽宁vs福建",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119150850795635543_hd.flv?arch_hrchy=s2&expire=1776166226&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=5c98d03d9106f65bbc3b32050564b447&t_id=037-20260407193026AB80DC8F16FB1899E345-IMKk9B&unique_id=stream-119150850795635543_855_flv_hd"
+          "url": "http://pull-f3.douyinliving.com/fantasy/stream-119150850795635543_hd.flv?arch_hrchy=s2&auth_key=1776166231-0-0-c5d9bf0fde6a34d362928f5eed7ac87a&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-202604072000303FF4A2013E480EAF9F25-2P1Rqh&unique_id=stream-119150850795635543_855_flv_hd"
         },
         {
           "name": "原声:吉林vs四川",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-695611605978710871_hd.flv?arch_hrchy=s2&expire=1776166226&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=b27bc9c438826433485586e740d89723&t_id=037-20260407193026AB80DC8F16FB1899E345-E7cKJs&unique_id=stream-695611605978710871_855_flv_hd"
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-695611605978710871_hd.flv?arch_hrchy=s2&expire=1776168031&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=0d4c51389c595d8ef342cff15153019d&t_id=037-202604072000303FF4A2013E480EAF9F25-eKBswk&unique_id=stream-695611605978710871_855_flv_hd&volcSecret=0d4c51389c595d8ef342cff15153019d&volcTime=1776168031"
         }
       ]
     }
   ],
-  "timestamp": "2026-04-07T11:30:27.176Z",
-  "shanghaiTime": "2026-04-07T19:30:27.176Z",
+  "timestamp": "2026-04-07T12:00:31.479Z",
+  "shanghaiTime": "2026-04-07T20:00:31.479Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
