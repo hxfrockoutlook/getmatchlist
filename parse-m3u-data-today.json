@@ -3,6 +3,58 @@
   "data": [
     {
       "mgdbId": "",
+      "pID": "7626580476556269000",
+      "title": "江苏vs浙江 77 - 89",
+      "keyword": "04月09日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/31fc5e8ffc0b43018bc8d2d5da221070~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1778335232&x-signature=Ok1QwBYG4fggHghBbGM0uA150qw%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "江苏肯帝亚 vs 浙江稠州金租",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月09日19:35"
+      },
+      "nodes": [
+        {
+          "name": "江苏vs浙江 77 - 89",
+          "url": "https://v26-show.douyinvod.com/aa06345ef801fd525e1e61c888af542c/69d92607/dash/hls-v02d09g10000d7bqqnqljht268rrrfkg/tos-cn-v-5c21e9/8e166f90bb704309bd413b16c636399d.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=aml1OzVrb3F0OjMzNDxnM0Bpaml1OzVrb3F0OjMzNDxnM0Bob28zcWdubl9hLS1kLS9zYSNob28zcWdubl9hLS1kLS9zcw%3D%3D&btag=80000e00038000&dy_q=1775743225&l=202604092200249237E82DC4764A182449"
+        },
+        {
+          "name": "原声:江苏vs浙江 77 - 89",
+          "url": "https://v26-show.douyinvod.com/5016c6404058b75e97bb01102be1ed03/69d9239e/dash/hls-v03d09g10000d7bqqo2ljhtdct98k2pg/tos-cn-v-5c21e9/249b21b3498c423c98bf70aacb524837.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajU7d2drb3J0OjMzNDxnM0BpajU7d2drb3J0OjMzNDxnM0BtaDZgcWcvbl9hLS1kLTBzYSNtaDZgcWcvbl9hLS1kLTBzcw%3D%3D&btag=80000e00038000&dy_q=1775743225&l=202604092200249237E82DC4764A182449"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7626622393187964000",
+      "title": "原声:山西vs深圳 98 - 103",
+      "keyword": "04月09日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/b4b375a98da34be8ba9d938fe95b635c~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1778335232&x-signature=jvrUqFqOpIfzTrMG9W6P9qn8J4o%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "山西汾酒 vs 深圳马可波罗",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "04月09日19:35"
+      },
+      "nodes": [
+        {
+          "name": "原声:山西vs深圳 98 - 103",
+          "url": "https://v9-show.douyinvod.com/24306045aa95e9ffa304ed7696297824/69d92422/dash/hls-v02d09g10000d7bqqniljht3095jcsl0/tos-cn-v-5c21e9/8f36dfeafdff417aa47e326e1a509eea.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3ZtPDZrb3F0OjMzNDxnM0BpM3ZtPDZrb3F0OjMzNDxnM0BpYDItcWdmbl9hLS1kLS9zYSNpYDItcWdmbl9hLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1775743192&l=20260409215952A5915271E26AFF82E5C7"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
       "keyword": "04月09日19:30",
@@ -20,27 +72,15 @@
       },
       "nodes": [
         {
-          "name": "CBA:山西vs深圳等2场比赛同播",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119162485321237335_hd.flv?arch_hrchy=s2&expire=1776346240&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=6f85ce66cee228ba9223239df0470308&t_id=037-202604092130405B1B79F60255507D0068-NcANQT&unique_id=stream-119162485321237335_855_flv_hd"
-        },
-        {
-          "name": "江苏vs浙江",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407392875296850775_hd.flv?arch_hrchy=s2&expire=1776346240&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=2011e61243d0c72666b1e11912781c9d&t_id=037-202604092130405B1B79F60255507D0068-h6t5mz&unique_id=stream-407392875296850775_855_flv_hd&volcSecret=2011e61243d0c72666b1e11912781c9d&volcTime=1776346240"
-        },
-        {
-          "name": "原声:山西vs深圳",
-          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-695623256420647767_hd.flv?arch_hrchy=s2&expire=69e0e480&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=59d2504ac6e7798a0f3e4007aed60751&t_id=037-202604092130405B1B79F60255507D0068-c50wgL&unique_id=stream-695623256420647767_855_flv_hd"
-        },
-        {
-          "name": "原声:江苏vs浙江",
-          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-119162507802706775_hd.flv?arch_hrchy=s2&expire=69e0e480&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=b37d2f557cf18f339028046d57eb6c2e&t_id=037-202604092130405B1B79F60255507D0068-6c03u0&unique_id=stream-119162507802706775_855_flv_hd"
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695579599148417708.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1776348041&major_anchor_level=common&sign=41c9d71720742ce7903df7ba104d09e0&t_id=037-2026040922004152F655FEDC28A88338BF-euKewE&unique_id=stream-695579599148417708_684_flv"
         }
       ]
     }
   ],
-  "timestamp": "2026-04-09T13:30:40.714Z",
-  "shanghaiTime": "2026-04-09T21:30:40.714Z",
-  "count": 1,
+  "timestamp": "2026-04-09T14:00:41.418Z",
+  "shanghaiTime": "2026-04-09T22:00:41.418Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
