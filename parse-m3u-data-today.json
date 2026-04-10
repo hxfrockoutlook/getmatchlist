@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "04月10日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "04月10日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695579599148417708.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1776411025&major_anchor_level=common&sign=460edf3832961797c88231089db97f1e&t_id=037-202604101530243CD17A76FD09A10491AE-X3v05m&unique_id=stream-695579599148417708_684_flv"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-04-10T07:30:25.269Z",
-  "shanghaiTime": "2026-04-10T15:30:25.269Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-04-10T08:00:33.427Z",
+  "shanghaiTime": "2026-04-10T16:00:33.427Z",
+  "count": 0,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
