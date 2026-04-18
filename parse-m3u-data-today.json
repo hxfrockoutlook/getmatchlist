@@ -20,14 +20,42 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695673841736745644.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1777114834&major_anchor_level=common&sign=86ca2234e58579e89d7be81c62a53359&t_id=037-20260418190034CB5954A99A40D7AB0F41-OnFY52&unique_id=stream-695673841736745644_684_flv"
+          "name": "CBA:辽宁vs浙江等4场比赛同播",
+          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-119214839431168855_hd.flv?arch_hrchy=s2&expire=69eca5d5&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=eb56fd2329662ad7a5d81e582ebc864a&t_id=037-20260418193029ABFC9F304C1D72ADCDA5-hLZWHM&unique_id=stream-119214839431168855_855_flv_hd"
+        },
+        {
+          "name": "广东vs福建",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-119214849565131607_hd.flv?arch_hrchy=s2&expire=1777116629&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=0fd4b8c436806ff9c792d846d3c4e4f2&t_id=037-20260418193029ABFC9F304C1D72ADCDA5-f6C13w&unique_id=stream-119214849565131607_855_flv_hd&volcSecret=0fd4b8c436806ff9c792d846d3c4e4f2&volcTime=1777116629"
+        },
+        {
+          "name": "江苏vs山西",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407445229540475735_hd.flv?arch_hrchy=s2&expire=1777116629&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=8cbacbc9264618b9254e3a1114d4074a&t_id=037-20260418193029ABFC9F304C1D72ADCDA5-5dzCfS&unique_id=stream-407445229540475735_855_flv_hd&volcSecret=8cbacbc9264618b9254e3a1114d4074a&volcTime=1777116629"
+        },
+        {
+          "name": "吉林vs龙狮",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407445232698000215_hd.flv?arch_hrchy=s2&expire=1777116629&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=ea1d8c9bbaa2a111ccd3f8de21ce1bf9&t_id=037-20260418193029ABFC9F304C1D72ADCDA5-bWqNn6&unique_id=stream-407445232698000215_855_flv_hd&volcSecret=ea1d8c9bbaa2a111ccd3f8de21ce1bf9&volcTime=1777116629"
+        },
+        {
+          "name": "原声:辽宁vs浙江",
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119214859627791191_hd.flv?arch_hrchy=s2&expire=1777116629&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=cf0bae7115da54dca6865acbe241f7e6&t_id=037-20260418193029ABFC9F304C1D72ADCDA5-4PfKK2&unique_id=stream-119214859627791191_855_flv_hd"
+        },
+        {
+          "name": "原声:广东vs福建",
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-695675615428215639_hd.flv?arch_hrchy=s2&expire=1777116629&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=b8f5ccdbe4451ccd9b65ac1f42831b94&t_id=037-20260418193029ABFC9F304C1D72ADCDA5-WAu1JG&unique_id=stream-695675615428215639_855_flv_hd"
+        },
+        {
+          "name": "原声:江苏vs山西",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-695675621394613079_hd.flv?arch_hrchy=s2&expire=1777116629&major_anchor_level=vip&rtm_expr_tag=empty_device_type&sign=85b404fe9b551f3cc51ea2b2bf5fa572&t_id=037-20260418193029ABFC9F304C1D72ADCDA5-VebK0d&unique_id=stream-695675621394613079_855_flv_hd&volcSecret=85b404fe9b551f3cc51ea2b2bf5fa572&volcTime=1777116629"
+        },
+        {
+          "name": "原声:吉林vs龙狮",
+          "url": "http://pull-flv-f1.douyinliving.com/fantasy/stream-407445248330171223_hd.flv?arch_hrchy=s2&keeptime=00093a80&major_anchor_level=vip&rtm_expr_tag=empty_device_type&t_id=037-20260418193029ABFC9F304C1D72ADCDA5-k9ekem&unique_id=stream-407445248330171223_855_flv_hd&wsSecret=98eedfbb73239f6cee0858cccbcd3d3c&wsTime=69e36b55"
         }
       ]
     }
   ],
-  "timestamp": "2026-04-18T11:00:34.885Z",
-  "shanghaiTime": "2026-04-18T19:00:34.885Z",
+  "timestamp": "2026-04-18T11:30:29.673Z",
+  "shanghaiTime": "2026-04-18T19:30:29.673Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
