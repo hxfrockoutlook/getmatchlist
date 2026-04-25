@@ -5,7 +5,7 @@
       "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "04月25日19:30",
+      "keyword": "04月26日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -16,18 +16,18 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "04月25日19:30"
+        "time": "04月26日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyincdn.com/media/stream-695714359383425708.flv?arch_hrchy=w1&auth_key=1777734030-0-0-a3abdc63101ce3756e40229b8636e1f1&exp_hrchy=w1&major_anchor_level=common&neq=1&t_id=037-202604252330304CB7E27622AB489F85FD-G6tETa&unique_id=stream-695714359383425708_684_flv"
+          "url": "http://pull-hs-f5.flive.douyincdn.com/media/stream-695714359383425708.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1777737627&major_anchor_level=common&neq=1&sign=ec42bf45fa22e0dbe05dabb661cff95a&t_id=037-20260426000027B008E1E7D69C7854AA34-BL3f2q&unique_id=stream-695714359383425708_684_flv&volcSecret=ec42bf45fa22e0dbe05dabb661cff95a&volcTime=1777737627"
         }
       ]
     }
   ],
-  "timestamp": "2026-04-25T15:30:30.694Z",
-  "shanghaiTime": "2026-04-25T23:30:30.694Z",
+  "timestamp": "2026-04-25T16:00:27.725Z",
+  "shanghaiTime": "2026-04-26T00:00:27.725Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
