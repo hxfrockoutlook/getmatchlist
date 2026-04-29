@@ -21,13 +21,13 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-hs-f5.flive.douyincdn.com/media/stream-695714359383425708.flv?expire=1778056231&sign=dbd282e246eca0ce22c5a355c0e1fbb1&volcSecret=dbd282e246eca0ce22c5a355c0e1fbb1&volcTime=1778056231&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&unique_id=stream-695714359383425708_684_flv&t_id=037-2026042916303167916C29E2B7B976A16D-MDsDVi"
+          "url": "http://pull-flv-f11.douyincdn.com/media/stream-695714359383425708.flv?expire=1778058033&sign=ff25ac30b24be2cc1ed6d19d925924d6&exp_hrchy=w1&neq=1&major_anchor_level=common&arch_hrchy=w1&unique_id=stream-695714359383425708_684_flv&t_id=037-20260429170033933D1FEB17939778E11E-XXMvci"
         }
       ]
     }
   ],
-  "timestamp": "2026-04-29T08:30:31.561Z",
-  "shanghaiTime": "2026-04-29T16:30:31.561Z",
+  "timestamp": "2026-04-29T09:00:34.190Z",
+  "shanghaiTime": "2026-04-29T17:00:34.190Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
