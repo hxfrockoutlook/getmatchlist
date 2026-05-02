@@ -3,44 +3,84 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "05月02日19:30",
+      "pID": "7635094414570001000",
+      "title": "CBA季后赛:山西vs青岛等2场比赛同播 97 - 94",
+      "keyword": "05月02日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/b686ca61ac714b1381f0000819a63d1c~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1780324222&x-signature=X9vA3U1V%2BZs8Ygu6mgmUjQTy7lY%3D",
       "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
+      "pkInfoTitle": "山西汾酒 vs 青岛崂山啤酒",
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "05月02日19:30"
+        "time": "05月02日19:35"
       },
       "nodes": [
         {
-          "name": "CBA季后赛:山西vs青岛等2场比赛同播",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119295831916413783_hd.flv?expire=1778335232&sign=aa568e23a9b7e203b4cdddb7fe95f29b&arch_hrchy=s2&neq=1&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-119295831916413783_855_flv_hd&t_id=037-20260502220032AB68A64EC5CD3D398AC9-dsx1a7"
+          "name": "CBA季后赛:山西vs青岛等2场比赛同播 97 - 94",
+          "url": "https://v26-show.douyinvod.com/6397e61c6b589f8d9f39776ba6dc20db/69f7865c/dash/hls-v02d09g10000d7r0cj2ljhtd3neqcfk0/tos-cn-v-5c21e9/9ccac21df7f64851875e6da58ef3ff6e.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M2l0cWdrb20zOjMzNDxnM0BpM2l0cWdrb20zOjMzNDxnM0BoYGIwcWcvYG9hLS1kLS9zYSNoYGIwcWcvYG9hLS1kLS9zcw%3D%3D&btag=40000e00038000&dy_q=1777732210&l=202605022230075FB1EFFFF6D5814B9B34"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7635107519991715000",
+      "title": "宁波vs浙江 81 - 83",
+      "keyword": "05月02日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/8f14416463624adc907d6b154277dff5~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1780324222&x-signature=bHeSOWdVwQ5c3ZzVcMCjbhBzums%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "宁波町渥 vs 浙江稠州金租",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月02日19:35"
+      },
+      "nodes": [
+        {
+          "name": "宁波vs浙江 81 - 83",
+          "url": "https://v9-show.douyinvod.com/e8aa95eb033f6c0c43ffd497c8bd12b7/69f7861e/dash/hls-v03d09g10000d7r0bqiljht3ne76639g/tos-cn-v-5c21e9/8dc5cc5e5fa346cd90afca77fb06ad80.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajY5aDZrb3QzOjMzNDxnM0BpajY5aDZrb3QzOjMzNDxnM0A2MzRrcWdmX29hLS1kLTBzYSM2MzRrcWdmX29hLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1777732194&l=20260502222954B6684384C0B709B5394E"
         },
         {
-          "name": "宁波vs浙江",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407526219740349271_hd.flv?expire=1778335232&sign=b41996a0e3b41db5e543b8c56e427f18&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-407526219740349271_855_flv_hd&t_id=037-20260502220032AB68A64EC5CD3D398AC9-vuo9CP"
-        },
+          "name": "原声:宁波vs浙江 81 - 83",
+          "url": "https://v26-show.douyinvod.com/77a01e14aa281424021b86209878e9c9/69f78634/dash/hls-v02d09g10000d7r0bqaljhtcflsg460g/tos-cn-v-5c21e9/70674f488cf64073aa58710a377085f2.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajlqb2Zrb3QzOjMzNDxnM0Bpajlqb2Zrb3QzOjMzNDxnM0AtMXBjcWdeX29hLS1kLS9zYSMtMXBjcWdeX29hLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1777732218&l=20260502223018279D9D8F5F21F4B267FE"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7635245895546394000",
+      "title": "原声:山西vs青岛 97 - 94",
+      "keyword": "05月02日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/e8b8b5e0852544fab3ea1e030a148431~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1780324222&x-signature=tJ1I5oJY1VnLgrSIMgwKVtWUpPE%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "山西汾酒 vs 青岛崂山啤酒",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月02日19:35"
+      },
+      "nodes": [
         {
-          "name": " 原声:山西vs青岛",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-695756600321508183_hd.flv?expire=1778335232&sign=0a4a9346de5f562e6bb618301005030f&volcSecret=0a4a9346de5f562e6bb618301005030f&volcTime=1778335232&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-695756600321508183_855_flv_hd&t_id=037-20260502220032AB68A64EC5CD3D398AC9-YwzXKt"
-        },
-        {
-          "name": "原声:宁波vs浙江",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119295851978818391_hd.flv?expire=1778335232&sign=6e64153f5cf4d23e38132d17d9436eb5&arch_hrchy=s2&neq=1&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-119295851978818391_855_flv_hd&t_id=037-20260502220032AB68A64EC5CD3D398AC9-xr8USt"
+          "name": " 原声:山西vs青岛 97 - 94",
+          "url": "https://v26-show.douyinvod.com/91454194730e0f0026884fa12d61efdb/69f78629/dash/hls-v0dd09g10000d7r0cdqljht78a1eh910/tos-cn-v-5c21e9/7b4511967362493598c5fb46598acb78.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=MzxoZDprb2czOjMzNDxnM0BpMzxoZDprb2czOjMzNDxnM0AuZS41cWduYG9hLS1kLWFzYSMuZS41cWduYG9hLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1777732207&l=202605022230079925F316BA4BA9B301E1"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-02T14:00:32.641Z",
-  "shanghaiTime": "2026-05-02T22:00:32.641Z",
-  "count": 1,
+  "timestamp": "2026-05-02T14:30:33.078Z",
+  "shanghaiTime": "2026-05-02T22:30:33.078Z",
+  "count": 3,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
