@@ -3,44 +3,84 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "05月03日19:30",
+      "pID": "7635463194580358000",
+      "title": "CBA季后赛:广东vs龙狮等2场比赛同播 90 - 80",
+      "keyword": "05月03日19:35",
       "sportItemId": "2",
-      "matchStatus": "1",
+      "matchStatus": "2",
       "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/92b8e1e8df8d4563be379daade366212~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1780408833&x-signature=DJcwHyb7XFP9T2nCaGdEGU9%2Fa18%3D",
       "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
+      "pkInfoTitle": "广东东阳光 vs 广州朗肽海本",
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "05月03日19:30"
+        "time": "05月03日19:35"
       },
       "nodes": [
         {
-          "name": "CBA季后赛:广东vs龙狮等2场比赛同播",
-          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-407532315506639703_hd.flv?expire=6a008876&sign=303ccab6870e15a289caf3098a1cf43d&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-407532315506639703_855_flv_hd&t_id=037-202605032130302E723E6487ECB71CE077-38e6sN"
+          "name": "CBA季后赛:广东vs龙狮等2场比赛同播 90 - 80",
+          "url": "https://v26-show.douyinvod.com/0e5b35a10bf4bd0c0c4583eeb99aef35/69f8ca98/dash/hls-v02d09g10000d7rl31aljht1eh5p1jog/tos-cn-v-5c21e9/ff8451d07d8a4d328db90fb1fac333f5.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=am1zazRrbzRvOjMzNDxnM0Bpam1zazRrbzRvOjMzNDxnM0BsLjJicWdeMG9hLS1kLS9zYSNsLjJicWdeMG9hLS1kLS9zcw%3D%3D&btag=80000e00038000&dy_q=1777816814&l=20260503220012401712F9287C9CE2106E"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7635445465940776000",
+      "title": "山东vs辽宁 98 - 82",
+      "keyword": "05月03日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/c31373d5fc774ee88ba20c88962520f1~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1780408833&x-signature=L2tN5nkmrjZJHQaXE2VVBhTSfUI%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "山东高速 vs 辽宁本钢",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月03日19:35"
+      },
+      "nodes": [
+        {
+          "name": "山东vs辽宁 98 - 82",
+          "url": "https://v26-show.douyinvod.com/b10c9a7fff79b73c2088440c4a0fc632/69f8ca5b/dash/hls-v0dd09g10000d7rl2p2ljhteth1334k0/tos-cn-v-5c21e9/32cacf524cb94a5eba0fa9c63258431e.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=Mzc2a2hrb3NvOjMzNDxnM0BpMzc2a2hrb3NvOjMzNDxnM0BoMC5xcWcvL29hLS1kLWFzYSNoMC5xcWcvL29hLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1777816801&l=20260503220001118CEDB19C983BA207BD"
         },
         {
-          "name": "山东vs辽宁",
-          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-407532323287860055_hd.flv?expire=6a008876&sign=6190c3f4f66878fb089d94f35f5a8f12&major_anchor_level=vip&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&unique_id=stream-407532323287860055_855_flv_hd&t_id=037-202605032130302E723E6487ECB71CE077-UmkuOW"
-        },
+          "name": "原声:山东vs辽宁 98 - 82",
+          "url": "https://v26-show.douyinvod.com/5195d5a765860171d971210d637ed160/69f8c923/dash/hls-v02d09g10000d7rl312ljhtdnr3hi47g/tos-cn-v-5c21e9/e9220b4d3c8e468d86c3390ed2a36867.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajdrdWdrbzRvOjMzNDxnM0BpajdrdWdrbzRvOjMzNDxnM0A0ZjBrcWcvMG9hLS1kLS9zYSM0ZjBrcWcvMG9hLS1kLS9zcw%3D%3D&btag=80000e00038000&dy_q=1777816811&l=20260503220011EB2501704D2AE3D3CC2B"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7635474203106203000",
+      "title": "原声:广东vs龙狮 90 - 80",
+      "keyword": "05月03日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/5a9512271bdd489dbc2a10e7793911d9~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1780408833&x-signature=tM2n5gYWy%2BzWNlBAqRV697jojfc%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "广东东阳光 vs 广州朗肽海本",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月03日19:35"
+      },
+      "nodes": [
         {
-          "name": "原声:广东vs龙狮",
-          "url": "http://pull-f3.douyinliving.com/fantasy/stream-695762704945906519_hd.flv?auth_key=1778418030-0-0-8a4499bf771daea434c1dc4d451f256a&arch_hrchy=s2&neq=1&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-695762704945906519_855_flv_hd&t_id=037-202605032130302E723E6487ECB71CE077-dH2nlE"
-        },
-        {
-          "name": "原声:山东vs辽宁",
-          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-119301956403200855_hd.flv?expire=6a008876&sign=203aa6c7b86ab471d6e9bcdbfa73f520&neq=1&rtm_expr_tag=empty_device_type&major_anchor_level=vip&arch_hrchy=s2&unique_id=stream-119301956403200855_855_flv_hd&t_id=037-202605032130302E723E6487ECB71CE077-mWPuBS"
+          "name": "原声:广东vs龙狮 90 - 80",
+          "url": "https://v26-show.douyinvod.com/8541d0cc92cefdeeea9f275a15231a5e/69f8c9b9/dash/hls-v02d09g10000d7rl0q2ljht34mn6bbug/tos-cn-v-5c21e9/3ecb445b3aec487d9fb5087bcce2ffc2.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=amU5cDZrb3RvOjMzNDxnM0BpamU5cDZrb3RvOjMzNDxnM0ByX2sxcWcvLW9hLS1kLS9zYSNyX2sxcWcvLW9hLS1kLS9zcw%3D%3D&btag=80000e00038000&dy_q=1777816811&l=20260503220011EB2501704D2AE3D3CC2B"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-03T13:30:31.210Z",
-  "shanghaiTime": "2026-05-03T21:30:31.210Z",
-  "count": 1,
+  "timestamp": "2026-05-03T14:00:45.736Z",
+  "shanghaiTime": "2026-05-03T22:00:45.736Z",
+  "count": 3,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
