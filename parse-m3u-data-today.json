@@ -20,14 +20,26 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f5.douyinliving.com/media/stream-119315862498837330.flv?expire=1778670048&sign=aee76cd2e2c26b665afb2622f3cdf0d9&volcSecret=aee76cd2e2c26b665afb2622f3cdf0d9&volcTime=1778670048&arch_hrchy=s2&neq=1&s_anchor=1&major_anchor_level=vip&unique_id=stream-119315862498837330_850_flv&t_id=037-202605061900471FB949939C4967F8F348-YCUMSv"
+          "name": "CBA季后赛:北京vs广东等2场比赛同播",
+          "url": "http://pull-f3.douyinliving.com/fantasy/stream-407546614456255319_hd.flv?auth_key=1778670026-0-0-7b5bc7da08dc44a1dddd9bb71d69910e&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-407546614456255319_855_flv_hd&t_id=037-20260506193026D37715B49B1019F1C7F7-A9s9Dp"
+        },
+        {
+          "name": "上海vs山东",
+          "url": "http://pull-flv-f6.douyinliving.com/fantasy/stream-407547967840453463_hd.flv?k=bb379bbebb24d280&t=1778671826&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-407547967840453463_855_flv_hd&t_id=037-20260506193026D37715B49B1019F1C7F7-GwMNVB"
+        },
+        {
+          "name": "原声:北京vs广东",
+          "url": "http://pull-flv-f6.douyinliving.com/fantasy/stream-119317595784479575_hd.flv?k=3517a5891761e125&t=1778671826&major_anchor_level=vip&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&unique_id=stream-119317595784479575_855_flv_hd&t_id=037-20260506193026D37715B49B1019F1C7F7-StW7lJ"
+        },
+        {
+          "name": "原声:上海vs山东",
+          "url": "http://pull-f3.douyinliving.com/fantasy/stream-695778350776451927_hd.flv?auth_key=1778670026-0-0-8413c8fd627953da57986ae3d262e557&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-695778350776451927_855_flv_hd&t_id=037-20260506193026D37715B49B1019F1C7F7-t26SsY"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-06T11:00:48.245Z",
-  "shanghaiTime": "2026-05-06T19:00:48.245Z",
+  "timestamp": "2026-05-06T11:30:26.697Z",
+  "shanghaiTime": "2026-05-06T19:30:26.697Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
