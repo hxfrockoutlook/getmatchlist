@@ -3,57 +3,9 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "7638827914487174000",
-      "title": "CBA季后赛:北京vs广东 88 - 73",
-      "keyword": "05月12日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/637c5f739a754918a2eddfdeaf6ce112~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1781191837&x-signature=gggkzAb%2F9I%2FQxCwZL29B4B6PRIE%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "北京北汽 vs 广东东阳光",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月12日19:35"
-      },
-      "nodes": [
-        {
-          "name": "CBA季后赛:北京vs广东 88 - 73",
-          "url": "https://v26-show.douyinvod.com/7761a567a8c1f8da55126145190d975d/6a04bf86/dash/hls-v02d09g10000d81j21qljht2jj4rvnk0/tos-cn-v-5c21e9/0952ade0a3274d1690379feb487a5399.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3F1bTVrbzRtOzMzNDxnM0BpM3F1bTVrbzRtOzMzNDxnM0BoczFncWduLy5hLS1kLS9zYSNoczFncWduLy5hLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1778599824&l=202605122330239296B7B1F8674C4BEC88"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "7638826827255502000",
-      "title": "原声:北京vs广东 88 - 73",
-      "keyword": "05月12日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/8f878cd948e446a4972f48c3abac2190~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1781191837&x-signature=%2BMP%2FG55QJw4qcORWW9yWsl1zYv0%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "北京北汽 vs 广东东阳光",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月12日19:35"
-      },
-      "nodes": [
-        {
-          "name": "原声:北京vs广东 88 - 73",
-          "url": "https://v26-show.douyinvod.com/05aad84df6465e915e11d374004f3fcd/6a04bf31/dash/hls-v03d09g10000d81j2gqljhtf3qk349og/tos-cn-v-5c21e9/2db7eb38f16d4cb0a8c8008d66ea9b6f.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajw2dGlrb2ptOzMzNDxnM0Bpajw2dGlrb2ptOzMzNDxnM0BsMWgwcWduLy5hLS1kLTBzYSNsMWgwcWduLy5hLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1778599795&l=20260512232955AB1B54AFAC30EB0C43CE"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "05月12日19:30",
+      "keyword": "05月13日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -64,19 +16,19 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "05月12日19:30"
+        "time": "05月13日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyinliving.com/media/stream-119315862498837330.flv?auth_key=1779202842-0-0-c499b34774437134dd3d4b81e612b8fc&arch_hrchy=s2&neq=1&major_anchor_level=vip&s_anchor=1&unique_id=stream-119315862498837330_850_flv&t_id=037-202605122330427CE46699C7AC11B42CC0-ACS8sk"
+          "url": "http://pull-f3.douyinliving.com/media/stream-119315862498837330.flv?auth_key=1779204631-0-0-4785af903b38d6ef4d7b94db4ce3b6eb&major_anchor_level=vip&neq=1&s_anchor=1&arch_hrchy=s2&unique_id=stream-119315862498837330_850_flv&t_id=037-20260513000031BF2944976BFB3FB198B0-D7R9XZ"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-12T15:30:43.001Z",
-  "shanghaiTime": "2026-05-12T23:30:43.001Z",
-  "count": 3,
+  "timestamp": "2026-05-12T16:00:31.888Z",
+  "shanghaiTime": "2026-05-13T00:00:31.888Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
