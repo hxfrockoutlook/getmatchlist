@@ -21,17 +21,17 @@
       "nodes": [
         {
           "name": "CBA季后赛:上海vs北京",
-          "url": "http://pull-f3.douyinliving.com/fantasy/stream-407600567770678103_hd.flv?auth_key=1779447630-0-0-1ff30f63b76ad52d1a76f225dc148e61&rtm_expr_tag=empty_device_type&arch_hrchy=s2&major_anchor_level=vip&neq=1&unique_id=stream-407600567770678103_855_flv_hd&t_id=037-202605151930306217C58B55F79540F6DE-MhzFlY"
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-407600567770678103_hd.flv?expire=1779451239&sign=810eba0770177754818088652e77292d&arch_hrchy=s2&neq=1&major_anchor_level=vip&rtm_expr_tag=empty_device_type&unique_id=stream-407600567770678103_855_flv_hd&t_id=037-20260515200039A62236C62246D40399D3-UvDbOA"
         },
         {
           "name": "原声:上海vs北京",
-          "url": "http://pull-flv-f1.douyinliving.com/fantasy/stream-119370199547249495_hd.flv?keeptime=00093a80&wsSecret=292894c1435136c3503718f419384a38&wsTime=6a0703d6&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-119370199547249495_855_flv_hd&t_id=037-202605151930306217C58B55F79540F6DE-PumBWq"
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119370199547249495_hd.flv?expire=1779451239&sign=710a69a5bcbf876682ba4f583bc2e67c&neq=1&major_anchor_level=vip&rtm_expr_tag=empty_device_type&arch_hrchy=s2&unique_id=stream-119370199547249495_855_flv_hd&t_id=037-20260515200039A62236C62246D40399D3-mgo5eV"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-15T11:30:31.226Z",
-  "shanghaiTime": "2026-05-15T19:30:31.226Z",
+  "timestamp": "2026-05-15T12:00:39.898Z",
+  "shanghaiTime": "2026-05-15T20:00:39.898Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
