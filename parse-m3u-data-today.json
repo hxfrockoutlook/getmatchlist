@@ -20,14 +20,18 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f5.douyinliving.com/media/stream-695848211235996498.flv?expire=1779620438&sign=6f6651771ad59c670ec497100265159e&volcSecret=6f6651771ad59c670ec497100265159e&volcTime=1779620438&major_anchor_level=vip&arch_hrchy=s2&neq=1&s_anchor=1&unique_id=stream-695848211235996498_850_flv&t_id=037-20260517190038B56B28D9B5A5BB28BFAE-4QQI7k"
+          "name": "CBA季后赛:上海vs北京",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407613373954917207_hd.flv?expire=1779622227&sign=49334508c231e62b17d04edcf07452c1&volcSecret=49334508c231e62b17d04edcf07452c1&volcTime=1779622227&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-407613373954917207_855_flv_hd&t_id=037-20260517193027A5F4F17DCD330B78A2C7-kPxpOW"
+        },
+        {
+          "name": "原声:上海vs北京",
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-119383005658612567_hd.flv?expire=1779622227&sign=f7f16b206f49430820df5ce034127249&volcSecret=f7f16b206f49430820df5ce034127249&volcTime=1779622227&arch_hrchy=s2&neq=1&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-119383005658612567_855_flv_hd&t_id=037-20260517193027A5F4F17DCD330B78A2C7-W5VNJy"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-17T11:00:38.317Z",
-  "shanghaiTime": "2026-05-17T19:00:38.317Z",
+  "timestamp": "2026-05-17T11:30:28.063Z",
+  "shanghaiTime": "2026-05-17T19:30:28.063Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
