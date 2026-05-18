@@ -1,58 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "",
-      "pID": "7641052678147462000",
-      "title": "CBA季后赛:广厦vs深圳 92 - 85",
-      "keyword": "05月18日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/22ca3208c9e5414bb0afa5fd525948bf~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1781710231&x-signature=ts1YBBHHxXQP12xaUpF25N9p5GI%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "浙江浙商证券 vs 深圳马可波罗",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月18日19:35"
-      },
-      "nodes": [
-        {
-          "name": "CBA季后赛:广厦vs深圳 92 - 85",
-          "url": "https://v9-show.douyinvod.com/7437ac6250f0f3564842f766c2729b01/6a0ca607/dash/hls-v02d09g10000d85hfc2ljht86q1eoqs0/tos-cn-v-5c21e9/e81477a3ce404c3c97d89ad23cc5537f.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3RodDtrb2ZrOzMzNDxnM0BpM3RodDtrb2ZrOzMzNDxnM0BwbC4zcWcvYzJhLS1kLS9zYSNwbC4zcWcvYzJhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1779118203&l=20260518233003A68A780C0A9543733FEB"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "7641110767077332000",
-      "title": "原声:广厦vs深圳 92 - 85",
-      "keyword": "05月18日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/04ef20c9c22a471ebf312c2f9a4a9e7a~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1781710231&x-signature=LLkoCqJKEQMVRPgGOAYB661I2wM%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "浙江浙商证券 vs 深圳马可波罗",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月18日19:35"
-      },
-      "nodes": [
-        {
-          "name": "原声:广厦vs深圳 92 - 85",
-          "url": "https://v9-show.douyinvod.com/4e69ed92823ba01d0b9526528e42269b/6a0ca5e8/video/tos/cn/tos-cn-v-5c21e9/o8A2SQ4LBEYKvEAmLszwhOzsgYleIo1OgEQBBh/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=3887&bt=3887&cs=0&ds=4&ft=9eUQ9bBOBBkq8Zmo10tDk_vjVQWw&mime_type=video_mp4&qs=0&rc=OWdmOWU6OTQ5NmRnNTQ8N0BpMzRyZjhrb3NrOzMzNDxnM0A0MjNgNTJjXjYxMWFeNV4zYSNgcTFqcWdmYzJhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1779118226&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202605182330260DB45E89B1040920D55A"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-05-18T15:30:43.827Z",
-  "shanghaiTime": "2026-05-18T23:30:43.827Z",
-  "count": 2,
+  "data": [],
+  "timestamp": "2026-05-18T16:00:41.760Z",
+  "shanghaiTime": "2026-05-19T00:00:41.760Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
