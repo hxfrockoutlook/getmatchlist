@@ -3,6 +3,54 @@
   "data": [
     {
       "mgdbId": "",
+      "pID": "7641818672637908000",
+      "title": "CBA季后赛:北京vs上海 66 - 81",
+      "keyword": "05月20日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/512719f21cd44575a131ec506e920f7a~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1781877642&x-signature=ETxoFR34WPIqqzLVMo0Fj4Jil%2BY%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "北京北汽 vs 上海久事",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月20日19:35"
+      },
+      "nodes": [
+        {
+          "name": "CBA季后赛:北京vs上海 66 - 81",
+          "url": "https://v6-show.douyinvod.com/7cd0dbc6ccb38ab53ea118be8d527656/6a0f347a/dash/hls-v0dd09g10000d86rlvqljht406rgvhp0/tos-cn-v-5c21e9/44619eda1be54146bb2582351b01c3c7.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M2tqOTdrb3l1OzMzNDxnM0BpM2tqOTdrb3l1OzMzNDxnM0Btc28tcWduaTNhLS1kLWFzYSNtc28tcWduaTNhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1779285592&l=202605202159524DB036ABA766592D467D"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7641858943341614000",
+      "title": "原声:北京vs上海 66 - 81",
+      "keyword": "05月20日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/72963207d8894d38b20981b7df0b0cea~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1781877642&x-signature=A1v0N37wEXXcJ5OBdkloI0rG1sM%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "北京北汽 vs 上海久事",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月20日19:35"
+      },
+      "nodes": [
+        {
+          "name": "原声:北京vs上海 66 - 81",
+          "url": "https://v9-show.douyinvod.com/8bdb5674305ff9fc081e98b4c6a000c0/6a0f34d9/dash/hls-v0dd09g10000d86rmtqljhtcs7iap4l0/tos-cn-v-5c21e9/066ef330637d4d39ab7107e13b4cef19.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=MzdkOmZrb3d1OzMzNDxnM0BpMzdkOmZrb3d1OzMzNDxnM0BpbWZwcWduajNhLS1kLWFzYSNpbWZwcWduajNhLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1779285611&l=202605202200111B63E0128F45C2271E79"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
       "keyword": "05月20日19:30",
@@ -20,19 +68,15 @@
       },
       "nodes": [
         {
-          "name": "CBA季后赛:北京vs上海",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-119399564309168983_hd.flv?expire=1779888640&sign=921b39e4ca410907750b02a6073c57c1&arch_hrchy=s2&neq=1&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-119399564309168983_855_flv_hd&t_id=037-202605202130395530E83880777B151CBB-4C3RwK"
-        },
-        {
-          "name": "原声:北京vs上海",
-          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-695860344860967767_hd.flv?expire=1779888640&sign=2cdacf486c4536b758c24893f8b41335&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-695860344860967767_855_flv_hd&t_id=037-202605202130395530E83880777B151CBB-sUfztN"
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1779890451&sign=87b4560fd5654af4775a4216b44a99f1&s_anchor=1&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026052022005167168B0A4D219BFE6FCD-yn7VoL"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-20T13:30:40.485Z",
-  "shanghaiTime": "2026-05-20T21:30:40.485Z",
-  "count": 1,
+  "timestamp": "2026-05-20T14:00:51.678Z",
+  "shanghaiTime": "2026-05-20T22:00:51.678Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
