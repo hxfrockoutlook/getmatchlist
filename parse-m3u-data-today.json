@@ -3,6 +3,54 @@
   "data": [
     {
       "mgdbId": "",
+      "pID": "7642226755117733000",
+      "title": "CBA季后赛:深圳vs广厦 91 - 80",
+      "keyword": "05月21日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/a9a6275a5e754a9dbca6cf6e36cdfec0~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1781964053&x-signature=AqLE8AZif7Og1c6FKk0VUp7Totc%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "深圳马可波罗 vs 浙江浙商证券",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月21日19:35"
+      },
+      "nodes": [
+        {
+          "name": "CBA季后赛:深圳vs广厦 91 - 80",
+          "url": "https://v26-show.douyinvod.com/287393897348098bc8cbfcbcdbefd312/6a108634/dash/hls-v02d09g10000d87gqmiljht189an0m00/tos-cn-v-5c21e9/27e15d576c8b4165b070813e31969211.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3BxPDRrb3BqOzMzNDxnM0BpM3BxPDRrb3BqOzMzNDxnM0AtLV41cWdmbjRhLS1kLS9zYSMtLV41cWdmbjRhLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1779372044&l=202605212200445E08CCB559952EBE766C"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7642211019742156000",
+      "title": "原声:深圳vs广厦 91 - 80",
+      "keyword": "05月21日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/98d92a72211b4b01aa12d082fa81fbd8~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1781964053&x-signature=4JHUpSVSujn%2ByAwXvcTZbKQGmCw%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "深圳马可波罗 vs 浙江浙商证券",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月21日19:35"
+      },
+      "nodes": [
+        {
+          "name": "原声:深圳vs广厦 91 - 80",
+          "url": "https://v9-show.douyinvod.com/a7e693b6b5717c962e496f98a5ef8cc7/6a1085ba/dash/hls-v03d09g10000d87gop2ljht6hbg3mi9g/tos-cn-v-5c21e9/2bf9719962104c2490c61d094185e21c.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=amw2ZTlrb3NqOzMzNDxnM0Bpamw2ZTlrb3NqOzMzNDxnM0A2amRlcWcvbDRhLS1kLTBzYSM2amRlcWcvbDRhLS1kLTBzcw%3D%3D&btag=c0000e00038000&dy_q=1779372002&l=20260521220002A0B255BFFB374555FADB"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
       "keyword": "05月21日19:30",
@@ -20,19 +68,15 @@
       },
       "nodes": [
         {
-          "name": "CBA季后赛:深圳vs广厦",
-          "url": "http://pull-flv-f26.douyinliving.com/fantasy/stream-119405931452433239_hd.flv?expire=6a18437c&sign=a71eaab58dbd674f96f287275dac0fe6&arch_hrchy=s2&neq=1&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-119405931452433239_855_flv_hd&t_id=037-2026052121303609C1C3D74FE6E6BE0F2A-8uNNMx"
-        },
-        {
-          "name": "原声:深圳vs广厦",
-          "url": "http://pull-flv-f6.douyinliving.com/fantasy/stream-119405941585347415_hd.flv?k=ffd04e89e303a807&t=1779975036&rtm_expr_tag=empty_device_type&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-119405941585347415_855_flv_hd&t_id=037-2026052121303609C1C3D74FE6E6BE0F2A-cL0D1t"
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1779975058-0-0-8674055b6890b2d10f359a6258de23f8&s_anchor=1&arch_hrchy=s2&neq=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260521220058AA39C56CF506ED81C576-srXm7p"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-21T13:30:36.702Z",
-  "shanghaiTime": "2026-05-21T21:30:36.702Z",
-  "count": 1,
+  "timestamp": "2026-05-21T14:00:58.863Z",
+  "shanghaiTime": "2026-05-21T22:00:58.863Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
