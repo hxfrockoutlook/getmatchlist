@@ -3,6 +3,54 @@
   "data": [
     {
       "mgdbId": "",
+      "pID": "7644085620612109000",
+      "title": "CBA总决赛G1:上海vs广厦 101 - 90",
+      "keyword": "05月26日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/ca8763545a774d8dbd7979eda1e55f4c~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1782396042&x-signature=x9plJucTff28eeCF4N0ExpB1r70%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "上海久事 vs 浙江浙商证券",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月26日19:35"
+      },
+      "nodes": [
+        {
+          "name": "CBA总决赛G1:上海vs广厦 101 - 90",
+          "url": "https://v9-show.douyinvod.com/47c226213b13ddd25a34483dfc37c616/6a171c9b/dash/hls-v0dd09g10000d8aq7caljht61gsns7lg/tos-cn-v-5c21e9/fa867f561f994a8b90c9834233f4801b.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajpxajlrb2Z0OzMzNDxnM0Bpajpxajlrb2Z0OzMzNDxnM0BpcHAucWdeNF5hLS1kLWFzYSNpcHAucWdeNF5hLS1kLWFzcw%3D%3D&btag=c0000e00038000&dy_q=1779803995&l=20260526215953B930760CC558BD440588"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7644037247624615000",
+      "title": "原声:上海vs广厦 101 - 90",
+      "keyword": "05月26日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/5c2a9494eb6c4943afb5cf294cb1df8f~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1782396042&x-signature=c4B7U0P1KncriDEcOQOVKAyVD48%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "上海久事 vs 浙江浙商证券",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "05月26日19:35"
+      },
+      "nodes": [
+        {
+          "name": "原声:上海vs广厦 101 - 90",
+          "url": "https://v26-show.douyinvod.com/3b13c80603b3ca161f838a6655e8ac61/6a171c8a/dash/hls-v02d09g10000d8aq7oaljhtdkd2rgqd0/tos-cn-v-5c21e9/6856a07bc2a5452cbe68b19d9ab57430.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3R1Z2drb3J0OzMzNDxnM0BpM3R1Z2drb3J0OzMzNDxnM0BhZC9ocWdeNF5hLS1kLS9zYSNhZC9ocWdeNF5hLS1kLS9zcw%3D%3D&btag=c0000e00038000&dy_q=1779804039&l=202605262200390167361D0EFABC12D22F"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
       "keyword": "05月26日19:30",
@@ -20,19 +68,15 @@
       },
       "nodes": [
         {
-          "name": "CBA总决赛G1:上海vs广厦",
-          "url": "http://pull-flv-f1.douyinliving.com/fantasy/stream-407668456575206231_hd.flv?keeptime=00093a80&wsSecret=cdf51640b8e0b4358248825a13d501a7&wsTime=6a15a07f&major_anchor_level=vip&rtm_expr_tag=empty_device_type&arch_hrchy=s2&unique_id=stream-407668456575206231_855_flv_hd&t_id=037-20260526213039E0F0294CB27FFEAAEDE3-JoR6Dm"
-        },
-        {
-          "name": "原声:上海vs广厦",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-119438088150451031_hd.flv?expire=1780407039&sign=f54d64e5a47e653a3684ecc1f55f7767&volcSecret=f54d64e5a47e653a3684ecc1f55f7767&volcTime=1780407039&arch_hrchy=s2&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-119438088150451031_855_flv_hd&t_id=037-20260526213039E0F0294CB27FFEAAEDE3-6HjcBq"
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a1ee218&sign=6ed4e5c7284778288e30bd1b18771b23&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260526220056826D27C9405A15380EFA-dm6CEk"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-26T13:30:39.782Z",
-  "shanghaiTime": "2026-05-26T21:30:39.782Z",
-  "count": 1,
+  "timestamp": "2026-05-26T14:00:57.120Z",
+  "shanghaiTime": "2026-05-26T22:00:57.120Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
