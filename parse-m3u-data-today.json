@@ -21,17 +21,17 @@
       "nodes": [
         {
           "name": "CBA总决赛G1:上海vs广厦",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407668456575206231_hd.flv?expire=1780405243&sign=c894d77dcc7f19bae4882fae065ce27c&volcSecret=c894d77dcc7f19bae4882fae065ce27c&volcTime=1780405243&rtm_expr_tag=empty_device_type&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-407668456575206231_855_flv_hd&t_id=037-20260526210043C2853F28CDF9D56B94C4-BGbAN7"
+          "url": "http://pull-flv-f1.douyinliving.com/fantasy/stream-407668456575206231_hd.flv?keeptime=00093a80&wsSecret=cdf51640b8e0b4358248825a13d501a7&wsTime=6a15a07f&major_anchor_level=vip&rtm_expr_tag=empty_device_type&arch_hrchy=s2&unique_id=stream-407668456575206231_855_flv_hd&t_id=037-20260526213039E0F0294CB27FFEAAEDE3-JoR6Dm"
         },
         {
           "name": "原声:上海vs广厦",
-          "url": "http://pull-flv-f13.douyinliving.com/fantasy/stream-119438088150451031_hd.flv?expire=1780405243&sign=613fa84cb2e08da55b5570e4342979d5&rtm_expr_tag=empty_device_type&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-119438088150451031_855_flv_hd&t_id=037-20260526210043C2853F28CDF9D56B94C4-5v2J2Z"
+          "url": "http://pull-f5.douyinliving.com/fantasy/stream-119438088150451031_hd.flv?expire=1780407039&sign=f54d64e5a47e653a3684ecc1f55f7767&volcSecret=f54d64e5a47e653a3684ecc1f55f7767&volcTime=1780407039&arch_hrchy=s2&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-119438088150451031_855_flv_hd&t_id=037-20260526213039E0F0294CB27FFEAAEDE3-6HjcBq"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-26T13:00:43.804Z",
-  "shanghaiTime": "2026-05-26T21:00:43.804Z",
+  "timestamp": "2026-05-26T13:30:39.782Z",
+  "shanghaiTime": "2026-05-26T21:30:39.782Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
