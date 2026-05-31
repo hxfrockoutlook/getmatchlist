@@ -3,57 +3,9 @@
   "data": [
     {
       "mgdbId": "",
-      "pID": "7645884729153295000",
-      "title": "CBA总决赛G3:广厦vs上海 77 - 110",
-      "keyword": "05月31日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/cdbfce518ce844f2aed3adace638b77d~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1782833425&x-signature=ULGZXh%2FWSjYiMQq61DsWIpM82nE%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "浙江浙商证券 vs 上海久事",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月31日19:35"
-      },
-      "nodes": [
-        {
-          "name": "CBA总决赛G3:广厦vs上海 77 - 110",
-          "url": "https://v6-show.douyinvod.com/bbed0d475c578cad6e5c7e853c6c0ec7/6a1dc60d/dash/hls-v0dd09g10000d8e3gh2ljhtf37hsmf8g/tos-cn-v-5c21e9/3fba6bcf2aac43468aec83ff58cefc8a.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=aml2Omlrb2s2OzMzNDxnM0Bpaml2Omlrb2s2OzMzNDxnM0A1amUwcWcvZGJhLS1kLWFzYSM1amUwcWcvZGJhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1780241425&l=2026053123302586F91E9369E86F0E580E"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "7645992293925672000",
-      "title": "原声:广厦vs上海 77 - 110",
-      "keyword": "05月31日19:35",
-      "sportItemId": "2",
-      "matchStatus": "2",
-      "matchField": "",
-      "competitionName": "抖音CBA联赛",
-      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/fb90c6b9240f4650a85aad11f38ae2eb~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1782833425&x-signature=krw%2BzzWAT0%2BfSYRxzAsNBkcmGdE%3D",
-      "competitionLogo": "",
-      "pkInfoTitle": "浙江浙商证券 vs 上海久事",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "05月31日19:35"
-      },
-      "nodes": [
-        {
-          "name": "原声:广厦vs上海 77 - 110",
-          "url": "https://v6-show.douyinvod.com/4adf9f3b821f3a244c5925f31a074df8/6a1dc5db/video/tos/cn/tos-cn-v-5c21e9/okcc5zus3XSQgEII9Ae1BRQ4QxmSDgozKhDoxr/?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=3920&bt=3920&cs=0&ds=4&ft=9eUQ9bBOBBkq8ZmoMWOJk_vjVQWw&mime_type=video_mp4&qs=0&rc=NmY8aDdoNTNnNTpoNWU7Z0BpanY2b2Vrb3Y2OzMzNDxnM0A0MTI0Nl4zXzUxLmA2Ni00YSNsL25tcWdmYmJhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1780241425&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026053123302586F91E9369E86F0E580E"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "05月31日19:30",
+      "keyword": "06月01日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -64,19 +16,19 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "05月31日19:30"
+        "time": "06月01日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1780846234&sign=24fb83577d3951d2a9d95133d0fcbba0&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260531233034A6DA3D60E3648BAE4CF3-DMw3ox"
+          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1780848036&sign=0da89e179eb94e50dc775026c18241fa&volcSecret=0da89e179eb94e50dc775026c18241fa&volcTime=1780848036&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060100003611841F5B188AD8A49981-yBsETs"
         }
       ]
     }
   ],
-  "timestamp": "2026-05-31T15:30:34.499Z",
-  "shanghaiTime": "2026-05-31T23:30:34.499Z",
-  "count": 3,
+  "timestamp": "2026-05-31T16:00:36.998Z",
+  "shanghaiTime": "2026-06-01T00:00:36.998Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
