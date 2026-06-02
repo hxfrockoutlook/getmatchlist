@@ -3,6 +3,54 @@
   "data": [
     {
       "mgdbId": "",
+      "pID": "7646613321198097000",
+      "title": "CBA总决赛G4:广厦vs上海 101 - 93",
+      "keyword": "06月02日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p3-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/6d596ad8c37f46ffb3ad3a7289e4c4c9~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1783000846&x-signature=tDbP9cQyCJZO5DwTNt0qPT2CV%2Bc%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "浙江浙商证券 vs 上海久事",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月02日19:35"
+      },
+      "nodes": [
+        {
+          "name": "CBA总决赛G4:广厦vs上海 101 - 93",
+          "url": "https://v9-show.douyinvod.com/a7b874f53f29de91c51971a8fe0b88fb/6a205766/dash/hls-v0dd09g10000d8fdsciljht994770ru0/tos-cn-v-5c21e9/e75e72b7615e4c8583cde53e715eca4f.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=M3U6Nzxrb2ZnOzMzNDxnM0BpM3U6Nzxrb2ZnOzMzNDxnM0ByLTQ2cWdmcGNhLS1kLWFzYSNyLTQ2cWdmcGNhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1780408846&l=2026060222004684B39F856B95291A3917"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "7646749685332039000",
+      "title": "原声:广厦vs上海 101 - 93",
+      "keyword": "06月02日19:35",
+      "sportItemId": "2",
+      "matchStatus": "2",
+      "matchField": "",
+      "competitionName": "抖音CBA联赛",
+      "padImg": "https://p11-webcast-sign.douyinpic.com/tos-cn-i-cyp3xxotkf/686f3a81561c4af1a41a58b04f1d0327~tplv-qz53dukwul-common-resize:375:221.image?lk3s=b426d2a4&x-expires=1783000846&x-signature=HxzAjB8d8nLCViIhOshKpvgWgpE%3D",
+      "competitionLogo": "",
+      "pkInfoTitle": "浙江浙商证券 vs 上海久事",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月02日19:35"
+      },
+      "nodes": [
+        {
+          "name": "原声:广厦vs上海 101 - 93",
+          "url": "https://v9-show.douyinvod.com/74c32e92c54348a6c975c92c7530f14e/6a205734/dash/hls-v0dd09g10000d8fdrhqljhtc5ks762sg/tos-cn-v-5c21e9/2a1a0e425115440aa576086d4b10f496.m3u8?a=1938&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=1&bt=1&cs=0&ds=4&mime_type=video_mp4&qs=13&rc=ajU6bmZrb2tnOzMzNDxnM0BpajU6bmZrb2tnOzMzNDxnM0BwM3AycWdub2NhLS1kLWFzYSNwM3AycWdub2NhLS1kLWFzcw%3D%3D&btag=80000e00038000&dy_q=1780408846&l=2026060222004684B39F856B95291A3917"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
       "keyword": "06月02日19:30",
@@ -20,19 +68,15 @@
       },
       "nodes": [
         {
-          "name": "CBA总决赛G4:广厦vs上海",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407704311631971159_hd.flv?expire=1781011839&sign=f448f2b522289076e4825f8fc0c0b15d&volcSecret=f448f2b522289076e4825f8fc0c0b15d&volcTime=1781011839&major_anchor_level=vip&rtm_expr_tag=empty_device_type&arch_hrchy=s2&unique_id=stream-407704311631971159_855_flv_hd&t_id=037-202606022130398BA4443A7385799C6007-WESFAu"
-        },
-        {
-          "name": "原声:广厦vs上海",
-          "url": "http://pull-f5.douyinliving.com/fantasy/stream-407704379012678487_hd.flv?expire=1781011839&sign=8eaba638a429605685012eafb4bd8263&volcSecret=8eaba638a429605685012eafb4bd8263&volcTime=1781011839&rtm_expr_tag=empty_device_type&major_anchor_level=vip&arch_hrchy=s2&unique_id=stream-407704379012678487_855_flv_hd&t_id=037-202606022130398BA4443A7385799C6007-g2atPV"
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781013659&sign=55c7f7a3b1ca3e0ed09be68714021e09&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060222005955011A91FBEF08A73930-Xg5LQ1"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-02T13:30:40.131Z",
-  "shanghaiTime": "2026-06-02T21:30:40.131Z",
-  "count": 1,
+  "timestamp": "2026-06-02T14:00:59.508Z",
+  "shanghaiTime": "2026-06-02T22:00:59.508Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
