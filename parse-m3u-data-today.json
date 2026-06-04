@@ -5,7 +5,7 @@
       "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "06月04日19:30",
+      "keyword": "06月05日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -16,18 +16,18 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "06月04日19:30"
+        "time": "06月05日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=8a3519a0840519f9a7c0d6b0e8b441be&wsTime=6a219a22&s_anchor=1&major_anchor_level=vip&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-20260604233041AB1CB2047E7CC9AAFBEE-bY9DZh&_neptune_token=MGoEDFEkVX6xm6QdkbK1RwRIDsd_aG_pPpCDDAymZ2iqny-J7tAd2i38jYQmRU_8bmhfw06QWF0dmZ9rH7jzFOOvlaPbr_zgfcWG2QpaK9V9rQVYT0_b48e2BBCjC2t_P3ol4FNt5E8YbZ6v&_report_type=default"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781193641&sign=ec144c25178d2f89dc60759f0c4f80a0&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060500004120C132B9EF9310AC3B40-Sdwdtd"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-04T15:30:42.275Z",
-  "shanghaiTime": "2026-06-04T23:30:42.275Z",
+  "timestamp": "2026-06-04T16:00:42.084Z",
+  "shanghaiTime": "2026-06-05T00:00:42.084Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
