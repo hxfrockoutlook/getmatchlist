@@ -331,7 +331,10 @@ async function fetchAndConvertPPVM3U() {
                 sportItemId = '1';
               } else if (nameLower.includes('basketball')) {
                 sportItemId = '2';
+              } esle {
+                sportItemId = '8';
               }
+      
 
               const matchItem = {
                 mgdbId: '',
