@@ -267,6 +267,10 @@ async function fetchAndConvertPPVM3U() {
           const matches = [];
           let currentExtInf = null;
 
+          // 利用已有的 getShanghaiDateString 获取 YYYY-MM-DD，再转为 MM月DD日
+          const [todayYear, todayMonth, todayDay] = getShanghaiDateString().split('-');
+          const todayStr = `${todayMonth}月${todayDay}日`;          
+          
           for (let i = 0; i < lines.length; i++) {
             const line = lines[i].trim();
             if (line.startsWith('#EXTINF:')) {
@@ -318,10 +322,17 @@ async function fetchAndConvertPPVM3U() {
               let formattedTime = '';
               const dtMatch = dateTimeStr.match(/^(\d{2})\/(\d{2})\s+(\d{2}):(\d{2})$/);
               if (dtMatch) {
-                formattedTime = `${dtMatch[1]}月${dtMatch[2]}日${dtMatch[3]}:${dtMatch[4]}`;
+                  const parsedMonth = dtMatch[1];
+                  const parsedDay = dtMatch[2];
+                  const parsedTime = `${dtMatch[3]}:${dtMatch[4]}`;
+                  const parsedDateStr = `${parsedMonth}月${parsedDay}日`;
+                  if (parsedDateStr === todayStr) {
+                      formattedTime = `${parsedMonth}月${parsedDay}日${parsedTime}`;
+                  } else {
+                      formattedTime = `${todayStr}00:00`;
+                  }
               } else {
-                // 如果格式不匹配，保留原样
-                formattedTime = dateTimeStr;
+                  formattedTime = `${todayStr}00:00`;
               }
 
               // 判断运动类型
