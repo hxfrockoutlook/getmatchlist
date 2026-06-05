@@ -328,11 +328,11 @@ async function fetchAndConvertPPVM3U() {
               let sportItemId = '';
               const nameLower = currentExtInf.tvgName.toLowerCase();
               if (nameLower.includes('football')) {
-                sportItemId = '1';
+                  sportItemId = '1';
               } else if (nameLower.includes('basketball')) {
-                sportItemId = '2';
-              } esle {
-                sportItemId = '8';
+                  sportItemId = '2';
+              } else {
+                  sportItemId = '8';
               }
       
 
