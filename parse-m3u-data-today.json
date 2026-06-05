@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781287833&sign=0a75bdb0ccf61bdd7a11fea6edb4555a&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606021033792F8A5DBFC5195006A8-PqS13V"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22549",
-      "pID": "22549",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/717141099104a74489ffe4cf183c2c98-thumbnail.jpg",
-      "pkInfoTitle": "Belarus vs. Syria",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fblr-syr",
-          "name": "Belarus vs. Syria"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22550",
-      "pID": "22550",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9e2bea8f4d13dff3b81b4a502579fb54-thumbnail.jpg",
-      "pkInfoTitle": "Georgia vs. Bahrain",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fgeo-bhr",
-          "name": "Georgia vs. Bahrain"
+          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781289031&sign=588c4db11ee2e6e3b04e45d97d335d3c&volcSecret=588c4db11ee2e6e3b04e45d97d335d3c&volcTime=1781289031&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060230301AE2BAA0D41B9153DB3B-Cl4U2U"
         }
       ]
     },
@@ -216,11 +168,35 @@
           "name": "WWE: Friday Night Smackdown"
         }
       ]
+    },
+    {
+      "mgdbId": "22562",
+      "pID": "22562",
+      "title": "Marquee Sports Net",
+      "keyword": "06月06日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marquee Sports Net",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/bed5950a46d65622a58f5d8ded700d8a-thumbnail.jpg",
+      "pkInfoTitle": "San Francisco Giants vs. Chicago Cubs",
+      "modifyTitle": "Marquee Sports Net",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fsf-chc",
+          "name": "San Francisco Giants vs. Chicago Cubs"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-05T18:10:35.326Z",
-  "shanghaiTime": "2026-06-06T02:10:35.326Z",
-  "count": 9,
+  "timestamp": "2026-06-05T18:30:33.372Z",
+  "shanghaiTime": "2026-06-06T02:30:33.372Z",
+  "count": 8,
   "mode": "today",
   "source": "cba_live"
 }
