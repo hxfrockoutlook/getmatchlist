@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781289031&sign=588c4db11ee2e6e3b04e45d97d335d3c&volcSecret=588c4db11ee2e6e3b04e45d97d335d3c&volcTime=1781289031&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060230301AE2BAA0D41B9153DB3B-Cl4U2U"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22551",
-      "pID": "22551",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/161090faf17c7155768521a93a2ed3a7-thumbnail.jpg",
-      "pkInfoTitle": "Slovakia vs. Montenegro",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fsvk-mne",
-          "name": "Slovakia vs. Montenegro"
+          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781289035-0-0-27042a04767236a99965f3b6fbb8ab54&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060603003552BC2ADB69AB0756B1E3-MNtP7q"
         }
       ]
     },
@@ -194,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-05T18:30:33.372Z",
-  "shanghaiTime": "2026-06-06T02:30:33.372Z",
-  "count": 8,
+  "timestamp": "2026-06-05T19:00:38.094Z",
+  "shanghaiTime": "2026-06-06T03:00:38.094Z",
+  "count": 7,
   "mode": "today",
   "source": "cba_live"
 }
