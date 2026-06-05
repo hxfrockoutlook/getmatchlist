@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781285439-0-0-40d8984ccd4b6483070a7f6b1d4d7664&major_anchor_level=vip&arch_hrchy=s2&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606020039B9E4766A15F05E541B14-LgUn9n"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781287833&sign=0a75bdb0ccf61bdd7a11fea6edb4555a&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606021033792F8A5DBFC5195006A8-PqS13V"
         }
       ]
     },
@@ -29,7 +29,7 @@
       "mgdbId": "22549",
       "pID": "22549",
       "title": "Men's International Friendly",
-      "keyword": "06月05日16:00",
+      "keyword": "06月06日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -40,7 +40,7 @@
       "modifyTitle": "Men's International Friendly",
       "presenters": "",
       "matchInfo": {
-        "time": "06月05日16:00"
+        "time": "06月06日00:00"
       },
       "nodes": [
         {
@@ -53,7 +53,7 @@
       "mgdbId": "22550",
       "pID": "22550",
       "title": "Men's International Friendly",
-      "keyword": "06月05日16:00",
+      "keyword": "06月06日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -64,7 +64,7 @@
       "modifyTitle": "Men's International Friendly",
       "presenters": "",
       "matchInfo": {
-        "time": "06月05日16:00"
+        "time": "06月06日00:00"
       },
       "nodes": [
         {
@@ -77,7 +77,7 @@
       "mgdbId": "22551",
       "pID": "22551",
       "title": "Men's International Friendly",
-      "keyword": "06月05日16:30",
+      "keyword": "06月06日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -88,7 +88,7 @@
       "modifyTitle": "Men's International Friendly",
       "presenters": "",
       "matchInfo": {
-        "time": "06月05日16:30"
+        "time": "06月06日00:00"
       },
       "nodes": [
         {
@@ -101,7 +101,7 @@
       "mgdbId": "22552",
       "pID": "22552",
       "title": "Men's International Friendly",
-      "keyword": "06月05日17:00",
+      "keyword": "06月06日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -112,7 +112,7 @@
       "modifyTitle": "Men's International Friendly",
       "presenters": "",
       "matchInfo": {
-        "time": "06月05日17:00"
+        "time": "06月06日00:00"
       },
       "nodes": [
         {
@@ -125,7 +125,7 @@
       "mgdbId": "22553",
       "pID": "22553",
       "title": "Men's International Friendly",
-      "keyword": "06月05日17:00",
+      "keyword": "06月06日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -136,7 +136,7 @@
       "modifyTitle": "Men's International Friendly",
       "presenters": "",
       "matchInfo": {
-        "time": "06月05日17:00"
+        "time": "06月06日00:00"
       },
       "nodes": [
         {
@@ -149,7 +149,7 @@
       "mgdbId": "22554",
       "pID": "22554",
       "title": "Men's International Friendly",
-      "keyword": "06月05日17:45",
+      "keyword": "06月06日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -160,7 +160,7 @@
       "modifyTitle": "Men's International Friendly",
       "presenters": "",
       "matchInfo": {
-        "time": "06月05日17:45"
+        "time": "06月06日00:00"
       },
       "nodes": [
         {
@@ -173,7 +173,7 @@
       "mgdbId": "22555",
       "pID": "22555",
       "title": "Men's International Friendly",
-      "keyword": "06月05日18:00",
+      "keyword": "06月06日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -184,7 +184,7 @@
       "modifyTitle": "Men's International Friendly",
       "presenters": "",
       "matchInfo": {
-        "time": "06月05日18:00"
+        "time": "06月06日00:00"
       },
       "nodes": [
         {
@@ -197,7 +197,7 @@
       "mgdbId": "22461",
       "pID": "22461",
       "title": "Netflix",
-      "keyword": "06月05日18:00",
+      "keyword": "06月06日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -208,7 +208,7 @@
       "modifyTitle": "Netflix",
       "presenters": "",
       "matchInfo": {
-        "time": "06月05日18:00"
+        "time": "06月06日00:00"
       },
       "nodes": [
         {
@@ -218,8 +218,8 @@
       ]
     }
   ],
-  "timestamp": "2026-06-05T18:00:42.494Z",
-  "shanghaiTime": "2026-06-06T02:00:42.494Z",
+  "timestamp": "2026-06-05T18:10:35.326Z",
+  "shanghaiTime": "2026-06-06T02:10:35.326Z",
   "count": 9,
   "mode": "today",
   "source": "cba_live"
