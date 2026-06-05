@@ -21,38 +21,14 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781299831&sign=3d97f9d4a6a24255fef3acb7456eaf7f&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606053031495753AE17DDBF53C1EA-MWJeMP"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22562",
-      "pID": "22562",
-      "title": "Marquee Sports Net",
-      "keyword": "06月06日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marquee Sports Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bed5950a46d65622a58f5d8ded700d8a-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Chicago Cubs",
-      "modifyTitle": "Marquee Sports Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fsf-chc",
-          "name": "San Francisco Giants vs. Chicago Cubs"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=b5d4209a33a6920ab9dda31ee9778eb8&wsTime=6a234703&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060606003577AF59197603C45A3D76-3Ks7ci"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-05T21:30:34.359Z",
-  "shanghaiTime": "2026-06-06T05:30:34.359Z",
-  "count": 2,
+  "timestamp": "2026-06-05T22:00:37.717Z",
+  "shanghaiTime": "2026-06-06T06:00:37.717Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
