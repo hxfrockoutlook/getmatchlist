@@ -337,7 +337,7 @@ async function fetchAndConvertPPVM3U() {
       
 
               const matchItem = {
-                mgdbId: '',
+                mgdbId: currentExtInf.tvgId,
                 pID: currentExtInf.tvgId,
                 title: label,
                 keyword: formattedTime,
@@ -591,7 +591,7 @@ async function main() {
     }
 
     // ============ 当模式为 today 时，获取 PPV m3u 正在直播数据 ============
-    if (mode === 'today') {
+    //if (mode === 'today') {
       console.log('开始获取 PPV m3u 正在直播数据...');
       try {
         const ppvMatches = await fetchAndConvertPPVM3U();
@@ -604,7 +604,7 @@ async function main() {
       } catch (ppvError) {
         console.error('获取 PPV m3u 数据时出错:', ppvError.message);
       }
-    }
+    //}
     
     // 根据模式生成不同的文件名
     const outputFileName = `parse-m3u-data-${mode}.json`;
