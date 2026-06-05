@@ -21,14 +21,182 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=ce08b9b672408d88&t=1781283638&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060100381F21AF0F1B60E64AC7C1-NhSKQx"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781284284&sign=91818c69058e258aa16abce58730ba5f&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060601112459E68D1777964A4F9696-myjLI0"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "22469",
+      "title": "Fox Cricket",
+      "keyword": "06月05日10:00",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Cricket",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg",
+      "pkInfoTitle": "England vs. New Zealand",
+      "modifyTitle": "Fox Cricket",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026-06-04%2Feng-nzl",
+          "name": "England vs. New Zealand"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "22577",
+      "title": "ONE Championship",
+      "keyword": "06月05日11:30",
+      "sportItemId": "",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ONE Championship",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/36127ab2ce99531acc560ed7c14977ba-thumbnail.jpg",
+      "pkInfoTitle": "ONE Friday Fights 157 & The Inner Circle",
+      "modifyTitle": "ONE Championship",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日11:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=one-friday-fights-157--the-inner-circle",
+          "name": "ONE Friday Fights 157 & The Inner Circle"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "22549",
+      "title": "Men's International Friendly",
+      "keyword": "06月05日16:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/717141099104a74489ffe4cf183c2c98-thumbnail.jpg",
+      "pkInfoTitle": "Belarus vs. Syria",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fblr-syr",
+          "name": "Belarus vs. Syria"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "22550",
+      "title": "Men's International Friendly",
+      "keyword": "06月05日16:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/9e2bea8f4d13dff3b81b4a502579fb54-thumbnail.jpg",
+      "pkInfoTitle": "Georgia vs. Bahrain",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日16:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fgeo-bhr",
+          "name": "Georgia vs. Bahrain"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "22551",
+      "title": "Men's International Friendly",
+      "keyword": "06月05日16:30",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/161090faf17c7155768521a93a2ed3a7-thumbnail.jpg",
+      "pkInfoTitle": "Slovakia vs. Montenegro",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日16:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fsvk-mne",
+          "name": "Slovakia vs. Montenegro"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "22552",
+      "title": "Men's International Friendly",
+      "keyword": "06月05日17:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/9f981cb3d3d0e77de787553285c49f86-thumbnail.jpg",
+      "pkInfoTitle": "Moldova vs. Bulgaria",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fmda-bul",
+          "name": "Moldova vs. Bulgaria"
+        }
+      ]
+    },
+    {
+      "mgdbId": "",
+      "pID": "22553",
+      "title": "Men's International Friendly",
+      "keyword": "06月05日17:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/38328a6ba9f0c37c72a9509b4a439fac-thumbnail.jpg",
+      "pkInfoTitle": "San Marino vs. Bangladesh",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日17:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fsmr-ban",
+          "name": "San Marino vs. Bangladesh"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-05T17:00:38.343Z",
-  "shanghaiTime": "2026-06-06T01:00:38.343Z",
-  "count": 1,
+  "timestamp": "2026-06-05T17:11:26.371Z",
+  "shanghaiTime": "2026-06-06T01:11:26.371Z",
+  "count": 8,
   "mode": "today",
   "source": "cba_live"
 }
