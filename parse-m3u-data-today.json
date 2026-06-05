@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781289035-0-0-27042a04767236a99965f3b6fbb8ab54&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060603003552BC2ADB69AB0756B1E3-MNtP7q"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22552",
-      "pID": "22552",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9f981cb3d3d0e77de787553285c49f86-thumbnail.jpg",
-      "pkInfoTitle": "Moldova vs. Bulgaria",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fmda-bul",
-          "name": "Moldova vs. Bulgaria"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22553",
-      "pID": "22553",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/38328a6ba9f0c37c72a9509b4a439fac-thumbnail.jpg",
-      "pkInfoTitle": "San Marino vs. Bangladesh",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fsmr-ban",
-          "name": "San Marino vs. Bangladesh"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=d91556066617d6a823c395ba4e433285&wsTime=6a2323d6&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606033029A2D4204529DCE85686BD-9nIwk7"
         }
       ]
     },
@@ -170,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-05T19:00:38.094Z",
-  "shanghaiTime": "2026-06-06T03:00:38.094Z",
-  "count": 7,
+  "timestamp": "2026-06-05T19:30:32.748Z",
+  "shanghaiTime": "2026-06-06T03:30:32.748Z",
+  "count": 5,
   "mode": "today",
   "source": "cba_live"
 }
