@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781284284&sign=91818c69058e258aa16abce58730ba5f&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060601112459E68D1777964A4F9696-myjLI0"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2c41e4&sign=7cf769e2f645144df0ec3250c6ee09ab&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060129080937D7CB098B1A3DC915-UyBytU"
         }
       ]
     },
@@ -30,7 +30,7 @@
       "pID": "22469",
       "title": "Fox Cricket",
       "keyword": "06月05日10:00",
-      "sportItemId": "",
+      "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "Fox Cricket",
@@ -54,7 +54,7 @@
       "pID": "22577",
       "title": "ONE Championship",
       "keyword": "06月05日11:30",
-      "sportItemId": "",
+      "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "ONE Championship",
@@ -194,8 +194,8 @@
       ]
     }
   ],
-  "timestamp": "2026-06-05T17:11:26.371Z",
-  "shanghaiTime": "2026-06-06T01:11:26.371Z",
+  "timestamp": "2026-06-05T17:29:11.010Z",
+  "shanghaiTime": "2026-06-06T01:29:11.010Z",
   "count": 8,
   "mode": "today",
   "source": "cba_live"
