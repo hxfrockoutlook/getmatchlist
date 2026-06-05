@@ -21,36 +21,12 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=b73e313d886ede62&t=1781285429&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060130290D3FEC8A541B7753924E-XxipfD"
+          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781285439-0-0-40d8984ccd4b6483070a7f6b1d4d7664&major_anchor_level=vip&arch_hrchy=s2&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606020039B9E4766A15F05E541B14-LgUn9n"
         }
       ]
     },
     {
-      "mgdbId": "",
-      "pID": "22469",
-      "title": "Fox Cricket",
-      "keyword": "06月05日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Cricket",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg",
-      "pkInfoTitle": "England vs. New Zealand",
-      "modifyTitle": "Fox Cricket",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月05日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026-06-04%2Feng-nzl",
-          "name": "England vs. New Zealand"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
+      "mgdbId": "22549",
       "pID": "22549",
       "title": "Men's International Friendly",
       "keyword": "06月05日16:00",
@@ -74,7 +50,7 @@
       ]
     },
     {
-      "mgdbId": "",
+      "mgdbId": "22550",
       "pID": "22550",
       "title": "Men's International Friendly",
       "keyword": "06月05日16:00",
@@ -98,7 +74,7 @@
       ]
     },
     {
-      "mgdbId": "",
+      "mgdbId": "22551",
       "pID": "22551",
       "title": "Men's International Friendly",
       "keyword": "06月05日16:30",
@@ -122,7 +98,7 @@
       ]
     },
     {
-      "mgdbId": "",
+      "mgdbId": "22552",
       "pID": "22552",
       "title": "Men's International Friendly",
       "keyword": "06月05日17:00",
@@ -146,7 +122,7 @@
       ]
     },
     {
-      "mgdbId": "",
+      "mgdbId": "22553",
       "pID": "22553",
       "title": "Men's International Friendly",
       "keyword": "06月05日17:00",
@@ -168,11 +144,83 @@
           "name": "San Marino vs. Bangladesh"
         }
       ]
+    },
+    {
+      "mgdbId": "22554",
+      "pID": "22554",
+      "title": "Men's International Friendly",
+      "keyword": "06月05日17:45",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0374f7f73ba9b573764e45db3216d1c2-thumbnail.jpg",
+      "pkInfoTitle": "Hungary vs. Finland",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日17:45"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fhun-fin",
+          "name": "Hungary vs. Finland"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22555",
+      "pID": "22555",
+      "title": "Men's International Friendly",
+      "keyword": "06月05日18:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/49fed8dfeb48934bef8ae7b1df25e59c-thumbnail.jpg",
+      "pkInfoTitle": "Azerbaijan vs. Malta",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Faze-mlt",
+          "name": "Azerbaijan vs. Malta"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22461",
+      "pID": "22461",
+      "title": "Netflix",
+      "keyword": "06月05日18:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Netflix",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+      "pkInfoTitle": "WWE: Friday Night Smackdown",
+      "modifyTitle": "Netflix",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月05日18:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fsmackdown%2F2026-06-05",
+          "name": "WWE: Friday Night Smackdown"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-05T17:30:31.394Z",
-  "shanghaiTime": "2026-06-06T01:30:31.394Z",
-  "count": 7,
+  "timestamp": "2026-06-05T18:00:42.494Z",
+  "shanghaiTime": "2026-06-06T02:00:42.494Z",
+  "count": 9,
   "mode": "today",
   "source": "cba_live"
 }
