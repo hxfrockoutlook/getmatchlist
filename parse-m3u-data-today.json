@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781292639-0-0-b3a55ab21ac04b462f72c35082b8571a&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060400390D8B788CED0E07558FA4-EWl1GV"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22554",
-      "pID": "22554",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0374f7f73ba9b573764e45db3216d1c2-thumbnail.jpg",
-      "pkInfoTitle": "Hungary vs. Finland",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fhun-fin",
-          "name": "Hungary vs. Finland"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22555",
-      "pID": "22555",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/49fed8dfeb48934bef8ae7b1df25e59c-thumbnail.jpg",
-      "pkInfoTitle": "Azerbaijan vs. Malta",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Faze-mlt",
-          "name": "Azerbaijan vs. Malta"
+          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=f0b2416d387a203e&t=1781296229&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060604302990B36EAA25A8CC5717C5-9qnzkN"
         }
       ]
     },
@@ -122,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-05T20:00:42.061Z",
-  "shanghaiTime": "2026-06-06T04:00:42.061Z",
-  "count": 5,
+  "timestamp": "2026-06-05T20:30:31.467Z",
+  "shanghaiTime": "2026-06-06T04:30:31.467Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
