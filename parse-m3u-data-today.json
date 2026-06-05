@@ -20,14 +20,18 @@
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781262048&sign=06874e2666eee6717d3ef9188d8d8fe9&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260605190048880FAD8841336521E15D-5Ifuxu"
+          "name": "CBA总决赛G5:上海vs广厦",
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-695952799057838935_hd.flv?expire=1781263833&sign=bbb812d6b01e2e9f069f336435db728a&arch_hrchy=s2&rtm_expr_tag=empty_device_type&major_anchor_level=vip&unique_id=stream-695952799057838935_855_flv_hd&t_id=037-20260605193033E53131087D046D20ED2C-4SoYuw"
+        },
+        {
+          "name": "原声:上海vs广厦",
+          "url": "http://pull-flv-f11.douyinliving.com/fantasy/stream-695956893165683543_hd.flv?expire=1781263833&sign=9c5679c446adc1dd29b48afba19024d2&rtm_expr_tag=empty_device_type&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695956893165683543_855_flv_hd&t_id=037-20260605193033E53131087D046D20ED2C-cNWTRd"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-05T11:00:48.818Z",
-  "shanghaiTime": "2026-06-05T19:00:48.818Z",
+  "timestamp": "2026-06-05T11:30:34.225Z",
+  "shanghaiTime": "2026-06-05T19:30:34.225Z",
   "count": 1,
   "mode": "today",
   "source": "cba_live"
