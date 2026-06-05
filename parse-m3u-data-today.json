@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2c41e4&sign=7cf769e2f645144df0ec3250c6ee09ab&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060129080937D7CB098B1A3DC915-UyBytU"
+          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=b73e313d886ede62&t=1781285429&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060130290D3FEC8A541B7753924E-XxipfD"
         }
       ]
     },
@@ -46,30 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026-06-04%2Feng-nzl",
           "name": "England vs. New Zealand"
-        }
-      ]
-    },
-    {
-      "mgdbId": "",
-      "pID": "22577",
-      "title": "ONE Championship",
-      "keyword": "06月05日11:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ONE Championship",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/36127ab2ce99531acc560ed7c14977ba-thumbnail.jpg",
-      "pkInfoTitle": "ONE Friday Fights 157 & The Inner Circle",
-      "modifyTitle": "ONE Championship",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月05日11:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=one-friday-fights-157--the-inner-circle",
-          "name": "ONE Friday Fights 157 & The Inner Circle"
         }
       ]
     },
@@ -194,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-05T17:29:11.010Z",
-  "shanghaiTime": "2026-06-06T01:29:11.010Z",
-  "count": 8,
+  "timestamp": "2026-06-05T17:30:31.394Z",
+  "shanghaiTime": "2026-06-06T01:30:31.394Z",
+  "count": 7,
   "mode": "today",
   "source": "cba_live"
 }
