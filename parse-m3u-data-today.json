@@ -5,7 +5,7 @@
       "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "06月06日19:30",
+      "keyword": "06月07日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -16,12 +16,12 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "06月06日19:30"
+        "time": "06月07日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781362841-0-0-131db70da6a95534de60d15787e1ac92&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606233041BF9E1B72CAF9D9D7D9EA-tf5vIy"
+          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781366434&sign=607164a28fae191d2baf0bdb80ee4619&volcSecret=607164a28fae191d2baf0bdb80ee4619&volcTime=1781366434&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060700003493D523360B201CCB0A78-fbQjAA"
         }
       ]
     },
@@ -29,7 +29,7 @@
       "mgdbId": "22469",
       "pID": "22469",
       "title": "Fox Cricket",
-      "keyword": "06月06日10:00",
+      "keyword": "06月07日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -40,7 +40,7 @@
       "modifyTitle": "Fox Cricket",
       "presenters": "",
       "matchInfo": {
-        "time": "06月06日10:00"
+        "time": "06月07日00:00"
       },
       "nodes": [
         {
@@ -50,34 +50,10 @@
       ]
     },
     {
-      "mgdbId": "22303",
-      "pID": "22303",
-      "title": "Qualifying",
-      "keyword": "06月06日14:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Qualifying",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/31cf91a6a29df3131ca4172bf394da66-thumbnail.jpg",
-      "pkInfoTitle": "Monaco Grand Prix",
-      "modifyTitle": "Qualifying",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日14:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fmonaco%2Fqualifying",
-          "name": "Monaco Grand Prix"
-        }
-      ]
-    },
-    {
       "mgdbId": "22421",
       "pID": "22421",
       "title": "AFLE+",
-      "keyword": "06月06日14:10",
+      "keyword": "06月07日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -88,7 +64,7 @@
       "modifyTitle": "AFLE+",
       "presenters": "",
       "matchInfo": {
-        "time": "06月06日14:10"
+        "time": "06月07日00:00"
       },
       "nodes": [
         {
@@ -101,7 +77,7 @@
       "mgdbId": "22422",
       "pID": "22422",
       "title": "AFLE+",
-      "keyword": "06月06日14:45",
+      "keyword": "06月07日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -112,7 +88,7 @@
       "modifyTitle": "AFLE+",
       "presenters": "",
       "matchInfo": {
-        "time": "06月06日14:45"
+        "time": "06月07日00:00"
       },
       "nodes": [
         {
@@ -120,11 +96,83 @@
           "name": "Rhein Fire vs. Vienna Vikings"
         }
       ]
+    },
+    {
+      "mgdbId": "22525",
+      "pID": "22525",
+      "title": "OKTAGON.TV",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "OKTAGON.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/69a768f5687199a81420aa5f7d6221db-thumbnail.jpg",
+      "pkInfoTitle": "OKTAGON 89: Severino VS. Zhumagulov",
+      "modifyTitle": "OKTAGON.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=oktagon-89",
+          "name": "OKTAGON 89: Severino VS. Zhumagulov"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22618",
+      "pID": "22618",
+      "title": "The Sun",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "The Sun",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/9faa3ee81a92ca08877bf102d6b67535-thumbnail.jpg",
+      "pkInfoTitle": "Misfits vs. Fame Fighting",
+      "modifyTitle": "The Sun",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=misfits-vs-fame-fighting",
+          "name": "Misfits vs. Fame Fighting"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22605",
+      "pID": "22605",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d786b62cbb2a521a26a33558a5de72ed-thumbnail.jpg",
+      "pkInfoTitle": "Armenia vs. Kazakhstan",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Farm-kaz",
+          "name": "Armenia vs. Kazakhstan"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T15:30:44.071Z",
-  "shanghaiTime": "2026-06-06T23:30:44.071Z",
-  "count": 5,
+  "timestamp": "2026-06-06T16:00:37.243Z",
+  "shanghaiTime": "2026-06-07T00:00:37.244Z",
+  "count": 7,
   "mode": "today",
   "source": "cba_live"
 }
