@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781326832&sign=6147ad688925fedb826894ed04a229e4&volcSecret=6147ad688925fedb826894ed04a229e4&volcTime=1781326832&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606061300328D4801143C4DAF7AD67F-rAyuVd"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22574",
-      "pID": "22574",
-      "title": "Padres.TV",
-      "keyword": "06月06日01:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Padres.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c55a73bd5b1f39c113dffd0f44ce17f9-thumbnail.jpg",
-      "pkInfoTitle": "New York Mets vs. San Diego Padres",
-      "modifyTitle": "Padres.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日01:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fnym-sd",
-          "name": "New York Mets vs. San Diego Padres"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22575",
-      "pID": "22575",
-      "title": "DBACKS.TV",
-      "keyword": "06月06日01:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DBACKS.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/03887ff43699e2cef0bd8044d3bc1e46-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. Arizona Diamondbacks",
-      "modifyTitle": "DBACKS.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日01:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fwsh-ari",
-          "name": "Washington Nationals vs. Arizona Diamondbacks"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2ceaf5&sign=ac09df7a7ce720ffa1b4a8d4c416d9e2&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606133028A8A383D0A60321654A34-vneqo5&_neptune_token=MGoEDHNa-FX-xB-F-lslqwRIqw4GUnSjjXMgxCi25c7jIODeDpiC9lyJVNENS7dYdk6c7DppTPNPFzn2UROVS-DnixNQszWhzDVET9fAkpxzvWRugC7uvSYOBBCMhhrDmB8GFopJ3CN46UHX&_report_type=default"
         }
       ]
     },
@@ -122,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-06T05:00:36.107Z",
-  "shanghaiTime": "2026-06-06T13:00:36.107Z",
-  "count": 5,
+  "timestamp": "2026-06-06T05:30:31.151Z",
+  "shanghaiTime": "2026-06-06T13:30:31.151Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
