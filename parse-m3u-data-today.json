@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781388043&sign=460bb414b19ad81f3b588fb903912526&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607060043C174DC01266DA1B2C394-XUVeje"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2dda04&sign=7763d29a0e15df0f17d981b45d771b1a&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606070630283F29894EAB2249E0DB64-eQmgaV"
         }
       ]
     },
@@ -118,54 +118,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fbal-tor",
           "name": "Baltimore Orioles vs. Toronto Blue Jays"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22613",
-      "pID": "22613",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b37ab1cec5ebc5847bd04df3824a3f25-thumbnail.jpg",
-      "pkInfoTitle": "Bolivia vs. Scotland",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fbol-sco",
-          "name": "Bolivia vs. Scotland"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22614",
-      "pID": "22614",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/17c9c44b7eae745adf928afa1de13322-thumbnail.jpg",
-      "pkInfoTitle": "England vs. New Zealand",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Feng-nzl",
-          "name": "England vs. New Zealand"
         }
       ]
     },
@@ -386,9 +338,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-06T22:00:46.614Z",
-  "shanghaiTime": "2026-06-07T06:00:46.614Z",
-  "count": 16,
+  "timestamp": "2026-06-06T22:30:30.857Z",
+  "shanghaiTime": "2026-06-07T06:30:30.857Z",
+  "count": 14,
   "mode": "today",
   "source": "cba_live"
 }
