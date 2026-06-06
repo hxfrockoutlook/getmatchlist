@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2ceaf5&sign=ac09df7a7ce720ffa1b4a8d4c416d9e2&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606133028A8A383D0A60321654A34-vneqo5&_neptune_token=MGoEDHNa-FX-xB-F-lslqwRIqw4GUnSjjXMgxCi25c7jIODeDpiC9lyJVNENS7dYdk6c7DppTPNPFzn2UROVS-DnixNQszWhzDVET9fAkpxzvWRugC7uvSYOBBCMhhrDmB8GFopJ3CN46UHX&_report_type=default"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22576",
-      "pID": "22576",
-      "title": "Sportsnet LA",
-      "keyword": "06月06日02:10",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet LA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/11e8f172b277a7009c2ea7ab09b88ccf-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Angels vs. Los Angeles Dodgers",
-      "modifyTitle": "Sportsnet LA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日02:10"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Flaa-lad",
-          "name": "Los Angeles Angels vs. Los Angeles Dodgers"
+          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781330445&sign=3ffebf071270068e5c70b842d1c52941&volcSecret=3ffebf071270068e5c70b842d1c52941&volcTime=1781330445&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606140045B79F20EBAB6C58691298-G0TxIf"
         }
       ]
     },
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-06T05:30:31.151Z",
-  "shanghaiTime": "2026-06-06T13:30:31.151Z",
-  "count": 3,
+  "timestamp": "2026-06-06T06:00:47.884Z",
+  "shanghaiTime": "2026-06-06T14:00:47.884Z",
+  "count": 2,
   "mode": "today",
   "source": "cba_live"
 }
