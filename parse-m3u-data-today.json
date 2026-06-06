@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781344846&sign=ef0701834be627166e45a4836e7fafe6&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-202606061800466F05AEF8A3FB3B829498-RSQR9H"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22445",
-      "pID": "22445",
-      "title": "Fox Footy",
-      "keyword": "06月06日07:15",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/eba227028b503766232ffc779c29954d-thumbnail.jpg",
-      "pkInfoTitle": "Gold Coast SUNS vs. Brisbane Lions",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日07:15"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-06%2Fgcfc-bl",
-          "name": "Gold Coast SUNS vs. Brisbane Lions"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2d314a&sign=46b31e7d2e9302b283768e914572048f&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060618303419441924B8C70DA92FBF-THnTf0"
         }
       ]
     },
@@ -96,11 +72,59 @@
           "name": "England vs. New Zealand"
         }
       ]
+    },
+    {
+      "mgdbId": "22446",
+      "pID": "22446",
+      "title": "Fox Footy",
+      "keyword": "06月06日10:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/dc19c3347ad510b6a590694dd9fa09a4-thumbnail.jpg",
+      "pkInfoTitle": "West Coast Eagles vs. Port Adelaide",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日10:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-06%2Fwce-port",
+          "name": "West Coast Eagles vs. Port Adelaide"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22300",
+      "pID": "22300",
+      "title": "Practice 3",
+      "keyword": "06月06日10:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Practice 3",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ecca83b07fb621777f164edd1aa1f3b3-thumbnail.jpg",
+      "pkInfoTitle": "Monaco Grand Prix",
+      "modifyTitle": "Practice 3",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日10:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fmonaco%2Ffp3",
+          "name": "Monaco Grand Prix"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T10:00:48.789Z",
-  "shanghaiTime": "2026-06-06T18:00:48.789Z",
-  "count": 4,
+  "timestamp": "2026-06-06T10:30:36.187Z",
+  "shanghaiTime": "2026-06-06T18:30:36.187Z",
+  "count": 5,
   "mode": "today",
   "source": "cba_live"
 }
