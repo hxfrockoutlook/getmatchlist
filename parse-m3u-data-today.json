@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781352054&sign=8e00b6a33745c92a5bb5659553a80764&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060620005359E5F55EBA6A558B8569-dHgMHn"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22454",
-      "pID": "22454",
-      "title": "Fox League",
-      "keyword": "06月06日09:35",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/491e0ab0d6f69abe96af969e705c90d4-thumbnail.jpg",
-      "pkInfoTitle": "Broncos vs. Titans",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日09:35"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-06%2Fbri-gol",
-          "name": "Broncos vs. Titans"
+          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781353837&sign=ca05e49f09f7767e247c1a60983e753e&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606203037F10C63B2636111BE9099-BLan4h"
         }
       ]
     },
@@ -98,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22300",
-      "pID": "22300",
-      "title": "Practice 3",
-      "keyword": "06月06日10:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Practice 3",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ecca83b07fb621777f164edd1aa1f3b3-thumbnail.jpg",
-      "pkInfoTitle": "Monaco Grand Prix",
-      "modifyTitle": "Practice 3",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日10:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fmonaco%2Ffp3",
-          "name": "Monaco Grand Prix"
-        }
-      ]
-    },
-    {
       "mgdbId": "22420",
       "pID": "22420",
       "title": "AFLE+",
@@ -146,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-06T12:00:56.947Z",
-  "shanghaiTime": "2026-06-06T20:00:56.947Z",
-  "count": 6,
+  "timestamp": "2026-06-06T12:30:39.479Z",
+  "shanghaiTime": "2026-06-06T20:30:39.479Z",
+  "count": 4,
   "mode": "today",
   "source": "cba_live"
 }
