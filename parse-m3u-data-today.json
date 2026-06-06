@@ -21,103 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=e469137119b7224a2ec017d91fafe5f0&wsTime=6a238643&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606061030278E2F7BB4E859916DAD1A-faKhsI"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22565",
-      "pID": "22565",
-      "title": "YES",
-      "keyword": "06月06日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "YES",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6d76374efb31b4abaa9c45408e3f8b77-thumbnail.jpg",
-      "pkInfoTitle": "Boston Red Sox vs. New York Yankees",
-      "modifyTitle": "YES",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fbos-nyy",
-          "name": "Boston Red Sox vs. New York Yankees"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22566",
-      "pID": "22566",
-      "title": "Sportsnet One",
-      "keyword": "06月06日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet One",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/70b59dfe375b57126f8f458750869e7c-thumbnail.jpg",
-      "pkInfoTitle": "Baltimore Orioles vs. Toronto Blue Jays",
-      "modifyTitle": "Sportsnet One",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fbal-tor",
-          "name": "Baltimore Orioles vs. Toronto Blue Jays"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22567",
-      "pID": "22567",
-      "title": "Marlins.TV",
-      "keyword": "06月06日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e3995089989583881fe0f597e7bce26c-thumbnail.jpg",
-      "pkInfoTitle": "Tampa Bay Rays vs. Miami Marlins",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Ftb-mia",
-          "name": "Tampa Bay Rays vs. Miami Marlins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22568",
-      "pID": "22568",
-      "title": "BravesVision",
-      "keyword": "06月06日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ad275b77103b95c8d75787b87bcdd53b-thumbnail.jpg",
-      "pkInfoTitle": "Pittsburgh Pirates vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fpit-atl",
-          "name": "Pittsburgh Pirates vs. Atlanta Braves"
+          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781319634&sign=4ad881e89bd9af847848f9b295c5068e&volcSecret=4ad881e89bd9af847848f9b295c5068e&volcTime=1781319634&s_anchor=1&major_anchor_level=vip&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606110034946E0EB600318359219D-kscRds"
         }
       ]
     },
@@ -410,9 +314,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-06T02:30:29.923Z",
-  "shanghaiTime": "2026-06-06T10:30:29.923Z",
-  "count": 17,
+  "timestamp": "2026-06-06T03:00:36.666Z",
+  "shanghaiTime": "2026-06-06T11:00:36.666Z",
+  "count": 13,
   "mode": "today",
   "source": "cba_live"
 }
