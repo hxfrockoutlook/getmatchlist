@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2d314a&sign=46b31e7d2e9302b283768e914572048f&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060618303419441924B8C70DA92FBF-THnTf0"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781348446&sign=f7e54391ac90cadfb99092abf448b572&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060619004600E83B0331CBE7841DF3-HU46hD"
         }
       ]
     },
@@ -120,11 +120,35 @@
           "name": "Monaco Grand Prix"
         }
       ]
+    },
+    {
+      "mgdbId": "22420",
+      "pID": "22420",
+      "title": "AFLE+",
+      "keyword": "06月06日11:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "AFLE+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3326e7d98b44ae8c27005708534a2b16-thumbnail.jpg",
+      "pkInfoTitle": "Panthers Wroclaw vs. Paris Lights",
+      "modifyTitle": "AFLE+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-06%2Fpan-par",
+          "name": "Panthers Wroclaw vs. Paris Lights"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T10:30:36.187Z",
-  "shanghaiTime": "2026-06-06T18:30:36.187Z",
-  "count": 5,
+  "timestamp": "2026-06-06T11:00:49.065Z",
+  "shanghaiTime": "2026-06-06T19:00:49.065Z",
+  "count": 6,
   "mode": "today",
   "source": "cba_live"
 }
