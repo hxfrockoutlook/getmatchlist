@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2cdce8&sign=c16be911a60f93cd0e741bd13cb181ae&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606123032F61DD386495A2C752493-RqwU9F"
+          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781326832&sign=6147ad688925fedb826894ed04a229e4&volcSecret=6147ad688925fedb826894ed04a229e4&volcTime=1781326832&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606061300328D4801143C4DAF7AD67F-rAyuVd"
         }
       ]
     },
@@ -74,54 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22560",
-      "pID": "22560",
-      "title": "ION",
-      "keyword": "06月06日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ION",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ea1b443de0e54d489bcc9738d009a20c-thumbnail.jpg",
-      "pkInfoTitle": "Dallas Wings vs. Los Angeles Sparks",
-      "modifyTitle": "ION",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-05%2Fdal-la",
-          "name": "Dallas Wings vs. Los Angeles Sparks"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22561",
-      "pID": "22561",
-      "title": "ION",
-      "keyword": "06月06日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ION",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/900b687268fb4e26bb73bdc38aea361e-thumbnail.jpg",
-      "pkInfoTitle": "Phoenix Mercury vs. Portland Fire",
-      "modifyTitle": "ION",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-05%2Fphx-por",
-          "name": "Phoenix Mercury vs. Portland Fire"
-        }
-      ]
-    },
-    {
       "mgdbId": "22576",
       "pID": "22576",
       "title": "Sportsnet LA",
@@ -170,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-06T04:30:34.718Z",
-  "shanghaiTime": "2026-06-06T12:30:34.718Z",
-  "count": 7,
+  "timestamp": "2026-06-06T05:00:36.107Z",
+  "shanghaiTime": "2026-06-06T13:00:36.107Z",
+  "count": 5,
   "mode": "today",
   "source": "cba_live"
 }
