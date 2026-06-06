@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=cf39196c72066bc0068d817af122c207&wsTime=6a246e52&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060703003492F3A18948EF94D2B79C-nJAyQc"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781379029&sign=24da40fb6e6b3ef6230639e206f8c0f5&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606070330290B98746C8CC23BB0850A-1lorp3"
         }
       ]
     },
@@ -142,30 +142,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-06%2Fsea-min",
           "name": "Seattle Storm vs. Minnesota Lynx"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22606",
-      "pID": "22606",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/eec0926858e7c363307e69f76c279429-thumbnail.jpg",
-      "pkInfoTitle": "Gibraltar vs. Cayman Islands",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fgib-cay",
-          "name": "Gibraltar vs. Cayman Islands"
         }
       ]
     },
@@ -456,10 +432,34 @@
           "name": "Switzerland vs. Australia"
         }
       ]
+    },
+    {
+      "mgdbId": "22593",
+      "pID": "22593",
+      "title": "Sportsnet",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/70b59dfe375b57126f8f458750869e7c-thumbnail.jpg",
+      "pkInfoTitle": "Baltimore Orioles vs. Toronto Blue Jays",
+      "modifyTitle": "Sportsnet",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fbal-tor",
+          "name": "Baltimore Orioles vs. Toronto Blue Jays"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T19:00:37.488Z",
-  "shanghaiTime": "2026-06-07T03:00:37.488Z",
+  "timestamp": "2026-06-06T19:30:32.200Z",
+  "shanghaiTime": "2026-06-07T03:30:32.200Z",
   "count": 19,
   "mode": "today",
   "source": "cba_live"
