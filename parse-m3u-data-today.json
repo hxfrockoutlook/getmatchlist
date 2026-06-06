@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=5ab279d930f3337a&t=1781380844&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607040044B38343F114B32BDDF2AC-lDQw9m"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=bdeaa4c646ed9a564656f0b7c704759e&wsTime=6a248368&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607043032932E64EE6B8300B42943-2pFESx"
         }
       ]
     },
@@ -166,78 +166,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fsea-det",
           "name": "Seattle Mariners vs. Detroit Tigers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22607",
-      "pID": "22607",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ae18c89a02c85e231440494fb70b3a5c-thumbnail.jpg",
-      "pkInfoTitle": "Portugal vs. Chile",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fpor-chi",
-          "name": "Portugal vs. Chile"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22608",
-      "pID": "22608",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/887c1793e38a034dd62d28e8b7ea5e1f-thumbnail.jpg",
-      "pkInfoTitle": "Romania vs. Wales",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Frou-wal",
-          "name": "Romania vs. Wales"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22609",
-      "pID": "22609",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/391ccc4521fb0e63d95cb7b9c62012d8-thumbnail.jpg",
-      "pkInfoTitle": "Albania vs. Luxembourg",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Falb-lux",
-          "name": "Albania vs. Luxembourg"
         }
       ]
     },
@@ -480,11 +408,131 @@
           "name": "England vs. New Zealand"
         }
       ]
+    },
+    {
+      "mgdbId": "22594",
+      "pID": "22594",
+      "title": "NBC Sports Phil",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports Phil",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4bc74c4226c7d0b21f6ff441a5eb24ab-thumbnail.jpg",
+      "pkInfoTitle": "Chicago White Sox vs. Philadelphia Phillies",
+      "modifyTitle": "NBC Sports Phil",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fchw-phi",
+          "name": "Chicago White Sox vs. Philadelphia Phillies"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22595",
+      "pID": "22595",
+      "title": "BravesVision",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "BravesVision",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ad275b77103b95c8d75787b87bcdd53b-thumbnail.jpg",
+      "pkInfoTitle": "Pittsburgh Pirates vs. Atlanta Braves",
+      "modifyTitle": "BravesVision",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fpit-atl",
+          "name": "Pittsburgh Pirates vs. Atlanta Braves"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22596",
+      "pID": "22596",
+      "title": "Marlins.TV",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marlins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e3995089989583881fe0f597e7bce26c-thumbnail.jpg",
+      "pkInfoTitle": "Tampa Bay Rays vs. Miami Marlins",
+      "modifyTitle": "Marlins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Ftb-mia",
+          "name": "Tampa Bay Rays vs. Miami Marlins"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22597",
+      "pID": "22597",
+      "title": "Space City Home Network",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Space City Home Network",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/1049e140fee1671f013bec459cf81aa7-thumbnail.jpg",
+      "pkInfoTitle": "Athletics vs. Houston Astros",
+      "modifyTitle": "Space City Home Network",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fath-hou",
+          "name": "Athletics vs. Houston Astros"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22598",
+      "pID": "22598",
+      "title": "DBACKS.TV",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "DBACKS.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/03887ff43699e2cef0bd8044d3bc1e46-thumbnail.jpg",
+      "pkInfoTitle": "Washington Nationals vs. Arizona Diamondbacks",
+      "modifyTitle": "DBACKS.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fwsh-ari",
+          "name": "Washington Nationals vs. Arizona Diamondbacks"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T20:00:47.261Z",
-  "shanghaiTime": "2026-06-07T04:00:47.261Z",
-  "count": 20,
+  "timestamp": "2026-06-06T20:30:34.995Z",
+  "shanghaiTime": "2026-06-07T04:30:34.995Z",
+  "count": 22,
   "mode": "today",
   "source": "cba_live"
 }
