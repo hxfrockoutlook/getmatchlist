@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=60027808f8045e02bf64ccb564369f62&wsTime=6a235c17&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606073031B22B29E3676EC5489B23-c2F8VP"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2c9daa&sign=e6589195e882ff55ba18e76ee23703d7&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060608004262259727A8371059F67C-lSjf1t"
         }
       ]
     },
@@ -216,11 +216,35 @@
           "name": "Canada vs. Republic of Ireland"
         }
       ]
+    },
+    {
+      "mgdbId": "22557",
+      "pID": "22557",
+      "title": "Men's International Friendly",
+      "keyword": "06月06日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c305e06eef8be3619eef9e69bc2043fa-thumbnail.jpg",
+      "pkInfoTitle": "Haiti vs. Peru",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fhai-per",
+          "name": "Haiti vs. Peru"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-05T23:30:33.783Z",
-  "shanghaiTime": "2026-06-06T07:30:33.783Z",
-  "count": 9,
+  "timestamp": "2026-06-06T00:00:43.925Z",
+  "shanghaiTime": "2026-06-06T08:00:43.925Z",
+  "count": 10,
   "mode": "today",
   "source": "cba_live"
 }
