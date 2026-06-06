@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=5d36ec407af1c37b1933c7f7997aaf6d&wsTime=6a249174&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607053028A4B99FEBE04710D9C937-x5dtZ7"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22525",
-      "pID": "22525",
-      "title": "OKTAGON.TV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "OKTAGON.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/69a768f5687199a81420aa5f7d6221db-thumbnail.jpg",
-      "pkInfoTitle": "OKTAGON 89: Severino VS. Zhumagulov",
-      "modifyTitle": "OKTAGON.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=oktagon-89",
-          "name": "OKTAGON 89: Severino VS. Zhumagulov"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22618",
-      "pID": "22618",
-      "title": "The Sun",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "The Sun",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9faa3ee81a92ca08877bf102d6b67535-thumbnail.jpg",
-      "pkInfoTitle": "Misfits vs. Fame Fighting",
-      "modifyTitle": "The Sun",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=misfits-vs-fame-fighting",
-          "name": "Misfits vs. Fame Fighting"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781388043&sign=460bb414b19ad81f3b588fb903912526&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607060043C174DC01266DA1B2C394-XUVeje"
         }
       ]
     },
@@ -142,102 +94,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=smx-wk19",
           "name": "Pro Motocross: Hangtown"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22590",
-      "pID": "22590",
-      "title": "Twins.TV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Twins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/031acdc8ab0bd2488ddf822cb9ed9542-thumbnail.jpg",
-      "pkInfoTitle": "Kansas City Royals vs. Minnesota Twins",
-      "modifyTitle": "Twins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fkc-min",
-          "name": "Kansas City Royals vs. Minnesota Twins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22591",
-      "pID": "22591",
-      "title": "Cardinals.TV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cardinals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/76b53e6f51362e599c03c436d34ef0fb-thumbnail.jpg",
-      "pkInfoTitle": "Cincinnati Reds vs. St. Louis Cardinals",
-      "modifyTitle": "Cardinals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fcin-stl",
-          "name": "Cincinnati Reds vs. St. Louis Cardinals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22592",
-      "pID": "22592",
-      "title": "Marquee Sports Net",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marquee Sports Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bed5950a46d65622a58f5d8ded700d8a-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Chicago Cubs",
-      "modifyTitle": "Marquee Sports Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fsf-chc",
-          "name": "San Francisco Giants vs. Chicago Cubs"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22586",
-      "pID": "22586",
-      "title": "ABC",
-      "keyword": "06月07日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ae0f6ac8f273c00705348c19b7645dfb-thumbnail.jpg",
-      "pkInfoTitle": "Golden State Valkyries vs. Las Vegas Aces",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-06%2Fgs-lv",
-          "name": "Golden State Valkyries vs. Las Vegas Aces"
         }
       ]
     },
@@ -456,11 +312,83 @@
           "name": "UFC Fight Night: Muhammad vs. Bonfim"
         }
       ]
+    },
+    {
+      "mgdbId": "22587",
+      "pID": "22587",
+      "title": "Atlanta News First",
+      "keyword": "06月07日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Atlanta News First",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/887cad066a56394166619fd6850ce8dd-thumbnail.jpg",
+      "pkInfoTitle": "Washington Mystics vs. Atlanta Dream",
+      "modifyTitle": "Atlanta News First",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-06%2Fwsh-atl",
+          "name": "Washington Mystics vs. Atlanta Dream"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22615",
+      "pID": "22615",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/84b3b991db152d3f3276c8aebabed6f8-thumbnail.jpg",
+      "pkInfoTitle": "Brazil vs. Egypt",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fbra-egy",
+          "name": "Brazil vs. Egypt"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22616",
+      "pID": "22616",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f2048e0c0eda21f07e7bcfa499fcdd49-thumbnail.jpg",
+      "pkInfoTitle": "Venezuela vs. Türkiye",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fven-tur",
+          "name": "Venezuela vs. Türkiye"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T21:30:30.565Z",
-  "shanghaiTime": "2026-06-07T05:30:30.565Z",
-  "count": 19,
+  "timestamp": "2026-06-06T22:00:46.614Z",
+  "shanghaiTime": "2026-06-07T06:00:46.614Z",
+  "count": 16,
   "mode": "today",
   "source": "cba_live"
 }
