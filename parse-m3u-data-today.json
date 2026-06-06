@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781371833&sign=1adda31c7e3a87c5abdb59efb20c2f55&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060701303352C8FC8432B51ADBF378-im53ns"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22469",
-      "pID": "22469",
-      "title": "Fox Cricket",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Cricket",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg",
-      "pkInfoTitle": "England vs. New Zealand",
-      "modifyTitle": "Fox Cricket",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026-06-06%2Feng-nzl",
-          "name": "England vs. New Zealand"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22421",
-      "pID": "22421",
-      "title": "AFLE+",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AFLE+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/981e393700d80f21ebe8c1c980ff4793-thumbnail.jpg",
-      "pkInfoTitle": "Berlin Thunder vs. Firenze Red Lions",
-      "modifyTitle": "AFLE+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-06%2Fber-fir",
-          "name": "Berlin Thunder vs. Firenze Red Lions"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=55cd83a7076e559268cebf81fd689269&wsTime=6a24604e&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607020046E7091E8754183ED2AF37-N7nHT5"
         }
       ]
     },
@@ -312,11 +264,83 @@
           "name": "Seattle Mariners vs. Detroit Tigers"
         }
       ]
+    },
+    {
+      "mgdbId": "22607",
+      "pID": "22607",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ae18c89a02c85e231440494fb70b3a5c-thumbnail.jpg",
+      "pkInfoTitle": "Portugal vs. Chile",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fpor-chi",
+          "name": "Portugal vs. Chile"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22608",
+      "pID": "22608",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/887c1793e38a034dd62d28e8b7ea5e1f-thumbnail.jpg",
+      "pkInfoTitle": "Romania vs. Wales",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Frou-wal",
+          "name": "Romania vs. Wales"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22609",
+      "pID": "22609",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/391ccc4521fb0e63d95cb7b9c62012d8-thumbnail.jpg",
+      "pkInfoTitle": "Albania vs. Luxembourg",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Falb-lux",
+          "name": "Albania vs. Luxembourg"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T17:30:36.331Z",
-  "shanghaiTime": "2026-06-07T01:30:36.331Z",
-  "count": 13,
+  "timestamp": "2026-06-06T18:00:48.849Z",
+  "shanghaiTime": "2026-06-07T02:00:48.849Z",
+  "count": 14,
   "mode": "today",
   "source": "cba_live"
 }
