@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781366434&sign=607164a28fae191d2baf0bdb80ee4619&volcSecret=607164a28fae191d2baf0bdb80ee4619&volcTime=1781366434&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060700003493D523360B201CCB0A78-fbQjAA"
+          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781370070&sign=eab6de8798377194e2a5a8bc0b7cb87c&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607010110E1F84FE4B33720D9BA7E-pTfJ9n"
         }
       ]
     },
@@ -146,6 +146,30 @@
       ]
     },
     {
+      "mgdbId": "22619",
+      "pID": "22619",
+      "title": "Paramount+",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Paramount+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/de1748747b54624569895d1744806236-thumbnail.jpg",
+      "pkInfoTitle": "Zuffa Boxing 07",
+      "modifyTitle": "Paramount+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=zuffa-boxing-07",
+          "name": "Zuffa Boxing 07"
+        }
+      ]
+    },
+    {
       "mgdbId": "22605",
       "pID": "22605",
       "title": "Men's International Friendly",
@@ -168,11 +192,107 @@
           "name": "Armenia vs. Kazakhstan"
         }
       ]
+    },
+    {
+      "mgdbId": "22524",
+      "pID": "22524",
+      "title": "PPV",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "PPV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/273e8f79145d4626f689579cab2760dd-thumbnail.jpg",
+      "pkInfoTitle": "East vs West 24",
+      "modifyTitle": "PPV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=east-vs-west-24",
+          "name": "East vs West 24"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22585",
+      "pID": "22585",
+      "title": "ABC",
+      "keyword": "06月07日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0186bc23cd3ff5dbc5afdb54bddbc499-thumbnail.jpg",
+      "pkInfoTitle": "Seattle Storm vs. Minnesota Lynx",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-06%2Fsea-min",
+          "name": "Seattle Storm vs. Minnesota Lynx"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22606",
+      "pID": "22606",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/eec0926858e7c363307e69f76c279429-thumbnail.jpg",
+      "pkInfoTitle": "Gibraltar vs. Cayman Islands",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fgib-cay",
+          "name": "Gibraltar vs. Cayman Islands"
+        }
+      ]
+    },
+    {
+      "mgdbId": "15856",
+      "pID": "15856",
+      "title": "Peacock",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Peacock",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
+      "pkInfoTitle": "Pro Motocross: Hangtown",
+      "modifyTitle": "Peacock",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=smx-wk19",
+          "name": "Pro Motocross: Hangtown"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T16:00:37.243Z",
-  "shanghaiTime": "2026-06-07T00:00:37.244Z",
-  "count": 7,
+  "timestamp": "2026-06-06T17:01:12.912Z",
+  "shanghaiTime": "2026-06-07T01:01:12.912Z",
+  "count": 12,
   "mode": "today",
   "source": "cba_live"
 }
