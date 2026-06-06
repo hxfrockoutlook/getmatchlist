@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=41de50da2f7d24c7e06ac6a43313019a&wsTime=6a237839&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606093032C3127F52C0E8CE69D31E-QUqjfI"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781316047&sign=b87973acf21093b43da3abf8b3d660ec&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060610004650501B1DB9388D6B984F-yleQYn"
         }
       ]
     },
@@ -190,30 +190,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-05%2Fcon-chi",
           "name": "Connecticut Sun vs. Chicago Sky"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22556",
-      "pID": "22556",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/eb0c4ead7ec092702df78414948497ce-thumbnail.jpg",
-      "pkInfoTitle": "Canada vs. Republic of Ireland",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-05%2Fcan-irl",
-          "name": "Canada vs. Republic of Ireland"
         }
       ]
     },
@@ -408,11 +384,107 @@
           "name": "Winnipeg Blue Bombers vs. Calgary Stampeders"
         }
       ]
+    },
+    {
+      "mgdbId": "22574",
+      "pID": "22574",
+      "title": "Padres.TV",
+      "keyword": "06月06日01:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Padres.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c55a73bd5b1f39c113dffd0f44ce17f9-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. San Diego Padres",
+      "modifyTitle": "Padres.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日01:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fnym-sd",
+          "name": "New York Mets vs. San Diego Padres"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22575",
+      "pID": "22575",
+      "title": "DBACKS.TV",
+      "keyword": "06月06日01:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "DBACKS.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/03887ff43699e2cef0bd8044d3bc1e46-thumbnail.jpg",
+      "pkInfoTitle": "Washington Nationals vs. Arizona Diamondbacks",
+      "modifyTitle": "DBACKS.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日01:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fwsh-ari",
+          "name": "Washington Nationals vs. Arizona Diamondbacks"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22560",
+      "pID": "22560",
+      "title": "ION",
+      "keyword": "06月06日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ION",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ea1b443de0e54d489bcc9738d009a20c-thumbnail.jpg",
+      "pkInfoTitle": "Dallas Wings vs. Los Angeles Sparks",
+      "modifyTitle": "ION",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-05%2Fdal-la",
+          "name": "Dallas Wings vs. Los Angeles Sparks"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22561",
+      "pID": "22561",
+      "title": "ION",
+      "keyword": "06月06日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ION",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/900b687268fb4e26bb73bdc38aea361e-thumbnail.jpg",
+      "pkInfoTitle": "Phoenix Mercury vs. Portland Fire",
+      "modifyTitle": "ION",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-05%2Fphx-por",
+          "name": "Phoenix Mercury vs. Portland Fire"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T01:30:36.006Z",
-  "shanghaiTime": "2026-06-06T09:30:36.006Z",
-  "count": 17,
+  "timestamp": "2026-06-06T02:00:49.389Z",
+  "shanghaiTime": "2026-06-06T10:00:49.389Z",
+  "count": 20,
   "mode": "today",
   "source": "cba_live"
 }
