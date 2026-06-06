@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2dda04&sign=7763d29a0e15df0f17d981b45d771b1a&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606070630283F29894EAB2249E0DB64-eQmgaV"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781391633&sign=c484bfd5a843527fdb9f7904c251428b&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606070700335937351130F35BEB771C-D1A2Jh"
         }
       ]
     },
@@ -94,30 +94,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=smx-wk19",
           "name": "Pro Motocross: Hangtown"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22593",
-      "pID": "22593",
-      "title": "Sportsnet",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/70b59dfe375b57126f8f458750869e7c-thumbnail.jpg",
-      "pkInfoTitle": "Baltimore Orioles vs. Toronto Blue Jays",
-      "modifyTitle": "Sportsnet",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fbal-tor",
-          "name": "Baltimore Orioles vs. Toronto Blue Jays"
         }
       ]
     },
@@ -336,10 +312,34 @@
           "name": "Venezuela vs. Türkiye"
         }
       ]
+    },
+    {
+      "mgdbId": "22433",
+      "pID": "22433",
+      "title": "CFL+",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CFL+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c6000aa243d1f469ce149563473f5570-thumbnail.jpg",
+      "pkInfoTitle": "Edmonton Elks vs. Ottawa RedBlacks",
+      "modifyTitle": "CFL+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-06%2Fedm-ott",
+          "name": "Edmonton Elks vs. Ottawa RedBlacks"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T22:30:30.857Z",
-  "shanghaiTime": "2026-06-07T06:30:30.857Z",
+  "timestamp": "2026-06-06T23:00:35.997Z",
+  "shanghaiTime": "2026-06-07T07:00:35.997Z",
   "count": 14,
   "mode": "today",
   "source": "cba_live"
