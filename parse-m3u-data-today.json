@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=7d48dd2101a87602033710b9217fcf0f&wsTime=6a23e8b8&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060617303283CD0528BCB6D99C8176-QFaNUf"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781344846&sign=ef0701834be627166e45a4836e7fafe6&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-202606061800466F05AEF8A3FB3B829498-RSQR9H"
         }
       ]
     },
@@ -50,33 +50,57 @@
       ]
     },
     {
-      "mgdbId": "22453",
-      "pID": "22453",
+      "mgdbId": "22454",
+      "pID": "22454",
       "title": "Fox League",
-      "keyword": "06月06日07:30",
+      "keyword": "06月06日09:35",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "Fox League",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3efc8a6b27d1ec485c31114681c966be-thumbnail.jpg",
-      "pkInfoTitle": "Cowboys vs. Dolphins",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/491e0ab0d6f69abe96af969e705c90d4-thumbnail.jpg",
+      "pkInfoTitle": "Broncos vs. Titans",
       "modifyTitle": "Fox League",
       "presenters": "",
       "matchInfo": {
-        "time": "06月06日07:30"
+        "time": "06月06日09:35"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-06%2Fnor-dol",
-          "name": "Cowboys vs. Dolphins"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-06%2Fbri-gol",
+          "name": "Broncos vs. Titans"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22469",
+      "pID": "22469",
+      "title": "Fox Cricket",
+      "keyword": "06月06日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Cricket",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg",
+      "pkInfoTitle": "England vs. New Zealand",
+      "modifyTitle": "Fox Cricket",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026-06-06%2Feng-nzl",
+          "name": "England vs. New Zealand"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-06T09:30:34.526Z",
-  "shanghaiTime": "2026-06-06T17:30:34.526Z",
-  "count": 3,
+  "timestamp": "2026-06-06T10:00:48.789Z",
+  "shanghaiTime": "2026-06-06T18:00:48.789Z",
+  "count": 4,
   "mode": "today",
   "source": "cba_live"
 }
