@@ -21,38 +21,62 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=ff7188a017be269c6231e6121fcc4b80&wsTime=6a23c592&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606150033F001B05B7D55446E25AF-NrcICm"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781335830&sign=ecca22d3ad9bb7a989a6b18717243ff0&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606153030743FC97DFD454491C5C0-71NcjB"
         }
       ]
     },
     {
-      "mgdbId": "22444",
-      "pID": "22444",
+      "mgdbId": "22445",
+      "pID": "22445",
       "title": "Fox Footy",
-      "keyword": "06月06日04:15",
+      "keyword": "06月06日07:15",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "Fox Footy",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a0cafcebc44cf14a5625a2fe6a8a4811-thumbnail.jpg",
-      "pkInfoTitle": "North Melbourne vs. Fremantle",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/eba227028b503766232ffc779c29954d-thumbnail.jpg",
+      "pkInfoTitle": "Gold Coast SUNS vs. Brisbane Lions",
       "modifyTitle": "Fox Footy",
       "presenters": "",
       "matchInfo": {
-        "time": "06月06日04:15"
+        "time": "06月06日07:15"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-06%2Fnmfc-fre",
-          "name": "North Melbourne vs. Fremantle"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-06%2Fgcfc-bl",
+          "name": "Gold Coast SUNS vs. Brisbane Lions"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22453",
+      "pID": "22453",
+      "title": "Fox League",
+      "keyword": "06月06日07:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3efc8a6b27d1ec485c31114681c966be-thumbnail.jpg",
+      "pkInfoTitle": "Cowboys vs. Dolphins",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日07:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-06%2Fnor-dol",
+          "name": "Cowboys vs. Dolphins"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-06T07:00:35.550Z",
-  "shanghaiTime": "2026-06-06T15:00:35.550Z",
-  "count": 2,
+  "timestamp": "2026-06-06T07:30:33.062Z",
+  "shanghaiTime": "2026-06-06T15:30:33.062Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
