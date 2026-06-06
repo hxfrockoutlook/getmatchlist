@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781323238&sign=50383c5f43cab6066a2c8115afd19853&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606120038775E866B15F42D7772E2-HIqLL0"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22573",
-      "pID": "22573",
-      "title": "Rockies.TV",
-      "keyword": "06月06日00:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d166d8639894f262ff677fcab4661154-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fmil-col",
-          "name": "Milwaukee Brewers vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22431",
-      "pID": "22431",
-      "title": "CFL+",
-      "keyword": "06月06日01:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CFL+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bfbf16b638a692fef1a8a0c000d8fc4e-thumbnail.jpg",
-      "pkInfoTitle": "Winnipeg Blue Bombers vs. Calgary Stampeders",
-      "modifyTitle": "CFL+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-05%2Fwpg-cgy",
-          "name": "Winnipeg Blue Bombers vs. Calgary Stampeders"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2cdce8&sign=c16be911a60f93cd0e741bd13cb181ae&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-20260606123032F61DD386495A2C752493-RqwU9F"
         }
       ]
     },
@@ -192,11 +144,35 @@
           "name": "Los Angeles Angels vs. Los Angeles Dodgers"
         }
       ]
+    },
+    {
+      "mgdbId": "22444",
+      "pID": "22444",
+      "title": "Fox Footy",
+      "keyword": "06月06日04:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a0cafcebc44cf14a5625a2fe6a8a4811-thumbnail.jpg",
+      "pkInfoTitle": "North Melbourne vs. Fremantle",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日04:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-06%2Fnmfc-fre",
+          "name": "North Melbourne vs. Fremantle"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T04:00:40.856Z",
-  "shanghaiTime": "2026-06-06T12:00:40.856Z",
-  "count": 8,
+  "timestamp": "2026-06-06T04:30:34.718Z",
+  "shanghaiTime": "2026-06-06T12:30:34.718Z",
+  "count": 7,
   "mode": "today",
   "source": "cba_live"
 }
