@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=55cd83a7076e559268cebf81fd689269&wsTime=6a24604e&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607020046E7091E8754183ED2AF37-N7nHT5"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22422",
-      "pID": "22422",
-      "title": "AFLE+",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AFLE+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/33ddeb339c7cc9b6c46ef185c18db511-thumbnail.jpg",
-      "pkInfoTitle": "Rhein Fire vs. Vienna Vikings",
-      "modifyTitle": "AFLE+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-06%2Frhe-vie",
-          "name": "Rhein Fire vs. Vienna Vikings"
+          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=c6c815d65826ea91&t=1781375431&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607023031183FC9BB196708CFB7AF-QMHqwb"
         }
       ]
     },
@@ -118,30 +94,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=zuffa-boxing-07",
           "name": "Zuffa Boxing 07"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22605",
-      "pID": "22605",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d786b62cbb2a521a26a33558a5de72ed-thumbnail.jpg",
-      "pkInfoTitle": "Armenia vs. Kazakhstan",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Farm-kaz",
-          "name": "Armenia vs. Kazakhstan"
         }
       ]
     },
@@ -336,11 +288,107 @@
           "name": "Albania vs. Luxembourg"
         }
       ]
+    },
+    {
+      "mgdbId": "22590",
+      "pID": "22590",
+      "title": "Twins.TV",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Twins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/031acdc8ab0bd2488ddf822cb9ed9542-thumbnail.jpg",
+      "pkInfoTitle": "Kansas City Royals vs. Minnesota Twins",
+      "modifyTitle": "Twins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fkc-min",
+          "name": "Kansas City Royals vs. Minnesota Twins"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22591",
+      "pID": "22591",
+      "title": "Cardinals.TV",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Cardinals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/76b53e6f51362e599c03c436d34ef0fb-thumbnail.jpg",
+      "pkInfoTitle": "Cincinnati Reds vs. St. Louis Cardinals",
+      "modifyTitle": "Cardinals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fcin-stl",
+          "name": "Cincinnati Reds vs. St. Louis Cardinals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22592",
+      "pID": "22592",
+      "title": "Marquee Sports Net",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marquee Sports Net",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/bed5950a46d65622a58f5d8ded700d8a-thumbnail.jpg",
+      "pkInfoTitle": "San Francisco Giants vs. Chicago Cubs",
+      "modifyTitle": "Marquee Sports Net",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fsf-chc",
+          "name": "San Francisco Giants vs. Chicago Cubs"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22610",
+      "pID": "22610",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fa5728b80c08c762b2c7220136684bc1-thumbnail.jpg",
+      "pkInfoTitle": "United States vs. Germany",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fusa-ger",
+          "name": "United States vs. Germany"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T18:00:48.849Z",
-  "shanghaiTime": "2026-06-07T02:00:48.849Z",
-  "count": 14,
+  "timestamp": "2026-06-06T18:30:34.078Z",
+  "shanghaiTime": "2026-06-07T02:30:34.078Z",
+  "count": 16,
   "mode": "today",
   "source": "cba_live"
 }
