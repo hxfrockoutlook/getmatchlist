@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781316047&sign=b87973acf21093b43da3abf8b3d660ec&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060610004650501B1DB9388D6B984F-yleQYn"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22563",
-      "pID": "22563",
-      "title": "NBC Sports Phil",
-      "keyword": "06月06日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports Phil",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4bc74c4226c7d0b21f6ff441a5eb24ab-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. Philadelphia Phillies",
-      "modifyTitle": "NBC Sports Phil",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fchw-phi",
-          "name": "Chicago White Sox vs. Philadelphia Phillies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22564",
-      "pID": "22564",
-      "title": "Tigers.TV",
-      "keyword": "06月06日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Tigers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a184b4b22083c970cc4ccac242eff0f2-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Mariners vs. Detroit Tigers",
-      "modifyTitle": "Tigers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fsea-det",
-          "name": "Seattle Mariners vs. Detroit Tigers"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=e469137119b7224a2ec017d91fafe5f0&wsTime=6a238643&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606061030278E2F7BB4E859916DAD1A-faKhsI"
         }
       ]
     },
@@ -166,54 +118,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fpit-atl",
           "name": "Pittsburgh Pirates vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22559",
-      "pID": "22559",
-      "title": "ION",
-      "keyword": "06月06日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ION",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/891aed8668e14f26273949bf78f8a04d-thumbnail.jpg",
-      "pkInfoTitle": "Connecticut Sun vs. Chicago Sky",
-      "modifyTitle": "ION",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-05%2Fcon-chi",
-          "name": "Connecticut Sun vs. Chicago Sky"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22557",
-      "pID": "22557",
-      "title": "Men's International Friendly",
-      "keyword": "06月06日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c305e06eef8be3619eef9e69bc2043fa-thumbnail.jpg",
-      "pkInfoTitle": "Haiti vs. Peru",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月06日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fhai-per",
-          "name": "Haiti vs. Peru"
         }
       ]
     },
@@ -480,11 +384,35 @@
           "name": "Phoenix Mercury vs. Portland Fire"
         }
       ]
+    },
+    {
+      "mgdbId": "22576",
+      "pID": "22576",
+      "title": "Sportsnet LA",
+      "keyword": "06月06日02:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet LA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/11e8f172b277a7009c2ea7ab09b88ccf-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Angels vs. Los Angeles Dodgers",
+      "modifyTitle": "Sportsnet LA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日02:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Flaa-lad",
+          "name": "Los Angeles Angels vs. Los Angeles Dodgers"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T02:00:49.389Z",
-  "shanghaiTime": "2026-06-06T10:00:49.389Z",
-  "count": 20,
+  "timestamp": "2026-06-06T02:30:29.923Z",
+  "shanghaiTime": "2026-06-06T10:30:29.923Z",
+  "count": 17,
   "mode": "today",
   "source": "cba_live"
 }
