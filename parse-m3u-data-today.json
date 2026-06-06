@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2c9daa&sign=e6589195e882ff55ba18e76ee23703d7&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060608004262259727A8371059F67C-lSjf1t"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781310628&sign=7e872531522259b92c0c96d991f6b4b1&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606060830286C5819FC992BEC5E70F5-6YkJ9x"
         }
       ]
     },
@@ -240,11 +240,131 @@
           "name": "Haiti vs. Peru"
         }
       ]
+    },
+    {
+      "mgdbId": "22569",
+      "pID": "22569",
+      "title": "Space City Home Network",
+      "keyword": "06月06日00:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Space City Home Network",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/1049e140fee1671f013bec459cf81aa7-thumbnail.jpg",
+      "pkInfoTitle": "Athletics vs. Houston Astros",
+      "modifyTitle": "Space City Home Network",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日00:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fath-hou",
+          "name": "Athletics vs. Houston Astros"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22570",
+      "pID": "22570",
+      "title": "Cardinals.TV",
+      "keyword": "06月06日00:15",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Cardinals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/76b53e6f51362e599c03c436d34ef0fb-thumbnail.jpg",
+      "pkInfoTitle": "Cincinnati Reds vs. St. Louis Cardinals",
+      "modifyTitle": "Cardinals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日00:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fcin-stl",
+          "name": "Cincinnati Reds vs. St. Louis Cardinals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22571",
+      "pID": "22571",
+      "title": "Apple TV",
+      "keyword": "06月06日00:15",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Apple TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2a45b3d41edcfa0f4dd9352cfdd864d2-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Texas Rangers",
+      "modifyTitle": "Apple TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日00:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fcle-tex",
+          "name": "Cleveland Guardians vs. Texas Rangers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22572",
+      "pID": "22572",
+      "title": "Apple TV",
+      "keyword": "06月06日00:15",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Apple TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/031acdc8ab0bd2488ddf822cb9ed9542-thumbnail.jpg",
+      "pkInfoTitle": "Kansas City Royals vs. Minnesota Twins",
+      "modifyTitle": "Apple TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日00:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-05%2Fkc-min",
+          "name": "Kansas City Royals vs. Minnesota Twins"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22558",
+      "pID": "22558",
+      "title": "ABC",
+      "keyword": "06月06日00:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/26fe893b207229fdd68eac3833730c8e-thumbnail.jpg",
+      "pkInfoTitle": "New York Knicks vs. San Antonio Spurs",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月06日00:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nba%2F2026-06-05%2Fny-sa",
+          "name": "New York Knicks vs. San Antonio Spurs"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T00:00:43.925Z",
-  "shanghaiTime": "2026-06-06T08:00:43.925Z",
-  "count": 10,
+  "timestamp": "2026-06-06T00:30:31.236Z",
+  "shanghaiTime": "2026-06-06T08:30:31.236Z",
+  "count": 15,
   "mode": "today",
   "source": "cba_live"
 }
