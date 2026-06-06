@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=bdeaa4c646ed9a564656f0b7c704759e&wsTime=6a248368&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607043032932E64EE6B8300B42943-2pFESx"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=83c2ea2df8d88a96aec5f0136b2758ce&wsTime=6a248a73&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060705003570D803D542CAB2E389AA-JRuFzB"
         }
       ]
     },
@@ -146,30 +146,6 @@
       ]
     },
     {
-      "mgdbId": "22589",
-      "pID": "22589",
-      "title": "Tigers.TV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Tigers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a184b4b22083c970cc4ccac242eff0f2-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Mariners vs. Detroit Tigers",
-      "modifyTitle": "Tigers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fsea-det",
-          "name": "Seattle Mariners vs. Detroit Tigers"
-        }
-      ]
-    },
-    {
       "mgdbId": "22590",
       "pID": "22590",
       "title": "Twins.TV",
@@ -238,30 +214,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fsf-chc",
           "name": "San Francisco Giants vs. Chicago Cubs"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22610",
-      "pID": "22610",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fa5728b80c08c762b2c7220136684bc1-thumbnail.jpg",
-      "pkInfoTitle": "United States vs. Germany",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fusa-ger",
-          "name": "United States vs. Germany"
         }
       ]
     },
@@ -528,11 +480,35 @@
           "name": "Washington Nationals vs. Arizona Diamondbacks"
         }
       ]
+    },
+    {
+      "mgdbId": "22470",
+      "pID": "22470",
+      "title": "Paramount+",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Paramount+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg",
+      "pkInfoTitle": "UFC Fight Night: Muhammad vs. Bonfim",
+      "modifyTitle": "Paramount+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-fight-night-muhammad-vs-bonfim",
+          "name": "UFC Fight Night: Muhammad vs. Bonfim"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T20:30:34.995Z",
-  "shanghaiTime": "2026-06-07T04:30:34.995Z",
-  "count": 22,
+  "timestamp": "2026-06-06T21:00:37.996Z",
+  "shanghaiTime": "2026-06-07T05:00:37.996Z",
+  "count": 21,
   "mode": "today",
   "source": "cba_live"
 }
