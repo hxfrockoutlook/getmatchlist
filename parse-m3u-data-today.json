@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781467241&sign=88f1e17b5cf91a06accae98bbd29cbb3&volcSecret=88f1e17b5cf91a06accae98bbd29cbb3&volcTime=1781467241&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060804004187109F7FD33E5B699A10-S7Q8Yo"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=cfa6f6c4e1de93b8336c0b7fad14eb55&wsTime=6a25d4e5&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060804302975C06947DCB78A639DB7-nGARWw"
         }
       ]
     },
@@ -166,30 +166,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Ftb-mia",
           "name": "Tampa Bay Rays vs. Miami Marlins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22639",
-      "pID": "22639",
-      "title": "Men's International Friendly",
-      "keyword": "06月08日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/dfc529857ec8e469a788d50b0db64d98-thumbnail.jpg",
-      "pkInfoTitle": "Kosovo vs. Andorra",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fkos-and",
-          "name": "Kosovo vs. Andorra"
         }
       ]
     },
@@ -480,11 +456,59 @@
           "name": "Ecuador vs. Guatemala"
         }
       ]
+    },
+    {
+      "mgdbId": "22634",
+      "pID": "22634",
+      "title": "Sportsnet LA",
+      "keyword": "06月08日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet LA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/11e8f172b277a7009c2ea7ab09b88ccf-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Angels vs. Los Angeles Dodgers",
+      "modifyTitle": "Sportsnet LA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Flaa-lad",
+          "name": "Los Angeles Angels vs. Los Angeles Dodgers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22635",
+      "pID": "22635",
+      "title": "Padres.TV",
+      "keyword": "06月08日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Padres.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c55a73bd5b1f39c113dffd0f44ce17f9-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. San Diego Padres",
+      "modifyTitle": "Padres.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fnym-sd",
+          "name": "New York Mets vs. San Diego Padres"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T20:00:44.995Z",
-  "shanghaiTime": "2026-06-08T04:00:44.995Z",
-  "count": 20,
+  "timestamp": "2026-06-07T20:30:31.275Z",
+  "shanghaiTime": "2026-06-08T04:30:31.275Z",
+  "count": 21,
   "mode": "today",
   "source": "cba_live"
 }
