@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781436638&sign=d4e9a87434dff417eea76e55a58e73c1&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606071930387792CD78648B7E358442-0nJzmn"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2e9804&sign=6d2c2ae1f318f3e787645669ecdd4907&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072001080C0DBE913A57CCFF2EEB-jyzRFo"
         }
       ]
     },
@@ -72,11 +72,35 @@
           "name": "England vs. New Zealand"
         }
       ]
+    },
+    {
+      "mgdbId": "22645",
+      "pID": "22645",
+      "title": "Volleyball",
+      "keyword": "06月07日11:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Volleyball",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4c6af54313900221e125ac2687bb59dc-thumbnail.jpg",
+      "pkInfoTitle": "Women's VNL 2026 | China v Poland",
+      "modifyTitle": "Volleyball",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=vnl%2F2026-06-07%2Fchn-pol",
+          "name": "Women's VNL 2026 | China v Poland"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T11:30:40.689Z",
-  "shanghaiTime": "2026-06-07T19:30:40.689Z",
-  "count": 3,
+  "timestamp": "2026-06-07T12:01:10.757Z",
+  "shanghaiTime": "2026-06-07T20:01:10.757Z",
+  "count": 4,
   "mode": "today",
   "source": "cba_live"
 }
