@@ -5,7 +5,7 @@
       "mgdbId": "",
       "pID": "983488708402",
       "title": "抖音CBA直播间",
-      "keyword": "06月07日19:30",
+      "keyword": "06月08日19:30",
       "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
@@ -16,12 +16,12 @@
       "modifyTitle": "",
       "presenters": "",
       "matchInfo": {
-        "time": "06月07日19:30"
+        "time": "06月08日19:30"
       },
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781451034&sign=1011fefda1472ddec044dfd0615f50df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072330346D5F962BE6ECEF114E22-HR5tBc"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781452844&sign=06b416ee518787d27d1bda30a9aa8557&major_anchor_level=vip&arch_hrchy=s2&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060800004444E1D4AB964C514C528B-3dcSRt"
         }
       ]
     },
@@ -29,7 +29,7 @@
       "mgdbId": "22423",
       "pID": "22423",
       "title": "AFLE+",
-      "keyword": "06月07日13:00",
+      "keyword": "06月08日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -40,7 +40,7 @@
       "modifyTitle": "AFLE+",
       "presenters": "",
       "matchInfo": {
-        "time": "06月07日13:00"
+        "time": "06月08日00:00"
       },
       "nodes": [
         {
@@ -48,35 +48,11 @@
           "name": "Alpine Rams vs. London Warriors"
         }
       ]
-    },
-    {
-      "mgdbId": "22306",
-      "pID": "22306",
-      "title": "Race",
-      "keyword": "06月07日13:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Race",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg",
-      "pkInfoTitle": "Monaco Grand Prix",
-      "modifyTitle": "Race",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fmonaco%2Frace",
-          "name": "Monaco Grand Prix"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-07T15:30:36.645Z",
-  "shanghaiTime": "2026-06-07T23:30:36.645Z",
-  "count": 3,
+  "timestamp": "2026-06-07T16:00:46.488Z",
+  "shanghaiTime": "2026-06-08T00:00:46.488Z",
+  "count": 2,
   "mode": "today",
   "source": "cba_live"
 }
