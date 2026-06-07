@@ -21,151 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781469034-0-0-f6562a3801b404b0b872c9f88bd0454d&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606080500342703B420B316D91B8EF7-qTWwku"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22622",
-      "pID": "22622",
-      "title": "YES",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "YES",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6d76374efb31b4abaa9c45408e3f8b77-thumbnail.jpg",
-      "pkInfoTitle": "Boston Red Sox vs. New York Yankees",
-      "modifyTitle": "YES",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fbos-nyy",
-          "name": "Boston Red Sox vs. New York Yankees"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22623",
-      "pID": "22623",
-      "title": "NBC Sports Phil",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports Phil",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4bc74c4226c7d0b21f6ff441a5eb24ab-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. Philadelphia Phillies",
-      "modifyTitle": "NBC Sports Phil",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fchw-phi",
-          "name": "Chicago White Sox vs. Philadelphia Phillies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22624",
-      "pID": "22624",
-      "title": "BravesVision",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ad275b77103b95c8d75787b87bcdd53b-thumbnail.jpg",
-      "pkInfoTitle": "Pittsburgh Pirates vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fpit-atl",
-          "name": "Pittsburgh Pirates vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22625",
-      "pID": "22625",
-      "title": "Sportsnet",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/70b59dfe375b57126f8f458750869e7c-thumbnail.jpg",
-      "pkInfoTitle": "Baltimore Orioles vs. Toronto Blue Jays",
-      "modifyTitle": "Sportsnet",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fbal-tor",
-          "name": "Baltimore Orioles vs. Toronto Blue Jays"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22626",
-      "pID": "22626",
-      "title": "Tigers.TV",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Tigers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a184b4b22083c970cc4ccac242eff0f2-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Mariners vs. Detroit Tigers",
-      "modifyTitle": "Tigers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fsea-det",
-          "name": "Seattle Mariners vs. Detroit Tigers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22627",
-      "pID": "22627",
-      "title": "Marlins.TV",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e3995089989583881fe0f597e7bce26c-thumbnail.jpg",
-      "pkInfoTitle": "Tampa Bay Rays vs. Miami Marlins",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Ftb-mia",
-          "name": "Tampa Bay Rays vs. Miami Marlins"
+          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781470829-0-0-18f69a0656dba216a8ef9f6a9f43d7d8&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060805302983630FA5BE198F72AFF2-KUjOOp"
         }
       ]
     },
@@ -266,30 +122,6 @@
       ]
     },
     {
-      "mgdbId": "22640",
-      "pID": "22640",
-      "title": "Men's International Friendly",
-      "keyword": "06月08日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/62a34d1861ba157b2f193d465dbf6739-thumbnail.jpg",
-      "pkInfoTitle": "Croatia vs. Slovenia",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fcro-svn",
-          "name": "Croatia vs. Slovenia"
-        }
-      ]
-    },
-    {
       "mgdbId": "22427",
       "pID": "22427",
       "title": "ABC",
@@ -334,54 +166,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-07%2Fchi-tor",
           "name": "Chicago Sky vs. Toronto Tempo"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22641",
-      "pID": "22641",
-      "title": "Men's International Friendly",
-      "keyword": "06月08日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/82d918c83c8a6dff9396f73f31f59e87-thumbnail.jpg",
-      "pkInfoTitle": "Greece vs. Italy",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fgre-ita",
-          "name": "Greece vs. Italy"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22642",
-      "pID": "22642",
-      "title": "Men's International Friendly",
-      "keyword": "06月08日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7546858068965d99349668fba526a052-thumbnail.jpg",
-      "pkInfoTitle": "Morocco vs. Norway",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fmar-nor",
-          "name": "Morocco vs. Norway"
         }
       ]
     },
@@ -506,9 +290,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T21:00:36.692Z",
-  "shanghaiTime": "2026-06-08T05:00:36.692Z",
-  "count": 21,
+  "timestamp": "2026-06-07T21:30:31.369Z",
+  "shanghaiTime": "2026-06-08T05:30:31.369Z",
+  "count": 12,
   "mode": "today",
   "source": "cba_live"
 }
