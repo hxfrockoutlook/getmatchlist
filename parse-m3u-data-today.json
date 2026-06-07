@@ -21,37 +21,37 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781452844&sign=06b416ee518787d27d1bda30a9aa8557&major_anchor_level=vip&arch_hrchy=s2&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060800004444E1D4AB964C514C528B-3dcSRt"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2ed725&sign=18f8a631bf2502c5bd1b560ac7a564b6&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606080030299FD4EED3405B8A17756C-iehqKB"
         }
       ]
     },
     {
-      "mgdbId": "22423",
-      "pID": "22423",
-      "title": "AFLE+",
+      "mgdbId": "22638",
+      "pID": "22638",
+      "title": "Men's International Friendly",
       "keyword": "06月08日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "AFLE+",
+      "competitionName": "Men's International Friendly",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0edf2b5405d2cd3bdab4bd4c12a52990-thumbnail.jpg",
-      "pkInfoTitle": "Alpine Rams vs. London Warriors",
-      "modifyTitle": "AFLE+",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0f04180d4288b58fbb00c85fdda3a37f-thumbnail.jpg",
+      "pkInfoTitle": "Denmark vs. Ukraine",
+      "modifyTitle": "Men's International Friendly",
       "presenters": "",
       "matchInfo": {
         "time": "06月08日00:00"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-07%2Falp-lon",
-          "name": "Alpine Rams vs. London Warriors"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fden-ukr",
+          "name": "Denmark vs. Ukraine"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-07T16:00:46.488Z",
-  "shanghaiTime": "2026-06-08T00:00:46.488Z",
+  "timestamp": "2026-06-07T16:30:31.845Z",
+  "shanghaiTime": "2026-06-08T00:30:31.845Z",
   "count": 2,
   "mode": "today",
   "source": "cba_live"
