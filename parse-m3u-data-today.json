@@ -21,79 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781470829-0-0-18f69a0656dba216a8ef9f6a9f43d7d8&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060805302983630FA5BE198F72AFF2-KUjOOp"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22628",
-      "pID": "22628",
-      "title": "Space City Home Network",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Space City Home Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1049e140fee1671f013bec459cf81aa7-thumbnail.jpg",
-      "pkInfoTitle": "Athletics vs. Houston Astros",
-      "modifyTitle": "Space City Home Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fath-hou",
-          "name": "Athletics vs. Houston Astros"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22629",
-      "pID": "22629",
-      "title": "Twins.TV",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Twins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/031acdc8ab0bd2488ddf822cb9ed9542-thumbnail.jpg",
-      "pkInfoTitle": "Kansas City Royals vs. Minnesota Twins",
-      "modifyTitle": "Twins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fkc-min",
-          "name": "Kansas City Royals vs. Minnesota Twins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22630",
-      "pID": "22630",
-      "title": "Cardinals.TV",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cardinals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/76b53e6f51362e599c03c436d34ef0fb-thumbnail.jpg",
-      "pkInfoTitle": "Cincinnati Reds vs. St. Louis Cardinals",
-      "modifyTitle": "Cardinals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fcin-stl",
-          "name": "Cincinnati Reds vs. St. Louis Cardinals"
+          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781474438&sign=af74853f35c7b48d1a16bb6d08e447e6&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606080600375A2863064A9C41749C3E-nnMXZY"
         }
       ]
     },
@@ -142,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=ufl%2F2026-06-07%2Fdc-orl",
           "name": "DC Defenders vs. Orlando Storm"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22620",
-      "pID": "22620",
-      "title": "TSN",
-      "keyword": "06月08日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "TSN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6df0d07b9223b7678873983eae56a5de-thumbnail.jpg",
-      "pkInfoTitle": "Chicago Sky vs. Toronto Tempo",
-      "modifyTitle": "TSN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-07%2Fchi-tor",
-          "name": "Chicago Sky vs. Toronto Tempo"
         }
       ]
     },
@@ -288,11 +192,35 @@
           "name": "New York Mets vs. San Diego Padres"
         }
       ]
+    },
+    {
+      "mgdbId": "22428",
+      "pID": "22428",
+      "title": "FOX",
+      "keyword": "06月08日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FOX",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8717e27525999e5ed6156a21713446a9-thumbnail.jpg",
+      "pkInfoTitle": "Louisville Kings vs. St. Louis Battlehawks",
+      "modifyTitle": "FOX",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufl%2F2026-06-07%2Flou-stl",
+          "name": "Louisville Kings vs. St. Louis Battlehawks"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T21:30:31.369Z",
-  "shanghaiTime": "2026-06-08T05:30:31.369Z",
-  "count": 12,
+  "timestamp": "2026-06-07T22:00:40.194Z",
+  "shanghaiTime": "2026-06-08T06:00:40.194Z",
+  "count": 9,
   "mode": "today",
   "source": "cba_live"
 }
