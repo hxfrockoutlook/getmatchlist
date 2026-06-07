@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=dee29e531d671ca1e2b6c8f7a8bada27&wsTime=6a24ded4&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060711003638CE4B9385AD41FBA195-btkpd9"
+          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781407833&sign=23b9290ae8e3153ccae758953329dbb1&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606071130336E8EA46DB35FCE0B6D68-Sypbd9"
         }
       ]
     },
@@ -70,54 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-fight-night-muhammad-vs-bonfim",
           "name": "UFC Fight Night: Muhammad vs. Bonfim"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22599",
-      "pID": "22599",
-      "title": "MLB.TV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6d76374efb31b4abaa9c45408e3f8b77-thumbnail.jpg",
-      "pkInfoTitle": "Boston Red Sox vs. New York Yankees",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fbos-nyy",
-          "name": "Boston Red Sox vs. New York Yankees"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22600",
-      "pID": "22600",
-      "title": "MLB.TV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2a45b3d41edcfa0f4dd9352cfdd864d2-thumbnail.jpg",
-      "pkInfoTitle": "Cleveland Guardians vs. Texas Rangers",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fcle-tex",
-          "name": "Cleveland Guardians vs. Texas Rangers"
         }
       ]
     },
@@ -218,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T03:00:37.646Z",
-  "shanghaiTime": "2026-06-07T11:00:37.646Z",
-  "count": 9,
+  "timestamp": "2026-06-07T03:30:36.548Z",
+  "shanghaiTime": "2026-06-07T11:30:36.548Z",
+  "count": 7,
   "mode": "today",
   "source": "cba_live"
 }
