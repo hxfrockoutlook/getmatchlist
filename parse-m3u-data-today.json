@@ -21,79 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781411428&sign=764d9b29aa6b1aa7edb38ec582d21bda&volcSecret=764d9b29aa6b1aa7edb38ec582d21bda&volcTime=1781411428&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607123028CD6445101210FEFE74BE-wSEV9b"
-        }
-      ]
-    },
-    {
-      "mgdbId": "15856",
-      "pID": "15856",
-      "title": "Peacock",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Peacock",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
-      "pkInfoTitle": "Pro Motocross: Hangtown",
-      "modifyTitle": "Peacock",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=smx-wk19",
-          "name": "Pro Motocross: Hangtown"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22470",
-      "pID": "22470",
-      "title": "Paramount+",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Paramount+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg",
-      "pkInfoTitle": "UFC Fight Night: Muhammad vs. Bonfim",
-      "modifyTitle": "Paramount+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-fight-night-muhammad-vs-bonfim",
-          "name": "UFC Fight Night: Muhammad vs. Bonfim"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22601",
-      "pID": "22601",
-      "title": "Rockies.TV",
-      "keyword": "06月07日01:10",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d166d8639894f262ff677fcab4661154-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日01:10"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fmil-col",
-          "name": "Milwaukee Brewers vs. Colorado Rockies"
+          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781413234&sign=e98060abdea0f9df288c4f0ac1b0518d&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606071300343D3BF8F9DAAAFB133143-avGQmJ"
         }
       ]
     },
@@ -170,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T04:30:31.951Z",
-  "shanghaiTime": "2026-06-07T12:30:31.951Z",
-  "count": 7,
+  "timestamp": "2026-06-07T05:00:37.503Z",
+  "shanghaiTime": "2026-06-07T13:00:37.503Z",
+  "count": 4,
   "mode": "today",
   "source": "cba_live"
 }
