@@ -21,38 +21,14 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781425833&sign=4fcb44327a4286717d12b3ebda9c0e3e&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607163033A23EB2322C9568E20236-a797mS"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22456",
-      "pID": "22456",
-      "title": "Fox League",
-      "keyword": "06月07日06:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9f91facb9675713ad8a6a13be67fd791-thumbnail.jpg",
-      "pkInfoTitle": "Sharks vs. Dragons",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日06:05"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-07%2Fcro-st.",
-          "name": "Sharks vs. Dragons"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781427637&sign=7ea43cc832aef8283f80ea82a7b87992&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606071700376F7D81D9A4C6B7E40D9F-l0zEdq"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-07T08:30:35.943Z",
-  "shanghaiTime": "2026-06-07T16:30:35.943Z",
-  "count": 2,
+  "timestamp": "2026-06-07T09:00:39.258Z",
+  "shanghaiTime": "2026-06-07T17:00:39.258Z",
+  "count": 1,
   "mode": "today",
   "source": "cba_live"
 }
