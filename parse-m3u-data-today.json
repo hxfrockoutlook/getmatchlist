@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781395241&sign=bdb05b1777c9f8f8fb65bad97e3c2927&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060708004176FAA0DB17E1A6B80BB8-BQB34G"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781397029&sign=06f985f73ccd3786fa5216cf26e5d3ba&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607083029CB6DC4759AC789BC2B2A-xBVs2s&_neptune_token=MGoEDC6lunvMuN4k2pXnjARIhzFHYck1EjbRqFrk3pZatNNumrDJlBNOs2azVLwY7d0HZRRSzyCYqClBnKqWjurm15nQy_0oK9AU_lbuCN4zhUzML3o0PEBPBBAmtms3ZOVLFAUuCzhpc3mC&_report_type=default"
         }
       ]
     },
@@ -94,54 +94,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-06%2Fwsh-atl",
           "name": "Washington Mystics vs. Atlanta Dream"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22615",
-      "pID": "22615",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/84b3b991db152d3f3276c8aebabed6f8-thumbnail.jpg",
-      "pkInfoTitle": "Brazil vs. Egypt",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fbra-egy",
-          "name": "Brazil vs. Egypt"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22616",
-      "pID": "22616",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f2048e0c0eda21f07e7bcfa499fcdd49-thumbnail.jpg",
-      "pkInfoTitle": "Venezuela vs. Türkiye",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Fven-tur",
-          "name": "Venezuela vs. Türkiye"
         }
       ]
     },
@@ -314,9 +266,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T00:00:43.698Z",
-  "shanghaiTime": "2026-06-07T08:00:43.698Z",
-  "count": 13,
+  "timestamp": "2026-06-07T00:30:31.720Z",
+  "shanghaiTime": "2026-06-07T08:30:31.720Z",
+  "count": 11,
   "mode": "today",
   "source": "cba_live"
 }
