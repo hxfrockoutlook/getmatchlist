@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781402443&sign=bb0881f853ba65b685f0874bc5e3c364&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060710004300EE51763BC207C5E874-ROZRnz"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=7e3caea81b01a6fe6919d07771de6802&wsTime=6a24d7c7&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060710303157D5FBE8848C1BC5F5D4-s2H906"
         }
       ]
     },
@@ -70,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-fight-night-muhammad-vs-bonfim",
           "name": "UFC Fight Night: Muhammad vs. Bonfim"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22433",
-      "pID": "22433",
-      "title": "CFL+",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CFL+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c6000aa243d1f469ce149563473f5570-thumbnail.jpg",
-      "pkInfoTitle": "Edmonton Elks vs. Ottawa RedBlacks",
-      "modifyTitle": "CFL+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-06%2Fedm-ott",
-          "name": "Edmonton Elks vs. Ottawa RedBlacks"
         }
       ]
     },
@@ -170,30 +146,6 @@
       ]
     },
     {
-      "mgdbId": "22617",
-      "pID": "22617",
-      "title": "Men's International Friendly",
-      "keyword": "06月07日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4053197acb043e318a7bb1a463adc472-thumbnail.jpg",
-      "pkInfoTitle": "Argentina vs. Honduras",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Farg-hon",
-          "name": "Argentina vs. Honduras"
-        }
-      ]
-    },
-    {
       "mgdbId": "22584",
       "pID": "22584",
       "title": "ABC",
@@ -264,10 +216,58 @@
           "name": "Milwaukee Brewers vs. Colorado Rockies"
         }
       ]
+    },
+    {
+      "mgdbId": "22602",
+      "pID": "22602",
+      "title": "Sportsnet LA",
+      "keyword": "06月07日02:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet LA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/11e8f172b277a7009c2ea7ab09b88ccf-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Angels vs. Los Angeles Dodgers",
+      "modifyTitle": "Sportsnet LA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日02:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Flaa-lad",
+          "name": "Los Angeles Angels vs. Los Angeles Dodgers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22603",
+      "pID": "22603",
+      "title": "Padres.TV",
+      "keyword": "06月07日02:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Padres.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c55a73bd5b1f39c113dffd0f44ce17f9-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. San Diego Padres",
+      "modifyTitle": "Padres.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日02:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fnym-sd",
+          "name": "New York Mets vs. San Diego Padres"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T02:00:46.157Z",
-  "shanghaiTime": "2026-06-07T10:00:46.157Z",
+  "timestamp": "2026-06-07T02:30:35.097Z",
+  "shanghaiTime": "2026-06-07T10:30:35.097Z",
   "count": 11,
   "mode": "today",
   "source": "cba_live"
