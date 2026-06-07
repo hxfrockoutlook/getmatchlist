@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=c619f571085e31676f75094b8d0fbeeb&wsTime=6a25bfd2&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060803003490CAB763B5A8261C6E22-mFAG1p"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=3136293ba44eaa24f57b8409aa40aad4&wsTime=6a25c6d5&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060803302910D3DB52E4753876D62B-sPowNT"
         }
       ]
     },
@@ -408,11 +408,35 @@
           "name": "Morocco vs. Norway"
         }
       ]
+    },
+    {
+      "mgdbId": "22633",
+      "pID": "22633",
+      "title": "Peacock",
+      "keyword": "06月08日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Peacock",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/03887ff43699e2cef0bd8044d3bc1e46-thumbnail.jpg",
+      "pkInfoTitle": "Washington Nationals vs. Arizona Diamondbacks",
+      "modifyTitle": "Peacock",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fwsh-ari",
+          "name": "Washington Nationals vs. Arizona Diamondbacks"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T19:00:37.139Z",
-  "shanghaiTime": "2026-06-08T03:00:37.139Z",
-  "count": 17,
+  "timestamp": "2026-06-07T19:30:32.806Z",
+  "shanghaiTime": "2026-06-08T03:30:32.806Z",
+  "count": 18,
   "mode": "today",
   "source": "cba_live"
 }
