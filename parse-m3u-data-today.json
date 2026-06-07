@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=7e3caea81b01a6fe6919d07771de6802&wsTime=6a24d7c7&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060710303157D5FBE8848C1BC5F5D4-s2H906"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=dee29e531d671ca1e2b6c8f7a8bada27&wsTime=6a24ded4&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060711003638CE4B9385AD41FBA195-btkpd9"
         }
       ]
     },
@@ -122,30 +122,6 @@
       ]
     },
     {
-      "mgdbId": "22588",
-      "pID": "22588",
-      "title": "CBS",
-      "keyword": "06月07日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBS",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5f400ed5cf06e249132e0320c6ee5bcb-thumbnail.jpg",
-      "pkInfoTitle": "Indiana Fever vs. New York Liberty",
-      "modifyTitle": "CBS",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-06%2Find-ny",
-          "name": "Indiana Fever vs. New York Liberty"
-        }
-      ]
-    },
-    {
       "mgdbId": "22584",
       "pID": "22584",
       "title": "ABC",
@@ -166,30 +142,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=nhl%2F2026-06-06%2Fcar-vgk",
           "name": "Carolina Hurricanes vs. Vegas Golden Knights"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22462",
-      "pID": "22462",
-      "title": "TNT",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "TNT",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-      "pkInfoTitle": "AEW: Saturday Night Collision",
-      "modifyTitle": "TNT",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fcollision%2F2026-06-06",
-          "name": "AEW: Saturday Night Collision"
         }
       ]
     },
@@ -266,9 +218,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T02:30:35.097Z",
-  "shanghaiTime": "2026-06-07T10:30:35.097Z",
-  "count": 11,
+  "timestamp": "2026-06-07T03:00:37.646Z",
+  "shanghaiTime": "2026-06-07T11:00:37.646Z",
+  "count": 9,
   "mode": "today",
   "source": "cba_live"
 }
