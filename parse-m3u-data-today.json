@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f3.douyinliving.com/media/stream-695858260985774930.flv?auth_key=1781442045-0-0-97539ff56500771395ac566c7012f66f&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072130457C6251939CA9494775EA-BezMja"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22469",
-      "pID": "22469",
-      "title": "Fox Cricket",
-      "keyword": "06月07日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Cricket",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg",
-      "pkInfoTitle": "England vs. New Zealand",
-      "modifyTitle": "Fox Cricket",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026-06-07%2Feng-nzl",
-          "name": "England vs. New Zealand"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781445658&sign=90cb17ff7071932eb044fc45044d2adf&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607220057DB5E81D1447B89537859-XVctwy"
         }
       ]
     },
@@ -146,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T13:30:47.475Z",
-  "shanghaiTime": "2026-06-07T21:30:47.475Z",
-  "count": 6,
+  "timestamp": "2026-06-07T14:00:59.748Z",
+  "shanghaiTime": "2026-06-07T22:00:59.748Z",
+  "count": 5,
   "mode": "today",
   "source": "cba_live"
 }
