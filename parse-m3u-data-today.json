@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2f2b85&sign=ff492a93b1f4d506d1aec0c6c89b299d&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606080630284EEB974E7E8AD37686D4-wlG5sL"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22632",
-      "pID": "22632",
-      "title": "Rockies.TV",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d166d8639894f262ff677fcab4661154-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fmil-col",
-          "name": "Milwaukee Brewers vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22633",
-      "pID": "22633",
-      "title": "Peacock",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Peacock",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/03887ff43699e2cef0bd8044d3bc1e46-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. Arizona Diamondbacks",
-      "modifyTitle": "Peacock",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fwsh-ari",
-          "name": "Washington Nationals vs. Arizona Diamondbacks"
+          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781478033&sign=261a93fd762ae7934595f43c51a7a0bf&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-20260608070033B2F65AE84D0AFC5F3EC3-hCb3YE"
         }
       ]
     },
@@ -144,10 +96,58 @@
           "name": "Louisville Kings vs. St. Louis Battlehawks"
         }
       ]
+    },
+    {
+      "mgdbId": "22621",
+      "pID": "22621",
+      "title": "NBA TV",
+      "keyword": "06月08日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBA TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/dccb7e6d7f472d4418357ed19ec156f1-thumbnail.jpg",
+      "pkInfoTitle": "Portland Fire vs. Los Angeles Sparks",
+      "modifyTitle": "NBA TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-07%2Fpor-la",
+          "name": "Portland Fire vs. Los Angeles Sparks"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22644",
+      "pID": "22644",
+      "title": "Men's International Friendly",
+      "keyword": "06月08日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/57e34efd61af2d5e1181fc3808fffab5-thumbnail.jpg",
+      "pkInfoTitle": "Colombia vs. Jordan",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fcol-jor",
+          "name": "Colombia vs. Jordan"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T22:30:31.740Z",
-  "shanghaiTime": "2026-06-08T06:30:31.740Z",
+  "timestamp": "2026-06-07T23:00:36.615Z",
+  "shanghaiTime": "2026-06-08T07:00:36.615Z",
   "count": 6,
   "mode": "today",
   "source": "cba_live"
