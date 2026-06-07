@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=3136293ba44eaa24f57b8409aa40aad4&wsTime=6a25c6d5&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060803302910D3DB52E4753876D62B-sPowNT"
+          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781467241&sign=88f1e17b5cf91a06accae98bbd29cbb3&volcSecret=88f1e17b5cf91a06accae98bbd29cbb3&volcTime=1781467241&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060804004187109F7FD33E5B699A10-S7Q8Yo"
         }
       ]
     },
@@ -410,6 +410,30 @@
       ]
     },
     {
+      "mgdbId": "22632",
+      "pID": "22632",
+      "title": "Rockies.TV",
+      "keyword": "06月08日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rockies.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d166d8639894f262ff677fcab4661154-thumbnail.jpg",
+      "pkInfoTitle": "Milwaukee Brewers vs. Colorado Rockies",
+      "modifyTitle": "Rockies.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fmil-col",
+          "name": "Milwaukee Brewers vs. Colorado Rockies"
+        }
+      ]
+    },
+    {
       "mgdbId": "22633",
       "pID": "22633",
       "title": "Peacock",
@@ -432,11 +456,35 @@
           "name": "Washington Nationals vs. Arizona Diamondbacks"
         }
       ]
+    },
+    {
+      "mgdbId": "22643",
+      "pID": "22643",
+      "title": "Men's International Friendly",
+      "keyword": "06月08日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fce7de672c0b07f7606a1b34640a7a1f-thumbnail.jpg",
+      "pkInfoTitle": "Ecuador vs. Guatemala",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fecu-gua",
+          "name": "Ecuador vs. Guatemala"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T19:30:32.806Z",
-  "shanghaiTime": "2026-06-08T03:30:32.806Z",
-  "count": 18,
+  "timestamp": "2026-06-07T20:00:44.995Z",
+  "shanghaiTime": "2026-06-08T04:00:44.995Z",
+  "count": 20,
   "mode": "today",
   "source": "cba_live"
 }
