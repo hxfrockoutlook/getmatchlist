@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=4e431595eb2aeb57&t=1781461830&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-20260608023030775AA9E81D5E1A6E0FE4-8Eovvc"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=c619f571085e31676f75094b8d0fbeeb&wsTime=6a25bfd2&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060803003490CAB763B5A8261C6E22-mFAG1p"
         }
       ]
     },
@@ -264,11 +264,155 @@
           "name": "Cincinnati Reds vs. St. Louis Cardinals"
         }
       ]
+    },
+    {
+      "mgdbId": "22631",
+      "pID": "22631",
+      "title": "Rangers Sports Network",
+      "keyword": "06月08日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rangers Sports Network",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2a45b3d41edcfa0f4dd9352cfdd864d2-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Texas Rangers",
+      "modifyTitle": "Rangers Sports Network",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fcle-tex",
+          "name": "Cleveland Guardians vs. Texas Rangers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22640",
+      "pID": "22640",
+      "title": "Men's International Friendly",
+      "keyword": "06月08日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/62a34d1861ba157b2f193d465dbf6739-thumbnail.jpg",
+      "pkInfoTitle": "Croatia vs. Slovenia",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fcro-svn",
+          "name": "Croatia vs. Slovenia"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22427",
+      "pID": "22427",
+      "title": "ABC",
+      "keyword": "06月08日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e517c3234aecdb8cc42578f4ceee40d6-thumbnail.jpg",
+      "pkInfoTitle": "DC Defenders vs. Orlando Storm",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufl%2F2026-06-07%2Fdc-orl",
+          "name": "DC Defenders vs. Orlando Storm"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22620",
+      "pID": "22620",
+      "title": "TSN",
+      "keyword": "06月08日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "TSN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6df0d07b9223b7678873983eae56a5de-thumbnail.jpg",
+      "pkInfoTitle": "Chicago Sky vs. Toronto Tempo",
+      "modifyTitle": "TSN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-07%2Fchi-tor",
+          "name": "Chicago Sky vs. Toronto Tempo"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22641",
+      "pID": "22641",
+      "title": "Men's International Friendly",
+      "keyword": "06月08日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/82d918c83c8a6dff9396f73f31f59e87-thumbnail.jpg",
+      "pkInfoTitle": "Greece vs. Italy",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fgre-ita",
+          "name": "Greece vs. Italy"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22642",
+      "pID": "22642",
+      "title": "Men's International Friendly",
+      "keyword": "06月08日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7546858068965d99349668fba526a052-thumbnail.jpg",
+      "pkInfoTitle": "Morocco vs. Norway",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fmar-nor",
+          "name": "Morocco vs. Norway"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T18:30:36.951Z",
-  "shanghaiTime": "2026-06-08T02:30:36.951Z",
-  "count": 11,
+  "timestamp": "2026-06-07T19:00:37.139Z",
+  "shanghaiTime": "2026-06-08T03:00:37.139Z",
+  "count": 17,
   "mode": "today",
   "source": "cba_live"
 }
