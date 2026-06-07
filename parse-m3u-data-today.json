@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2e9804&sign=6d2c2ae1f318f3e787645669ecdd4907&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072001080C0DBE913A57CCFF2EEB-jyzRFo"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22448",
-      "pID": "22448",
-      "title": "Fox Footy",
-      "keyword": "06月07日09:20",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/38172afc67cc0de450e9cde120c5e81e-thumbnail.jpg",
-      "pkInfoTitle": "Essendon vs. Carlton",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日09:20"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-07%2Fess-carl",
-          "name": "Essendon vs. Carlton"
+          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=a71d287fc2ea3430&t=1781440240&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072030402757619660BE843C7BC6-a4yb5P"
         }
       ]
     },
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T12:01:10.757Z",
-  "shanghaiTime": "2026-06-07T20:01:10.757Z",
-  "count": 4,
+  "timestamp": "2026-06-07T12:30:43.124Z",
+  "shanghaiTime": "2026-06-07T20:30:43.124Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
