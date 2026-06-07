@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781474438&sign=af74853f35c7b48d1a16bb6d08e447e6&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606080600375A2863064A9C41749C3E-nnMXZY"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22631",
-      "pID": "22631",
-      "title": "Rangers Sports Network",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rangers Sports Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2a45b3d41edcfa0f4dd9352cfdd864d2-thumbnail.jpg",
-      "pkInfoTitle": "Cleveland Guardians vs. Texas Rangers",
-      "modifyTitle": "Rangers Sports Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fcle-tex",
-          "name": "Cleveland Guardians vs. Texas Rangers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22427",
-      "pID": "22427",
-      "title": "ABC",
-      "keyword": "06月08日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e517c3234aecdb8cc42578f4ceee40d6-thumbnail.jpg",
-      "pkInfoTitle": "DC Defenders vs. Orlando Storm",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufl%2F2026-06-07%2Fdc-orl",
-          "name": "DC Defenders vs. Orlando Storm"
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2f2b85&sign=ff492a93b1f4d506d1aec0c6c89b299d&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606080630284EEB974E7E8AD37686D4-wlG5sL"
         }
       ]
     },
@@ -118,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fwsh-ari",
           "name": "Washington Nationals vs. Arizona Diamondbacks"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22643",
-      "pID": "22643",
-      "title": "Men's International Friendly",
-      "keyword": "06月08日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fce7de672c0b07f7606a1b34640a7a1f-thumbnail.jpg",
-      "pkInfoTitle": "Ecuador vs. Guatemala",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Fecu-gua",
-          "name": "Ecuador vs. Guatemala"
         }
       ]
     },
@@ -218,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T22:00:40.194Z",
-  "shanghaiTime": "2026-06-08T06:00:40.194Z",
-  "count": 9,
+  "timestamp": "2026-06-07T22:30:31.740Z",
+  "shanghaiTime": "2026-06-08T06:30:31.740Z",
+  "count": 6,
   "mode": "today",
   "source": "cba_live"
 }
