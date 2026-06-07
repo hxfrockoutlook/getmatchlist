@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781398834&sign=cf50172ef96490aacec5540c1ac749b6&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060709003369722CD574E621F8617E-g41Ufk"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781400629&sign=925c3b316f1f4c1922f33f70cdb533b5&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607093029DC4133C7F5519AF7A732-VdO8IW"
         }
       ]
     },
@@ -240,11 +240,35 @@
           "name": "AEW: Saturday Night Collision"
         }
       ]
+    },
+    {
+      "mgdbId": "22601",
+      "pID": "22601",
+      "title": "Rockies.TV",
+      "keyword": "06月07日01:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rockies.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d166d8639894f262ff677fcab4661154-thumbnail.jpg",
+      "pkInfoTitle": "Milwaukee Brewers vs. Colorado Rockies",
+      "modifyTitle": "Rockies.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日01:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fmil-col",
+          "name": "Milwaukee Brewers vs. Colorado Rockies"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T01:00:36.410Z",
-  "shanghaiTime": "2026-06-07T09:00:36.410Z",
-  "count": 10,
+  "timestamp": "2026-06-07T01:30:31.657Z",
+  "shanghaiTime": "2026-06-07T09:30:31.657Z",
+  "count": 11,
   "mode": "today",
   "source": "cba_live"
 }
