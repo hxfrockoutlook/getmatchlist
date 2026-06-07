@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781393429&sign=0302282e90fe2a3871a241fb3196483e&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607073029EC57F854A24FDAB65368-BTzqaP"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22619",
-      "pID": "22619",
-      "title": "Paramount+",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Paramount+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/de1748747b54624569895d1744806236-thumbnail.jpg",
-      "pkInfoTitle": "Zuffa Boxing 07",
-      "modifyTitle": "Paramount+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=zuffa-boxing-07",
-          "name": "Zuffa Boxing 07"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22524",
-      "pID": "22524",
-      "title": "PPV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PPV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/273e8f79145d4626f689579cab2760dd-thumbnail.jpg",
-      "pkInfoTitle": "East vs West 24",
-      "modifyTitle": "PPV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=east-vs-west-24",
-          "name": "East vs West 24"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781395241&sign=bdb05b1777c9f8f8fb65bad97e3c2927&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060708004176FAA0DB17E1A6B80BB8-BQB34G"
         }
       ]
     },
@@ -94,126 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=smx-wk19",
           "name": "Pro Motocross: Hangtown"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22594",
-      "pID": "22594",
-      "title": "NBC Sports Phil",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports Phil",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4bc74c4226c7d0b21f6ff441a5eb24ab-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. Philadelphia Phillies",
-      "modifyTitle": "NBC Sports Phil",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fchw-phi",
-          "name": "Chicago White Sox vs. Philadelphia Phillies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22595",
-      "pID": "22595",
-      "title": "BravesVision",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ad275b77103b95c8d75787b87bcdd53b-thumbnail.jpg",
-      "pkInfoTitle": "Pittsburgh Pirates vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fpit-atl",
-          "name": "Pittsburgh Pirates vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22596",
-      "pID": "22596",
-      "title": "Marlins.TV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e3995089989583881fe0f597e7bce26c-thumbnail.jpg",
-      "pkInfoTitle": "Tampa Bay Rays vs. Miami Marlins",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Ftb-mia",
-          "name": "Tampa Bay Rays vs. Miami Marlins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22597",
-      "pID": "22597",
-      "title": "Space City Home Network",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Space City Home Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1049e140fee1671f013bec459cf81aa7-thumbnail.jpg",
-      "pkInfoTitle": "Athletics vs. Houston Astros",
-      "modifyTitle": "Space City Home Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fath-hou",
-          "name": "Athletics vs. Houston Astros"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22598",
-      "pID": "22598",
-      "title": "DBACKS.TV",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DBACKS.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/03887ff43699e2cef0bd8044d3bc1e46-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. Arizona Diamondbacks",
-      "modifyTitle": "DBACKS.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fwsh-ari",
-          "name": "Washington Nationals vs. Arizona Diamondbacks"
         }
       ]
     },
@@ -336,11 +168,155 @@
           "name": "Edmonton Elks vs. Ottawa RedBlacks"
         }
       ]
+    },
+    {
+      "mgdbId": "22599",
+      "pID": "22599",
+      "title": "MLB.TV",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MLB.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6d76374efb31b4abaa9c45408e3f8b77-thumbnail.jpg",
+      "pkInfoTitle": "Boston Red Sox vs. New York Yankees",
+      "modifyTitle": "MLB.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fbos-nyy",
+          "name": "Boston Red Sox vs. New York Yankees"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22600",
+      "pID": "22600",
+      "title": "MLB.TV",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MLB.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2a45b3d41edcfa0f4dd9352cfdd864d2-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Texas Rangers",
+      "modifyTitle": "MLB.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-06%2Fcle-tex",
+          "name": "Cleveland Guardians vs. Texas Rangers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22588",
+      "pID": "22588",
+      "title": "CBS",
+      "keyword": "06月07日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBS",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/5f400ed5cf06e249132e0320c6ee5bcb-thumbnail.jpg",
+      "pkInfoTitle": "Indiana Fever vs. New York Liberty",
+      "modifyTitle": "CBS",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-06%2Find-ny",
+          "name": "Indiana Fever vs. New York Liberty"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22617",
+      "pID": "22617",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4053197acb043e318a7bb1a463adc472-thumbnail.jpg",
+      "pkInfoTitle": "Argentina vs. Honduras",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-06%2Farg-hon",
+          "name": "Argentina vs. Honduras"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22584",
+      "pID": "22584",
+      "title": "ABC",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg",
+      "pkInfoTitle": "Carolina Hurricanes vs. Vegas Golden Knights",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nhl%2F2026-06-06%2Fcar-vgk",
+          "name": "Carolina Hurricanes vs. Vegas Golden Knights"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22462",
+      "pID": "22462",
+      "title": "TNT",
+      "keyword": "06月07日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "TNT",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+      "pkInfoTitle": "AEW: Saturday Night Collision",
+      "modifyTitle": "TNT",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fcollision%2F2026-06-06",
+          "name": "AEW: Saturday Night Collision"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-06T23:30:31.400Z",
-  "shanghaiTime": "2026-06-07T07:30:31.400Z",
-  "count": 14,
+  "timestamp": "2026-06-07T00:00:43.698Z",
+  "shanghaiTime": "2026-06-07T08:00:43.698Z",
+  "count": 13,
   "mode": "today",
   "source": "cba_live"
 }
