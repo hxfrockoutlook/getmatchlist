@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f6.douyinliving.com/media/stream-695858260985774930.flv?k=a71d287fc2ea3430&t=1781440240&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072030402757619660BE843C7BC6-a4yb5P"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781442044&sign=9f7c0c234d8bc212c40d76bb567422f3&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060721004330215E24DAFAF8341FD2-uk3Qfm"
         }
       ]
     },
@@ -72,11 +72,83 @@
           "name": "Women's VNL 2026 | China v Poland"
         }
       ]
+    },
+    {
+      "mgdbId": "22423",
+      "pID": "22423",
+      "title": "AFLE+",
+      "keyword": "06月07日13:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "AFLE+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0edf2b5405d2cd3bdab4bd4c12a52990-thumbnail.jpg",
+      "pkInfoTitle": "Alpine Rams vs. London Warriors",
+      "modifyTitle": "AFLE+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-07%2Falp-lon",
+          "name": "Alpine Rams vs. London Warriors"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22637",
+      "pID": "22637",
+      "title": "Men's International Friendly",
+      "keyword": "06月07日13:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f3429329667c2c035f8eea8597c8cf7b-thumbnail.jpg",
+      "pkInfoTitle": "Liechtenstein vs. Cyprus",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Flie-cyp",
+          "name": "Liechtenstein vs. Cyprus"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22306",
+      "pID": "22306",
+      "title": "Race",
+      "keyword": "06月07日13:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Race",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg",
+      "pkInfoTitle": "Monaco Grand Prix",
+      "modifyTitle": "Race",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fmonaco%2Frace",
+          "name": "Monaco Grand Prix"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T12:30:43.124Z",
-  "shanghaiTime": "2026-06-07T20:30:43.124Z",
-  "count": 3,
+  "timestamp": "2026-06-07T13:00:45.231Z",
+  "shanghaiTime": "2026-06-07T21:00:45.231Z",
+  "count": 6,
   "mode": "today",
   "source": "cba_live"
 }
