@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-695858260985774930.flv?expire=6a2ebb12&sign=7d640a18e514fd48e9883b678847e57a&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607223042374A24C4768D0E079D0E-qYyjLM&_neptune_token=MGoEDCsiNW0b0NlVVRk0ugRIQPbxhQXWSWQnIPn_Ytk0-DV-4_e1SMjfeLTyMYHS5AexxpRcrIHJjCIrVrv0-_LojpGXcIeQSSUoPqiZ1Nsgc1Hmp3tQyL_5BBAyiu-QYuTTIn_lFpWlM4NR&_report_type=default"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22645",
-      "pID": "22645",
-      "title": "Volleyball",
-      "keyword": "06月07日11:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Volleyball",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4c6af54313900221e125ac2687bb59dc-thumbnail.jpg",
-      "pkInfoTitle": "Women's VNL 2026 | China v Poland",
-      "modifyTitle": "Volleyball",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日11:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=vnl%2F2026-06-07%2Fchn-pol",
-          "name": "Women's VNL 2026 | China v Poland"
+          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781449243&sign=ce009174e646498dc67d2cc1a7173667&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072300428A4F291F35A3DF54BAE5-gDXeo3"
         }
       ]
     },
@@ -96,35 +72,11 @@
           "name": "Liechtenstein vs. Cyprus"
         }
       ]
-    },
-    {
-      "mgdbId": "22306",
-      "pID": "22306",
-      "title": "Race",
-      "keyword": "06月07日13:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Race",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg",
-      "pkInfoTitle": "Monaco Grand Prix",
-      "modifyTitle": "Race",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日13:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fmonaco%2Frace",
-          "name": "Monaco Grand Prix"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-07T14:30:45.322Z",
-  "shanghaiTime": "2026-06-07T22:30:45.322Z",
-  "count": 5,
+  "timestamp": "2026-06-07T15:00:45.136Z",
+  "shanghaiTime": "2026-06-07T23:00:45.136Z",
+  "count": 3,
   "mode": "today",
   "source": "cba_live"
 }
