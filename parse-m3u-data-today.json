@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781397029&sign=06f985f73ccd3786fa5216cf26e5d3ba&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607083029CB6DC4759AC789BC2B2A-xBVs2s&_neptune_token=MGoEDC6lunvMuN4k2pXnjARIhzFHYck1EjbRqFrk3pZatNNumrDJlBNOs2azVLwY7d0HZRRSzyCYqClBnKqWjurm15nQy_0oK9AU_lbuCN4zhUzML3o0PEBPBBAmtms3ZOVLFAUuCzhpc3mC&_report_type=default"
+          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781398834&sign=cf50172ef96490aacec5540c1ac749b6&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060709003369722CD574E621F8617E-g41Ufk"
         }
       ]
     },
@@ -70,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-fight-night-muhammad-vs-bonfim",
           "name": "UFC Fight Night: Muhammad vs. Bonfim"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22587",
-      "pID": "22587",
-      "title": "Atlanta News First",
-      "keyword": "06月07日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Atlanta News First",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/887cad066a56394166619fd6850ce8dd-thumbnail.jpg",
-      "pkInfoTitle": "Washington Mystics vs. Atlanta Dream",
-      "modifyTitle": "Atlanta News First",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-06%2Fwsh-atl",
-          "name": "Washington Mystics vs. Atlanta Dream"
         }
       ]
     },
@@ -266,9 +242,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T00:30:31.720Z",
-  "shanghaiTime": "2026-06-07T08:30:31.720Z",
-  "count": 11,
+  "timestamp": "2026-06-07T01:00:36.410Z",
+  "shanghaiTime": "2026-06-07T09:00:36.410Z",
+  "count": 10,
   "mode": "today",
   "source": "cba_live"
 }
