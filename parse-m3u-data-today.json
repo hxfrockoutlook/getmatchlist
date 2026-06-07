@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781449243&sign=ce009174e646498dc67d2cc1a7173667&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072300428A4F291F35A3DF54BAE5-gDXeo3"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781451034&sign=1011fefda1472ddec044dfd0615f50df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606072330346D5F962BE6ECEF114E22-HR5tBc"
         }
       ]
     },
@@ -50,32 +50,32 @@
       ]
     },
     {
-      "mgdbId": "22637",
-      "pID": "22637",
-      "title": "Men's International Friendly",
+      "mgdbId": "22306",
+      "pID": "22306",
+      "title": "Race",
       "keyword": "06月07日13:00",
-      "sportItemId": "1",
+      "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "Men's International Friendly",
+      "competitionName": "Race",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f3429329667c2c035f8eea8597c8cf7b-thumbnail.jpg",
-      "pkInfoTitle": "Liechtenstein vs. Cyprus",
-      "modifyTitle": "Men's International Friendly",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg",
+      "pkInfoTitle": "Monaco Grand Prix",
+      "modifyTitle": "Race",
       "presenters": "",
       "matchInfo": {
         "time": "06月07日13:00"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-07%2Flie-cyp",
-          "name": "Liechtenstein vs. Cyprus"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fmonaco%2Frace",
+          "name": "Monaco Grand Prix"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-07T15:00:45.136Z",
-  "shanghaiTime": "2026-06-07T23:00:45.136Z",
+  "timestamp": "2026-06-07T15:30:36.645Z",
+  "shanghaiTime": "2026-06-07T23:30:36.645Z",
   "count": 3,
   "mode": "today",
   "source": "cba_live"
