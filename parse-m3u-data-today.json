@@ -21,7 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f13.douyinliving.com/media/stream-695858260985774930.flv?expire=1781407833&sign=23b9290ae8e3153ccae758953329dbb1&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-202606071130336E8EA46DB35FCE0B6D68-Sypbd9"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695858260985774930.flv?keeptime=00093a80&wsSecret=ead8c03e6763a2deb40e42a0743d3f8c&wsTime=6a24eceb&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260607120043C8D47382965A95F39178-eSkTJX"
         }
       ]
     },
@@ -70,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-fight-night-muhammad-vs-bonfim",
           "name": "UFC Fight Night: Muhammad vs. Bonfim"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22584",
-      "pID": "22584",
-      "title": "ABC",
-      "keyword": "06月07日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg",
-      "pkInfoTitle": "Carolina Hurricanes vs. Vegas Golden Knights",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月07日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nhl%2F2026-06-06%2Fcar-vgk",
-          "name": "Carolina Hurricanes vs. Vegas Golden Knights"
         }
       ]
     },
@@ -168,10 +144,34 @@
           "name": "New York Mets vs. San Diego Padres"
         }
       ]
+    },
+    {
+      "mgdbId": "22455",
+      "pID": "22455",
+      "title": "Fox League",
+      "keyword": "06月07日04:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/338b4ef01df197ee0ab1057e598f1e75-thumbnail.jpg",
+      "pkInfoTitle": "Wests Tigers vs. Panthers",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月07日04:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-07%2Fwes-pen",
+          "name": "Wests Tigers vs. Panthers"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-07T03:30:36.548Z",
-  "shanghaiTime": "2026-06-07T11:30:36.548Z",
+  "timestamp": "2026-06-07T04:00:46.216Z",
+  "shanghaiTime": "2026-06-07T12:00:46.216Z",
   "count": 7,
   "mode": "today",
   "source": "cba_live"
