@@ -1,9 +1,34 @@
 {
   "success": true,
-  "data": [],
-  "timestamp": "2026-06-08T05:00:40.141Z",
-  "shanghaiTime": "2026-06-08T13:00:40.141Z",
-  "count": 0,
+  "data": [
+    {
+      "mgdbId": "22449",
+      "pID": "22449",
+      "title": "Fox Footy",
+      "keyword": "06月08日05:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg",
+      "pkInfoTitle": "Collingwood vs. Melbourne",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日05:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-08%2Fcoll-melb",
+          "name": "Collingwood vs. Melbourne"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-08T05:30:34.919Z",
+  "shanghaiTime": "2026-06-08T13:30:34.919Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
