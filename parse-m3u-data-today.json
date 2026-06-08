@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22636",
-      "pID": "22636",
-      "title": "NBC",
-      "keyword": "06月08日00:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bed5950a46d65622a58f5d8ded700d8a-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Chicago Cubs",
-      "modifyTitle": "NBC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fsf-chc",
-          "name": "San Francisco Giants vs. Chicago Cubs"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-08T03:30:32.786Z",
-  "shanghaiTime": "2026-06-08T11:30:32.786Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-08T04:00:48.300Z",
+  "shanghaiTime": "2026-06-08T12:00:48.300Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
