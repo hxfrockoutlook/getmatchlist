@@ -21,55 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-f5.douyinliving.com/media/stream-695858260985774930.flv?expire=1781479829&sign=f6a73194cd4cc779496fbde2d6c47a83&volcSecret=f6a73194cd4cc779496fbde2d6c47a83&volcTime=1781479829&s_anchor=1&major_anchor_level=vip&arch_hrchy=s2&unique_id=stream-695858260985774930_850_flv&t_id=037-2026060807302953F711B28ED32D627007-UXSjlf"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22634",
-      "pID": "22634",
-      "title": "Sportsnet LA",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet LA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/11e8f172b277a7009c2ea7ab09b88ccf-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Angels vs. Los Angeles Dodgers",
-      "modifyTitle": "Sportsnet LA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Flaa-lad",
-          "name": "Los Angeles Angels vs. Los Angeles Dodgers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22635",
-      "pID": "22635",
-      "title": "Padres.TV",
-      "keyword": "06月08日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Padres.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c55a73bd5b1f39c113dffd0f44ce17f9-thumbnail.jpg",
-      "pkInfoTitle": "New York Mets vs. San Diego Padres",
-      "modifyTitle": "Padres.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月08日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-07%2Fnym-sd",
-          "name": "New York Mets vs. San Diego Padres"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695858260985774930.flv?expire=1781481637&sign=f60fa0d6bf12d2d38cda7c5db7ffeb9a&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-695858260985774930_850_flv&t_id=037-20260608080037D20A4CCC59D492229518-FiFOHJ"
         }
       ]
     },
@@ -146,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-07T23:30:32.402Z",
-  "shanghaiTime": "2026-06-08T07:30:32.402Z",
-  "count": 6,
+  "timestamp": "2026-06-08T00:00:40.868Z",
+  "shanghaiTime": "2026-06-08T08:00:40.868Z",
+  "count": 4,
   "mode": "today",
   "source": "cba_live"
 }
