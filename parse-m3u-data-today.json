@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22682",
-      "pID": "22682",
-      "title": "Men's International Friendly",
-      "keyword": "06月09日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/aa8e1a8653aa9824c6464c8eb5666556-thumbnail.jpg",
-      "pkInfoTitle": "France vs. Northern Ireland",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月09日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-08%2Ffra-nir",
-          "name": "France vs. Northern Ireland"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-08T21:30:35.479Z",
-  "shanghaiTime": "2026-06-09T05:30:35.479Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-08T22:00:45.990Z",
+  "shanghaiTime": "2026-06-09T06:00:45.990Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
