@@ -24,11 +24,35 @@
           "name": "WWE: Monday Night RAW"
         }
       ]
+    },
+    {
+      "mgdbId": "22681",
+      "pID": "22681",
+      "title": "Men's International Friendly",
+      "keyword": "06月09日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/661a236e2116f9a0cfaedea77e591f0f-thumbnail.jpg",
+      "pkInfoTitle": "Netherlands vs. Uzbekistan",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-08%2Fned-uzb",
+          "name": "Netherlands vs. Uzbekistan"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-08T18:30:37.875Z",
-  "shanghaiTime": "2026-06-09T02:30:37.875Z",
-  "count": 1,
+  "timestamp": "2026-06-08T19:00:39.923Z",
+  "shanghaiTime": "2026-06-09T03:00:39.923Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
