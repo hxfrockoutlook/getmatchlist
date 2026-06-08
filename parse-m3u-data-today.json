@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22681",
-      "pID": "22681",
-      "title": "Men's International Friendly",
-      "keyword": "06月09日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/661a236e2116f9a0cfaedea77e591f0f-thumbnail.jpg",
-      "pkInfoTitle": "Netherlands vs. Uzbekistan",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月09日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-08%2Fned-uzb",
-          "name": "Netherlands vs. Uzbekistan"
-        }
-      ]
-    },
-    {
       "mgdbId": "22682",
       "pID": "22682",
       "title": "Men's International Friendly",
@@ -50,9 +26,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-08T21:00:40.384Z",
-  "shanghaiTime": "2026-06-09T05:00:40.384Z",
-  "count": 2,
+  "timestamp": "2026-06-08T21:30:35.479Z",
+  "shanghaiTime": "2026-06-09T05:30:35.479Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
