@@ -48,11 +48,35 @@
           "name": "Netherlands vs. Uzbekistan"
         }
       ]
+    },
+    {
+      "mgdbId": "22682",
+      "pID": "22682",
+      "title": "Men's International Friendly",
+      "keyword": "06月09日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/aa8e1a8653aa9824c6464c8eb5666556-thumbnail.jpg",
+      "pkInfoTitle": "France vs. Northern Ireland",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-08%2Ffra-nir",
+          "name": "France vs. Northern Ireland"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-08T19:00:39.923Z",
-  "shanghaiTime": "2026-06-09T03:00:39.923Z",
-  "count": 2,
+  "timestamp": "2026-06-08T19:30:38.233Z",
+  "shanghaiTime": "2026-06-09T03:30:38.233Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
