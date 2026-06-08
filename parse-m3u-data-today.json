@@ -24,11 +24,35 @@
           "name": "Collingwood vs. Melbourne"
         }
       ]
+    },
+    {
+      "mgdbId": "22668",
+      "pID": "22668",
+      "title": "Fox League",
+      "keyword": "06月08日06:05",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/528e7b5d1383a766fa548c7a37bb8969-thumbnail.jpg",
+      "pkInfoTitle": "Bulldogs vs. Eels",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月08日06:05"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-08%2Fcan-par",
+          "name": "Bulldogs vs. Eels"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-08T06:00:44.685Z",
-  "shanghaiTime": "2026-06-08T14:00:44.685Z",
-  "count": 1,
+  "timestamp": "2026-06-08T06:30:36.815Z",
+  "shanghaiTime": "2026-06-08T14:30:36.815Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
