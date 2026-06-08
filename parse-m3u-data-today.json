@@ -1,9 +1,130 @@
 {
   "success": true,
-  "data": [],
-  "timestamp": "2026-06-08T22:30:32.434Z",
-  "shanghaiTime": "2026-06-09T06:30:32.434Z",
-  "count": 0,
+  "data": [
+    {
+      "mgdbId": "22654",
+      "pID": "22654",
+      "title": "MASN",
+      "keyword": "06月09日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MASN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b777b08cf643bafb6d00baf710000651-thumbnail.jpg",
+      "pkInfoTitle": "Seattle Mariners vs. Baltimore Orioles",
+      "modifyTitle": "MASN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-08%2Fsea-bal",
+          "name": "Seattle Mariners vs. Baltimore Orioles"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22656",
+      "pID": "22656",
+      "title": "Rays.TV",
+      "keyword": "06月09日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rays.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8fd1e2bf514c430d2cb30d5bd1b3751a-thumbnail.jpg",
+      "pkInfoTitle": "Boston Red Sox vs. Tampa Bay Rays",
+      "modifyTitle": "Rays.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-08%2Fbos-tb",
+          "name": "Boston Red Sox vs. Tampa Bay Rays"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22658",
+      "pID": "22658",
+      "title": "CLEGuardians.TV",
+      "keyword": "06月09日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CLEGuardians.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/bbfadecd764e1b295abaf8071d081fcd-thumbnail.jpg",
+      "pkInfoTitle": "New York Yankees vs. Cleveland Guardians",
+      "modifyTitle": "CLEGuardians.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-08%2Fnyy-cle",
+          "name": "New York Yankees vs. Cleveland Guardians"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22649",
+      "pID": "22649",
+      "title": "NBC Sports BO",
+      "keyword": "06月09日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports BO",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7b84cb0e1015c8bbf026faea906ef24b-thumbnail.jpg",
+      "pkInfoTitle": "New York Liberty vs. Connecticut Sun",
+      "modifyTitle": "NBC Sports BO",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-08%2Fny-con",
+          "name": "New York Liberty vs. Connecticut Sun"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22652",
+      "pID": "22652",
+      "title": "Peacock",
+      "keyword": "06月09日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Peacock",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c838c7592aa0cb2a95c24fc7f8158d8f-thumbnail.jpg",
+      "pkInfoTitle": "Indiana Fever vs. Washington Mystics",
+      "modifyTitle": "Peacock",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月09日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-08%2Find-wsh",
+          "name": "Indiana Fever vs. Washington Mystics"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-08T23:00:42.338Z",
+  "shanghaiTime": "2026-06-09T07:00:42.338Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
