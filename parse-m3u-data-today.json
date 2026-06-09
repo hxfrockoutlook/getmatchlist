@@ -48,11 +48,35 @@
           "name": "Belarus vs. Burkina Faso"
         }
       ]
+    },
+    {
+      "mgdbId": "22721",
+      "pID": "22721",
+      "title": "Men's International Friendly",
+      "keyword": "06月10日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's International Friendly",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d595ca195b8e323cc053a189f32545be-thumbnail.jpg",
+      "pkInfoTitle": "Hungary vs. Kazakhstan",
+      "modifyTitle": "Men's International Friendly",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月10日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-09%2Fhun-kaz",
+          "name": "Hungary vs. Kazakhstan"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-09T16:30:42.498Z",
-  "shanghaiTime": "2026-06-10T00:30:42.498Z",
-  "count": 2,
+  "timestamp": "2026-06-09T17:00:50.019Z",
+  "shanghaiTime": "2026-06-10T01:00:50.019Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
