@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22647",
-      "pID": "22647",
-      "title": "ABC",
-      "keyword": "06月09日00:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/34f6bf8df36e51164fc68e215557f94f-thumbnail.jpg",
-      "pkInfoTitle": "San Antonio Spurs vs. New York Knicks",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月09日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nba%2F2026-06-08%2Fsa-ny",
-          "name": "San Antonio Spurs vs. New York Knicks"
-        }
-      ]
-    },
-    {
       "mgdbId": "22661",
       "pID": "22661",
       "title": "Angels.TV",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-09T03:00:41.595Z",
-  "shanghaiTime": "2026-06-09T11:00:41.595Z",
-  "count": 7,
+  "timestamp": "2026-06-09T03:30:35.230Z",
+  "shanghaiTime": "2026-06-09T11:30:35.230Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
