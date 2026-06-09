@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22653",
-      "pID": "22653",
-      "title": "USA Net",
-      "keyword": "06月09日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "USA Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/161c423650b808697f120ae0fd0a6cd4-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Storm vs. Las Vegas Aces",
-      "modifyTitle": "USA Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月09日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-08%2Fsea-lv",
-          "name": "Seattle Storm vs. Las Vegas Aces"
-        }
-      ]
-    },
-    {
       "mgdbId": "22665",
       "pID": "22665",
       "title": "NBC Sports CA",
@@ -122,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-09T04:30:34.318Z",
-  "shanghaiTime": "2026-06-09T12:30:34.318Z",
-  "count": 5,
+  "timestamp": "2026-06-09T05:00:38.071Z",
+  "shanghaiTime": "2026-06-09T13:00:38.071Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
