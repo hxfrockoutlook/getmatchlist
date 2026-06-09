@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22720",
-      "pID": "22720",
-      "title": "Men's International Friendly",
-      "keyword": "06月10日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ed3016afb009ae267aef552481876b15-thumbnail.jpg",
-      "pkInfoTitle": "Belarus vs. Burkina Faso",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-09%2Fblr-bka",
-          "name": "Belarus vs. Burkina Faso"
-        }
-      ]
-    },
-    {
       "mgdbId": "22721",
       "pID": "22721",
       "title": "Men's International Friendly",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-09T18:30:45.826Z",
-  "shanghaiTime": "2026-06-10T02:30:45.826Z",
-  "count": 3,
+  "timestamp": "2026-06-09T19:00:49.921Z",
+  "shanghaiTime": "2026-06-10T03:00:49.921Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
