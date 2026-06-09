@@ -98,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "22683",
-      "pID": "22683",
-      "title": "Men's International Friendly",
-      "keyword": "06月09日02:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5fc94b0684bb8aed3232d136e529dede-thumbnail.jpg",
-      "pkInfoTitle": "Peru vs. Spain",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月09日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-09%2Fper-esp",
-          "name": "Peru vs. Spain"
-        }
-      ]
-    },
-    {
       "mgdbId": "22665",
       "pID": "22665",
       "title": "NBC Sports CA",
@@ -146,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-09T04:00:45.713Z",
-  "shanghaiTime": "2026-06-09T12:00:45.713Z",
-  "count": 6,
+  "timestamp": "2026-06-09T04:30:34.318Z",
+  "shanghaiTime": "2026-06-09T12:30:34.318Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
