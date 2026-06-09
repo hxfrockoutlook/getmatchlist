@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22721",
-      "pID": "22721",
-      "title": "Men's International Friendly",
-      "keyword": "06月10日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d595ca195b8e323cc053a189f32545be-thumbnail.jpg",
-      "pkInfoTitle": "Hungary vs. Kazakhstan",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-09%2Fhun-kaz",
-          "name": "Hungary vs. Kazakhstan"
-        }
-      ]
-    },
-    {
       "mgdbId": "22722",
       "pID": "22722",
       "title": "Men's International Friendly",
@@ -50,9 +26,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-09T19:00:49.921Z",
-  "shanghaiTime": "2026-06-10T03:00:49.921Z",
-  "count": 2,
+  "timestamp": "2026-06-09T19:30:40.261Z",
+  "shanghaiTime": "2026-06-10T03:30:40.261Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
