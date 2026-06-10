@@ -144,11 +144,35 @@
           "name": "24 Hours of Le Mans"
         }
       ]
+    },
+    {
+      "mgdbId": "22756",
+      "pID": "22756",
+      "title": "Padres.TV",
+      "keyword": "06月11日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Padres.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/9b06ced8b46998dae035db66e8fe9d28-thumbnail.jpg",
+      "pkInfoTitle": "Cincinnati Reds vs. San Diego Padres",
+      "modifyTitle": "Padres.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fcin-sd",
+          "name": "Cincinnati Reds vs. San Diego Padres"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-10T20:00:45.350Z",
-  "shanghaiTime": "2026-06-11T04:00:45.350Z",
-  "count": 6,
+  "timestamp": "2026-06-10T20:30:38.197Z",
+  "shanghaiTime": "2026-06-11T04:30:38.197Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
