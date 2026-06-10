@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22712",
-      "pID": "22712",
-      "title": "CHSN",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CHSN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5089fb6c65c86da791fced68e5e5d141-thumbnail.jpg",
-      "pkInfoTitle": "Atlanta Braves vs. Chicago White Sox",
-      "modifyTitle": "CHSN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fatl-chw",
-          "name": "Atlanta Braves vs. Chicago White Sox"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22713",
-      "pID": "22713",
-      "title": "Royals.TV",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Royals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0e3b0aec8688fc8172a024990f9cee99-thumbnail.jpg",
-      "pkInfoTitle": "Texas Rangers vs. Kansas City Royals",
-      "modifyTitle": "Royals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Ftex-kc",
-          "name": "Texas Rangers vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
       "mgdbId": "22700",
       "pID": "22700",
       "title": "ABC",
@@ -94,30 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fchc-col",
           "name": "Chicago Cubs vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22723",
-      "pID": "22723",
-      "title": "Men's International Friendly",
-      "keyword": "06月10日01:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/456f798b8225600d53f04f24ed694672-thumbnail.jpg",
-      "pkInfoTitle": "Argentina vs. Iceland",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-10%2Farg-isl",
-          "name": "Argentina vs. Iceland"
         }
       ]
     },
@@ -242,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-10T03:00:43.850Z",
-  "shanghaiTime": "2026-06-10T11:00:43.850Z",
-  "count": 10,
+  "timestamp": "2026-06-10T03:30:36.489Z",
+  "shanghaiTime": "2026-06-10T11:30:36.489Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
