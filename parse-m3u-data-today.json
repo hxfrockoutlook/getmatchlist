@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22700",
-      "pID": "22700",
-      "title": "ABC",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg",
-      "pkInfoTitle": "Carolina Hurricanes vs. Vegas Golden Knights",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nhl%2F2026-06-09%2Fcar-vgk",
-          "name": "Carolina Hurricanes vs. Vegas Golden Knights"
-        }
-      ]
-    },
-    {
       "mgdbId": "22714",
       "pID": "22714",
       "title": "Rockies.TV",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-10T03:30:36.489Z",
-  "shanghaiTime": "2026-06-10T11:30:36.489Z",
-  "count": 7,
+  "timestamp": "2026-06-10T04:00:49.673Z",
+  "shanghaiTime": "2026-06-10T12:00:49.673Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
