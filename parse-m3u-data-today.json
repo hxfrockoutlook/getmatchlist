@@ -24,11 +24,59 @@
           "name": "24 Hours of Le Mans"
         }
       ]
+    },
+    {
+      "mgdbId": "22753",
+      "pID": "22753",
+      "title": "Rays.TV",
+      "keyword": "06月11日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rays.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8fd1e2bf514c430d2cb30d5bd1b3751a-thumbnail.jpg",
+      "pkInfoTitle": "Boston Red Sox vs. Tampa Bay Rays",
+      "modifyTitle": "Rays.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fbos-tb",
+          "name": "Boston Red Sox vs. Tampa Bay Rays"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22754",
+      "pID": "22754",
+      "title": "CLEGuardians.TV",
+      "keyword": "06月11日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CLEGuardians.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/bbfadecd764e1b295abaf8071d081fcd-thumbnail.jpg",
+      "pkInfoTitle": "New York Yankees vs. Cleveland Guardians",
+      "modifyTitle": "CLEGuardians.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fnyy-cle",
+          "name": "New York Yankees vs. Cleveland Guardians"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-10T17:00:43.184Z",
-  "shanghaiTime": "2026-06-11T01:00:43.184Z",
-  "count": 1,
+  "timestamp": "2026-06-10T17:30:41.786Z",
+  "shanghaiTime": "2026-06-11T01:30:41.786Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
