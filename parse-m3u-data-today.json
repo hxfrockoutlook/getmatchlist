@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22703",
-      "pID": "22703",
-      "title": "WNBA League Pass",
-      "keyword": "06月10日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "WNBA League Pass",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/41125faa23a896cc9afc8b2dce1eca5e-thumbnail.jpg",
-      "pkInfoTitle": "Phoenix Mercury vs. Golden State Valkyries",
-      "modifyTitle": "WNBA League Pass",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-09%2Fphx-gs",
-          "name": "Phoenix Mercury vs. Golden State Valkyries"
-        }
-      ]
-    },
-    {
       "mgdbId": "22718",
       "pID": "22718",
       "title": "NBC Sports CA",
@@ -122,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-10T04:30:35.981Z",
-  "shanghaiTime": "2026-06-10T12:30:35.981Z",
-  "count": 5,
+  "timestamp": "2026-06-10T05:00:43.095Z",
+  "shanghaiTime": "2026-06-10T13:00:43.095Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
