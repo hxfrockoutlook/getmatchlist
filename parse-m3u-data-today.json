@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22755",
-      "pID": "22755",
-      "title": "NBC Sports BA",
-      "keyword": "06月11日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports BA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/34075d46fb04d1135ad178f067ee1c6b-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. San Francisco Giants",
-      "modifyTitle": "NBC Sports BA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fwsh-sf",
-          "name": "Washington Nationals vs. San Francisco Giants"
-        }
-      ]
-    },
-    {
       "mgdbId": "22756",
       "pID": "22756",
       "title": "Padres.TV",
@@ -192,11 +168,59 @@
           "name": "Connecticut Sun vs. Toronto Tempo"
         }
       ]
+    },
+    {
+      "mgdbId": "22761",
+      "pID": "22761",
+      "title": "Sportsnet One",
+      "keyword": "06月11日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet One",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/201951e29d4cef20a8ec5cc7d68f2ee0-thumbnail.jpg",
+      "pkInfoTitle": "Philadelphia Phillies vs. Toronto Blue Jays",
+      "modifyTitle": "Sportsnet One",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fphi-tor",
+          "name": "Philadelphia Phillies vs. Toronto Blue Jays"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22762",
+      "pID": "22762",
+      "title": "Cardinals.TV",
+      "keyword": "06月11日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Cardinals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/04688ae9eae80fd907c8c1f247a40a11-thumbnail.jpg",
+      "pkInfoTitle": "St. Louis Cardinals vs. New York Mets",
+      "modifyTitle": "Cardinals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fstl-nym",
+          "name": "St. Louis Cardinals vs. New York Mets"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-10T23:00:39.792Z",
-  "shanghaiTime": "2026-06-11T07:00:39.792Z",
-  "count": 8,
+  "timestamp": "2026-06-10T23:30:35.375Z",
+  "shanghaiTime": "2026-06-11T07:30:35.375Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
