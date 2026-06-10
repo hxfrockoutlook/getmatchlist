@@ -2,150 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22704",
-      "pID": "22704",
-      "title": "MASN",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MASN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b777b08cf643bafb6d00baf710000651-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Mariners vs. Baltimore Orioles",
-      "modifyTitle": "MASN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fsea-bal",
-          "name": "Seattle Mariners vs. Baltimore Orioles"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22705",
-      "pID": "22705",
-      "title": "Marlins.TV",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/646d6403f3c3e597009b37924973f7d4-thumbnail.jpg",
-      "pkInfoTitle": "Arizona Diamondbacks vs. Miami Marlins",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fari-mia",
-          "name": "Arizona Diamondbacks vs. Miami Marlins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22706",
-      "pID": "22706",
-      "title": "Rays.TV",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rays.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8fd1e2bf514c430d2cb30d5bd1b3751a-thumbnail.jpg",
-      "pkInfoTitle": "Boston Red Sox vs. Tampa Bay Rays",
-      "modifyTitle": "Rays.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fbos-tb",
-          "name": "Boston Red Sox vs. Tampa Bay Rays"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22707",
-      "pID": "22707",
-      "title": "MLB.TV",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6def63bc42cd182a3e6ca28b68c64c3a-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Dodgers vs. Pittsburgh Pirates",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Flad-pit",
-          "name": "Los Angeles Dodgers vs. Pittsburgh Pirates"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22708",
-      "pID": "22708",
-      "title": "Tigers.TV",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Tigers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f89d8cd34a7efd2b7cbf91fa88499a7c-thumbnail.jpg",
-      "pkInfoTitle": "Minnesota Twins vs. Detroit Tigers",
-      "modifyTitle": "Tigers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fmin-det",
-          "name": "Minnesota Twins vs. Detroit Tigers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22709",
-      "pID": "22709",
-      "title": "CLEGuardians.TV",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CLEGuardians.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bbfadecd764e1b295abaf8071d081fcd-thumbnail.jpg",
-      "pkInfoTitle": "New York Yankees vs. Cleveland Guardians",
-      "modifyTitle": "CLEGuardians.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fnyy-cle",
-          "name": "New York Yankees vs. Cleveland Guardians"
-        }
-      ]
-    },
-    {
       "mgdbId": "22710",
       "pID": "22710",
       "title": "Sportsnet One",
@@ -314,30 +170,6 @@
       ]
     },
     {
-      "mgdbId": "22714",
-      "pID": "22714",
-      "title": "Rockies.TV",
-      "keyword": "06月10日00:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/98740c078504a9e44a8a9544f168c742-thumbnail.jpg",
-      "pkInfoTitle": "Chicago Cubs vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fchc-col",
-          "name": "Chicago Cubs vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
       "mgdbId": "22723",
       "pID": "22723",
       "title": "Men's International Friendly",
@@ -456,11 +288,35 @@
           "name": "Phoenix Mercury vs. Golden State Valkyries"
         }
       ]
+    },
+    {
+      "mgdbId": "22718",
+      "pID": "22718",
+      "title": "NBC Sports CA",
+      "keyword": "06月10日02:05",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports CA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4d9ce46c27015f2d472ea5d29ac3c721-thumbnail.jpg",
+      "pkInfoTitle": "Milwaukee Brewers vs. Athletics",
+      "modifyTitle": "NBC Sports CA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月10日02:05"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fmil-ath",
+          "name": "Milwaukee Brewers vs. Athletics"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-10T02:00:48.597Z",
-  "shanghaiTime": "2026-06-10T10:00:48.597Z",
-  "count": 19,
+  "timestamp": "2026-06-10T02:30:35.280Z",
+  "shanghaiTime": "2026-06-10T10:30:35.280Z",
+  "count": 13,
   "mode": "today",
   "source": "no_data"
 }
