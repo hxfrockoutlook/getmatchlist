@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22715",
-      "pID": "22715",
-      "title": "Angels.TV",
-      "keyword": "06月10日01:38",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Angels.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e9493aec1dcfb3f3a268a4bc07babde4-thumbnail.jpg",
-      "pkInfoTitle": "Houston Astros vs. Los Angeles Angels",
-      "modifyTitle": "Angels.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日01:38"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fhou-laa",
-          "name": "Houston Astros vs. Los Angeles Angels"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22716",
-      "pID": "22716",
-      "title": "Padres.TV",
-      "keyword": "06月10日01:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Padres.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9b06ced8b46998dae035db66e8fe9d28-thumbnail.jpg",
-      "pkInfoTitle": "Cincinnati Reds vs. San Diego Padres",
-      "modifyTitle": "Padres.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日01:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fcin-sd",
-          "name": "Cincinnati Reds vs. San Diego Padres"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22717",
-      "pID": "22717",
-      "title": "NBC Sports BA",
-      "keyword": "06月10日01:45",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports BA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/34075d46fb04d1135ad178f067ee1c6b-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. San Francisco Giants",
-      "modifyTitle": "NBC Sports BA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日01:45"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fwsh-sf",
-          "name": "Washington Nationals vs. San Francisco Giants"
-        }
-      ]
-    },
-    {
       "mgdbId": "22718",
       "pID": "22718",
       "title": "NBC Sports CA",
@@ -98,9 +26,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-10T05:00:43.095Z",
-  "shanghaiTime": "2026-06-10T13:00:43.095Z",
-  "count": 4,
+  "timestamp": "2026-06-10T05:30:37.008Z",
+  "shanghaiTime": "2026-06-10T13:30:37.008Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
