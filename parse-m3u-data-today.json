@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22748",
-      "pID": "22748",
-      "title": "Men's International Friendly",
-      "keyword": "06月11日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/73851f0e5d6d9498d3bef14c4e6cb9bb-thumbnail.jpg",
-      "pkInfoTitle": "Portugal vs. Nigeria",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-10%2Fpor-nga",
-          "name": "Portugal vs. Nigeria"
-        }
-      ]
-    },
-    {
       "mgdbId": "22756",
       "pID": "22756",
       "title": "Padres.TV",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-10T22:00:41.782Z",
-  "shanghaiTime": "2026-06-11T06:00:41.782Z",
-  "count": 4,
+  "timestamp": "2026-06-10T22:30:41.101Z",
+  "shanghaiTime": "2026-06-11T06:30:41.101Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
