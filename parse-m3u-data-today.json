@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22718",
-      "pID": "22718",
-      "title": "NBC Sports CA",
-      "keyword": "06月10日02:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports CA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4d9ce46c27015f2d472ea5d29ac3c721-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Athletics",
-      "modifyTitle": "NBC Sports CA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日02:05"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fmil-ath",
-          "name": "Milwaukee Brewers vs. Athletics"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-10T05:30:37.008Z",
-  "shanghaiTime": "2026-06-10T13:30:37.008Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-10T06:01:31.782Z",
+  "shanghaiTime": "2026-06-10T14:01:31.782Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
