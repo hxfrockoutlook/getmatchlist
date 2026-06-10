@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22710",
-      "pID": "22710",
-      "title": "Sportsnet One",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet One",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/201951e29d4cef20a8ec5cc7d68f2ee0-thumbnail.jpg",
-      "pkInfoTitle": "Philadelphia Phillies vs. Toronto Blue Jays",
-      "modifyTitle": "Sportsnet One",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fphi-tor",
-          "name": "Philadelphia Phillies vs. Toronto Blue Jays"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22711",
-      "pID": "22711",
-      "title": "SNY",
-      "keyword": "06月10日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "SNY",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/04688ae9eae80fd907c8c1f247a40a11-thumbnail.jpg",
-      "pkInfoTitle": "St. Louis Cardinals vs. New York Mets",
-      "modifyTitle": "SNY",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fstl-nym",
-          "name": "St. Louis Cardinals vs. New York Mets"
-        }
-      ]
-    },
-    {
       "mgdbId": "22712",
       "pID": "22712",
       "title": "CHSN",
@@ -98,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22702",
-      "pID": "22702",
-      "title": "Victory+ MIN",
-      "keyword": "06月10日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Victory+ MIN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8093f699d981843bb2724f1b7e340b04-thumbnail.jpg",
-      "pkInfoTitle": "Dallas Wings vs. Minnesota Lynx",
-      "modifyTitle": "Victory+ MIN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月10日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-09%2Fdal-min",
-          "name": "Dallas Wings vs. Minnesota Lynx"
-        }
-      ]
-    },
-    {
       "mgdbId": "22700",
       "pID": "22700",
       "title": "ABC",
@@ -146,26 +74,26 @@
       ]
     },
     {
-      "mgdbId": "22675",
-      "pID": "22675",
-      "title": "CW",
-      "keyword": "06月10日00:00",
+      "mgdbId": "22714",
+      "pID": "22714",
+      "title": "Rockies.TV",
+      "keyword": "06月10日00:40",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "CW",
+      "competitionName": "Rockies.TV",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-      "pkInfoTitle": "WWE: NXT",
-      "modifyTitle": "CW",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/98740c078504a9e44a8a9544f168c742-thumbnail.jpg",
+      "pkInfoTitle": "Chicago Cubs vs. Colorado Rockies",
+      "modifyTitle": "Rockies.TV",
       "presenters": "",
       "matchInfo": {
-        "time": "06月10日00:00"
+        "time": "06月10日00:40"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fnxt%2F2026-06-09",
-          "name": "WWE: NXT"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-09%2Fchc-col",
+          "name": "Chicago Cubs vs. Colorado Rockies"
         }
       ]
     },
@@ -314,9 +242,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-10T02:30:35.280Z",
-  "shanghaiTime": "2026-06-10T10:30:35.280Z",
-  "count": 13,
+  "timestamp": "2026-06-10T03:00:43.850Z",
+  "shanghaiTime": "2026-06-10T11:00:43.850Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
