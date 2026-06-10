@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22768",
-      "pID": "22768",
-      "title": "LALIGA 2",
-      "keyword": "06月11日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "LALIGA 2",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/550c6e13f1112ae3ecbf6a6a343e2eb9-thumbnail.jpg",
-      "pkInfoTitle": "Málaga vs. Las Palmas",
-      "modifyTitle": "LALIGA 2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=laliga-2%2F2026-06-10%2Fmcf-lpa",
-          "name": "Málaga vs. Las Palmas"
-        }
-      ]
-    },
-    {
       "mgdbId": "22755",
       "pID": "22755",
       "title": "NBC Sports BA",
@@ -70,30 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-10%2Fpor-nga",
           "name": "Portugal vs. Nigeria"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22742",
-      "pID": "22742",
-      "title": "Practice 2",
-      "keyword": "06月11日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Practice 2",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e49c3b2db40691997c337b3925b8db59-thumbnail.jpg",
-      "pkInfoTitle": "24 Hours of Le Mans",
-      "modifyTitle": "Practice 2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=fia-wec%2F2026%2Flemans%2Ffp2",
-          "name": "24 Hours of Le Mans"
         }
       ]
     },
@@ -146,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-10T21:00:45.984Z",
-  "shanghaiTime": "2026-06-11T05:00:45.984Z",
-  "count": 6,
+  "timestamp": "2026-06-10T21:30:36.509Z",
+  "shanghaiTime": "2026-06-11T05:30:36.509Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
