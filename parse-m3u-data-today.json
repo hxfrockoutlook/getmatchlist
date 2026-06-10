@@ -2,33 +2,33 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "06月10日19:30",
-      "sportItemId": "2",
+      "mgdbId": "22740",
+      "pID": "22740",
+      "title": "Practice 1",
+      "keyword": "06月10日12:00",
+      "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
+      "competitionName": "Practice 1",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/718da16eb34dafa2c4ec04f283daf9f1-thumbnail.jpg",
+      "pkInfoTitle": "24 Hours of Le Mans",
+      "modifyTitle": "Practice 1",
       "presenters": "",
       "matchInfo": {
-        "time": "06月10日19:30"
+        "time": "06月10日12:00"
       },
       "nodes": [
         {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-695987304961934162.flv?expire=1781695840&sign=05b2fd3ca651cebe5371a6c1c2c5f227&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-695987304961934162_850_flv&t_id=037-20260610193040627058E9A8BFAD385778-rxjQcf"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=fia-wec%2F2026%2Flemans%2Ffp1",
+          "name": "24 Hours of Le Mans"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-10T11:30:42.709Z",
-  "shanghaiTime": "2026-06-10T19:30:42.709Z",
+  "timestamp": "2026-06-10T12:01:03.300Z",
+  "shanghaiTime": "2026-06-10T20:01:03.300Z",
   "count": 1,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
