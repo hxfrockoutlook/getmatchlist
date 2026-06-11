@@ -2,6 +2,30 @@
   "success": true,
   "data": [
     {
+      "mgdbId": "",
+      "pID": "983488708402",
+      "title": "抖音CBA直播间",
+      "keyword": "06月11日19:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBA联赛",
+      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "抖音CBA直播间",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日19:30"
+      },
+      "nodes": [
+        {
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-695993374487872338.flv?keeptime=00093a80&wsSecret=bcfd18b18090eace96c45e5d2b27ea6e&wsTime=6a2a9565&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-695993374487872338_850_flv&t_id=037-20260611190053EC25D4C5E7EB724C5784-drRtid"
+        }
+      ]
+    },
+    {
       "mgdbId": "22666",
       "pID": "22666",
       "title": "Fox Footy",
@@ -50,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-11T10:30:40.160Z",
-  "shanghaiTime": "2026-06-11T18:30:40.160Z",
-  "count": 2,
+  "timestamp": "2026-06-11T11:00:54.783Z",
+  "shanghaiTime": "2026-06-11T19:00:54.783Z",
+  "count": 3,
   "mode": "today",
-  "source": "no_data"
+  "source": "cba_live"
 }
