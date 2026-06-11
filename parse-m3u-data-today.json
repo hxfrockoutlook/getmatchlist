@@ -144,11 +144,35 @@
           "name": "Mexico vs. South Africa"
         }
       ]
+    },
+    {
+      "mgdbId": "22781",
+      "pID": "22781",
+      "title": "Marquee Sports Net",
+      "keyword": "06月12日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marquee Sports Net",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/98740c078504a9e44a8a9544f168c742-thumbnail.jpg",
+      "pkInfoTitle": "Chicago Cubs vs. Colorado Rockies",
+      "modifyTitle": "Marquee Sports Net",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-11%2Fchc-col",
+          "name": "Chicago Cubs vs. Colorado Rockies"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-11T19:00:46.629Z",
-  "shanghaiTime": "2026-06-12T03:00:46.629Z",
-  "count": 6,
+  "timestamp": "2026-06-11T19:30:38.164Z",
+  "shanghaiTime": "2026-06-12T03:30:38.164Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
