@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22743",
-      "pID": "22743",
-      "title": "Practice 3",
-      "keyword": "06月12日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Practice 3",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e1a1218f599f25abee09529de8c17e33-thumbnail.jpg",
-      "pkInfoTitle": "24 Hours of Le Mans",
-      "modifyTitle": "Practice 3",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=fia-wec%2F2026%2Flemans%2Ffp3",
-          "name": "24 Hours of Le Mans"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-11T16:00:50.688Z",
-  "shanghaiTime": "2026-06-12T00:00:50.688Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-11T16:30:43.928Z",
+  "shanghaiTime": "2026-06-12T00:30:43.928Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
