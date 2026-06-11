@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22785",
-      "pID": "22785",
-      "title": "FIFA World Cup",
-      "keyword": "06月12日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg",
-      "pkInfoTitle": "Mexico vs. South Africa",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-11%2Fmex-rsa",
-          "name": "Mexico vs. South Africa"
-        }
-      ]
-    },
-    {
       "mgdbId": "22781",
       "pID": "22781",
       "title": "Marquee Sports Net",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-11T21:00:55.202Z",
-  "shanghaiTime": "2026-06-12T05:00:55.202Z",
-  "count": 4,
+  "timestamp": "2026-06-11T21:30:38.949Z",
+  "shanghaiTime": "2026-06-12T05:30:38.949Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
