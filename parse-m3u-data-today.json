@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22780",
-      "pID": "22780",
-      "title": "Royals.TV",
-      "keyword": "06月12日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Royals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0e3b0aec8688fc8172a024990f9cee99-thumbnail.jpg",
-      "pkInfoTitle": "Texas Rangers vs. Kansas City Royals",
-      "modifyTitle": "Royals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-11%2Ftex-kc",
-          "name": "Texas Rangers vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
       "mgdbId": "22781",
       "pID": "22781",
       "title": "Marquee Sports Net",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-11T21:30:38.949Z",
-  "shanghaiTime": "2026-06-12T05:30:38.949Z",
-  "count": 3,
+  "timestamp": "2026-06-11T22:00:49.519Z",
+  "shanghaiTime": "2026-06-12T06:00:49.519Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
