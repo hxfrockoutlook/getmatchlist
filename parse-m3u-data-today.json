@@ -240,11 +240,35 @@
           "name": "AEW: Wednesday Night Dynamite"
         }
       ]
+    },
+    {
+      "mgdbId": "22750",
+      "pID": "22750",
+      "title": "ABC",
+      "keyword": "06月11日00:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/34f6bf8df36e51164fc68e215557f94f-thumbnail.jpg",
+      "pkInfoTitle": "San Antonio Spurs vs. New York Knicks",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nba%2F2026-06-10%2Fsa-ny",
+          "name": "San Antonio Spurs vs. New York Knicks"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-11T00:00:46.721Z",
-  "shanghaiTime": "2026-06-11T08:00:46.721Z",
-  "count": 10,
+  "timestamp": "2026-06-11T00:30:39.769Z",
+  "shanghaiTime": "2026-06-11T08:30:39.769Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
