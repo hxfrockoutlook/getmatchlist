@@ -98,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "22751",
-      "pID": "22751",
-      "title": "TSN",
-      "keyword": "06月11日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "TSN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6a0ab7fe9db6f257a75d74d4e2d11d15-thumbnail.jpg",
-      "pkInfoTitle": "Connecticut Sun vs. Toronto Tempo",
-      "modifyTitle": "TSN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-10%2Fcon-tor",
-          "name": "Connecticut Sun vs. Toronto Tempo"
-        }
-      ]
-    },
-    {
       "mgdbId": "22761",
       "pID": "22761",
       "title": "Sportsnet One",
@@ -312,11 +288,59 @@
           "name": "Milwaukee Brewers vs. Athletics"
         }
       ]
+    },
+    {
+      "mgdbId": "22767",
+      "pID": "22767",
+      "title": "Angels.TV",
+      "keyword": "06月11日01:38",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Angels.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e9493aec1dcfb3f3a268a4bc07babde4-thumbnail.jpg",
+      "pkInfoTitle": "Houston Astros vs. Los Angeles Angels",
+      "modifyTitle": "Angels.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日01:38"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fhou-laa",
+          "name": "Houston Astros vs. Los Angeles Angels"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22752",
+      "pID": "22752",
+      "title": "USA Net",
+      "keyword": "06月11日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "USA Net",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/20d7774b108b7894a7f82dfb03efaf38-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Sparks vs. Seattle Storm",
+      "modifyTitle": "USA Net",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-10%2Fla-sea",
+          "name": "Los Angeles Sparks vs. Seattle Storm"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-11T01:30:36.485Z",
-  "shanghaiTime": "2026-06-11T09:30:36.485Z",
-  "count": 13,
+  "timestamp": "2026-06-11T02:00:49.152Z",
+  "shanghaiTime": "2026-06-11T10:00:49.152Z",
+  "count": 14,
   "mode": "today",
   "source": "no_data"
 }
