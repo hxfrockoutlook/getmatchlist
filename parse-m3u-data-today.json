@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22756",
-      "pID": "22756",
-      "title": "Padres.TV",
-      "keyword": "06月11日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Padres.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9b06ced8b46998dae035db66e8fe9d28-thumbnail.jpg",
-      "pkInfoTitle": "Cincinnati Reds vs. San Diego Padres",
-      "modifyTitle": "Padres.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fcin-sd",
-          "name": "Cincinnati Reds vs. San Diego Padres"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22749",
-      "pID": "22749",
-      "title": "Men's International Friendly",
-      "keyword": "06月11日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's International Friendly",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d2711bf038131422add0e89e84bb9436-thumbnail.jpg",
-      "pkInfoTitle": "England vs. Costa Rica",
-      "modifyTitle": "Men's International Friendly",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mens-international-friendly%2F2026-06-10%2Feng-crc",
-          "name": "England vs. Costa Rica"
-        }
-      ]
-    },
-    {
       "mgdbId": "22757",
       "pID": "22757",
       "title": "MASN",
@@ -216,11 +168,83 @@
           "name": "St. Louis Cardinals vs. New York Mets"
         }
       ]
+    },
+    {
+      "mgdbId": "22763",
+      "pID": "22763",
+      "title": "CHSN",
+      "keyword": "06月11日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CHSN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/5089fb6c65c86da791fced68e5e5d141-thumbnail.jpg",
+      "pkInfoTitle": "Atlanta Braves vs. Chicago White Sox",
+      "modifyTitle": "CHSN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fatl-chw",
+          "name": "Atlanta Braves vs. Chicago White Sox"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22764",
+      "pID": "22764",
+      "title": "Royals.TV",
+      "keyword": "06月11日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Royals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0e3b0aec8688fc8172a024990f9cee99-thumbnail.jpg",
+      "pkInfoTitle": "Texas Rangers vs. Kansas City Royals",
+      "modifyTitle": "Royals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Ftex-kc",
+          "name": "Texas Rangers vs. Kansas City Royals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22676",
+      "pID": "22676",
+      "title": "TBS",
+      "keyword": "06月11日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "TBS",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+      "pkInfoTitle": "AEW: Wednesday Night Dynamite",
+      "modifyTitle": "TBS",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fdynamite%2F2026-06-10",
+          "name": "AEW: Wednesday Night Dynamite"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-10T23:30:35.375Z",
-  "shanghaiTime": "2026-06-11T07:30:35.375Z",
-  "count": 9,
+  "timestamp": "2026-06-11T00:00:46.721Z",
+  "shanghaiTime": "2026-06-11T08:00:46.721Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
