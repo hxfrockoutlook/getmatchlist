@@ -120,11 +120,35 @@
           "name": "Texas Rangers vs. Kansas City Royals"
         }
       ]
+    },
+    {
+      "mgdbId": "22785",
+      "pID": "22785",
+      "title": "FIFA World Cup",
+      "keyword": "06月12日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg",
+      "pkInfoTitle": "Mexico vs. South Africa",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-11%2Fmex-rsa",
+          "name": "Mexico vs. South Africa"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-11T18:30:43.216Z",
-  "shanghaiTime": "2026-06-12T02:30:43.216Z",
-  "count": 5,
+  "timestamp": "2026-06-11T19:00:46.629Z",
+  "shanghaiTime": "2026-06-12T03:00:46.629Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
