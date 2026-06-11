@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22765",
-      "pID": "22765",
-      "title": "Rockies.TV",
-      "keyword": "06月11日00:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/98740c078504a9e44a8a9544f168c742-thumbnail.jpg",
-      "pkInfoTitle": "Chicago Cubs vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fchc-col",
-          "name": "Chicago Cubs vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
       "mgdbId": "22766",
       "pID": "22766",
       "title": "NBC Sports CA",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-11T04:00:46.249Z",
-  "shanghaiTime": "2026-06-11T12:00:46.249Z",
-  "count": 4,
+  "timestamp": "2026-06-11T04:30:36.127Z",
+  "shanghaiTime": "2026-06-11T12:30:36.127Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
