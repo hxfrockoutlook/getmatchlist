@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22766",
-      "pID": "22766",
-      "title": "NBC Sports CA",
-      "keyword": "06月11日01:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports CA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4d9ce46c27015f2d472ea5d29ac3c721-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Athletics",
-      "modifyTitle": "NBC Sports CA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日01:05"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fmil-ath",
-          "name": "Milwaukee Brewers vs. Athletics"
-        }
-      ]
-    },
-    {
       "mgdbId": "22767",
       "pID": "22767",
       "title": "Angels.TV",
@@ -48,35 +24,11 @@
           "name": "Houston Astros vs. Los Angeles Angels"
         }
       ]
-    },
-    {
-      "mgdbId": "22752",
-      "pID": "22752",
-      "title": "USA Net",
-      "keyword": "06月11日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "USA Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/20d7774b108b7894a7f82dfb03efaf38-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Sparks vs. Seattle Storm",
-      "modifyTitle": "USA Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-10%2Fla-sea",
-          "name": "Los Angeles Sparks vs. Seattle Storm"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-11T04:30:36.127Z",
-  "shanghaiTime": "2026-06-11T12:30:36.127Z",
-  "count": 3,
+  "timestamp": "2026-06-11T05:00:43.367Z",
+  "shanghaiTime": "2026-06-11T13:00:43.367Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
