@@ -1,9 +1,106 @@
 {
   "success": true,
-  "data": [],
-  "timestamp": "2026-06-11T17:00:51.249Z",
-  "shanghaiTime": "2026-06-12T01:00:51.249Z",
-  "count": 0,
+  "data": [
+    {
+      "mgdbId": "22777",
+      "pID": "22777",
+      "title": "Marlins.TV",
+      "keyword": "06月12日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marlins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/646d6403f3c3e597009b37924973f7d4-thumbnail.jpg",
+      "pkInfoTitle": "Arizona Diamondbacks vs. Miami Marlins",
+      "modifyTitle": "Marlins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-11%2Fari-mia",
+          "name": "Arizona Diamondbacks vs. Miami Marlins"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22778",
+      "pID": "22778",
+      "title": "Tigers.TV",
+      "keyword": "06月12日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Tigers.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f89d8cd34a7efd2b7cbf91fa88499a7c-thumbnail.jpg",
+      "pkInfoTitle": "Minnesota Twins vs. Detroit Tigers",
+      "modifyTitle": "Tigers.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-11%2Fmin-det",
+          "name": "Minnesota Twins vs. Detroit Tigers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22779",
+      "pID": "22779",
+      "title": "SNY",
+      "keyword": "06月12日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "SNY",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/04688ae9eae80fd907c8c1f247a40a11-thumbnail.jpg",
+      "pkInfoTitle": "St. Louis Cardinals vs. New York Mets",
+      "modifyTitle": "SNY",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-11%2Fstl-nym",
+          "name": "St. Louis Cardinals vs. New York Mets"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22793",
+      "pID": "22793",
+      "title": "FOX",
+      "keyword": "06月12日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FOX",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/06a3ff2b8d9aba875c155c6e3b77e511-thumbnail.jpg",
+      "pkInfoTitle": "FIFA World Cup Opening Ceremony: Mexico",
+      "modifyTitle": "FOX",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=fifa-world-cup-opening-ceremony-mexico",
+          "name": "FIFA World Cup Opening Ceremony: Mexico"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-11T17:30:38.558Z",
+  "shanghaiTime": "2026-06-12T01:30:38.558Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
