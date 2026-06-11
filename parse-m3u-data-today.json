@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22744",
-      "pID": "22744",
-      "title": "Hyperpole",
-      "keyword": "06月12日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Hyperpole",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8e67df2ba8777284b14475aea36391b6-thumbnail.jpg",
-      "pkInfoTitle": "24 Hours of Le Mans",
-      "modifyTitle": "Hyperpole",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=fia-wec%2F2026%2Flemans%2Fhyperpole",
-          "name": "24 Hours of Le Mans"
-        }
-      ]
-    },
-    {
       "mgdbId": "22780",
       "pID": "22780",
       "title": "Royals.TV",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-11T20:00:54.680Z",
-  "shanghaiTime": "2026-06-12T04:00:54.680Z",
-  "count": 7,
+  "timestamp": "2026-06-11T20:30:35.099Z",
+  "shanghaiTime": "2026-06-12T04:30:35.099Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
