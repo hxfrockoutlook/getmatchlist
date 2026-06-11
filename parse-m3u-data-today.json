@@ -1,58 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22666",
-      "pID": "22666",
-      "title": "Fox Footy",
-      "keyword": "06月11日09:30",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7afc6deb446f43e83215324a64b28bbf-thumbnail.jpg",
-      "pkInfoTitle": "Western Bulldogs vs. Adelaide Crows",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-11%2Fwb-adel",
-          "name": "Western Bulldogs vs. Adelaide Crows"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22669",
-      "pID": "22669",
-      "title": "Fox League",
-      "keyword": "06月11日09:50",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7611ae1f509fd3e1bf6008e87b1ae75d-thumbnail.jpg",
-      "pkInfoTitle": "Rabbitohs vs. Broncos",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日09:50"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-11%2Fsou-bri",
-          "name": "Rabbitohs vs. Broncos"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-11T12:00:56.540Z",
-  "shanghaiTime": "2026-06-11T20:00:56.540Z",
-  "count": 2,
+  "data": [],
+  "timestamp": "2026-06-11T12:30:52.159Z",
+  "shanghaiTime": "2026-06-11T20:30:52.159Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
