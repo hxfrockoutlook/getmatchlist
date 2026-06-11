@@ -24,11 +24,35 @@
           "name": "Western Bulldogs vs. Adelaide Crows"
         }
       ]
+    },
+    {
+      "mgdbId": "22669",
+      "pID": "22669",
+      "title": "Fox League",
+      "keyword": "06月11日09:50",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7611ae1f509fd3e1bf6008e87b1ae75d-thumbnail.jpg",
+      "pkInfoTitle": "Rabbitohs vs. Broncos",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月11日09:50"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-11%2Fsou-bri",
+          "name": "Rabbitohs vs. Broncos"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-11T09:30:38.114Z",
-  "shanghaiTime": "2026-06-11T17:30:38.114Z",
-  "count": 1,
+  "timestamp": "2026-06-11T10:00:53.056Z",
+  "shanghaiTime": "2026-06-11T18:00:53.056Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
