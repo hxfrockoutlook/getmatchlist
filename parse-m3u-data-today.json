@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22763",
-      "pID": "22763",
-      "title": "CHSN",
-      "keyword": "06月11日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CHSN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5089fb6c65c86da791fced68e5e5d141-thumbnail.jpg",
-      "pkInfoTitle": "Atlanta Braves vs. Chicago White Sox",
-      "modifyTitle": "CHSN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fatl-chw",
-          "name": "Atlanta Braves vs. Chicago White Sox"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22764",
-      "pID": "22764",
-      "title": "Royals.TV",
-      "keyword": "06月11日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Royals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0e3b0aec8688fc8172a024990f9cee99-thumbnail.jpg",
-      "pkInfoTitle": "Texas Rangers vs. Kansas City Royals",
-      "modifyTitle": "Royals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Ftex-kc",
-          "name": "Texas Rangers vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22750",
-      "pID": "22750",
-      "title": "ABC",
-      "keyword": "06月11日00:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/34f6bf8df36e51164fc68e215557f94f-thumbnail.jpg",
-      "pkInfoTitle": "San Antonio Spurs vs. New York Knicks",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nba%2F2026-06-10%2Fsa-ny",
-          "name": "San Antonio Spurs vs. New York Knicks"
-        }
-      ]
-    },
-    {
       "mgdbId": "22765",
       "pID": "22765",
       "title": "Rockies.TV",
@@ -170,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-11T03:00:43.172Z",
-  "shanghaiTime": "2026-06-11T11:00:43.172Z",
-  "count": 7,
+  "timestamp": "2026-06-11T03:30:35.310Z",
+  "shanghaiTime": "2026-06-11T11:30:35.310Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
