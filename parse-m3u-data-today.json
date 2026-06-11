@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22761",
-      "pID": "22761",
-      "title": "Sportsnet One",
-      "keyword": "06月11日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet One",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/201951e29d4cef20a8ec5cc7d68f2ee0-thumbnail.jpg",
-      "pkInfoTitle": "Philadelphia Phillies vs. Toronto Blue Jays",
-      "modifyTitle": "Sportsnet One",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fphi-tor",
-          "name": "Philadelphia Phillies vs. Toronto Blue Jays"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22762",
-      "pID": "22762",
-      "title": "Cardinals.TV",
-      "keyword": "06月11日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cardinals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/04688ae9eae80fd907c8c1f247a40a11-thumbnail.jpg",
-      "pkInfoTitle": "St. Louis Cardinals vs. New York Mets",
-      "modifyTitle": "Cardinals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Fstl-nym",
-          "name": "St. Louis Cardinals vs. New York Mets"
-        }
-      ]
-    },
-    {
       "mgdbId": "22763",
       "pID": "22763",
       "title": "CHSN",
@@ -94,30 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-10%2Ftex-kc",
           "name": "Texas Rangers vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22676",
-      "pID": "22676",
-      "title": "TBS",
-      "keyword": "06月11日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "TBS",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
-      "pkInfoTitle": "AEW: Wednesday Night Dynamite",
-      "modifyTitle": "TBS",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月11日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fdynamite%2F2026-06-10",
-          "name": "AEW: Wednesday Night Dynamite"
         }
       ]
     },
@@ -242,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-11T02:30:35.003Z",
-  "shanghaiTime": "2026-06-11T10:30:35.003Z",
-  "count": 10,
+  "timestamp": "2026-06-11T03:00:43.172Z",
+  "shanghaiTime": "2026-06-11T11:00:43.172Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
