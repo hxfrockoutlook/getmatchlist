@@ -24,35 +24,11 @@
           "name": "Chicago Cubs vs. Colorado Rockies"
         }
       ]
-    },
-    {
-      "mgdbId": "22745",
-      "pID": "22745",
-      "title": "Practice 4",
-      "keyword": "06月12日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Practice 4",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1203fd3d88bd08646af23c213a735865-thumbnail.jpg",
-      "pkInfoTitle": "24 Hours of Le Mans",
-      "modifyTitle": "Practice 4",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=fia-wec%2F2026%2Flemans%2Ffp4",
-          "name": "24 Hours of Le Mans"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-11T22:00:49.519Z",
-  "shanghaiTime": "2026-06-12T06:00:49.519Z",
-  "count": 2,
+  "timestamp": "2026-06-11T22:30:40.447Z",
+  "shanghaiTime": "2026-06-12T06:30:40.447Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
