@@ -5,7 +5,7 @@
       "mgdbId": "22833",
       "pID": "22833",
       "title": "PDC.TV",
-      "keyword": "06月12日10:00",
+      "keyword": "06月13日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -16,7 +16,7 @@
       "modifyTitle": "PDC.TV",
       "presenters": "",
       "matchInfo": {
-        "time": "06月12日10:00"
+        "time": "06月13日00:00"
       },
       "nodes": [
         {
@@ -29,7 +29,7 @@
       "mgdbId": "22687",
       "pID": "22687",
       "title": "Practice 2",
-      "keyword": "06月12日15:00",
+      "keyword": "06月13日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -40,7 +40,7 @@
       "modifyTitle": "Practice 2",
       "presenters": "",
       "matchInfo": {
-        "time": "06月12日15:00"
+        "time": "06月13日00:00"
       },
       "nodes": [
         {
@@ -50,8 +50,8 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T15:30:51.933Z",
-  "shanghaiTime": "2026-06-12T23:30:51.933Z",
+  "timestamp": "2026-06-12T16:00:54.397Z",
+  "shanghaiTime": "2026-06-13T00:00:54.397Z",
   "count": 2,
   "mode": "today",
   "source": "no_data"
