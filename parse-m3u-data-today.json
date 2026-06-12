@@ -1,9 +1,82 @@
 {
   "success": true,
-  "data": [],
-  "timestamp": "2026-06-12T09:30:40.685Z",
-  "shanghaiTime": "2026-06-12T17:30:40.685Z",
-  "count": 0,
+  "data": [
+    {
+      "mgdbId": "22836",
+      "pID": "22836",
+      "title": "Men's VNL 2026",
+      "keyword": "06月12日08:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/78449393ff312b6cac8bd4ea1d0a836b-thumbnail.jpg",
+      "pkInfoTitle": "Ukraine vs. Cuba",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日08:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-12%2Fukr-cub",
+          "name": "Ukraine vs. Cuba"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22667",
+      "pID": "22667",
+      "title": "Fox Footy",
+      "keyword": "06月12日09:40",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c7448af6e0005e9e73573a002b05062d-thumbnail.jpg",
+      "pkInfoTitle": "Geelong Cats vs. Gold Coast SUNS",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日09:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-12%2Fgeel-gcfc",
+          "name": "Geelong Cats vs. Gold Coast SUNS"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22670",
+      "pID": "22670",
+      "title": "Fox League",
+      "keyword": "06月12日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2e76625ba18b9278f66861be0bf587d6-thumbnail.jpg",
+      "pkInfoTitle": "Dolphins vs. Roosters",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-12%2Fdol-syd",
+          "name": "Dolphins vs. Roosters"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-12T10:00:45.799Z",
+  "shanghaiTime": "2026-06-12T18:00:45.799Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
