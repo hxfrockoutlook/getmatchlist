@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "06月12日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-119538123571462994.flv?expire=1781868644&sign=380385de0931add1ecdbe6504a4ef830&s_anchor=1&major_anchor_level=vip&arch_hrchy=s2&unique_id=stream-119538123571462994_850_flv&t_id=037-20260612193044F04554D639EE3C1C5348-OLRY0N"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22836",
-      "pID": "22836",
-      "title": "Men's VNL 2026",
-      "keyword": "06月12日08:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/78449393ff312b6cac8bd4ea1d0a836b-thumbnail.jpg",
-      "pkInfoTitle": "Ukraine vs. Cuba",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-12%2Fukr-cub",
-          "name": "Ukraine vs. Cuba"
-        }
-      ]
-    },
-    {
       "mgdbId": "22667",
       "pID": "22667",
       "title": "Fox Footy",
@@ -144,11 +96,35 @@
           "name": "Barcelona Grand Prix"
         }
       ]
+    },
+    {
+      "mgdbId": "22837",
+      "pID": "22837",
+      "title": "Men's VNL 2026",
+      "keyword": "06月12日12:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2f3f1d626176d0a02eabddefa9d15973-thumbnail.jpg",
+      "pkInfoTitle": "Japan vs. Poland",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-12%2Fjap-pol",
+          "name": "Japan vs. Poland"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-12T11:30:47.338Z",
-  "shanghaiTime": "2026-06-12T19:30:47.338Z",
-  "count": 6,
+  "timestamp": "2026-06-12T12:00:55.692Z",
+  "shanghaiTime": "2026-06-12T20:00:55.692Z",
+  "count": 5,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
