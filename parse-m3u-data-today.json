@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22796",
-      "pID": "22796",
-      "title": "Herzegovina",
-      "keyword": "06月13日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Herzegovina",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/18ef9b11d27a1c726755dcfeae3334dd-thumbnail.jpg",
-      "pkInfoTitle": "Canada vs. Bosnia",
-      "modifyTitle": "Herzegovina",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-12%2Fcan-bih",
-          "name": "Canada vs. Bosnia"
-        }
-      ]
-    },
-    {
       "mgdbId": "22838",
       "pID": "22838",
       "title": "Men's VNL 2026",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T21:00:46.133Z",
-  "shanghaiTime": "2026-06-13T05:00:46.133Z",
-  "count": 4,
+  "timestamp": "2026-06-12T21:30:40.846Z",
+  "shanghaiTime": "2026-06-13T05:30:40.846Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
