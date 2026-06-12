@@ -168,11 +168,59 @@
           "name": "Hamilton Tiger"
         }
       ]
+    },
+    {
+      "mgdbId": "22775",
+      "pID": "22775",
+      "title": "Prime Video",
+      "keyword": "06月12日01:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Prime Video",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0eb68303067a1db1c9a1a33b59baa073-thumbnail.jpg",
+      "pkInfoTitle": "Phoenix Mercury vs. Dallas Wings",
+      "modifyTitle": "Prime Video",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日01:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-11%2Fphx-dal",
+          "name": "Phoenix Mercury vs. Dallas Wings"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22677",
+      "pID": "22677",
+      "title": "AMC",
+      "keyword": "06月12日01:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "AMC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
+      "pkInfoTitle": "TNA: Impact",
+      "modifyTitle": "AMC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日01:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=tna%2Fimpact%2F2026-06-11",
+          "name": "TNA: Impact"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-12T00:30:39.460Z",
-  "shanghaiTime": "2026-06-12T08:30:39.460Z",
-  "count": 7,
+  "timestamp": "2026-06-12T01:00:40.980Z",
+  "shanghaiTime": "2026-06-12T09:00:40.980Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
