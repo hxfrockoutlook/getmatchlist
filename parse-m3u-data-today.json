@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22776",
-      "pID": "22776",
-      "title": "Fox 12 Plus",
-      "keyword": "06月12日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox 12 Plus",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6d459928e6cdb68def6ec26a7ee8e083-thumbnail.jpg",
-      "pkInfoTitle": "Las Vegas Aces vs. Portland Fire",
-      "modifyTitle": "Fox 12 Plus",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-11%2Flv-por",
-          "name": "Las Vegas Aces vs. Portland Fire"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-12T04:30:39.517Z",
-  "shanghaiTime": "2026-06-12T12:30:39.517Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-12T05:00:39.787Z",
+  "shanghaiTime": "2026-06-12T13:00:39.787Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
