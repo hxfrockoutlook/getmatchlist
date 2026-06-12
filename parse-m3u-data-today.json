@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22837",
-      "pID": "22837",
-      "title": "Men's VNL 2026",
-      "keyword": "06月12日12:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2f3f1d626176d0a02eabddefa9d15973-thumbnail.jpg",
-      "pkInfoTitle": "Japan vs. Poland",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-12%2Fjap-pol",
-          "name": "Japan vs. Poland"
-        }
-      ]
-    },
-    {
       "mgdbId": "22687",
       "pID": "22687",
       "title": "Practice 2",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T15:00:53.490Z",
-  "shanghaiTime": "2026-06-12T23:00:53.490Z",
-  "count": 3,
+  "timestamp": "2026-06-12T15:30:51.933Z",
+  "shanghaiTime": "2026-06-12T23:30:51.933Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
