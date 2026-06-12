@@ -144,11 +144,35 @@
           "name": "Vegas Golden Knights vs. Carolina Hurricanes"
         }
       ]
+    },
+    {
+      "mgdbId": "22648",
+      "pID": "22648",
+      "title": "Cats vs. Winnipeg Blue Bombers",
+      "keyword": "06月12日00:30",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Cats vs. Winnipeg Blue Bombers",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7aadd3f7a320f42a7b6161569a21f296-thumbnail.jpg",
+      "pkInfoTitle": "Hamilton Tiger",
+      "modifyTitle": "Cats vs. Winnipeg Blue Bombers",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日00:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-11%2Fham-wpg",
+          "name": "Hamilton Tiger"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-12T00:00:52.703Z",
-  "shanghaiTime": "2026-06-12T08:00:52.703Z",
-  "count": 6,
+  "timestamp": "2026-06-12T00:30:39.460Z",
+  "shanghaiTime": "2026-06-12T08:30:39.460Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
