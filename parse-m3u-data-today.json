@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22667",
-      "pID": "22667",
-      "title": "Fox Footy",
-      "keyword": "06月12日09:40",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c7448af6e0005e9e73573a002b05062d-thumbnail.jpg",
-      "pkInfoTitle": "Geelong Cats vs. Gold Coast SUNS",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日09:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-12%2Fgeel-gcfc",
-          "name": "Geelong Cats vs. Gold Coast SUNS"
-        }
-      ]
-    },
-    {
       "mgdbId": "22833",
       "pID": "22833",
       "title": "PDC.TV",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T12:30:44.378Z",
-  "shanghaiTime": "2026-06-12T20:30:44.378Z",
-  "count": 4,
+  "timestamp": "2026-06-12T13:00:57.612Z",
+  "shanghaiTime": "2026-06-12T21:00:57.612Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
