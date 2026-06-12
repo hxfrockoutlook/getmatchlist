@@ -2,102 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22772",
-      "pID": "22772",
-      "title": "ABC",
-      "keyword": "06月12日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1d2c77d87b846fa5ea6ca4e95df0ed7d-thumbnail.jpg",
-      "pkInfoTitle": "Vegas Golden Knights vs. Carolina Hurricanes",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nhl%2F2026-06-11%2Fvgk-car",
-          "name": "Vegas Golden Knights vs. Carolina Hurricanes"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22648",
-      "pID": "22648",
-      "title": "Cats vs. Winnipeg Blue Bombers",
-      "keyword": "06月12日00:30",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cats vs. Winnipeg Blue Bombers",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7aadd3f7a320f42a7b6161569a21f296-thumbnail.jpg",
-      "pkInfoTitle": "Hamilton Tiger",
-      "modifyTitle": "Cats vs. Winnipeg Blue Bombers",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-11%2Fham-wpg",
-          "name": "Hamilton Tiger"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22775",
-      "pID": "22775",
-      "title": "Prime Video",
-      "keyword": "06月12日01:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Prime Video",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0eb68303067a1db1c9a1a33b59baa073-thumbnail.jpg",
-      "pkInfoTitle": "Phoenix Mercury vs. Dallas Wings",
-      "modifyTitle": "Prime Video",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-11%2Fphx-dal",
-          "name": "Phoenix Mercury vs. Dallas Wings"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22677",
-      "pID": "22677",
-      "title": "AMC",
-      "keyword": "06月12日01:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AMC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
-      "pkInfoTitle": "TNA: Impact",
-      "modifyTitle": "AMC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=tna%2Fimpact%2F2026-06-11",
-          "name": "TNA: Impact"
-        }
-      ]
-    },
-    {
       "mgdbId": "22776",
       "pID": "22776",
       "title": "Fox 12 Plus",
@@ -146,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T03:30:35.019Z",
-  "shanghaiTime": "2026-06-12T11:30:35.019Z",
-  "count": 6,
+  "timestamp": "2026-06-12T04:00:43.233Z",
+  "shanghaiTime": "2026-06-12T12:00:43.233Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
