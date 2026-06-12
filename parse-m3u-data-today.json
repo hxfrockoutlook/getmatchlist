@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22784",
-      "pID": "22784",
-      "title": "CHSN",
-      "keyword": "06月12日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CHSN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5089fb6c65c86da791fced68e5e5d141-thumbnail.jpg",
-      "pkInfoTitle": "Atlanta Braves vs. Chicago White Sox",
-      "modifyTitle": "CHSN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-11%2Fatl-chw",
-          "name": "Atlanta Braves vs. Chicago White Sox"
-        }
-      ]
-    },
-    {
       "mgdbId": "22772",
       "pID": "22772",
       "title": "ABC",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T03:00:42.509Z",
-  "shanghaiTime": "2026-06-12T11:00:42.509Z",
-  "count": 7,
+  "timestamp": "2026-06-12T03:30:35.019Z",
+  "shanghaiTime": "2026-06-12T11:30:35.019Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
