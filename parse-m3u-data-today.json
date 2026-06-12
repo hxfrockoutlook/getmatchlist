@@ -24,35 +24,11 @@
           "name": "World Cup of Darts | Day 2"
         }
       ]
-    },
-    {
-      "mgdbId": "22687",
-      "pID": "22687",
-      "title": "Practice 2",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Practice 2",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/74f205943fc868abcb462524e09f9131-thumbnail.jpg",
-      "pkInfoTitle": "Barcelona Grand Prix",
-      "modifyTitle": "Practice 2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fbarcelona-catalunya%2Ffp2",
-          "name": "Barcelona Grand Prix"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-12T16:30:36.997Z",
-  "shanghaiTime": "2026-06-13T00:30:36.997Z",
-  "count": 2,
+  "timestamp": "2026-06-12T17:00:42.938Z",
+  "shanghaiTime": "2026-06-13T01:00:42.938Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
