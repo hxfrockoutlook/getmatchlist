@@ -50,6 +50,30 @@
       ]
     },
     {
+      "mgdbId": "22833",
+      "pID": "22833",
+      "title": "PDC.TV",
+      "keyword": "06月12日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "PDC.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg",
+      "pkInfoTitle": "World Cup of Darts | Day 2",
+      "modifyTitle": "PDC.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=world-cup-of-darts--day-2",
+          "name": "World Cup of Darts | Day 2"
+        }
+      ]
+    },
+    {
       "mgdbId": "22670",
       "pID": "22670",
       "title": "Fox League",
@@ -74,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T10:00:45.799Z",
-  "shanghaiTime": "2026-06-12T18:00:45.799Z",
-  "count": 3,
+  "timestamp": "2026-06-12T10:30:47.706Z",
+  "shanghaiTime": "2026-06-12T18:30:47.706Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
