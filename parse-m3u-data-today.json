@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22773",
-      "pID": "22773",
-      "title": "Prime Video",
-      "keyword": "06月12日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Prime Video",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/027430e0d4aacbd59422e64994b6881f-thumbnail.jpg",
-      "pkInfoTitle": "Chicago Sky vs. Indiana Fever",
-      "modifyTitle": "Prime Video",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-11%2Fchi-ind",
-          "name": "Chicago Sky vs. Indiana Fever"
-        }
-      ]
-    },
-    {
       "mgdbId": "22774",
       "pID": "22774",
       "title": "Atlanta News First",
@@ -216,11 +192,59 @@
           "name": "TNA: Impact"
         }
       ]
+    },
+    {
+      "mgdbId": "22776",
+      "pID": "22776",
+      "title": "Fox 12 Plus",
+      "keyword": "06月12日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox 12 Plus",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6d459928e6cdb68def6ec26a7ee8e083-thumbnail.jpg",
+      "pkInfoTitle": "Las Vegas Aces vs. Portland Fire",
+      "modifyTitle": "Fox 12 Plus",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-11%2Flv-por",
+          "name": "Las Vegas Aces vs. Portland Fire"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22789",
+      "pID": "22789",
+      "title": "FIFA World Cup",
+      "keyword": "06月12日02:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg",
+      "pkInfoTitle": "South Korea vs. Czechia",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月12日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-12%2Fkor-cze",
+          "name": "South Korea vs. Czechia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-12T01:30:34.630Z",
-  "shanghaiTime": "2026-06-12T09:30:34.630Z",
-  "count": 9,
+  "timestamp": "2026-06-12T02:00:45.240Z",
+  "shanghaiTime": "2026-06-12T10:00:45.240Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
