@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22833",
-      "pID": "22833",
-      "title": "PDC.TV",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PDC.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg",
-      "pkInfoTitle": "World Cup of Darts | Day 2",
-      "modifyTitle": "PDC.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=world-cup-of-darts--day-2",
-          "name": "World Cup of Darts | Day 2"
-        }
-      ]
-    },
-    {
       "mgdbId": "22838",
       "pID": "22838",
       "title": "Men's VNL 2026",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T21:30:40.846Z",
-  "shanghaiTime": "2026-06-13T05:30:40.846Z",
-  "count": 3,
+  "timestamp": "2026-06-12T22:00:48.801Z",
+  "shanghaiTime": "2026-06-13T06:00:48.801Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
