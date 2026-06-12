@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22782",
-      "pID": "22782",
-      "title": "MLB.TV",
-      "keyword": "06月12日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6def63bc42cd182a3e6ca28b68c64c3a-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Dodgers vs. Pittsburgh Pirates",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-11%2Flad-pit",
-          "name": "Los Angeles Dodgers vs. Pittsburgh Pirates"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22783",
-      "pID": "22783",
-      "title": "ESPN",
-      "keyword": "06月12日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ESPN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b777b08cf643bafb6d00baf710000651-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Mariners vs. Baltimore Orioles",
-      "modifyTitle": "ESPN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-11%2Fsea-bal",
-          "name": "Seattle Mariners vs. Baltimore Orioles"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22774",
-      "pID": "22774",
-      "title": "Atlanta News First",
-      "keyword": "06月12日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Atlanta News First",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f3734f0bf93486b340663eb3ecd66c53-thumbnail.jpg",
-      "pkInfoTitle": "New York Liberty vs. Atlanta Dream",
-      "modifyTitle": "Atlanta News First",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-11%2Fny-atl",
-          "name": "New York Liberty vs. Atlanta Dream"
-        }
-      ]
-    },
-    {
       "mgdbId": "22784",
       "pID": "22784",
       "title": "CHSN",
@@ -242,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T02:00:45.240Z",
-  "shanghaiTime": "2026-06-12T10:00:45.240Z",
-  "count": 10,
+  "timestamp": "2026-06-12T02:30:34.692Z",
+  "shanghaiTime": "2026-06-12T10:30:34.692Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
