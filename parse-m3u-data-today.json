@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22670",
-      "pID": "22670",
-      "title": "Fox League",
-      "keyword": "06月12日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2e76625ba18b9278f66861be0bf587d6-thumbnail.jpg",
-      "pkInfoTitle": "Dolphins vs. Roosters",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月12日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-12%2Fdol-syd",
-          "name": "Dolphins vs. Roosters"
-        }
-      ]
-    },
-    {
       "mgdbId": "22684",
       "pID": "22684",
       "title": "Practice 1",
@@ -122,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-12T12:00:55.692Z",
-  "shanghaiTime": "2026-06-12T20:00:55.692Z",
-  "count": 5,
+  "timestamp": "2026-06-12T12:30:44.378Z",
+  "shanghaiTime": "2026-06-12T20:30:44.378Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
