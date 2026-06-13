@@ -5,7 +5,7 @@
       "mgdbId": "22900",
       "pID": "22900",
       "title": "PDC.TV",
-      "keyword": "06月13日11:00",
+      "keyword": "06月14日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -16,7 +16,7 @@
       "modifyTitle": "PDC.TV",
       "presenters": "",
       "matchInfo": {
-        "time": "06月13日11:00"
+        "time": "06月14日00:00"
       },
       "nodes": [
         {
@@ -29,7 +29,7 @@
       "mgdbId": "22747",
       "pID": "22747",
       "title": "Race",
-      "keyword": "06月13日13:00",
+      "keyword": "06月14日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -40,7 +40,7 @@
       "modifyTitle": "Race",
       "presenters": "",
       "matchInfo": {
-        "time": "06月13日13:00"
+        "time": "06月14日00:00"
       },
       "nodes": [
         {
@@ -50,34 +50,10 @@
       ]
     },
     {
-      "mgdbId": "22693",
-      "pID": "22693",
-      "title": "Qualifying",
-      "keyword": "06月13日14:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Qualifying",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9453b0794926942676f3eb3d16f5ff58-thumbnail.jpg",
-      "pkInfoTitle": "Barcelona Grand Prix",
-      "modifyTitle": "Qualifying",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日14:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fbarcelona-catalunya%2Fqualifying",
-          "name": "Barcelona Grand Prix"
-        }
-      ]
-    },
-    {
       "mgdbId": "22865",
       "pID": "22865",
       "title": "Men's VNL 2026",
-      "keyword": "06月13日14:00",
+      "keyword": "06月14日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -88,7 +64,7 @@
       "modifyTitle": "Men's VNL 2026",
       "presenters": "",
       "matchInfo": {
-        "time": "06月13日14:00"
+        "time": "06月14日00:00"
       },
       "nodes": [
         {
@@ -96,11 +72,83 @@
           "name": "Brazil vs. Serbia"
         }
       ]
+    },
+    {
+      "mgdbId": "22655",
+      "pID": "22655",
+      "title": "AFLE+",
+      "keyword": "06月14日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "AFLE+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6db89a2f42a84982446394f80072fa83-thumbnail.jpg",
+      "pkInfoTitle": "Alpine Rams vs. Vienna Vikings",
+      "modifyTitle": "AFLE+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-13%2Falp-vie",
+          "name": "Alpine Rams vs. Vienna Vikings"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22657",
+      "pID": "22657",
+      "title": "AFLE+",
+      "keyword": "06月14日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "AFLE+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/28d71ad645a6daca2924c03e54c95d62-thumbnail.jpg",
+      "pkInfoTitle": "Paris Lights vs. Rhein Fire",
+      "modifyTitle": "AFLE+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-13%2Fpar-rhe",
+          "name": "Paris Lights vs. Rhein Fire"
+        }
+      ]
+    },
+    {
+      "mgdbId": "15856",
+      "pID": "15856",
+      "title": "Peacock",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Peacock",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
+      "pkInfoTitle": "Pro Motocross: Thunder Valley",
+      "modifyTitle": "Peacock",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=smx-wk20",
+          "name": "Pro Motocross: Thunder Valley"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T15:30:45.205Z",
-  "shanghaiTime": "2026-06-13T23:30:45.205Z",
-  "count": 4,
+  "timestamp": "2026-06-13T16:00:56.984Z",
+  "shanghaiTime": "2026-06-14T00:00:56.984Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
