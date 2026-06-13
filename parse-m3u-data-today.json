@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22817",
-      "pID": "22817",
-      "title": "ION",
-      "keyword": "06月13日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ION",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e32399dd2cd14ff2147180348a71ceb9-thumbnail.jpg",
-      "pkInfoTitle": "Golden State Valkyries vs. Seattle Storm",
-      "modifyTitle": "ION",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-12%2Fgs-sea",
-          "name": "Golden State Valkyries vs. Seattle Storm"
-        }
-      ]
-    },
-    {
       "mgdbId": "22831",
       "pID": "22831",
       "title": "NBC Sports CA",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T04:30:49.346Z",
-  "shanghaiTime": "2026-06-13T12:30:49.346Z",
-  "count": 4,
+  "timestamp": "2026-06-13T05:00:44.833Z",
+  "shanghaiTime": "2026-06-13T13:00:44.833Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
