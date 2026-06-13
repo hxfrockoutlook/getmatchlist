@@ -2,6 +2,30 @@
   "success": true,
   "data": [
     {
+      "mgdbId": "",
+      "pID": "983488708402",
+      "title": "抖音CBA直播间",
+      "keyword": "06月13日19:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBA联赛",
+      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "抖音CBA直播间",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日19:30"
+      },
+      "nodes": [
+        {
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-f5.douyinliving.com/media/stream-407774227664208722.flv?expire=1781953249&sign=ee462fc6e42f02b30fd675460413ed9b&volcSecret=ee462fc6e42f02b30fd675460413ed9b&volcTime=1781953249&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-407774227664208722_850_flv&t_id=037-202606131900496BED04E47D270A9F9FDA-4AiBmr"
+        }
+      ]
+    },
+    {
       "mgdbId": "22842",
       "pID": "22842",
       "title": "Men's VNL 2026",
@@ -74,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "22746",
-      "pID": "22746",
-      "title": "Warm",
-      "keyword": "06月13日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Warm",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1dfc5bbfbb6f5363291293744c3bc7cf-thumbnail.jpg",
-      "pkInfoTitle": "24 Hours of Le Mans",
-      "modifyTitle": "Warm",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=fia-wec%2F2026%2Flemans%2Fwarmup",
-          "name": "24 Hours of Le Mans"
-        }
-      ]
-    },
-    {
       "mgdbId": "22690",
       "pID": "22690",
       "title": "Practice 3",
@@ -120,11 +120,35 @@
           "name": "Barcelona Grand Prix"
         }
       ]
+    },
+    {
+      "mgdbId": "22900",
+      "pID": "22900",
+      "title": "PDC.TV",
+      "keyword": "06月13日11:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "PDC.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg",
+      "pkInfoTitle": "World Cup of Darts | Day 3",
+      "modifyTitle": "PDC.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=world-cup-of-darts--day-3",
+          "name": "World Cup of Darts | Day 3"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T10:30:39.745Z",
-  "shanghaiTime": "2026-06-13T18:30:39.745Z",
-  "count": 5,
+  "timestamp": "2026-06-13T11:00:51.393Z",
+  "shanghaiTime": "2026-06-13T19:00:51.393Z",
+  "count": 6,
   "mode": "today",
-  "source": "no_data"
+  "source": "cba_live"
 }
