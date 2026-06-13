@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22870",
-      "pID": "22870",
-      "title": "Fox Footy",
-      "keyword": "06月13日06:15",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/57c817c06c1c10ef228866ad74035524-thumbnail.jpg",
-      "pkInfoTitle": "North Melbourne vs. West Coast Eagles",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日06:15"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-13%2Fnmfc-wce",
-          "name": "North Melbourne vs. West Coast Eagles"
-        }
-      ]
-    },
-    {
       "mgdbId": "22671",
       "pID": "22671",
       "title": "Fox League",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T09:00:46.582Z",
-  "shanghaiTime": "2026-06-13T17:00:46.582Z",
-  "count": 3,
+  "timestamp": "2026-06-13T09:30:40.267Z",
+  "shanghaiTime": "2026-06-13T17:30:40.267Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
