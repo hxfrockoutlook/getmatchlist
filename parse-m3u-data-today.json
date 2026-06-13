@@ -50,54 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22655",
-      "pID": "22655",
-      "title": "AFLE+",
-      "keyword": "06月14日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AFLE+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6db89a2f42a84982446394f80072fa83-thumbnail.jpg",
-      "pkInfoTitle": "Alpine Rams vs. Vienna Vikings",
-      "modifyTitle": "AFLE+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-13%2Falp-vie",
-          "name": "Alpine Rams vs. Vienna Vikings"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22657",
-      "pID": "22657",
-      "title": "AFLE+",
-      "keyword": "06月14日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AFLE+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/28d71ad645a6daca2924c03e54c95d62-thumbnail.jpg",
-      "pkInfoTitle": "Paris Lights vs. Rhein Fire",
-      "modifyTitle": "AFLE+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-13%2Fpar-rhe",
-          "name": "Paris Lights vs. Rhein Fire"
-        }
-      ]
-    },
-    {
       "mgdbId": "15856",
       "pID": "15856",
       "title": "Peacock",
@@ -264,11 +216,35 @@
           "name": "Qatar vs. Switzerland"
         }
       ]
+    },
+    {
+      "mgdbId": "22850",
+      "pID": "22850",
+      "title": "Sportsnet",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e0ddf74efc0eecadb3d3e927fbe8184d-thumbnail.jpg",
+      "pkInfoTitle": "New York Yankees vs. Toronto Blue Jays",
+      "modifyTitle": "Sportsnet",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fnyy-tor",
+          "name": "New York Yankees vs. Toronto Blue Jays"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T19:00:46.527Z",
-  "shanghaiTime": "2026-06-14T03:00:46.527Z",
-  "count": 11,
+  "timestamp": "2026-06-13T19:30:40.123Z",
+  "shanghaiTime": "2026-06-14T03:30:40.123Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
