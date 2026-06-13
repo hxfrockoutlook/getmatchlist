@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22671",
-      "pID": "22671",
-      "title": "Fox League",
-      "keyword": "06月13日07:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/cfe3c73af3b9ccf7cb547e871bc68c51-thumbnail.jpg",
-      "pkInfoTitle": "Warriors vs. Sharks",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日07:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-13%2Fnew-cro",
-          "name": "Warriors vs. Sharks"
-        }
-      ]
-    },
-    {
       "mgdbId": "22842",
       "pID": "22842",
       "title": "Men's VNL 2026",
@@ -48,11 +24,83 @@
           "name": "China vs. Japan"
         }
       ]
+    },
+    {
+      "mgdbId": "22871",
+      "pID": "22871",
+      "title": "Fox Footy",
+      "keyword": "06月13日09:35",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2d899c5279f8df3ef2bb27f3e6535426-thumbnail.jpg",
+      "pkInfoTitle": "Port Adelaide vs. Sydney Swans",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日09:35"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-13%2Fport-syd",
+          "name": "Port Adelaide vs. Sydney Swans"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22672",
+      "pID": "22672",
+      "title": "Fox League",
+      "keyword": "06月13日09:35",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/209f84868dbf0f65dfab64165c8217bf-thumbnail.jpg",
+      "pkInfoTitle": "Eels vs. Raiders",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日09:35"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-13%2Fpar-can",
+          "name": "Eels vs. Raiders"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22746",
+      "pID": "22746",
+      "title": "Warm",
+      "keyword": "06月13日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Warm",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/1dfc5bbfbb6f5363291293744c3bc7cf-thumbnail.jpg",
+      "pkInfoTitle": "24 Hours of Le Mans",
+      "modifyTitle": "Warm",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=fia-wec%2F2026%2Flemans%2Fwarmup",
+          "name": "24 Hours of Le Mans"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T09:30:40.267Z",
-  "shanghaiTime": "2026-06-13T17:30:40.267Z",
-  "count": 2,
+  "timestamp": "2026-06-13T10:00:45.752Z",
+  "shanghaiTime": "2026-06-13T18:00:45.752Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
