@@ -2,150 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22820",
-      "pID": "22820",
-      "title": "MASN",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MASN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e378b3f6c06fc7417803fdbec3b1d8ff-thumbnail.jpg",
-      "pkInfoTitle": "San Diego Padres vs. Baltimore Orioles",
-      "modifyTitle": "MASN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fsd-bal",
-          "name": "San Diego Padres vs. Baltimore Orioles"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22821",
-      "pID": "22821",
-      "title": "CLEGuardians.TV",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CLEGuardians.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5a77aaab2db78c2ae33328bdc5568c85-thumbnail.jpg",
-      "pkInfoTitle": "Detroit Tigers vs. Cleveland Guardians",
-      "modifyTitle": "CLEGuardians.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fdet-cle",
-          "name": "Detroit Tigers vs. Cleveland Guardians"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22822",
-      "pID": "22822",
-      "title": "NESN",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NESN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c3bd8866ba3eaafe2776fa6d796734dd-thumbnail.jpg",
-      "pkInfoTitle": "Texas Rangers vs. Boston Red Sox",
-      "modifyTitle": "NESN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Ftex-bos",
-          "name": "Texas Rangers vs. Boston Red Sox"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22823",
-      "pID": "22823",
-      "title": "Apple TV",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Apple TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/66c2177dd8a2e5e8d6585849d686f58c-thumbnail.jpg",
-      "pkInfoTitle": "Arizona Diamondbacks vs. Cincinnati Reds",
-      "modifyTitle": "Apple TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fari-cin",
-          "name": "Arizona Diamondbacks vs. Cincinnati Reds"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22824",
-      "pID": "22824",
-      "title": "Apple TV",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Apple TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a1450b7c75a4adaf881c8039d6d65d05-thumbnail.jpg",
-      "pkInfoTitle": "Atlanta Braves vs. New York Mets",
-      "modifyTitle": "Apple TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fatl-nym",
-          "name": "Atlanta Braves vs. New York Mets"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22841",
-      "pID": "22841",
-      "title": "Men's VNL 2026",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2ab98b6936ac13bc7db3bef98bda9eed-thumbnail.jpg",
-      "pkInfoTitle": "Türkiye vs. France",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-12%2Ft%C3%BCr-fra",
-          "name": "Türkiye vs. France"
-        }
-      ]
-    },
-    {
       "mgdbId": "22825",
       "pID": "22825",
       "title": "Sportsnet One",
@@ -214,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fphi-mil",
           "name": "Philadelphia Phillies vs. Milwaukee Brewers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22678",
-      "pID": "22678",
-      "title": "USA",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "USA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-      "pkInfoTitle": "WWE: Friday Night Smackdown",
-      "modifyTitle": "USA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fsmackdown%2F2026-06-12",
-          "name": "WWE: Friday Night Smackdown"
         }
       ]
     },
@@ -410,9 +242,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T02:30:37.706Z",
-  "shanghaiTime": "2026-06-13T10:30:37.706Z",
-  "count": 17,
+  "timestamp": "2026-06-13T03:00:44.416Z",
+  "shanghaiTime": "2026-06-13T11:00:44.416Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
