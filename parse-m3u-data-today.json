@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22900",
-      "pID": "22900",
-      "title": "PDC.TV",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PDC.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg",
-      "pkInfoTitle": "World Cup of Darts | Day 3",
-      "modifyTitle": "PDC.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=world-cup-of-darts--day-3",
-          "name": "World Cup of Darts | Day 3"
-        }
-      ]
-    },
-    {
       "mgdbId": "22747",
       "pID": "22747",
       "title": "Race",
@@ -94,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=tommy-fury-vs-eddie-hall",
           "name": "Tommy Fury vs. Eddie Hall"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22850",
-      "pID": "22850",
-      "title": "Sportsnet",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e0ddf74efc0eecadb3d3e927fbe8184d-thumbnail.jpg",
-      "pkInfoTitle": "New York Yankees vs. Toronto Blue Jays",
-      "modifyTitle": "Sportsnet",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fnyy-tor",
-          "name": "New York Yankees vs. Toronto Blue Jays"
         }
       ]
     },
@@ -384,11 +336,35 @@
           "name": "Brazil vs. Morocco"
         }
       ]
+    },
+    {
+      "mgdbId": "22651",
+      "pID": "22651",
+      "title": "CFL+",
+      "keyword": "06月14日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CFL+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/93536453bf749f97d4b0a60027d99105-thumbnail.jpg",
+      "pkInfoTitle": "BC Lions vs. Saskatchewan Roughriders",
+      "modifyTitle": "CFL+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-13%2Fbc-ssk",
+          "name": "BC Lions vs. Saskatchewan Roughriders"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T22:30:49.093Z",
-  "shanghaiTime": "2026-06-14T06:30:49.093Z",
-  "count": 16,
+  "timestamp": "2026-06-13T23:00:45.642Z",
+  "shanghaiTime": "2026-06-14T07:00:45.642Z",
+  "count": 15,
   "mode": "today",
   "source": "no_data"
 }
