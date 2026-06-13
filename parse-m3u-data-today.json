@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22865",
-      "pID": "22865",
-      "title": "Men's VNL 2026",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8472e6c9daea2de92a75b259bca0e5e2-thumbnail.jpg",
-      "pkInfoTitle": "Brazil vs. Serbia",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Fbra-ser",
-          "name": "Brazil vs. Serbia"
-        }
-      ]
-    },
-    {
       "mgdbId": "22655",
       "pID": "22655",
       "title": "AFLE+",
@@ -194,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T17:00:56.755Z",
-  "shanghaiTime": "2026-06-14T01:00:56.755Z",
-  "count": 8,
+  "timestamp": "2026-06-13T17:30:45.345Z",
+  "shanghaiTime": "2026-06-14T01:30:45.345Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
