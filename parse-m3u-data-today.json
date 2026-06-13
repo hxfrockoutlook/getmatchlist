@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22828",
-      "pID": "22828",
-      "title": "Royals.TV",
-      "keyword": "06月13日00:10",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Royals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8bed02f81d039a8a759d3abde304e310-thumbnail.jpg",
-      "pkInfoTitle": "Houston Astros vs. Kansas City Royals",
-      "modifyTitle": "Royals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:10"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fhou-kc",
-          "name": "Houston Astros vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22829",
-      "pID": "22829",
-      "title": "Twins.TV",
-      "keyword": "06月13日00:10",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Twins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/09be12f4ecd4ed112cd4363b37ad7b7b-thumbnail.jpg",
-      "pkInfoTitle": "St. Louis Cardinals vs. Minnesota Twins",
-      "modifyTitle": "Twins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:10"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fstl-min",
-          "name": "St. Louis Cardinals vs. Minnesota Twins"
-        }
-      ]
-    },
-    {
       "mgdbId": "22830",
       "pID": "22830",
       "title": "Angels.TV",
@@ -146,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T03:30:40.097Z",
-  "shanghaiTime": "2026-06-13T11:30:40.097Z",
-  "count": 6,
+  "timestamp": "2026-06-13T04:00:54.971Z",
+  "shanghaiTime": "2026-06-13T12:00:54.971Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
