@@ -168,11 +168,35 @@
           "name": "GLORY COLLISION 9"
         }
       ]
+    },
+    {
+      "mgdbId": "22877",
+      "pID": "22877",
+      "title": "DAZN",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "DAZN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6c696bea437324b560bfea745948e387-thumbnail.jpg",
+      "pkInfoTitle": "Tommy Fury vs. Eddie Hall",
+      "modifyTitle": "DAZN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=tommy-fury-vs-eddie-hall",
+          "name": "Tommy Fury vs. Eddie Hall"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T16:30:52.599Z",
-  "shanghaiTime": "2026-06-14T00:30:52.599Z",
-  "count": 7,
+  "timestamp": "2026-06-13T17:00:56.755Z",
+  "shanghaiTime": "2026-06-14T01:00:56.755Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
