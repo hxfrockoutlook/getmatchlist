@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22871",
-      "pID": "22871",
-      "title": "Fox Footy",
-      "keyword": "06月13日09:35",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2d899c5279f8df3ef2bb27f3e6535426-thumbnail.jpg",
-      "pkInfoTitle": "Port Adelaide vs. Sydney Swans",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日09:35"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-13%2Fport-syd",
-          "name": "Port Adelaide vs. Sydney Swans"
-        }
-      ]
-    },
-    {
       "mgdbId": "22900",
       "pID": "22900",
       "title": "PDC.TV",
@@ -72,10 +48,34 @@
           "name": "Cuba vs. Slovenia"
         }
       ]
+    },
+    {
+      "mgdbId": "22747",
+      "pID": "22747",
+      "title": "Race",
+      "keyword": "06月13日13:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Race",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d98605ef83a001db6821aaaf8866179c-thumbnail.jpg",
+      "pkInfoTitle": "24 Hours of Le Mans",
+      "modifyTitle": "Race",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=fia-wec%2F2026%2Flemans%2Frace",
+          "name": "24 Hours of Le Mans"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T12:30:51.647Z",
-  "shanghaiTime": "2026-06-13T20:30:51.647Z",
+  "timestamp": "2026-06-13T13:00:52.624Z",
+  "shanghaiTime": "2026-06-13T21:00:52.624Z",
   "count": 3,
   "mode": "today",
   "source": "no_data"
