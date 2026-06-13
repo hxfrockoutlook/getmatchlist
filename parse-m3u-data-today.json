@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22830",
-      "pID": "22830",
-      "title": "Angels.TV",
-      "keyword": "06月13日01:38",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Angels.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/884ca9ff40b78671f4a7d26984bcfae9-thumbnail.jpg",
-      "pkInfoTitle": "Tampa Bay Rays vs. Los Angeles Angels",
-      "modifyTitle": "Angels.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日01:38"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Ftb-laa",
-          "name": "Tampa Bay Rays vs. Los Angeles Angels"
-        }
-      ]
-    },
-    {
       "mgdbId": "22831",
       "pID": "22831",
       "title": "NBC Sports CA",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T05:00:44.833Z",
-  "shanghaiTime": "2026-06-13T13:00:44.833Z",
-  "count": 3,
+  "timestamp": "2026-06-13T05:30:40.917Z",
+  "shanghaiTime": "2026-06-13T13:30:40.917Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
