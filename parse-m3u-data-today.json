@@ -360,11 +360,59 @@
           "name": "WWE: Friday Night Smackdown"
         }
       ]
+    },
+    {
+      "mgdbId": "22828",
+      "pID": "22828",
+      "title": "Royals.TV",
+      "keyword": "06月13日00:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Royals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8bed02f81d039a8a759d3abde304e310-thumbnail.jpg",
+      "pkInfoTitle": "Houston Astros vs. Kansas City Royals",
+      "modifyTitle": "Royals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日00:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fhou-kc",
+          "name": "Houston Astros vs. Kansas City Royals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22829",
+      "pID": "22829",
+      "title": "Twins.TV",
+      "keyword": "06月13日00:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Twins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/09be12f4ecd4ed112cd4363b37ad7b7b-thumbnail.jpg",
+      "pkInfoTitle": "St. Louis Cardinals vs. Minnesota Twins",
+      "modifyTitle": "Twins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日00:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fstl-min",
+          "name": "St. Louis Cardinals vs. Minnesota Twins"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T00:00:56.969Z",
-  "shanghaiTime": "2026-06-13T08:00:56.969Z",
-  "count": 15,
+  "timestamp": "2026-06-13T00:30:45.191Z",
+  "shanghaiTime": "2026-06-13T08:30:45.191Z",
+  "count": 17,
   "mode": "today",
   "source": "no_data"
 }
