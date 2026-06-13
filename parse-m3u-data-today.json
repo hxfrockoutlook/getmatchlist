@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "06月13日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-407774227664208722.flv?expire=6a3679e5&sign=4db970b08e5beaea76e02516990cd13b&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-407774227664208722_850_flv&t_id=037-20260613193045F68989335EE50DAB5AFD-q1YjSm"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22842",
-      "pID": "22842",
-      "title": "Men's VNL 2026",
-      "keyword": "06月13日08:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a8f6616d0891f1257a80f009d48dd90c-thumbnail.jpg",
-      "pkInfoTitle": "China vs. Japan",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日08:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Fchi-jap",
-          "name": "China vs. Japan"
-        }
-      ]
-    },
-    {
       "mgdbId": "22871",
       "pID": "22871",
       "title": "Fox Footy",
@@ -144,11 +96,35 @@
           "name": "World Cup of Darts | Day 3"
         }
       ]
+    },
+    {
+      "mgdbId": "22864",
+      "pID": "22864",
+      "title": "Men's VNL 2026",
+      "keyword": "06月13日12:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/78fa4fb3eeef01491f65c327e0d3ef7b-thumbnail.jpg",
+      "pkInfoTitle": "Cuba vs. Slovenia",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Fcub-slo",
+          "name": "Cuba vs. Slovenia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T11:30:47.587Z",
-  "shanghaiTime": "2026-06-13T19:30:47.587Z",
-  "count": 6,
+  "timestamp": "2026-06-13T12:01:00.512Z",
+  "shanghaiTime": "2026-06-13T20:01:00.512Z",
+  "count": 5,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
