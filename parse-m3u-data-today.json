@@ -408,11 +408,35 @@
           "name": "St. Louis Cardinals vs. Minnesota Twins"
         }
       ]
+    },
+    {
+      "mgdbId": "22800",
+      "pID": "22800",
+      "title": "FIFA World Cup",
+      "keyword": "06月13日01:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8ee12bf7d3e08c80f1e199882495b2b1-thumbnail.jpg",
+      "pkInfoTitle": "United States vs. Paraguay",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日01:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-12%2Fusa-par",
+          "name": "United States vs. Paraguay"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T00:30:45.191Z",
-  "shanghaiTime": "2026-06-13T08:30:45.191Z",
-  "count": 17,
+  "timestamp": "2026-06-13T01:00:44.503Z",
+  "shanghaiTime": "2026-06-13T09:00:44.503Z",
+  "count": 18,
   "mode": "today",
   "source": "no_data"
 }
