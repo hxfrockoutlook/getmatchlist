@@ -2,102 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22818",
-      "pID": "22818",
-      "title": "Marlins.TV",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a97d6092fafe77e5bec949c9e7a95e95-thumbnail.jpg",
-      "pkInfoTitle": "Miami Marlins vs. Pittsburgh Pirates",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fmia-pit",
-          "name": "Miami Marlins vs. Pittsburgh Pirates"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22819",
-      "pID": "22819",
-      "title": "Nationals.TV",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Nationals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/95898d371a1c038d22bd816ade30b339-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Mariners vs. Washington Nationals",
-      "modifyTitle": "Nationals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fsea-wsh",
-          "name": "Seattle Mariners vs. Washington Nationals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22650",
-      "pID": "22650",
-      "title": "CFL+",
-      "keyword": "06月13日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CFL+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/21040a9235aa88b869c949070605d849-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Argonauts vs. Montreal Alouettes",
-      "modifyTitle": "CFL+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-12%2Ftor-mtl",
-          "name": "Toronto Argonauts vs. Montreal Alouettes"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22840",
-      "pID": "22840",
-      "title": "Men's VNL 2026",
-      "keyword": "06月13日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/634b7852c9c489a7f0cc83263e0a75e3-thumbnail.jpg",
-      "pkInfoTitle": "Iran vs. Argentina",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-12%2Fira-arg",
-          "name": "Iran vs. Argentina"
-        }
-      ]
-    },
-    {
       "mgdbId": "22820",
       "pID": "22820",
       "title": "MASN",
@@ -214,30 +118,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fatl-nym",
           "name": "Atlanta Braves vs. New York Mets"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22816",
-      "pID": "22816",
-      "title": "ION",
-      "keyword": "06月13日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ION",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/cf94cf50660ff3591719cd24665f50c6-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Tempo vs. Washington Mystics",
-      "modifyTitle": "ION",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-12%2Ftor-wsh",
-          "name": "Toronto Tempo vs. Washington Mystics"
         }
       ]
     },
@@ -480,11 +360,59 @@
           "name": "Golden State Valkyries vs. Seattle Storm"
         }
       ]
+    },
+    {
+      "mgdbId": "22831",
+      "pID": "22831",
+      "title": "NBC Sports CA",
+      "keyword": "06月13日02:05",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports CA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/860fb8f4059bd3ab4b9bc466b2c4b96e-thumbnail.jpg",
+      "pkInfoTitle": "Colorado Rockies vs. Athletics",
+      "modifyTitle": "NBC Sports CA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日02:05"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fcol-ath",
+          "name": "Colorado Rockies vs. Athletics"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22832",
+      "pID": "22832",
+      "title": "KNTV",
+      "keyword": "06月13日02:15",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "KNTV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3a45e86c34d81e31425969d67a9f7386-thumbnail.jpg",
+      "pkInfoTitle": "Chicago Cubs vs. San Francisco Giants",
+      "modifyTitle": "KNTV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日02:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fchc-sf",
+          "name": "Chicago Cubs vs. San Francisco Giants"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T02:00:47.068Z",
-  "shanghaiTime": "2026-06-13T10:00:47.068Z",
-  "count": 20,
+  "timestamp": "2026-06-13T02:30:37.706Z",
+  "shanghaiTime": "2026-06-13T10:30:37.706Z",
+  "count": 17,
   "mode": "today",
   "source": "no_data"
 }
