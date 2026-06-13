@@ -264,11 +264,107 @@
           "name": "Türkiye vs. France"
         }
       ]
+    },
+    {
+      "mgdbId": "22825",
+      "pID": "22825",
+      "title": "Sportsnet One",
+      "keyword": "06月13日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet One",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e0ddf74efc0eecadb3d3e927fbe8184d-thumbnail.jpg",
+      "pkInfoTitle": "New York Yankees vs. Toronto Blue Jays",
+      "modifyTitle": "Sportsnet One",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fnyy-tor",
+          "name": "New York Yankees vs. Toronto Blue Jays"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22826",
+      "pID": "22826",
+      "title": "CHSN",
+      "keyword": "06月13日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CHSN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4a241e9d18a9ff4f3df29c9f2c89b6dd-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Dodgers vs. Chicago White Sox",
+      "modifyTitle": "CHSN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Flad-chw",
+          "name": "Los Angeles Dodgers vs. Chicago White Sox"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22827",
+      "pID": "22827",
+      "title": "Brewers.TV",
+      "keyword": "06月13日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Brewers.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b71e9627b4047a79ac814f10f152ce9c-thumbnail.jpg",
+      "pkInfoTitle": "Philadelphia Phillies vs. Milwaukee Brewers",
+      "modifyTitle": "Brewers.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-12%2Fphi-mil",
+          "name": "Philadelphia Phillies vs. Milwaukee Brewers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22678",
+      "pID": "22678",
+      "title": "USA",
+      "keyword": "06月13日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "USA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+      "pkInfoTitle": "WWE: Friday Night Smackdown",
+      "modifyTitle": "USA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fsmackdown%2F2026-06-12",
+          "name": "WWE: Friday Night Smackdown"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-12T23:30:44.265Z",
-  "shanghaiTime": "2026-06-13T07:30:44.265Z",
-  "count": 11,
+  "timestamp": "2026-06-13T00:00:56.969Z",
+  "shanghaiTime": "2026-06-13T08:00:56.969Z",
+  "count": 15,
   "mode": "today",
   "source": "no_data"
 }
