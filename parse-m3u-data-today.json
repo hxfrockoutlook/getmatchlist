@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22864",
-      "pID": "22864",
-      "title": "Men's VNL 2026",
-      "keyword": "06月13日12:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/78fa4fb3eeef01491f65c327e0d3ef7b-thumbnail.jpg",
-      "pkInfoTitle": "Cuba vs. Slovenia",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月13日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Fcub-slo",
-          "name": "Cuba vs. Slovenia"
-        }
-      ]
-    },
-    {
       "mgdbId": "22747",
       "pID": "22747",
       "title": "Race",
@@ -122,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T15:00:51.401Z",
-  "shanghaiTime": "2026-06-13T23:00:51.401Z",
-  "count": 5,
+  "timestamp": "2026-06-13T15:30:45.205Z",
+  "shanghaiTime": "2026-06-13T23:30:45.205Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
