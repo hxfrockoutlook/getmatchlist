@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22879",
-      "pID": "22879",
-      "title": "DAZN",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DAZN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4a0803fa42680d360339cd2431febfbc-thumbnail.jpg",
-      "pkInfoTitle": "GLORY COLLISION 9",
-      "modifyTitle": "DAZN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=glory-collision-9",
-          "name": "GLORY COLLISION 9"
-        }
-      ]
-    },
-    {
       "mgdbId": "22877",
       "pID": "22877",
       "title": "DAZN",
@@ -118,30 +94,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=tommy-fury-vs-eddie-hall",
           "name": "Tommy Fury vs. Eddie Hall"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22646",
-      "pID": "22646",
-      "title": "ABC",
-      "keyword": "06月14日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a00ea0dbe37e684356ab45ed86077f0f-thumbnail.jpg",
-      "pkInfoTitle": "DC Defenders vs. Louisville Kings",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufl%2F2026-06-13%2Fdc-lou",
-          "name": "DC Defenders vs. Louisville Kings"
         }
       ]
     },
@@ -434,9 +386,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T22:00:48.202Z",
-  "shanghaiTime": "2026-06-14T06:00:48.202Z",
-  "count": 18,
+  "timestamp": "2026-06-13T22:30:49.093Z",
+  "shanghaiTime": "2026-06-14T06:30:49.093Z",
+  "count": 16,
   "mode": "today",
   "source": "no_data"
 }
