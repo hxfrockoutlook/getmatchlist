@@ -194,30 +194,6 @@
       ]
     },
     {
-      "mgdbId": "22804",
-      "pID": "22804",
-      "title": "FIFA World Cup",
-      "keyword": "06月14日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8b79a71816281b5bc0e062c6e7cc8bb-thumbnail.jpg",
-      "pkInfoTitle": "Qatar vs. Switzerland",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-13%2Fqat-sui",
-          "name": "Qatar vs. Switzerland"
-        }
-      ]
-    },
-    {
       "mgdbId": "22850",
       "pID": "22850",
       "title": "Sportsnet",
@@ -458,9 +434,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-13T21:00:50.493Z",
-  "shanghaiTime": "2026-06-14T05:00:50.493Z",
-  "count": 19,
+  "timestamp": "2026-06-13T21:30:48.237Z",
+  "shanghaiTime": "2026-06-14T05:30:48.237Z",
+  "count": 18,
   "mode": "today",
   "source": "no_data"
 }
