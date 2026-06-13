@@ -1,9 +1,34 @@
 {
   "success": true,
-  "data": [],
-  "timestamp": "2026-06-13T07:00:46.250Z",
-  "shanghaiTime": "2026-06-13T15:00:46.250Z",
-  "count": 0,
+  "data": [
+    {
+      "mgdbId": "22671",
+      "pID": "22671",
+      "title": "Fox League",
+      "keyword": "06月13日07:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/cfe3c73af3b9ccf7cb547e871bc68c51-thumbnail.jpg",
+      "pkInfoTitle": "Warriors vs. Sharks",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月13日07:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-13%2Fnew-cro",
+          "name": "Warriors vs. Sharks"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-13T07:30:44.985Z",
+  "shanghaiTime": "2026-06-13T15:30:44.985Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
