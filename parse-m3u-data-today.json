@@ -50,54 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22877",
-      "pID": "22877",
-      "title": "DAZN",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DAZN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6c696bea437324b560bfea745948e387-thumbnail.jpg",
-      "pkInfoTitle": "Tommy Fury vs. Eddie Hall",
-      "modifyTitle": "DAZN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=tommy-fury-vs-eddie-hall",
-          "name": "Tommy Fury vs. Eddie Hall"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22867",
-      "pID": "22867",
-      "title": "Men's VNL 2026",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/164ba65caa6b4a4faf44ac1ee3b6868f-thumbnail.jpg",
-      "pkInfoTitle": "Canada vs. USA",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Fcan-usa",
-          "name": "Canada vs. USA"
-        }
-      ]
-    },
-    {
       "mgdbId": "22851",
       "pID": "22851",
       "title": "MLB.TV",
@@ -214,30 +166,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fatl-nym",
           "name": "Atlanta Braves vs. New York Mets"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22856",
-      "pID": "22856",
-      "title": "CLEGuardians.TV",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CLEGuardians.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5a77aaab2db78c2ae33328bdc5568c85-thumbnail.jpg",
-      "pkInfoTitle": "Detroit Tigers vs. Cleveland Guardians",
-      "modifyTitle": "CLEGuardians.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fdet-cle",
-          "name": "Detroit Tigers vs. Cleveland Guardians"
         }
       ]
     },
@@ -360,10 +288,82 @@
           "name": "BC Lions vs. Saskatchewan Roughriders"
         }
       ]
+    },
+    {
+      "mgdbId": "22859",
+      "pID": "22859",
+      "title": "Royals.TV",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Royals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8bed02f81d039a8a759d3abde304e310-thumbnail.jpg",
+      "pkInfoTitle": "Houston Astros vs. Kansas City Royals",
+      "modifyTitle": "Royals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fhou-kc",
+          "name": "Houston Astros vs. Kansas City Royals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22860",
+      "pID": "22860",
+      "title": "Brewers.TV",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Brewers.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b71e9627b4047a79ac814f10f152ce9c-thumbnail.jpg",
+      "pkInfoTitle": "Philadelphia Phillies vs. Milwaukee Brewers",
+      "modifyTitle": "Brewers.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fphi-mil",
+          "name": "Philadelphia Phillies vs. Milwaukee Brewers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22868",
+      "pID": "22868",
+      "title": "Men's VNL 2026",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/573f1fc6dbb7ee479b094183c72a05fe-thumbnail.jpg",
+      "pkInfoTitle": "Türkiye vs. Italy",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Ft%C3%BCr-ita",
+          "name": "Türkiye vs. Italy"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-13T23:00:45.642Z",
-  "shanghaiTime": "2026-06-14T07:00:45.642Z",
+  "timestamp": "2026-06-13T23:30:39.845Z",
+  "shanghaiTime": "2026-06-14T07:30:39.845Z",
   "count": 15,
   "mode": "today",
   "source": "no_data"
