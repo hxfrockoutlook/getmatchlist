@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22660",
-      "pID": "22660",
-      "title": "AFLE+",
-      "keyword": "06月15日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AFLE+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f7cbd1840c35df90984f40649a978a16-thumbnail.jpg",
-      "pkInfoTitle": "Firenze Red Lions vs. London Warriors",
-      "modifyTitle": "AFLE+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-14%2Ffir-lon",
-          "name": "Firenze Red Lions vs. London Warriors"
-        }
-      ]
-    },
-    {
       "mgdbId": "22927",
       "pID": "22927",
       "title": "Men's VNL 2026",
@@ -120,10 +96,34 @@
           "name": "Germany vs. France"
         }
       ]
+    },
+    {
+      "mgdbId": "22910",
+      "pID": "22910",
+      "title": "Peacock",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Peacock",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a97d6092fafe77e5bec949c9e7a95e95-thumbnail.jpg",
+      "pkInfoTitle": "Miami Marlins vs. Pittsburgh Pirates",
+      "modifyTitle": "Peacock",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fmia-pit",
+          "name": "Miami Marlins vs. Pittsburgh Pirates"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T16:00:57.224Z",
-  "shanghaiTime": "2026-06-15T00:00:57.224Z",
+  "timestamp": "2026-06-14T16:30:54.403Z",
+  "shanghaiTime": "2026-06-15T00:30:54.403Z",
   "count": 5,
   "mode": "today",
   "source": "no_data"
