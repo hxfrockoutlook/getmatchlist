@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22927",
-      "pID": "22927",
-      "title": "Men's VNL 2026",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a0e4e958288decf976d57f1b186bbe29-thumbnail.jpg",
-      "pkInfoTitle": "Belgium vs. Iran",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fbel-ira",
-          "name": "Belgium vs. Iran"
-        }
-      ]
-    },
-    {
       "mgdbId": "22664",
       "pID": "22664",
       "title": "AFLE+",
@@ -144,10 +120,34 @@
           "name": "Germany vs. Curaçao"
         }
       ]
+    },
+    {
+      "mgdbId": "22929",
+      "pID": "22929",
+      "title": "Men's VNL 2026",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/93184864fa593c26e4ed8b274529df71-thumbnail.jpg",
+      "pkInfoTitle": "Bulgaria vs. Serbia",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fbul-ser",
+          "name": "Bulgaria vs. Serbia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T17:00:53.976Z",
-  "shanghaiTime": "2026-06-15T01:00:53.976Z",
+  "timestamp": "2026-06-14T17:30:52.682Z",
+  "shanghaiTime": "2026-06-15T01:30:52.682Z",
   "count": 6,
   "mode": "today",
   "source": "no_data"
