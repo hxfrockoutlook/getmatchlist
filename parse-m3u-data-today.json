@@ -50,174 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22851",
-      "pID": "22851",
-      "title": "MLB.TV",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a97d6092fafe77e5bec949c9e7a95e95-thumbnail.jpg",
-      "pkInfoTitle": "Miami Marlins vs. Pittsburgh Pirates",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fmia-pit",
-          "name": "Miami Marlins vs. Pittsburgh Pirates"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22852",
-      "pID": "22852",
-      "title": "MASN",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MASN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e378b3f6c06fc7417803fdbec3b1d8ff-thumbnail.jpg",
-      "pkInfoTitle": "San Diego Padres vs. Baltimore Orioles",
-      "modifyTitle": "MASN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fsd-bal",
-          "name": "San Diego Padres vs. Baltimore Orioles"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22853",
-      "pID": "22853",
-      "title": "Nationals.TV",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Nationals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/95898d371a1c038d22bd816ade30b339-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Mariners vs. Washington Nationals",
-      "modifyTitle": "Nationals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fsea-wsh",
-          "name": "Seattle Mariners vs. Washington Nationals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22854",
-      "pID": "22854",
-      "title": "DBACKS.TV",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DBACKS.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/66c2177dd8a2e5e8d6585849d686f58c-thumbnail.jpg",
-      "pkInfoTitle": "Arizona Diamondbacks vs. Cincinnati Reds",
-      "modifyTitle": "DBACKS.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fari-cin",
-          "name": "Arizona Diamondbacks vs. Cincinnati Reds"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22855",
-      "pID": "22855",
-      "title": "SNY",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "SNY",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a1450b7c75a4adaf881c8039d6d65d05-thumbnail.jpg",
-      "pkInfoTitle": "Atlanta Braves vs. New York Mets",
-      "modifyTitle": "SNY",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fatl-nym",
-          "name": "Atlanta Braves vs. New York Mets"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22857",
-      "pID": "22857",
-      "title": "NESN",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NESN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c3bd8866ba3eaafe2776fa6d796734dd-thumbnail.jpg",
-      "pkInfoTitle": "Texas Rangers vs. Boston Red Sox",
-      "modifyTitle": "NESN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Ftex-bos",
-          "name": "Texas Rangers vs. Boston Red Sox"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22858",
-      "pID": "22858",
-      "title": "CHSN",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CHSN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4a241e9d18a9ff4f3df29c9f2c89b6dd-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Dodgers vs. Chicago White Sox",
-      "modifyTitle": "CHSN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Flad-chw",
-          "name": "Los Angeles Dodgers vs. Chicago White Sox"
-        }
-      ]
-    },
-    {
       "mgdbId": "22845",
       "pID": "22845",
       "title": "Peacock",
@@ -338,33 +170,105 @@
       ]
     },
     {
-      "mgdbId": "22868",
-      "pID": "22868",
-      "title": "Men's VNL 2026",
+      "mgdbId": "22846",
+      "pID": "22846",
+      "title": "CBS",
       "keyword": "06月14日00:00",
-      "sportItemId": "8",
+      "sportItemId": "2",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "Men's VNL 2026",
+      "competitionName": "CBS",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/573f1fc6dbb7ee479b094183c72a05fe-thumbnail.jpg",
-      "pkInfoTitle": "Türkiye vs. Italy",
-      "modifyTitle": "Men's VNL 2026",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/9daeb1689e85fba72d460a3171b680aa-thumbnail.jpg",
+      "pkInfoTitle": "Minnesota Lynx vs. Las Vegas Aces",
+      "modifyTitle": "CBS",
       "presenters": "",
       "matchInfo": {
         "time": "06月14日00:00"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Ft%C3%BCr-ita",
-          "name": "Türkiye vs. Italy"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-13%2Fmin-lv",
+          "name": "Minnesota Lynx vs. Las Vegas Aces"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22878",
+      "pID": "22878",
+      "title": "DAZN",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "DAZN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/394eee842a91df4591a5503bf6062dc8-thumbnail.jpg",
+      "pkInfoTitle": "Bam Rodriguez vs. Antonio Vargas",
+      "modifyTitle": "DAZN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=bam-rodriguez-vs-antonio-vargas",
+          "name": "Bam Rodriguez vs. Antonio Vargas"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22906",
+      "pID": "22906",
+      "title": "FOX Nation",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FOX Nation",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/bef2479587240a15b5bd29a6e013001a-thumbnail.jpg",
+      "pkInfoTitle": "RAF 10: Khamzat Chimaev vs. Dillon Danis",
+      "modifyTitle": "FOX Nation",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=raf-10",
+          "name": "RAF 10: Khamzat Chimaev vs. Dillon Danis"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22679",
+      "pID": "22679",
+      "title": "TNT",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "TNT",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+      "pkInfoTitle": "AEW: Saturday Night Collision",
+      "modifyTitle": "TNT",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fcollision%2F2026-06-13",
+          "name": "AEW: Saturday Night Collision"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-13T23:30:39.845Z",
-  "shanghaiTime": "2026-06-14T07:30:39.845Z",
-  "count": 15,
+  "timestamp": "2026-06-14T00:00:54.188Z",
+  "shanghaiTime": "2026-06-14T08:00:54.188Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
