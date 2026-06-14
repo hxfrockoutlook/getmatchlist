@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22953",
-      "pID": "22953",
-      "title": "FIFA World Cup",
-      "keyword": "06月15日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/63db92b2f41e644bd073912b0f4a3d5e-thumbnail.jpg",
-      "pkInfoTitle": "Netherlands vs. Japan",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-14%2Fned-jpn",
-          "name": "Netherlands vs. Japan"
-        }
-      ]
-    },
-    {
       "mgdbId": "22923",
       "pID": "22923",
       "title": "Angels.TV",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-14T22:00:45.754Z",
-  "shanghaiTime": "2026-06-15T06:00:45.754Z",
-  "count": 7,
+  "timestamp": "2026-06-14T22:30:49.830Z",
+  "shanghaiTime": "2026-06-15T06:30:49.830Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
