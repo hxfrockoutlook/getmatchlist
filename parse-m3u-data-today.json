@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22664",
-      "pID": "22664",
-      "title": "AFLE+",
-      "keyword": "06月15日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AFLE+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/1c898dc40f0a87a3a3a92273f9d526a6-thumbnail.jpg",
-      "pkInfoTitle": "Berlin Thunder vs. Panthers Wroclaw",
-      "modifyTitle": "AFLE+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-14%2Fber-pan",
-          "name": "Berlin Thunder vs. Panthers Wroclaw"
-        }
-      ]
-    },
-    {
       "mgdbId": "22928",
       "pID": "22928",
       "title": "Men's VNL 2026",
@@ -144,11 +120,155 @@
           "name": "Bulgaria vs. Serbia"
         }
       ]
+    },
+    {
+      "mgdbId": "22911",
+      "pID": "22911",
+      "title": "MASN",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MASN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e378b3f6c06fc7417803fdbec3b1d8ff-thumbnail.jpg",
+      "pkInfoTitle": "San Diego Padres vs. Baltimore Orioles",
+      "modifyTitle": "MASN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fsd-bal",
+          "name": "San Diego Padres vs. Baltimore Orioles"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22912",
+      "pID": "22912",
+      "title": "Mariners.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Mariners.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/95898d371a1c038d22bd816ade30b339-thumbnail.jpg",
+      "pkInfoTitle": "Seattle Mariners vs. Washington Nationals",
+      "modifyTitle": "Mariners.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fsea-wsh",
+          "name": "Seattle Mariners vs. Washington Nationals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22913",
+      "pID": "22913",
+      "title": "TVA",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "TVA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e0ddf74efc0eecadb3d3e927fbe8184d-thumbnail.jpg",
+      "pkInfoTitle": "New York Yankees vs. Toronto Blue Jays",
+      "modifyTitle": "TVA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fnyy-tor",
+          "name": "New York Yankees vs. Toronto Blue Jays"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22914",
+      "pID": "22914",
+      "title": "Reds.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Reds.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/66c2177dd8a2e5e8d6585849d686f58c-thumbnail.jpg",
+      "pkInfoTitle": "Arizona Diamondbacks vs. Cincinnati Reds",
+      "modifyTitle": "Reds.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fari-cin",
+          "name": "Arizona Diamondbacks vs. Cincinnati Reds"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22915",
+      "pID": "22915",
+      "title": "WPIX",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "WPIX",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a1450b7c75a4adaf881c8039d6d65d05-thumbnail.jpg",
+      "pkInfoTitle": "Atlanta Braves vs. New York Mets",
+      "modifyTitle": "WPIX",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fatl-nym",
+          "name": "Atlanta Braves vs. New York Mets"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22916",
+      "pID": "22916",
+      "title": "CLEGuardians.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CLEGuardians.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/5a77aaab2db78c2ae33328bdc5568c85-thumbnail.jpg",
+      "pkInfoTitle": "Detroit Tigers vs. Cleveland Guardians",
+      "modifyTitle": "CLEGuardians.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fdet-cle",
+          "name": "Detroit Tigers vs. Cleveland Guardians"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T17:30:52.682Z",
-  "shanghaiTime": "2026-06-15T01:30:52.682Z",
-  "count": 6,
+  "timestamp": "2026-06-14T18:00:56.446Z",
+  "shanghaiTime": "2026-06-15T02:00:56.446Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
