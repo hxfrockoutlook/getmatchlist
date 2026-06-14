@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "06月14日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-119549460804535122.flv?keeptime=00093a80&wsSecret=33e0b7230de576b2badaaea387733e0c&wsTime=6a2e90e4&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-119549460804535122_850_flv&t_id=037-20260614193044140D97A4C34782359D03-hKafvY"
-        }
-      ]
-    },
-    {
       "mgdbId": "22747",
       "pID": "22747",
       "title": "Race",
@@ -50,33 +26,33 @@
       ]
     },
     {
-      "mgdbId": "22925",
-      "pID": "22925",
+      "mgdbId": "22926",
+      "pID": "22926",
       "title": "Men's VNL 2026",
-      "keyword": "06月14日08:30",
+      "keyword": "06月14日12:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
       "competitionName": "Men's VNL 2026",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/094c4e5025a37a9a2b9355e18c920928-thumbnail.jpg",
-      "pkInfoTitle": "China vs. Cuba",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/559950a5e6a46debae97f1b75f62ee49-thumbnail.jpg",
+      "pkInfoTitle": "Slovenia vs. Japan",
       "modifyTitle": "Men's VNL 2026",
       "presenters": "",
       "matchInfo": {
-        "time": "06月14日08:30"
+        "time": "06月14日12:00"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fchi-cub",
-          "name": "China vs. Cuba"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fslo-jap",
+          "name": "Slovenia vs. Japan"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-14T11:30:46.925Z",
-  "shanghaiTime": "2026-06-14T19:30:46.925Z",
-  "count": 3,
+  "timestamp": "2026-06-14T12:01:02.876Z",
+  "shanghaiTime": "2026-06-14T20:01:02.876Z",
+  "count": 2,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
