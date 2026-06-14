@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22808",
-      "pID": "22808",
-      "title": "FIFA World Cup",
-      "keyword": "06月14日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0130a01000a4a8d19f2ce3eda55b5c49-thumbnail.jpg",
-      "pkInfoTitle": "Brazil vs. Morocco",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-13%2Fbra-mar",
-          "name": "Brazil vs. Morocco"
-        }
-      ]
-    },
-    {
       "mgdbId": "22651",
       "pID": "22651",
       "title": "CFL+",
@@ -166,6 +142,30 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fphi-mil",
           "name": "Philadelphia Phillies vs. Milwaukee Brewers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22868",
+      "pID": "22868",
+      "title": "Men's VNL 2026",
+      "keyword": "06月14日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/573f1fc6dbb7ee479b094183c72a05fe-thumbnail.jpg",
+      "pkInfoTitle": "Türkiye vs. Italy",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Ft%C3%BCr-ita",
+          "name": "Türkiye vs. Italy"
         }
       ]
     },
@@ -264,11 +264,59 @@
           "name": "AEW: Saturday Night Collision"
         }
       ]
+    },
+    {
+      "mgdbId": "22844",
+      "pID": "22844",
+      "title": "ABC",
+      "keyword": "06月14日00:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/26fe893b207229fdd68eac3833730c8e-thumbnail.jpg",
+      "pkInfoTitle": "New York Knicks vs. San Antonio Spurs",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nba%2F2026-06-13%2Fny-sa",
+          "name": "New York Knicks vs. San Antonio Spurs"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22847",
+      "pID": "22847",
+      "title": "Fox 12 Plus",
+      "keyword": "06月14日00:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox 12 Plus",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e8cb81d6f14500fc66672dae21b160c5-thumbnail.jpg",
+      "pkInfoTitle": "Dallas Wings vs. Portland Fire",
+      "modifyTitle": "Fox 12 Plus",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日00:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-13%2Fdal-por",
+          "name": "Dallas Wings vs. Portland Fire"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T00:00:54.188Z",
-  "shanghaiTime": "2026-06-14T08:00:54.188Z",
-  "count": 11,
+  "timestamp": "2026-06-14T00:30:44.911Z",
+  "shanghaiTime": "2026-06-14T08:30:44.911Z",
+  "count": 13,
   "mode": "today",
   "source": "no_data"
 }
