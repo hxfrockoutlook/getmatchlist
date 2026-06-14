@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22949",
-      "pID": "22949",
-      "title": "FIFA World Cup",
-      "keyword": "06月15日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c3c0e8bafb8c1e5565ce2a82dc99dc25-thumbnail.jpg",
-      "pkInfoTitle": "Germany vs. Curaçao",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-14%2Fger-cuw",
-          "name": "Germany vs. Curaçao"
-        }
-      ]
-    },
-    {
       "mgdbId": "22929",
       "pID": "22929",
       "title": "Men's VNL 2026",
@@ -166,6 +142,30 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fnyy-tor",
           "name": "New York Yankees vs. Toronto Blue Jays"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22914",
+      "pID": "22914",
+      "title": "Reds.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Reds.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/66c2177dd8a2e5e8d6585849d686f58c-thumbnail.jpg",
+      "pkInfoTitle": "Arizona Diamondbacks vs. Cincinnati Reds",
+      "modifyTitle": "Reds.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fari-cin",
+          "name": "Arizona Diamondbacks vs. Cincinnati Reds"
         }
       ]
     },
@@ -408,11 +408,59 @@
           "name": "Málaga vs. Almería"
         }
       ]
+    },
+    {
+      "mgdbId": "22921",
+      "pID": "22921",
+      "title": "NBC Sports CA",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports CA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/860fb8f4059bd3ab4b9bc466b2c4b96e-thumbnail.jpg",
+      "pkInfoTitle": "Colorado Rockies vs. Athletics",
+      "modifyTitle": "NBC Sports CA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fcol-ath",
+          "name": "Colorado Rockies vs. Athletics"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22922",
+      "pID": "22922",
+      "title": "ABC",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3a45e86c34d81e31425969d67a9f7386-thumbnail.jpg",
+      "pkInfoTitle": "Chicago Cubs vs. San Francisco Giants",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fchc-sf",
+          "name": "Chicago Cubs vs. San Francisco Giants"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T19:00:50.897Z",
-  "shanghaiTime": "2026-06-15T03:00:50.897Z",
-  "count": 17,
+  "timestamp": "2026-06-14T19:30:53.473Z",
+  "shanghaiTime": "2026-06-15T03:30:53.473Z",
+  "count": 19,
   "mode": "today",
   "source": "no_data"
 }
