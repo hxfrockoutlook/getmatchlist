@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22928",
-      "pID": "22928",
-      "title": "Men's VNL 2026",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7ab2b3c5c6163c8734b9e8464a4be769-thumbnail.jpg",
-      "pkInfoTitle": "Germany vs. France",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fger-fra",
-          "name": "Germany vs. France"
-        }
-      ]
-    },
-    {
       "mgdbId": "22910",
       "pID": "22910",
       "title": "Peacock",
@@ -264,11 +240,131 @@
           "name": "Detroit Tigers vs. Cleveland Guardians"
         }
       ]
+    },
+    {
+      "mgdbId": "22917",
+      "pID": "22917",
+      "title": "Royals.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Royals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8bed02f81d039a8a759d3abde304e310-thumbnail.jpg",
+      "pkInfoTitle": "Houston Astros vs. Kansas City Royals",
+      "modifyTitle": "Royals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fhou-kc",
+          "name": "Houston Astros vs. Kansas City Royals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22918",
+      "pID": "22918",
+      "title": "CHSN",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CHSN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4a241e9d18a9ff4f3df29c9f2c89b6dd-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Dodgers vs. Chicago White Sox",
+      "modifyTitle": "CHSN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Flad-chw",
+          "name": "Los Angeles Dodgers vs. Chicago White Sox"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22919",
+      "pID": "22919",
+      "title": "Brewers.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Brewers.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b71e9627b4047a79ac814f10f152ce9c-thumbnail.jpg",
+      "pkInfoTitle": "Philadelphia Phillies vs. Milwaukee Brewers",
+      "modifyTitle": "Brewers.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fphi-mil",
+          "name": "Philadelphia Phillies vs. Milwaukee Brewers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22920",
+      "pID": "22920",
+      "title": "Twins.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Twins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/09be12f4ecd4ed112cd4363b37ad7b7b-thumbnail.jpg",
+      "pkInfoTitle": "St. Louis Cardinals vs. Minnesota Twins",
+      "modifyTitle": "Twins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fstl-min",
+          "name": "St. Louis Cardinals vs. Minnesota Twins"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22930",
+      "pID": "22930",
+      "title": "Men's VNL 2026",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a3e91a647b9119335b4d9fc7bbb1c34c-thumbnail.jpg",
+      "pkInfoTitle": "Canada vs. Türkiye",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fcan-t%C3%BCr",
+          "name": "Canada vs. Türkiye"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T18:00:56.446Z",
-  "shanghaiTime": "2026-06-15T02:00:56.446Z",
-  "count": 11,
+  "timestamp": "2026-06-14T18:30:45.957Z",
+  "shanghaiTime": "2026-06-15T02:30:45.957Z",
+  "count": 15,
   "mode": "today",
   "source": "no_data"
 }
