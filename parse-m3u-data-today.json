@@ -26,54 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22869",
-      "pID": "22869",
-      "title": "Men's VNL 2026",
-      "keyword": "06月14日05:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8589dd3678bfada3db443dcb180b6d61-thumbnail.jpg",
-      "pkInfoTitle": "Ukraine vs. Poland",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日05:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fukr-pol",
-          "name": "Ukraine vs. Poland"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22873",
-      "pID": "22873",
-      "title": "Fox Sports 503",
-      "keyword": "06月14日05:15",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Sports 503",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3ef1dc516d1f4ef0e205e715f12c009a-thumbnail.jpg",
-      "pkInfoTitle": "St Kilda vs. GWS GIANTS",
-      "modifyTitle": "Fox Sports 503",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日05:15"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-14%2Fstk-gws",
-          "name": "St Kilda vs. GWS GIANTS"
-        }
-      ]
-    },
-    {
       "mgdbId": "22673",
       "pID": "22673",
       "title": "Fox League",
@@ -96,11 +48,35 @@
           "name": "Wests Tigers vs. Titans"
         }
       ]
+    },
+    {
+      "mgdbId": "22925",
+      "pID": "22925",
+      "title": "Men's VNL 2026",
+      "keyword": "06月14日08:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/094c4e5025a37a9a2b9355e18c920928-thumbnail.jpg",
+      "pkInfoTitle": "China vs. Cuba",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日08:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fchi-cub",
+          "name": "China vs. Cuba"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T08:00:56.697Z",
-  "shanghaiTime": "2026-06-14T16:00:56.697Z",
-  "count": 4,
+  "timestamp": "2026-06-14T08:30:44.622Z",
+  "shanghaiTime": "2026-06-14T16:30:44.622Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
