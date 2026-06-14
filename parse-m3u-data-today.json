@@ -312,11 +312,35 @@
           "name": "Haiti vs. Scotland"
         }
       ]
+    },
+    {
+      "mgdbId": "22848",
+      "pID": "22848",
+      "title": "Arizona's Family 3TV",
+      "keyword": "06月14日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Arizona's Family 3TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fb9b8ff66ab74999060c78c25ed77e11-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Sparks vs. Phoenix Mercury",
+      "modifyTitle": "Arizona's Family 3TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-13%2Fla-phx",
+          "name": "Los Angeles Sparks vs. Phoenix Mercury"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T01:30:47.799Z",
-  "shanghaiTime": "2026-06-14T09:30:47.799Z",
-  "count": 13,
+  "timestamp": "2026-06-14T02:00:49.997Z",
+  "shanghaiTime": "2026-06-14T10:00:49.997Z",
+  "count": 14,
   "mode": "today",
   "source": "no_data"
 }
