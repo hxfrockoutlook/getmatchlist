@@ -26,6 +26,30 @@
       ]
     },
     {
+      "mgdbId": "22981",
+      "pID": "22981",
+      "title": "PDC.TV",
+      "keyword": "06月14日11:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "PDC.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg",
+      "pkInfoTitle": "World Cup of Darts | Day 4",
+      "modifyTitle": "PDC.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=world-cup-of-darts--day-4",
+          "name": "World Cup of Darts | Day 4"
+        }
+      ]
+    },
+    {
       "mgdbId": "22926",
       "pID": "22926",
       "title": "Men's VNL 2026",
@@ -50,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-14T12:01:02.876Z",
-  "shanghaiTime": "2026-06-14T20:01:02.876Z",
-  "count": 2,
+  "timestamp": "2026-06-14T12:30:59.830Z",
+  "shanghaiTime": "2026-06-14T20:30:59.830Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
