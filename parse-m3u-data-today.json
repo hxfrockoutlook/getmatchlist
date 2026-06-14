@@ -170,30 +170,6 @@
       ]
     },
     {
-      "mgdbId": "22916",
-      "pID": "22916",
-      "title": "CLEGuardians.TV",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CLEGuardians.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5a77aaab2db78c2ae33328bdc5568c85-thumbnail.jpg",
-      "pkInfoTitle": "Detroit Tigers vs. Cleveland Guardians",
-      "modifyTitle": "CLEGuardians.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fdet-cle",
-          "name": "Detroit Tigers vs. Cleveland Guardians"
-        }
-      ]
-    },
-    {
       "mgdbId": "22917",
       "pID": "22917",
       "title": "Royals.TV",
@@ -456,10 +432,34 @@
           "name": "Netherlands vs. Japan"
         }
       ]
+    },
+    {
+      "mgdbId": "22923",
+      "pID": "22923",
+      "title": "Angels.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Angels.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/884ca9ff40b78671f4a7d26984bcfae9-thumbnail.jpg",
+      "pkInfoTitle": "Tampa Bay Rays vs. Los Angeles Angels",
+      "modifyTitle": "Angels.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Ftb-laa",
+          "name": "Tampa Bay Rays vs. Los Angeles Angels"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T20:00:56.827Z",
-  "shanghaiTime": "2026-06-15T04:00:56.827Z",
+  "timestamp": "2026-06-14T20:30:42.281Z",
+  "shanghaiTime": "2026-06-15T04:30:42.281Z",
   "count": 19,
   "mode": "today",
   "source": "no_data"
