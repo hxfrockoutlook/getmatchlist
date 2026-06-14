@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22906",
-      "pID": "22906",
-      "title": "FOX Nation",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FOX Nation",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bef2479587240a15b5bd29a6e013001a-thumbnail.jpg",
-      "pkInfoTitle": "RAF 10: Khamzat Chimaev vs. Dillon Danis",
-      "modifyTitle": "FOX Nation",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=raf-10",
-          "name": "RAF 10: Khamzat Chimaev vs. Dillon Danis"
-        }
-      ]
-    },
-    {
       "mgdbId": "22869",
       "pID": "22869",
       "title": "Men's VNL 2026",
@@ -122,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-14T07:30:48.729Z",
-  "shanghaiTime": "2026-06-14T15:30:48.729Z",
-  "count": 5,
+  "timestamp": "2026-06-14T08:00:56.697Z",
+  "shanghaiTime": "2026-06-14T16:00:56.697Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
