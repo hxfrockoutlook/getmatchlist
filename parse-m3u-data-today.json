@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22926",
-      "pID": "22926",
-      "title": "Men's VNL 2026",
-      "keyword": "06月14日12:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/559950a5e6a46debae97f1b75f62ee49-thumbnail.jpg",
-      "pkInfoTitle": "Slovenia vs. Japan",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fslo-jap",
-          "name": "Slovenia vs. Japan"
-        }
-      ]
-    },
-    {
       "mgdbId": "22660",
       "pID": "22660",
       "title": "AFLE+",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-14T15:00:55.274Z",
-  "shanghaiTime": "2026-06-14T23:00:55.274Z",
-  "count": 7,
+  "timestamp": "2026-06-14T15:30:57.132Z",
+  "shanghaiTime": "2026-06-14T23:30:57.132Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
