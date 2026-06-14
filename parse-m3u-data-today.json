@@ -50,54 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22872",
-      "pID": "22872",
-      "title": "Fox Footy",
-      "keyword": "06月14日03:10",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d534c834e1ca1d01d12b64ae22508648-thumbnail.jpg",
-      "pkInfoTitle": "Richmond vs. Brisbane Lions",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日03:10"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-14%2Frich-bl",
-          "name": "Richmond vs. Brisbane Lions"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22880",
-      "pID": "22880",
-      "title": "FIFA World Cup",
-      "keyword": "06月14日04:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c02da8650f23b4b094934868289d3933-thumbnail.jpg",
-      "pkInfoTitle": "Australia vs. Türkiye",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-13%2Faus-tur",
-          "name": "Australia vs. Türkiye"
-        }
-      ]
-    },
-    {
       "mgdbId": "22869",
       "pID": "22869",
       "title": "Men's VNL 2026",
@@ -144,11 +96,35 @@
           "name": "St Kilda vs. GWS GIANTS"
         }
       ]
+    },
+    {
+      "mgdbId": "22673",
+      "pID": "22673",
+      "title": "Fox League",
+      "keyword": "06月14日06:05",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3178028af113e75556d3598c45c03039-thumbnail.jpg",
+      "pkInfoTitle": "Wests Tigers vs. Titans",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日06:05"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-14%2Fwes-gol",
+          "name": "Wests Tigers vs. Titans"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T06:00:57.446Z",
-  "shanghaiTime": "2026-06-14T14:00:57.446Z",
-  "count": 6,
+  "timestamp": "2026-06-14T06:30:56.847Z",
+  "shanghaiTime": "2026-06-14T14:30:56.847Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
