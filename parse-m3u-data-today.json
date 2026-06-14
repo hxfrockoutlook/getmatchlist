@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22981",
-      "pID": "22981",
-      "title": "PDC.TV",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PDC.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg",
-      "pkInfoTitle": "World Cup of Darts | Day 4",
-      "modifyTitle": "PDC.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=world-cup-of-darts--day-4",
-          "name": "World Cup of Darts | Day 4"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22921",
-      "pID": "22921",
-      "title": "NBC Sports CA",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports CA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/860fb8f4059bd3ab4b9bc466b2c4b96e-thumbnail.jpg",
-      "pkInfoTitle": "Colorado Rockies vs. Athletics",
-      "modifyTitle": "NBC Sports CA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fcol-ath",
-          "name": "Colorado Rockies vs. Athletics"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22922",
-      "pID": "22922",
-      "title": "ABC",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3a45e86c34d81e31425969d67a9f7386-thumbnail.jpg",
-      "pkInfoTitle": "Chicago Cubs vs. San Francisco Giants",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fchc-sf",
-          "name": "Chicago Cubs vs. San Francisco Giants"
-        }
-      ]
-    },
-    {
       "mgdbId": "22923",
       "pID": "22923",
       "title": "Angels.TV",
@@ -144,11 +72,35 @@
           "name": "USA vs. Italy"
         }
       ]
+    },
+    {
+      "mgdbId": "22957",
+      "pID": "22957",
+      "title": "FIFA World Cup",
+      "keyword": "06月15日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6ba091c441b968764b11be74d7e89576-thumbnail.jpg",
+      "pkInfoTitle": "Ivory Coast vs. Ecuador",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-14%2Fciv-ecu",
+          "name": "Ivory Coast vs. Ecuador"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T22:30:49.830Z",
-  "shanghaiTime": "2026-06-15T06:30:49.830Z",
-  "count": 6,
+  "timestamp": "2026-06-14T23:00:51.130Z",
+  "shanghaiTime": "2026-06-15T07:00:51.130Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
