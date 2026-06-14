@@ -72,11 +72,59 @@
           "name": "Slovenia vs. Japan"
         }
       ]
+    },
+    {
+      "mgdbId": "22660",
+      "pID": "22660",
+      "title": "AFLE+",
+      "keyword": "06月14日13:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "AFLE+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f7cbd1840c35df90984f40649a978a16-thumbnail.jpg",
+      "pkInfoTitle": "Firenze Red Lions vs. London Warriors",
+      "modifyTitle": "AFLE+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-14%2Ffir-lon",
+          "name": "Firenze Red Lions vs. London Warriors"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22696",
+      "pID": "22696",
+      "title": "Race",
+      "keyword": "06月14日13:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Race",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d988cd730c7e5aa78cf86729bdc2a17e-thumbnail.jpg",
+      "pkInfoTitle": "Barcelona Grand Prix",
+      "modifyTitle": "Race",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=f1%2F2026%2Fbarcelona-catalunya%2Frace",
+          "name": "Barcelona Grand Prix"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T12:30:59.830Z",
-  "shanghaiTime": "2026-06-14T20:30:59.830Z",
-  "count": 3,
+  "timestamp": "2026-06-14T13:01:00.558Z",
+  "shanghaiTime": "2026-06-14T21:01:00.558Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
