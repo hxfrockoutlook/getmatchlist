@@ -74,54 +74,6 @@
       ]
     },
     {
-      "mgdbId": "22844",
-      "pID": "22844",
-      "title": "ABC",
-      "keyword": "06月14日00:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/26fe893b207229fdd68eac3833730c8e-thumbnail.jpg",
-      "pkInfoTitle": "New York Knicks vs. San Antonio Spurs",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nba%2F2026-06-13%2Fny-sa",
-          "name": "New York Knicks vs. San Antonio Spurs"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22848",
-      "pID": "22848",
-      "title": "Arizona's Family 3TV",
-      "keyword": "06月14日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Arizona's Family 3TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fb9b8ff66ab74999060c78c25ed77e11-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Sparks vs. Phoenix Mercury",
-      "modifyTitle": "Arizona's Family 3TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-13%2Fla-phx",
-          "name": "Los Angeles Sparks vs. Phoenix Mercury"
-        }
-      ]
-    },
-    {
       "mgdbId": "22861",
       "pID": "22861",
       "title": "NBC Sports BA",
@@ -240,11 +192,35 @@
           "name": "Australia vs. Türkiye"
         }
       ]
+    },
+    {
+      "mgdbId": "22869",
+      "pID": "22869",
+      "title": "Men's VNL 2026",
+      "keyword": "06月14日05:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8589dd3678bfada3db443dcb180b6d61-thumbnail.jpg",
+      "pkInfoTitle": "Ukraine vs. Poland",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日05:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fukr-pol",
+          "name": "Ukraine vs. Poland"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T04:30:40.516Z",
-  "shanghaiTime": "2026-06-14T12:30:40.516Z",
-  "count": 10,
+  "timestamp": "2026-06-14T05:00:46.462Z",
+  "shanghaiTime": "2026-06-14T13:00:46.462Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
