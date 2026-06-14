@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22651",
-      "pID": "22651",
-      "title": "CFL+",
-      "keyword": "06月14日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CFL+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/93536453bf749f97d4b0a60027d99105-thumbnail.jpg",
-      "pkInfoTitle": "BC Lions vs. Saskatchewan Roughriders",
-      "modifyTitle": "CFL+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-13%2Fbc-ssk",
-          "name": "BC Lions vs. Saskatchewan Roughriders"
-        }
-      ]
-    },
-    {
       "mgdbId": "22859",
       "pID": "22859",
       "title": "Royals.TV",
@@ -336,11 +312,83 @@
           "name": "Los Angeles Sparks vs. Phoenix Mercury"
         }
       ]
+    },
+    {
+      "mgdbId": "22861",
+      "pID": "22861",
+      "title": "NBC Sports BA",
+      "keyword": "06月14日02:05",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports BA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3a45e86c34d81e31425969d67a9f7386-thumbnail.jpg",
+      "pkInfoTitle": "Chicago Cubs vs. San Francisco Giants",
+      "modifyTitle": "NBC Sports BA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日02:05"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fchc-sf",
+          "name": "Chicago Cubs vs. San Francisco Giants"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22862",
+      "pID": "22862",
+      "title": "NBC Sports CA",
+      "keyword": "06月14日02:05",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports CA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/860fb8f4059bd3ab4b9bc466b2c4b96e-thumbnail.jpg",
+      "pkInfoTitle": "Colorado Rockies vs. Athletics",
+      "modifyTitle": "NBC Sports CA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日02:05"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fcol-ath",
+          "name": "Colorado Rockies vs. Athletics"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22863",
+      "pID": "22863",
+      "title": "Angels.TV",
+      "keyword": "06月14日02:07",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Angels.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/884ca9ff40b78671f4a7d26984bcfae9-thumbnail.jpg",
+      "pkInfoTitle": "Tampa Bay Rays vs. Los Angeles Angels",
+      "modifyTitle": "Angels.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日02:07"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Ftb-laa",
+          "name": "Tampa Bay Rays vs. Los Angeles Angels"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T02:00:49.997Z",
-  "shanghaiTime": "2026-06-14T10:00:49.997Z",
-  "count": 14,
+  "timestamp": "2026-06-14T02:30:39.735Z",
+  "shanghaiTime": "2026-06-14T10:30:39.735Z",
+  "count": 16,
   "mode": "today",
   "source": "no_data"
 }
