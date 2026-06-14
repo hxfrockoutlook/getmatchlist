@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22910",
-      "pID": "22910",
-      "title": "Peacock",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Peacock",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a97d6092fafe77e5bec949c9e7a95e95-thumbnail.jpg",
-      "pkInfoTitle": "Miami Marlins vs. Pittsburgh Pirates",
-      "modifyTitle": "Peacock",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fmia-pit",
-          "name": "Miami Marlins vs. Pittsburgh Pirates"
-        }
-      ]
-    },
-    {
       "mgdbId": "22929",
       "pID": "22929",
       "title": "Men's VNL 2026",
@@ -456,10 +432,34 @@
           "name": "Chicago Cubs vs. San Francisco Giants"
         }
       ]
+    },
+    {
+      "mgdbId": "22953",
+      "pID": "22953",
+      "title": "FIFA World Cup",
+      "keyword": "06月15日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/63db92b2f41e644bd073912b0f4a3d5e-thumbnail.jpg",
+      "pkInfoTitle": "Netherlands vs. Japan",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-14%2Fned-jpn",
+          "name": "Netherlands vs. Japan"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T19:30:53.473Z",
-  "shanghaiTime": "2026-06-15T03:30:53.473Z",
+  "timestamp": "2026-06-14T20:00:56.827Z",
+  "shanghaiTime": "2026-06-15T04:00:56.827Z",
   "count": 19,
   "mode": "today",
   "source": "no_data"
