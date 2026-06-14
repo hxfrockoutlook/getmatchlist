@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22929",
-      "pID": "22929",
-      "title": "Men's VNL 2026",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/93184864fa593c26e4ed8b274529df71-thumbnail.jpg",
-      "pkInfoTitle": "Bulgaria vs. Serbia",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fbul-ser",
-          "name": "Bulgaria vs. Serbia"
-        }
-      ]
-    },
-    {
       "mgdbId": "22911",
       "pID": "22911",
       "title": "MASN",
@@ -166,6 +142,30 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fatl-nym",
           "name": "Atlanta Braves vs. New York Mets"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22916",
+      "pID": "22916",
+      "title": "CLEGuardians.TV",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CLEGuardians.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/5a77aaab2db78c2ae33328bdc5568c85-thumbnail.jpg",
+      "pkInfoTitle": "Detroit Tigers vs. Cleveland Guardians",
+      "modifyTitle": "CLEGuardians.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Fdet-cle",
+          "name": "Detroit Tigers vs. Cleveland Guardians"
         }
       ]
     },
@@ -456,11 +456,35 @@
           "name": "Tampa Bay Rays vs. Los Angeles Angels"
         }
       ]
+    },
+    {
+      "mgdbId": "22931",
+      "pID": "22931",
+      "title": "Men's VNL 2026",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2ce92e17be3d2517258f4429cd299bc6-thumbnail.jpg",
+      "pkInfoTitle": "Brazil vs. Argentina",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fbra-arg",
+          "name": "Brazil vs. Argentina"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T20:30:42.281Z",
-  "shanghaiTime": "2026-06-15T04:30:42.281Z",
-  "count": 19,
+  "timestamp": "2026-06-14T21:00:49.851Z",
+  "shanghaiTime": "2026-06-15T05:00:49.851Z",
+  "count": 20,
   "mode": "today",
   "source": "no_data"
 }
