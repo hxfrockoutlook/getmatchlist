@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "15856",
-      "pID": "15856",
-      "title": "Peacock",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Peacock",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
-      "pkInfoTitle": "Pro Motocross: Thunder Valley",
-      "modifyTitle": "Peacock",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=smx-wk20",
-          "name": "Pro Motocross: Thunder Valley"
-        }
-      ]
-    },
-    {
       "mgdbId": "22878",
       "pID": "22878",
       "title": "DAZN",
@@ -240,10 +216,34 @@
           "name": "Richmond vs. Brisbane Lions"
         }
       ]
+    },
+    {
+      "mgdbId": "22880",
+      "pID": "22880",
+      "title": "FIFA World Cup",
+      "keyword": "06月14日04:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c02da8650f23b4b094934868289d3933-thumbnail.jpg",
+      "pkInfoTitle": "Australia vs. Türkiye",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日04:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-13%2Faus-tur",
+          "name": "Australia vs. Türkiye"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T03:30:41.065Z",
-  "shanghaiTime": "2026-06-14T11:30:41.065Z",
+  "timestamp": "2026-06-14T04:00:46.453Z",
+  "shanghaiTime": "2026-06-14T12:00:46.453Z",
   "count": 10,
   "mode": "today",
   "source": "no_data"
