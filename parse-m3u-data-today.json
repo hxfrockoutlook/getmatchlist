@@ -122,54 +122,6 @@
       ]
     },
     {
-      "mgdbId": "22847",
-      "pID": "22847",
-      "title": "Fox 12 Plus",
-      "keyword": "06月14日00:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox 12 Plus",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8cb81d6f14500fc66672dae21b160c5-thumbnail.jpg",
-      "pkInfoTitle": "Dallas Wings vs. Portland Fire",
-      "modifyTitle": "Fox 12 Plus",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-13%2Fdal-por",
-          "name": "Dallas Wings vs. Portland Fire"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22812",
-      "pID": "22812",
-      "title": "FIFA World Cup",
-      "keyword": "06月14日01:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/14360b485e912470d3e9171a4637871c-thumbnail.jpg",
-      "pkInfoTitle": "Haiti vs. Scotland",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-13%2Fhai-sco",
-          "name": "Haiti vs. Scotland"
-        }
-      ]
-    },
-    {
       "mgdbId": "22848",
       "pID": "22848",
       "title": "Arizona's Family 3TV",
@@ -264,11 +216,35 @@
           "name": "Tampa Bay Rays vs. Los Angeles Angels"
         }
       ]
+    },
+    {
+      "mgdbId": "22872",
+      "pID": "22872",
+      "title": "Fox Footy",
+      "keyword": "06月14日03:10",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d534c834e1ca1d01d12b64ae22508648-thumbnail.jpg",
+      "pkInfoTitle": "Richmond vs. Brisbane Lions",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日03:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-14%2Frich-bl",
+          "name": "Richmond vs. Brisbane Lions"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T03:00:50.045Z",
-  "shanghaiTime": "2026-06-14T11:00:50.045Z",
-  "count": 11,
+  "timestamp": "2026-06-14T03:30:41.065Z",
+  "shanghaiTime": "2026-06-14T11:30:41.065Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
