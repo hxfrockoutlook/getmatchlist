@@ -50,102 +50,6 @@
       ]
     },
     {
-      "mgdbId": "22859",
-      "pID": "22859",
-      "title": "Royals.TV",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Royals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8bed02f81d039a8a759d3abde304e310-thumbnail.jpg",
-      "pkInfoTitle": "Houston Astros vs. Kansas City Royals",
-      "modifyTitle": "Royals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fhou-kc",
-          "name": "Houston Astros vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22860",
-      "pID": "22860",
-      "title": "Brewers.TV",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Brewers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b71e9627b4047a79ac814f10f152ce9c-thumbnail.jpg",
-      "pkInfoTitle": "Philadelphia Phillies vs. Milwaukee Brewers",
-      "modifyTitle": "Brewers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-13%2Fphi-mil",
-          "name": "Philadelphia Phillies vs. Milwaukee Brewers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22868",
-      "pID": "22868",
-      "title": "Men's VNL 2026",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/573f1fc6dbb7ee479b094183c72a05fe-thumbnail.jpg",
-      "pkInfoTitle": "Türkiye vs. Italy",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-13%2Ft%C3%BCr-ita",
-          "name": "Türkiye vs. Italy"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22846",
-      "pID": "22846",
-      "title": "CBS",
-      "keyword": "06月14日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBS",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9daeb1689e85fba72d460a3171b680aa-thumbnail.jpg",
-      "pkInfoTitle": "Minnesota Lynx vs. Las Vegas Aces",
-      "modifyTitle": "CBS",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-13%2Fmin-lv",
-          "name": "Minnesota Lynx vs. Las Vegas Aces"
-        }
-      ]
-    },
-    {
       "mgdbId": "22878",
       "pID": "22878",
       "title": "DAZN",
@@ -190,30 +94,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=raf-10",
           "name": "RAF 10: Khamzat Chimaev vs. Dillon Danis"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22679",
-      "pID": "22679",
-      "title": "TNT",
-      "keyword": "06月14日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "TNT",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-      "pkInfoTitle": "AEW: Saturday Night Collision",
-      "modifyTitle": "TNT",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月14日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fcollision%2F2026-06-13",
-          "name": "AEW: Saturday Night Collision"
         }
       ]
     },
@@ -386,9 +266,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-14T02:30:39.735Z",
-  "shanghaiTime": "2026-06-14T10:30:39.735Z",
-  "count": 16,
+  "timestamp": "2026-06-14T03:00:50.045Z",
+  "shanghaiTime": "2026-06-14T11:00:50.045Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
