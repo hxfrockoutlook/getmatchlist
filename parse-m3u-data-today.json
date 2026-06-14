@@ -144,11 +144,35 @@
           "name": "Belgium vs. Iran"
         }
       ]
+    },
+    {
+      "mgdbId": "22664",
+      "pID": "22664",
+      "title": "AFLE+",
+      "keyword": "06月14日14:10",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "AFLE+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/1c898dc40f0a87a3a3a92273f9d526a6-thumbnail.jpg",
+      "pkInfoTitle": "Berlin Thunder vs. Panthers Wroclaw",
+      "modifyTitle": "AFLE+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月14日14:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-14%2Fber-pan",
+          "name": "Berlin Thunder vs. Panthers Wroclaw"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T14:00:55.210Z",
-  "shanghaiTime": "2026-06-14T22:00:55.210Z",
-  "count": 6,
+  "timestamp": "2026-06-14T14:30:58.788Z",
+  "shanghaiTime": "2026-06-14T22:30:58.788Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
