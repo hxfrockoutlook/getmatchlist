@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22969",
-      "pID": "22969",
-      "title": "FIFA World Cup",
-      "keyword": "06月16日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/44ffba665b0640c48f62d3ed13ce8341-thumbnail.jpg",
-      "pkInfoTitle": "Belgium vs. Egypt",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-15%2Fbel-egy",
-          "name": "Belgium vs. Egypt"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-15T21:03:12.758Z",
-  "shanghaiTime": "2026-06-16T05:03:12.758Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-15T21:30:41.775Z",
+  "shanghaiTime": "2026-06-16T05:30:41.775Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
