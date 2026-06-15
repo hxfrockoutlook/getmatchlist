@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22931",
-      "pID": "22931",
-      "title": "Men's VNL 2026",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2ce92e17be3d2517258f4429cd299bc6-thumbnail.jpg",
-      "pkInfoTitle": "Brazil vs. Argentina",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fbra-arg",
-          "name": "Brazil vs. Argentina"
-        }
-      ]
-    },
-    {
       "mgdbId": "22932",
       "pID": "22932",
       "title": "Men's VNL 2026",
@@ -146,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-15T00:00:59.352Z",
-  "shanghaiTime": "2026-06-15T08:00:59.352Z",
-  "count": 6,
+  "timestamp": "2026-06-15T00:30:39.834Z",
+  "shanghaiTime": "2026-06-15T08:30:39.834Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
