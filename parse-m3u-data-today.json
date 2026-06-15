@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22923",
-      "pID": "22923",
-      "title": "Angels.TV",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Angels.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/884ca9ff40b78671f4a7d26984bcfae9-thumbnail.jpg",
-      "pkInfoTitle": "Tampa Bay Rays vs. Los Angeles Angels",
-      "modifyTitle": "Angels.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Ftb-laa",
-          "name": "Tampa Bay Rays vs. Los Angeles Angels"
-        }
-      ]
-    },
-    {
       "mgdbId": "22931",
       "pID": "22931",
       "title": "Men's VNL 2026",
@@ -120,11 +96,59 @@
           "name": "Texas Rangers vs. Boston Red Sox"
         }
       ]
+    },
+    {
+      "mgdbId": "22680",
+      "pID": "22680",
+      "title": "Paramount+",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Paramount+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg",
+      "pkInfoTitle": "UFC Freedom 250: Topuria vs. Gaethje",
+      "modifyTitle": "Paramount+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-freedom-250",
+          "name": "UFC Freedom 250: Topuria vs. Gaethje"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22907",
+      "pID": "22907",
+      "title": "ABC",
+      "keyword": "06月15日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg",
+      "pkInfoTitle": "Carolina Hurricanes vs. Vegas Golden Knights",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月15日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nhl%2F2026-06-14%2Fcar-vgk",
+          "name": "Carolina Hurricanes vs. Vegas Golden Knights"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-14T23:30:39.074Z",
-  "shanghaiTime": "2026-06-15T07:30:39.074Z",
-  "count": 5,
+  "timestamp": "2026-06-15T00:00:59.352Z",
+  "shanghaiTime": "2026-06-15T08:00:59.352Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
