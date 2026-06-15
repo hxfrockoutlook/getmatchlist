@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22680",
-      "pID": "22680",
-      "title": "Paramount+",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Paramount+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg",
-      "pkInfoTitle": "UFC Freedom 250: Topuria vs. Gaethje",
-      "modifyTitle": "Paramount+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-freedom-250",
-          "name": "UFC Freedom 250: Topuria vs. Gaethje"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-15T07:30:47.228Z",
-  "shanghaiTime": "2026-06-15T15:30:47.228Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-15T08:00:48.171Z",
+  "shanghaiTime": "2026-06-15T16:00:48.171Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
