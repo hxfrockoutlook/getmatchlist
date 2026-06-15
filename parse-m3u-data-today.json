@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22924",
-      "pID": "22924",
-      "title": "NBC",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c3bd8866ba3eaafe2776fa6d796734dd-thumbnail.jpg",
-      "pkInfoTitle": "Texas Rangers vs. Boston Red Sox",
-      "modifyTitle": "NBC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-14%2Ftex-bos",
-          "name": "Texas Rangers vs. Boston Red Sox"
-        }
-      ]
-    },
-    {
       "mgdbId": "22680",
       "pID": "22680",
       "title": "Paramount+",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-15T02:30:46.138Z",
-  "shanghaiTime": "2026-06-15T10:30:46.138Z",
-  "count": 4,
+  "timestamp": "2026-06-15T03:00:45.308Z",
+  "shanghaiTime": "2026-06-15T11:00:45.308Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
