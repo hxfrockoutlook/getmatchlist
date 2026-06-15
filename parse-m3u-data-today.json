@@ -72,11 +72,35 @@
           "name": "Kansas City Royals vs. Washington Nationals"
         }
       ]
+    },
+    {
+      "mgdbId": "23010",
+      "pID": "23010",
+      "title": "Gray Media",
+      "keyword": "06月16日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Gray Media",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. Cincinnati Reds",
+      "modifyTitle": "Gray Media",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月16日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fnym-cin",
+          "name": "New York Mets vs. Cincinnati Reds"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-15T23:00:53.581Z",
-  "shanghaiTime": "2026-06-16T07:00:53.581Z",
-  "count": 3,
+  "timestamp": "2026-06-15T23:30:50.482Z",
+  "shanghaiTime": "2026-06-16T07:30:50.482Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
