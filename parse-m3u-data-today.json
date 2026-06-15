@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "22907",
-      "pID": "22907",
-      "title": "ABC",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg",
-      "pkInfoTitle": "Carolina Hurricanes vs. Vegas Golden Knights",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nhl%2F2026-06-14%2Fcar-vgk",
-          "name": "Carolina Hurricanes vs. Vegas Golden Knights"
-        }
-      ]
-    },
-    {
       "mgdbId": "22961",
       "pID": "22961",
       "title": "FIFA World Cup",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-15T03:30:40.737Z",
-  "shanghaiTime": "2026-06-15T11:30:40.737Z",
-  "count": 3,
+  "timestamp": "2026-06-15T04:00:53.624Z",
+  "shanghaiTime": "2026-06-15T12:00:53.624Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
