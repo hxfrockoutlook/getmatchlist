@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22932",
-      "pID": "22932",
-      "title": "Men's VNL 2026",
-      "keyword": "06月15日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7afc1426f96b798adeed6fb92f0a208b-thumbnail.jpg",
-      "pkInfoTitle": "USA vs. Italy",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-14%2Fusa-ita",
-          "name": "USA vs. Italy"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22957",
-      "pID": "22957",
-      "title": "FIFA World Cup",
-      "keyword": "06月15日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6ba091c441b968764b11be74d7e89576-thumbnail.jpg",
-      "pkInfoTitle": "Ivory Coast vs. Ecuador",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月15日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-14%2Fciv-ecu",
-          "name": "Ivory Coast vs. Ecuador"
-        }
-      ]
-    },
-    {
       "mgdbId": "22924",
       "pID": "22924",
       "title": "NBC",
@@ -122,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-15T01:00:47.682Z",
-  "shanghaiTime": "2026-06-15T09:00:47.682Z",
-  "count": 5,
+  "timestamp": "2026-06-15T01:30:41.684Z",
+  "shanghaiTime": "2026-06-15T09:30:41.684Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
