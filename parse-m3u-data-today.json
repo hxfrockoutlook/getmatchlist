@@ -5,7 +5,7 @@
       "mgdbId": "23082",
       "pID": "23082",
       "title": "PDC.TV",
-      "keyword": "06月16日12:00",
+      "keyword": "06月17日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -16,7 +16,7 @@
       "modifyTitle": "PDC.TV",
       "presenters": "",
       "matchInfo": {
-        "time": "06月16日12:00"
+        "time": "06月17日00:00"
       },
       "nodes": [
         {
@@ -26,8 +26,8 @@
       ]
     }
   ],
-  "timestamp": "2026-06-16T15:31:01.424Z",
-  "shanghaiTime": "2026-06-16T23:31:01.424Z",
+  "timestamp": "2026-06-16T16:01:00.733Z",
+  "shanghaiTime": "2026-06-17T00:01:00.733Z",
   "count": 1,
   "mode": "today",
   "source": "no_data"
