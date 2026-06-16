@@ -120,11 +120,83 @@
           "name": "Toronto Tempo vs. Indiana Fever"
         }
       ]
+    },
+    {
+      "mgdbId": "23069",
+      "pID": "23069",
+      "title": "YES",
+      "keyword": "06月17日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "YES",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a312ecd5fd1da4fb5cabf790f96f7c3b-thumbnail.jpg",
+      "pkInfoTitle": "Chicago White Sox vs. New York Yankees",
+      "modifyTitle": "YES",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fchw-nyy",
+          "name": "Chicago White Sox vs. New York Yankees"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23070",
+      "pID": "23070",
+      "title": "Reds.TV",
+      "keyword": "06月17日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Reds.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. Cincinnati Reds",
+      "modifyTitle": "Reds.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fnym-cin",
+          "name": "New York Mets vs. Cincinnati Reds"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23071",
+      "pID": "23071",
+      "title": "BravesVision",
+      "keyword": "06月17日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "BravesVision",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3e14d3c4360c12d7f794ff7c01109732-thumbnail.jpg",
+      "pkInfoTitle": "San Francisco Giants vs. Atlanta Braves",
+      "modifyTitle": "BravesVision",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fsf-atl",
+          "name": "San Francisco Giants vs. Atlanta Braves"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-16T23:00:47.832Z",
-  "shanghaiTime": "2026-06-17T07:00:47.832Z",
-  "count": 5,
+  "timestamp": "2026-06-16T23:30:41.200Z",
+  "shanghaiTime": "2026-06-17T07:30:41.200Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
