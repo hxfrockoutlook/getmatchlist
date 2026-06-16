@@ -2,32 +2,32 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23082",
-      "pID": "23082",
-      "title": "PDC.TV",
+      "mgdbId": "22986",
+      "pID": "22986",
+      "title": "FIFA World Cup",
       "keyword": "06月17日00:00",
-      "sportItemId": "8",
+      "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "PDC.TV",
+      "competitionName": "FIFA World Cup",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg",
-      "pkInfoTitle": "2026 Players Championship 21",
-      "modifyTitle": "PDC.TV",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/5212770f3bc7f48643dbdf2a1dceabae-thumbnail.jpg",
+      "pkInfoTitle": "France vs. Senegal",
+      "modifyTitle": "FIFA World Cup",
       "presenters": "",
       "matchInfo": {
         "time": "06月17日00:00"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=2026-players-championship-21",
-          "name": "2026 Players Championship 21"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-16%2Ffra-sen",
+          "name": "France vs. Senegal"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-16T18:30:51.613Z",
-  "shanghaiTime": "2026-06-17T02:30:51.613Z",
+  "timestamp": "2026-06-16T19:01:00.744Z",
+  "shanghaiTime": "2026-06-17T03:01:00.744Z",
   "count": 1,
   "mode": "today",
   "source": "no_data"
