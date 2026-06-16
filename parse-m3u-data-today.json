@@ -240,11 +240,35 @@
           "name": "Detroit Tigers vs. Houston Astros"
         }
       ]
+    },
+    {
+      "mgdbId": "22977",
+      "pID": "22977",
+      "title": "FIFA World Cup",
+      "keyword": "06月16日01:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3916a55e20c6915086e96f879150a543-thumbnail.jpg",
+      "pkInfoTitle": "Iran vs. New Zealand",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月16日01:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-15%2Firn-nzl",
+          "name": "Iran vs. New Zealand"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-16T00:30:47.916Z",
-  "shanghaiTime": "2026-06-16T08:30:47.916Z",
-  "count": 10,
+  "timestamp": "2026-06-16T01:00:46.911Z",
+  "shanghaiTime": "2026-06-16T09:00:46.911Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
