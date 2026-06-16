@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23012",
-      "pID": "23012",
-      "title": "Marquee Sports Net",
-      "keyword": "06月16日00:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marquee Sports Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/74367630089ec91d5fb3d7d6f8f86fa3-thumbnail.jpg",
-      "pkInfoTitle": "Colorado Rockies vs. Chicago Cubs",
-      "modifyTitle": "Marquee Sports Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:05"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fcol-chc",
-          "name": "Colorado Rockies vs. Chicago Cubs"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23013",
-      "pID": "23013",
-      "title": "Rangers Sports Network",
-      "keyword": "06月16日00:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rangers Sports Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8ce9a1c1b7030aeb7b123c7a943f99d-thumbnail.jpg",
-      "pkInfoTitle": "Minnesota Twins vs. Texas Rangers",
-      "modifyTitle": "Rangers Sports Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:05"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fmin-tex",
-          "name": "Minnesota Twins vs. Texas Rangers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23014",
-      "pID": "23014",
-      "title": "Space City Home Network",
-      "keyword": "06月16日00:10",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Space City Home Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/90d8eb4834d8e0e1fc32a14232a0cd42-thumbnail.jpg",
-      "pkInfoTitle": "Detroit Tigers vs. Houston Astros",
-      "modifyTitle": "Space City Home Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:10"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fdet-hou",
-          "name": "Detroit Tigers vs. Houston Astros"
-        }
-      ]
-    },
-    {
       "mgdbId": "23015",
       "pID": "23015",
       "title": "DBACKS.TV",
@@ -170,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-16T03:30:42.960Z",
-  "shanghaiTime": "2026-06-16T11:30:42.960Z",
-  "count": 7,
+  "timestamp": "2026-06-16T04:00:55.801Z",
+  "shanghaiTime": "2026-06-16T12:00:55.801Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
