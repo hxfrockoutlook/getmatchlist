@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23011",
-      "pID": "23011",
-      "title": "Cardinals.TV",
-      "keyword": "06月16日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cardinals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/06bbc7f18327f6b06cbdddc8f6e9a105-thumbnail.jpg",
-      "pkInfoTitle": "San Diego Padres vs. St. Louis Cardinals",
-      "modifyTitle": "Cardinals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fsd-stl",
-          "name": "San Diego Padres vs. St. Louis Cardinals"
-        }
-      ]
-    },
-    {
       "mgdbId": "23012",
       "pID": "23012",
       "title": "Marquee Sports Net",
@@ -94,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fdet-hou",
           "name": "Detroit Tigers vs. Houston Astros"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22977",
-      "pID": "22977",
-      "title": "FIFA World Cup",
-      "keyword": "06月16日01:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3916a55e20c6915086e96f879150a543-thumbnail.jpg",
-      "pkInfoTitle": "Iran vs. New Zealand",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-15%2Firn-nzl",
-          "name": "Iran vs. New Zealand"
         }
       ]
     },
@@ -218,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-16T03:00:53.095Z",
-  "shanghaiTime": "2026-06-16T11:00:53.095Z",
-  "count": 9,
+  "timestamp": "2026-06-16T03:30:42.960Z",
+  "shanghaiTime": "2026-06-16T11:30:42.960Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
