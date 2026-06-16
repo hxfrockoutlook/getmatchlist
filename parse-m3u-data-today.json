@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23010",
-      "pID": "23010",
-      "title": "Gray Media",
-      "keyword": "06月16日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Gray Media",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg",
-      "pkInfoTitle": "New York Mets vs. Cincinnati Reds",
-      "modifyTitle": "Gray Media",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fnym-cin",
-          "name": "New York Mets vs. Cincinnati Reds"
-        }
-      ]
-    },
-    {
       "mgdbId": "23011",
       "pID": "23011",
       "title": "Cardinals.TV",
@@ -46,78 +22,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fsd-stl",
           "name": "San Diego Padres vs. St. Louis Cardinals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23003",
-      "pID": "23003",
-      "title": "USA Net",
-      "keyword": "06月16日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "USA Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6da2b4737aaf9997cb993de3cb8ed8ef-thumbnail.jpg",
-      "pkInfoTitle": "Las Vegas Aces vs. Dallas Wings",
-      "modifyTitle": "USA Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-15%2Flv-dal",
-          "name": "Las Vegas Aces vs. Dallas Wings"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23005",
-      "pID": "23005",
-      "title": "Victory+ MIN",
-      "keyword": "06月16日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Victory+ MIN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/15f3a3e2b5957dc8589a31c5d09d8528-thumbnail.jpg",
-      "pkInfoTitle": "Portland Fire vs. Minnesota Lynx",
-      "modifyTitle": "Victory+ MIN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-15%2Fpor-min",
-          "name": "Portland Fire vs. Minnesota Lynx"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23028",
-      "pID": "23028",
-      "title": "Netflix",
-      "keyword": "06月16日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Netflix",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",
-      "pkInfoTitle": "WWE: Monday Night RAW",
-      "modifyTitle": "Netflix",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fraw%2F2026-06-15",
-          "name": "WWE: Monday Night RAW"
         }
       ]
     },
@@ -314,9 +218,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-16T02:30:46.872Z",
-  "shanghaiTime": "2026-06-16T10:30:46.872Z",
-  "count": 13,
+  "timestamp": "2026-06-16T03:00:53.095Z",
+  "shanghaiTime": "2026-06-16T11:00:53.095Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
