@@ -72,35 +72,11 @@
           "name": "Tampa Bay Rays vs. Los Angeles Dodgers"
         }
       ]
-    },
-    {
-      "mgdbId": "23007",
-      "pID": "23007",
-      "title": "Peacock",
-      "keyword": "06月16日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Peacock",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/299c8d756c27ae3ef93d8980f0891395-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Sparks vs. Golden State Valkyries",
-      "modifyTitle": "Peacock",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-15%2Fla-gs",
-          "name": "Los Angeles Sparks vs. Golden State Valkyries"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-16T04:30:43.350Z",
-  "shanghaiTime": "2026-06-16T12:30:43.350Z",
-  "count": 4,
+  "timestamp": "2026-06-16T05:00:50.872Z",
+  "shanghaiTime": "2026-06-16T13:00:50.872Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
