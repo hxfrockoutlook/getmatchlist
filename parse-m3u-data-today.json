@@ -1,82 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "23015",
-      "pID": "23015",
-      "title": "DBACKS.TV",
-      "keyword": "06月16日01:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DBACKS.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/62b7baed62673f6c7b2012e7134771c9-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Angels vs. Arizona Diamondbacks",
-      "modifyTitle": "DBACKS.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日01:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Flaa-ari",
-          "name": "Los Angeles Angels vs. Arizona Diamondbacks"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23016",
-      "pID": "23016",
-      "title": "NBC Sports CA",
-      "keyword": "06月16日01:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports CA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/176e3d24f176ddafb5e52008e28bc2ba-thumbnail.jpg",
-      "pkInfoTitle": "Pittsburgh Pirates vs. Athletics",
-      "modifyTitle": "NBC Sports CA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日01:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Fpit-ath",
-          "name": "Pittsburgh Pirates vs. Athletics"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23017",
-      "pID": "23017",
-      "title": "ESPN",
-      "keyword": "06月16日02:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ESPN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/de5bf8a2010bf2be43c2d1de17b712ea-thumbnail.jpg",
-      "pkInfoTitle": "Tampa Bay Rays vs. Los Angeles Dodgers",
-      "modifyTitle": "ESPN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月16日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-15%2Ftb-lad",
-          "name": "Tampa Bay Rays vs. Los Angeles Dodgers"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-16T05:00:50.872Z",
-  "shanghaiTime": "2026-06-16T13:00:50.872Z",
-  "count": 3,
+  "data": [],
+  "timestamp": "2026-06-16T05:30:47.024Z",
+  "shanghaiTime": "2026-06-16T13:30:47.024Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
