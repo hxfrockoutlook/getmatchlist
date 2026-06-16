@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "22986",
-      "pID": "22986",
-      "title": "FIFA World Cup",
-      "keyword": "06月17日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5212770f3bc7f48643dbdf2a1dceabae-thumbnail.jpg",
-      "pkInfoTitle": "France vs. Senegal",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-16%2Ffra-sen",
-          "name": "France vs. Senegal"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-16T21:01:15.509Z",
-  "shanghaiTime": "2026-06-17T05:01:15.509Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-16T21:30:48.150Z",
+  "shanghaiTime": "2026-06-17T05:30:48.150Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
