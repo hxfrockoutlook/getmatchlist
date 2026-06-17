@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23066",
-      "pID": "23066",
-      "title": "NBC Sports Phil",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports Phil",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3af831a52eaa2d58ce8f27cdfe7ba9a0-thumbnail.jpg",
-      "pkInfoTitle": "Miami Marlins vs. Philadelphia Phillies",
-      "modifyTitle": "NBC Sports Phil",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fmia-phi",
-          "name": "Miami Marlins vs. Philadelphia Phillies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23067",
-      "pID": "23067",
-      "title": "Nationals.TV",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Nationals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/35abebb4fe7889aea82cef7cfd478895-thumbnail.jpg",
-      "pkInfoTitle": "Kansas City Royals vs. Washington Nationals",
-      "modifyTitle": "Nationals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fkc-wsh",
-          "name": "Kansas City Royals vs. Washington Nationals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23068",
-      "pID": "23068",
-      "title": "NESN",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NESN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/afea344de742bb9d77ad123529b609c3-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Blue Jays vs. Boston Red Sox",
-      "modifyTitle": "NESN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Ftor-bos",
-          "name": "Toronto Blue Jays vs. Boston Red Sox"
-        }
-      ]
-    },
-    {
       "mgdbId": "23069",
       "pID": "23069",
       "title": "YES",
@@ -384,11 +312,35 @@
           "name": "Pittsburgh Pirates vs. Athletics"
         }
       ]
+    },
+    {
+      "mgdbId": "23080",
+      "pID": "23080",
+      "title": "Sportsnet LA",
+      "keyword": "06月17日02:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet LA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/de5bf8a2010bf2be43c2d1de17b712ea-thumbnail.jpg",
+      "pkInfoTitle": "Tampa Bay Rays vs. Los Angeles Dodgers",
+      "modifyTitle": "Sportsnet LA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日02:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Ftb-lad",
+          "name": "Tampa Bay Rays vs. Los Angeles Dodgers"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T02:00:52.365Z",
-  "shanghaiTime": "2026-06-17T10:00:52.365Z",
-  "count": 16,
+  "timestamp": "2026-06-17T02:30:54.760Z",
+  "shanghaiTime": "2026-06-17T10:30:54.760Z",
+  "count": 14,
   "mode": "today",
   "source": "no_data"
 }
