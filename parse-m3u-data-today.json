@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23141",
-      "pID": "23141",
-      "title": "Women's VNL 2026",
-      "keyword": "06月17日12:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/cfd0de658b31832e8d6e4114769ce4f7-thumbnail.jpg",
-      "pkInfoTitle": "Japan vs. Serbia",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Fjap-ser",
-          "name": "Japan vs. Serbia"
-        }
-      ]
-    },
-    {
       "mgdbId": "23142",
       "pID": "23142",
       "title": "Women's VNL 2026",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-17T15:01:10.238Z",
-  "shanghaiTime": "2026-06-17T23:01:10.238Z",
-  "count": 4,
+  "timestamp": "2026-06-17T15:31:01.546Z",
+  "shanghaiTime": "2026-06-17T23:31:01.546Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
