@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23128",
-      "pID": "23128",
-      "title": "Sportsnet LA",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet LA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/de5bf8a2010bf2be43c2d1de17b712ea-thumbnail.jpg",
-      "pkInfoTitle": "Tampa Bay Rays vs. Los Angeles Dodgers",
-      "modifyTitle": "Sportsnet LA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Ftb-lad",
-          "name": "Tampa Bay Rays vs. Los Angeles Dodgers"
-        }
-      ]
-    },
-    {
       "mgdbId": "23129",
       "pID": "23129",
       "title": "DBACKS.TV",
@@ -48,11 +24,83 @@
           "name": "Los Angeles Angels vs. Arizona Diamondbacks"
         }
       ]
+    },
+    {
+      "mgdbId": "23130",
+      "pID": "23130",
+      "title": "NESN",
+      "keyword": "06月18日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NESN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/afea344de742bb9d77ad123529b609c3-thumbnail.jpg",
+      "pkInfoTitle": "Toronto Blue Jays vs. Boston Red Sox",
+      "modifyTitle": "NESN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Ftor-bos",
+          "name": "Toronto Blue Jays vs. Boston Red Sox"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23117",
+      "pID": "23117",
+      "title": "NBC Sports BO",
+      "keyword": "06月18日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports BO",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d05aef85ac30138c8f6438596826e2e8-thumbnail.jpg",
+      "pkInfoTitle": "Washington Mystics vs. Connecticut Sun",
+      "modifyTitle": "NBC Sports BO",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fwsh-con",
+          "name": "Washington Mystics vs. Connecticut Sun"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23161",
+      "pID": "23161",
+      "title": "FIFA World Cup",
+      "keyword": "06月18日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/765cf636cf77b72df889feffe7c2cae5-thumbnail.jpg",
+      "pkInfoTitle": "Ghana vs. Panama",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-17%2Fgha-pan",
+          "name": "Ghana vs. Panama"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T22:30:46.589Z",
-  "shanghaiTime": "2026-06-18T06:30:46.589Z",
-  "count": 2,
+  "timestamp": "2026-06-17T23:00:47.237Z",
+  "shanghaiTime": "2026-06-18T07:00:47.237Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
