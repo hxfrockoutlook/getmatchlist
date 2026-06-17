@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23069",
-      "pID": "23069",
-      "title": "YES",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "YES",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a312ecd5fd1da4fb5cabf790f96f7c3b-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. New York Yankees",
-      "modifyTitle": "YES",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fchw-nyy",
-          "name": "Chicago White Sox vs. New York Yankees"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23070",
-      "pID": "23070",
-      "title": "Reds.TV",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Reds.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg",
-      "pkInfoTitle": "New York Mets vs. Cincinnati Reds",
-      "modifyTitle": "Reds.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fnym-cin",
-          "name": "New York Mets vs. Cincinnati Reds"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23071",
-      "pID": "23071",
-      "title": "BravesVision",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3e14d3c4360c12d7f794ff7c01109732-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fsf-atl",
-          "name": "San Francisco Giants vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
       "mgdbId": "23072",
       "pID": "23072",
       "title": "Brewers.TV",
@@ -118,30 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fsd-stl",
           "name": "San Diego Padres vs. St. Louis Cardinals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23029",
-      "pID": "23029",
-      "title": "CW",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CW",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-      "pkInfoTitle": "WWE: NXT",
-      "modifyTitle": "CW",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fnxt%2F2026-06-16",
-          "name": "WWE: NXT"
         }
       ]
     },
@@ -338,9 +242,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-17T02:30:54.760Z",
-  "shanghaiTime": "2026-06-17T10:30:54.760Z",
-  "count": 14,
+  "timestamp": "2026-06-17T03:00:47.913Z",
+  "shanghaiTime": "2026-06-17T11:00:47.913Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
