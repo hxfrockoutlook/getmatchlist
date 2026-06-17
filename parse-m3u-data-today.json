@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-407797529264522066.flv?expire=1782298857&sign=331f6c7e80b89219433303a8871d8f9d&major_anchor_level=vip&arch_hrchy=s2&s_anchor=1&unique_id=stream-407797529264522066_850_flv&t_id=037-20260617190057A9ACF0C2F33B728DA46E-6wDcZo"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23138",
-      "pID": "23138",
-      "title": "Women's VNL 2026",
-      "keyword": "06月17日08:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/37cc962d08da3872204f76626c7a32cf-thumbnail.jpg",
-      "pkInfoTitle": "Czechia vs. Italy",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Fcze-ita",
-          "name": "Czechia vs. Italy"
+          "url": "http://pull-flv-f1.douyinliving.com/media/stream-407797529264522066.flv?keeptime=00093a80&wsSecret=5222e8fc707d2ec7147b117379f34c28&wsTime=6a328568&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-407797529264522066_850_flv&t_id=037-20260617193048710921BE8CC4F59A7F40-Jvu1D1"
         }
       ]
     },
@@ -122,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-17T11:01:00.293Z",
-  "shanghaiTime": "2026-06-17T19:01:00.293Z",
-  "count": 5,
+  "timestamp": "2026-06-17T11:30:50.964Z",
+  "shanghaiTime": "2026-06-17T19:30:50.964Z",
+  "count": 4,
   "mode": "today",
   "source": "cba_live"
 }
