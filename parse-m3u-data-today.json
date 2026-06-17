@@ -72,11 +72,35 @@
           "name": "Bulgaria vs. Poland"
         }
       ]
+    },
+    {
+      "mgdbId": "23020",
+      "pID": "23020",
+      "title": "Sky Sport 2 NZ",
+      "keyword": "06月17日10:05",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sky Sport 2 NZ",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/748c23f75bda947137a2c347d2154f2e-thumbnail.jpg",
+      "pkInfoTitle": "New South Wales vs. Queensland",
+      "modifyTitle": "Sky Sport 2 NZ",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日10:05"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-17%2Fnew-que",
+          "name": "New South Wales vs. Queensland"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T10:00:58.899Z",
-  "shanghaiTime": "2026-06-17T18:00:58.899Z",
-  "count": 3,
+  "timestamp": "2026-06-17T10:30:46.302Z",
+  "shanghaiTime": "2026-06-17T18:30:46.302Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
