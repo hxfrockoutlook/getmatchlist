@@ -192,11 +192,83 @@
           "name": "San Francisco Giants vs. Atlanta Braves"
         }
       ]
+    },
+    {
+      "mgdbId": "23072",
+      "pID": "23072",
+      "title": "Brewers.TV",
+      "keyword": "06月17日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Brewers.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/86e592fc67e2846a81ed5364d52d9c5a-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Milwaukee Brewers",
+      "modifyTitle": "Brewers.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fcle-mil",
+          "name": "Cleveland Guardians vs. Milwaukee Brewers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23073",
+      "pID": "23073",
+      "title": "Cardinals.TV",
+      "keyword": "06月17日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Cardinals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/06bbc7f18327f6b06cbdddc8f6e9a105-thumbnail.jpg",
+      "pkInfoTitle": "San Diego Padres vs. St. Louis Cardinals",
+      "modifyTitle": "Cardinals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fsd-stl",
+          "name": "San Diego Padres vs. St. Louis Cardinals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23029",
+      "pID": "23029",
+      "title": "CW",
+      "keyword": "06月17日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CW",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
+      "pkInfoTitle": "WWE: NXT",
+      "modifyTitle": "CW",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fnxt%2F2026-06-16",
+          "name": "WWE: NXT"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-16T23:30:41.200Z",
-  "shanghaiTime": "2026-06-17T07:30:41.200Z",
-  "count": 8,
+  "timestamp": "2026-06-17T00:00:50.831Z",
+  "shanghaiTime": "2026-06-17T08:00:50.831Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
