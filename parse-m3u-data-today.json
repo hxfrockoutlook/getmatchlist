@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23126",
-      "pID": "23126",
-      "title": "Space City Home Network",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Space City Home Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/90d8eb4834d8e0e1fc32a14232a0cd42-thumbnail.jpg",
-      "pkInfoTitle": "Detroit Tigers vs. Houston Astros",
-      "modifyTitle": "Space City Home Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fdet-hou",
-          "name": "Detroit Tigers vs. Houston Astros"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23127",
-      "pID": "23127",
-      "title": "Cardinals.TV",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cardinals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/06bbc7f18327f6b06cbdddc8f6e9a105-thumbnail.jpg",
-      "pkInfoTitle": "San Diego Padres vs. St. Louis Cardinals",
-      "modifyTitle": "Cardinals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fsd-stl",
-          "name": "San Diego Padres vs. St. Louis Cardinals"
-        }
-      ]
-    },
-    {
       "mgdbId": "23128",
       "pID": "23128",
       "title": "Sportsnet LA",
@@ -122,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-17T21:30:53.218Z",
-  "shanghaiTime": "2026-06-18T05:30:53.218Z",
-  "count": 5,
+  "timestamp": "2026-06-17T22:00:48.822Z",
+  "shanghaiTime": "2026-06-18T06:00:48.822Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
