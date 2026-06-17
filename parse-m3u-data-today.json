@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23140",
-      "pID": "23140",
-      "title": "Women's VNL 2026",
-      "keyword": "06月17日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8470760d0b0566e9a462cb62c95b295f-thumbnail.jpg",
-      "pkInfoTitle": "Bulgaria vs. Poland",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Fbul-pol",
-          "name": "Bulgaria vs. Poland"
-        }
-      ]
-    },
-    {
       "mgdbId": "23145",
       "pID": "23145",
       "title": "PDC.TV",
@@ -96,10 +72,34 @@
           "name": "France vs. Brazil"
         }
       ]
+    },
+    {
+      "mgdbId": "23143",
+      "pID": "23143",
+      "title": "Women's VNL 2026",
+      "keyword": "06月17日13:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/aff3769e37bca0434c113657b7f25103-thumbnail.jpg",
+      "pkInfoTitle": "Thailand vs. Ukraine",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Ftha-ukr",
+          "name": "Thailand vs. Ukraine"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T13:01:05.903Z",
-  "shanghaiTime": "2026-06-17T21:01:05.903Z",
+  "timestamp": "2026-06-17T13:30:56.979Z",
+  "shanghaiTime": "2026-06-17T21:30:56.979Z",
   "count": 4,
   "mode": "today",
   "source": "no_data"
