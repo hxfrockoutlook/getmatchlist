@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23144",
-      "pID": "23144",
-      "title": "Women's VNL 2026",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/794ba07b95429ab41583131bdef9fda1-thumbnail.jpg",
-      "pkInfoTitle": "Türkiye vs. Belgium",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Ft%C3%BCr-bel",
-          "name": "Türkiye vs. Belgium"
-        }
-      ]
-    },
-    {
       "mgdbId": "23123",
       "pID": "23123",
       "title": "Reds.TV",
@@ -168,11 +144,59 @@
           "name": "Tampa Bay Rays vs. Los Angeles Dodgers"
         }
       ]
+    },
+    {
+      "mgdbId": "23129",
+      "pID": "23129",
+      "title": "DBACKS.TV",
+      "keyword": "06月18日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "DBACKS.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/62b7baed62673f6c7b2012e7134771c9-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Angels vs. Arizona Diamondbacks",
+      "modifyTitle": "DBACKS.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Flaa-ari",
+          "name": "Los Angeles Angels vs. Arizona Diamondbacks"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23155",
+      "pID": "23155",
+      "title": "FIFA World Cup",
+      "keyword": "06月18日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3aac7801fbffbc6eedf3ac476ed4ce1d-thumbnail.jpg",
+      "pkInfoTitle": "England vs. Croatia",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-17%2Feng-cro",
+          "name": "England vs. Croatia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T19:30:53.174Z",
-  "shanghaiTime": "2026-06-18T03:30:53.174Z",
-  "count": 7,
+  "timestamp": "2026-06-17T20:00:57.311Z",
+  "shanghaiTime": "2026-06-18T04:00:57.311Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
