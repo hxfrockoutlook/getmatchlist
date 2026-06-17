@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23123",
-      "pID": "23123",
-      "title": "Reds.TV",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Reds.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg",
-      "pkInfoTitle": "New York Mets vs. Cincinnati Reds",
-      "modifyTitle": "Reds.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fnym-cin",
-          "name": "New York Mets vs. Cincinnati Reds"
-        }
-      ]
-    },
-    {
       "mgdbId": "23124",
       "pID": "23124",
       "title": "Nationals.TV",
@@ -194,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-17T20:00:57.311Z",
-  "shanghaiTime": "2026-06-18T04:00:57.311Z",
-  "count": 8,
+  "timestamp": "2026-06-17T20:30:50.525Z",
+  "shanghaiTime": "2026-06-18T04:30:50.525Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
