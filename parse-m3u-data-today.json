@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23124",
-      "pID": "23124",
-      "title": "Nationals.TV",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Nationals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/35abebb4fe7889aea82cef7cfd478895-thumbnail.jpg",
-      "pkInfoTitle": "Kansas City Royals vs. Washington Nationals",
-      "modifyTitle": "Nationals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fkc-wsh",
-          "name": "Kansas City Royals vs. Washington Nationals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23125",
-      "pID": "23125",
-      "title": "NBC 10",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC 10",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3af831a52eaa2d58ce8f27cdfe7ba9a0-thumbnail.jpg",
-      "pkInfoTitle": "Miami Marlins vs. Philadelphia Phillies",
-      "modifyTitle": "NBC 10",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fmia-phi",
-          "name": "Miami Marlins vs. Philadelphia Phillies"
-        }
-      ]
-    },
-    {
       "mgdbId": "23126",
       "pID": "23126",
       "title": "Space City Home Network",
@@ -170,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-17T20:30:50.525Z",
-  "shanghaiTime": "2026-06-18T04:30:50.525Z",
-  "count": 7,
+  "timestamp": "2026-06-17T21:01:03.733Z",
+  "shanghaiTime": "2026-06-18T05:01:03.733Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
