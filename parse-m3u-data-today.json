@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23145",
-      "pID": "23145",
-      "title": "PDC.TV",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PDC.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg",
-      "pkInfoTitle": "2026 Players Championship 22",
-      "modifyTitle": "PDC.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=2026-players-championship-22",
-          "name": "2026 Players Championship 22"
-        }
-      ]
-    },
-    {
       "mgdbId": "23144",
       "pID": "23144",
       "title": "Women's VNL 2026",
@@ -194,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-17T18:30:48.119Z",
-  "shanghaiTime": "2026-06-18T02:30:48.119Z",
-  "count": 8,
+  "timestamp": "2026-06-17T19:00:59.484Z",
+  "shanghaiTime": "2026-06-18T03:00:59.484Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
