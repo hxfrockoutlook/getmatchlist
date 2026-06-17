@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23139",
-      "pID": "23139",
-      "title": "Women's VNL 2026",
-      "keyword": "06月17日09:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6f63d6d68abe721a28d0aebaf311dacc-thumbnail.jpg",
-      "pkInfoTitle": "Germany vs. China",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日09:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Fger-chi",
-          "name": "Germany vs. China"
-        }
-      ]
-    },
-    {
       "mgdbId": "23140",
       "pID": "23140",
       "title": "Women's VNL 2026",
@@ -46,30 +22,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Fbul-pol",
           "name": "Bulgaria vs. Poland"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23020",
-      "pID": "23020",
-      "title": "Sky Sport 2 NZ",
-      "keyword": "06月17日10:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sky Sport 2 NZ",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/748c23f75bda947137a2c347d2154f2e-thumbnail.jpg",
-      "pkInfoTitle": "New South Wales vs. Queensland",
-      "modifyTitle": "Sky Sport 2 NZ",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日10:05"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-17%2Fnew-que",
-          "name": "New South Wales vs. Queensland"
         }
       ]
     },
@@ -120,11 +72,35 @@
           "name": "Japan vs. Serbia"
         }
       ]
+    },
+    {
+      "mgdbId": "23142",
+      "pID": "23142",
+      "title": "Women's VNL 2026",
+      "keyword": "06月17日13:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/911abd0b8608fce88a0579417eb66f11-thumbnail.jpg",
+      "pkInfoTitle": "France vs. Brazil",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日13:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Ffra-bra",
+          "name": "France vs. Brazil"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T12:30:59.191Z",
-  "shanghaiTime": "2026-06-17T20:30:59.191Z",
-  "count": 5,
+  "timestamp": "2026-06-17T13:01:05.903Z",
+  "shanghaiTime": "2026-06-17T21:01:05.903Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
