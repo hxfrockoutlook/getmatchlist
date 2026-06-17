@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "06月17日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f1.douyinliving.com/media/stream-407797529264522066.flv?keeptime=00093a80&wsSecret=5222e8fc707d2ec7147b117379f34c28&wsTime=6a328568&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-407797529264522066_850_flv&t_id=037-20260617193048710921BE8CC4F59A7F40-Jvu1D1"
-        }
-      ]
-    },
-    {
       "mgdbId": "23139",
       "pID": "23139",
       "title": "Women's VNL 2026",
@@ -96,11 +72,59 @@
           "name": "New South Wales vs. Queensland"
         }
       ]
+    },
+    {
+      "mgdbId": "23145",
+      "pID": "23145",
+      "title": "PDC.TV",
+      "keyword": "06月17日12:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "PDC.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg",
+      "pkInfoTitle": "2026 Players Championship 22",
+      "modifyTitle": "PDC.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=2026-players-championship-22",
+          "name": "2026 Players Championship 22"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23141",
+      "pID": "23141",
+      "title": "Women's VNL 2026",
+      "keyword": "06月17日12:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/cfd0de658b31832e8d6e4114769ce4f7-thumbnail.jpg",
+      "pkInfoTitle": "Japan vs. Serbia",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月17日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Fjap-ser",
+          "name": "Japan vs. Serbia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T11:30:50.964Z",
-  "shanghaiTime": "2026-06-17T19:30:50.964Z",
-  "count": 4,
+  "timestamp": "2026-06-17T12:00:57.276Z",
+  "shanghaiTime": "2026-06-17T20:00:57.276Z",
+  "count": 5,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
