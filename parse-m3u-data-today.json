@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23072",
-      "pID": "23072",
-      "title": "Brewers.TV",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Brewers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/86e592fc67e2846a81ed5364d52d9c5a-thumbnail.jpg",
-      "pkInfoTitle": "Cleveland Guardians vs. Milwaukee Brewers",
-      "modifyTitle": "Brewers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fcle-mil",
-          "name": "Cleveland Guardians vs. Milwaukee Brewers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23073",
-      "pID": "23073",
-      "title": "Cardinals.TV",
-      "keyword": "06月17日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cardinals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/06bbc7f18327f6b06cbdddc8f6e9a105-thumbnail.jpg",
-      "pkInfoTitle": "San Diego Padres vs. St. Louis Cardinals",
-      "modifyTitle": "Cardinals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fsd-stl",
-          "name": "San Diego Padres vs. St. Louis Cardinals"
-        }
-      ]
-    },
-    {
       "mgdbId": "23074",
       "pID": "23074",
       "title": "Marquee Sports Net",
@@ -118,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-16%2Fdet-hou",
           "name": "Detroit Tigers vs. Houston Astros"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22994",
-      "pID": "22994",
-      "title": "FIFA World Cup",
-      "keyword": "06月17日01:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c2e691d40140db20766ef98b0a0d9a35-thumbnail.jpg",
-      "pkInfoTitle": "Argentina vs. Algeria",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月17日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-16%2Farg-alg",
-          "name": "Argentina vs. Algeria"
         }
       ]
     },
@@ -242,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-17T03:00:47.913Z",
-  "shanghaiTime": "2026-06-17T11:00:47.913Z",
-  "count": 10,
+  "timestamp": "2026-06-17T03:30:42.238Z",
+  "shanghaiTime": "2026-06-17T11:30:42.238Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
