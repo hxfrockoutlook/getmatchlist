@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23143",
-      "pID": "23143",
-      "title": "Women's VNL 2026",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/aff3769e37bca0434c113657b7f25103-thumbnail.jpg",
-      "pkInfoTitle": "Thailand vs. Ukraine",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-17%2Ftha-ukr",
-          "name": "Thailand vs. Ukraine"
-        }
-      ]
-    },
-    {
       "mgdbId": "23144",
       "pID": "23144",
       "title": "Women's VNL 2026",
@@ -72,11 +48,59 @@
           "name": "Türkiye vs. Belgium"
         }
       ]
+    },
+    {
+      "mgdbId": "23123",
+      "pID": "23123",
+      "title": "Reds.TV",
+      "keyword": "06月18日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Reds.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. Cincinnati Reds",
+      "modifyTitle": "Reds.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fnym-cin",
+          "name": "New York Mets vs. Cincinnati Reds"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23149",
+      "pID": "23149",
+      "title": "FIFA World Cup",
+      "keyword": "06月18日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/75f0e5165446dfd54fdb7ef1596d6ad2-thumbnail.jpg",
+      "pkInfoTitle": "Portugal vs. Congo DR",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-17%2Fpor-cod",
+          "name": "Portugal vs. Congo DR"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T16:30:47.988Z",
-  "shanghaiTime": "2026-06-18T00:30:47.988Z",
-  "count": 3,
+  "timestamp": "2026-06-17T17:00:57.820Z",
+  "shanghaiTime": "2026-06-18T01:00:57.820Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
