@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23129",
-      "pID": "23129",
-      "title": "DBACKS.TV",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DBACKS.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/62b7baed62673f6c7b2012e7134771c9-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Angels vs. Arizona Diamondbacks",
-      "modifyTitle": "DBACKS.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Flaa-ari",
-          "name": "Los Angeles Angels vs. Arizona Diamondbacks"
-        }
-      ]
-    },
-    {
       "mgdbId": "23130",
       "pID": "23130",
       "title": "NESN",
@@ -96,11 +72,59 @@
           "name": "Ghana vs. Panama"
         }
       ]
+    },
+    {
+      "mgdbId": "23131",
+      "pID": "23131",
+      "title": "MLB.TV",
+      "keyword": "06月18日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MLB.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a312ecd5fd1da4fb5cabf790f96f7c3b-thumbnail.jpg",
+      "pkInfoTitle": "Chicago White Sox vs. New York Yankees",
+      "modifyTitle": "MLB.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fchw-nyy",
+          "name": "Chicago White Sox vs. New York Yankees"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23132",
+      "pID": "23132",
+      "title": "BravesVision",
+      "keyword": "06月18日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "BravesVision",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/3e14d3c4360c12d7f794ff7c01109732-thumbnail.jpg",
+      "pkInfoTitle": "San Francisco Giants vs. Atlanta Braves",
+      "modifyTitle": "BravesVision",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fsf-atl",
+          "name": "San Francisco Giants vs. Atlanta Braves"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T23:00:47.237Z",
-  "shanghaiTime": "2026-06-18T07:00:47.237Z",
-  "count": 4,
+  "timestamp": "2026-06-17T23:30:43.696Z",
+  "shanghaiTime": "2026-06-18T07:30:43.696Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
