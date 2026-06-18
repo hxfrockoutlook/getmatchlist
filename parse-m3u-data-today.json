@@ -48,11 +48,35 @@
           "name": "Canada vs. Qatar"
         }
       ]
+    },
+    {
+      "mgdbId": "23228",
+      "pID": "23228",
+      "title": "NBC Sports Phil",
+      "keyword": "06月19日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports Phil",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. Philadelphia Phillies",
+      "modifyTitle": "NBC Sports Phil",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fnym-phi",
+          "name": "New York Mets vs. Philadelphia Phillies"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T22:30:42.637Z",
-  "shanghaiTime": "2026-06-19T06:30:42.637Z",
-  "count": 2,
+  "timestamp": "2026-06-18T23:01:02.479Z",
+  "shanghaiTime": "2026-06-19T07:01:02.479Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
