@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23173",
-      "pID": "23173",
-      "title": "FIFA World Cup",
-      "keyword": "06月19日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/dc557d38db6b0044dc5799fab13c5e64-thumbnail.jpg",
-      "pkInfoTitle": "Czechia vs. South Africa",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-18%2Fcze-rsa",
-          "name": "Czechia vs. South Africa"
-        }
-      ]
-    },
-    {
       "mgdbId": "23238",
       "pID": "23238",
       "title": "Women's VNL 2026",
@@ -96,10 +72,34 @@
           "name": "Toronto Blue Jays vs. Boston Red Sox"
         }
       ]
+    },
+    {
+      "mgdbId": "23225",
+      "pID": "23225",
+      "title": "Brewers.TV",
+      "keyword": "06月19日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Brewers.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/86e592fc67e2846a81ed5364d52d9c5a-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Milwaukee Brewers",
+      "modifyTitle": "Brewers.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fcle-mil",
+          "name": "Cleveland Guardians vs. Milwaukee Brewers"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T18:01:01.461Z",
-  "shanghaiTime": "2026-06-19T02:01:01.461Z",
+  "timestamp": "2026-06-18T18:30:49.111Z",
+  "shanghaiTime": "2026-06-19T02:30:49.111Z",
   "count": 4,
   "mode": "today",
   "source": "no_data"
