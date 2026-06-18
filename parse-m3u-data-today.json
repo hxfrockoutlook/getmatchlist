@@ -72,11 +72,35 @@
           "name": "Ukraine vs. Poland"
         }
       ]
+    },
+    {
+      "mgdbId": "22874",
+      "pID": "22874",
+      "title": "Fox Footy",
+      "keyword": "06月18日10:10",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d2b6b9826024388525d8577d294a217d-thumbnail.jpg",
+      "pkInfoTitle": "Fremantle vs. Geelong Cats",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日10:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-18%2Ffre-geel",
+          "name": "Fremantle vs. Geelong Cats"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T10:00:59.728Z",
-  "shanghaiTime": "2026-06-18T18:00:59.728Z",
-  "count": 3,
+  "timestamp": "2026-06-18T10:30:46.754Z",
+  "shanghaiTime": "2026-06-18T18:30:46.754Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
