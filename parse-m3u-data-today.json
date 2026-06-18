@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23224",
-      "pID": "23224",
-      "title": "NESN",
-      "keyword": "06月19日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NESN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/afea344de742bb9d77ad123529b609c3-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Blue Jays vs. Boston Red Sox",
-      "modifyTitle": "NESN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Ftor-bos",
-          "name": "Toronto Blue Jays vs. Boston Red Sox"
-        }
-      ]
-    },
-    {
       "mgdbId": "23225",
       "pID": "23225",
       "title": "Brewers.TV",
@@ -74,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23179",
-      "pID": "23179",
-      "title": "Herzegovina",
-      "keyword": "06月19日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Herzegovina",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c74f341f16d2a8721199312543c52e62-thumbnail.jpg",
-      "pkInfoTitle": "Switzerland vs. Bosnia",
-      "modifyTitle": "Herzegovina",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-18%2Fsui-bih",
-          "name": "Switzerland vs. Bosnia"
-        }
-      ]
-    },
-    {
       "mgdbId": "23227",
       "pID": "23227",
       "title": "Mariners.TV",
@@ -122,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-18T21:00:49.064Z",
-  "shanghaiTime": "2026-06-19T05:00:49.064Z",
-  "count": 5,
+  "timestamp": "2026-06-18T21:30:42.048Z",
+  "shanghaiTime": "2026-06-19T05:30:42.048Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
