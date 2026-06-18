@@ -48,107 +48,11 @@
           "name": "Pittsburgh Pirates vs. Athletics"
         }
       ]
-    },
-    {
-      "mgdbId": "23119",
-      "pID": "23119",
-      "title": "KPIX+",
-      "keyword": "06月18日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "KPIX+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/baac88908e57154173f5287b2fd679ae-thumbnail.jpg",
-      "pkInfoTitle": "Dallas Wings vs. Golden State Valkyries",
-      "modifyTitle": "KPIX+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fdal-gs",
-          "name": "Dallas Wings vs. Golden State Valkyries"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23120",
-      "pID": "23120",
-      "title": "Spectrum Sports Net",
-      "keyword": "06月18日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Spectrum Sports Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b56a9af83a7c556fd3854216aee9b87f-thumbnail.jpg",
-      "pkInfoTitle": "Minnesota Lynx vs. Los Angeles Sparks",
-      "modifyTitle": "Spectrum Sports Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fmin-la",
-          "name": "Minnesota Lynx vs. Los Angeles Sparks"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23121",
-      "pID": "23121",
-      "title": "USA Net",
-      "keyword": "06月18日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "USA Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2fe0ea272ed08acef8fc82a9b8151d23-thumbnail.jpg",
-      "pkInfoTitle": "Las Vegas Aces vs. Phoenix Mercury",
-      "modifyTitle": "USA Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Flv-phx",
-          "name": "Las Vegas Aces vs. Phoenix Mercury"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23122",
-      "pID": "23122",
-      "title": "Fox 12 Plus",
-      "keyword": "06月18日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox 12 Plus",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7f107007ddef24b9045ee7f68e6bebe8-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Storm vs. Portland Fire",
-      "modifyTitle": "Fox 12 Plus",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fsea-por",
-          "name": "Seattle Storm vs. Portland Fire"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-18T04:30:41.595Z",
-  "shanghaiTime": "2026-06-18T12:30:41.595Z",
-  "count": 6,
+  "timestamp": "2026-06-18T05:00:48.711Z",
+  "shanghaiTime": "2026-06-18T13:00:48.711Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
