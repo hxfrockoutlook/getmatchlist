@@ -144,35 +144,11 @@
           "name": "Seattle Storm vs. Portland Fire"
         }
       ]
-    },
-    {
-      "mgdbId": "23167",
-      "pID": "23167",
-      "title": "FIFA World Cup",
-      "keyword": "06月18日02:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a309e281f76b6d1c792aba6a64a79306-thumbnail.jpg",
-      "pkInfoTitle": "Uzbekistan vs. Colombia",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-17%2Fuzb-col",
-          "name": "Uzbekistan vs. Colombia"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-18T04:00:54.594Z",
-  "shanghaiTime": "2026-06-18T12:00:54.595Z",
-  "count": 7,
+  "timestamp": "2026-06-18T04:30:41.595Z",
+  "shanghaiTime": "2026-06-18T12:30:41.595Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
