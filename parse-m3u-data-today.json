@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23117",
-      "pID": "23117",
-      "title": "NBC Sports BO",
-      "keyword": "06月18日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports BO",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d05aef85ac30138c8f6438596826e2e8-thumbnail.jpg",
-      "pkInfoTitle": "Washington Mystics vs. Connecticut Sun",
-      "modifyTitle": "NBC Sports BO",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fwsh-con",
-          "name": "Washington Mystics vs. Connecticut Sun"
-        }
-      ]
-    },
-    {
       "mgdbId": "23131",
       "pID": "23131",
       "title": "MLB.TV",
@@ -192,11 +168,179 @@
           "name": "Colorado Rockies vs. Chicago Cubs"
         }
       ]
+    },
+    {
+      "mgdbId": "23135",
+      "pID": "23135",
+      "title": "Mariners.TV",
+      "keyword": "06月18日01:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Mariners.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/35ce677c79e0574b0a1aa8ae8592df1c-thumbnail.jpg",
+      "pkInfoTitle": "Baltimore Orioles vs. Seattle Mariners",
+      "modifyTitle": "Mariners.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日01:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fbal-sea",
+          "name": "Baltimore Orioles vs. Seattle Mariners"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23136",
+      "pID": "23136",
+      "title": "NBC Sports CA",
+      "keyword": "06月18日01:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports CA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/176e3d24f176ddafb5e52008e28bc2ba-thumbnail.jpg",
+      "pkInfoTitle": "Pittsburgh Pirates vs. Athletics",
+      "modifyTitle": "NBC Sports CA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日01:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fpit-ath",
+          "name": "Pittsburgh Pirates vs. Athletics"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23119",
+      "pID": "23119",
+      "title": "KPIX+",
+      "keyword": "06月18日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "KPIX+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/baac88908e57154173f5287b2fd679ae-thumbnail.jpg",
+      "pkInfoTitle": "Dallas Wings vs. Golden State Valkyries",
+      "modifyTitle": "KPIX+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fdal-gs",
+          "name": "Dallas Wings vs. Golden State Valkyries"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23120",
+      "pID": "23120",
+      "title": "Spectrum Sports Net",
+      "keyword": "06月18日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Spectrum Sports Net",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b56a9af83a7c556fd3854216aee9b87f-thumbnail.jpg",
+      "pkInfoTitle": "Minnesota Lynx vs. Los Angeles Sparks",
+      "modifyTitle": "Spectrum Sports Net",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fmin-la",
+          "name": "Minnesota Lynx vs. Los Angeles Sparks"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23121",
+      "pID": "23121",
+      "title": "USA Net",
+      "keyword": "06月18日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "USA Net",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2fe0ea272ed08acef8fc82a9b8151d23-thumbnail.jpg",
+      "pkInfoTitle": "Las Vegas Aces vs. Phoenix Mercury",
+      "modifyTitle": "USA Net",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Flv-phx",
+          "name": "Las Vegas Aces vs. Phoenix Mercury"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23122",
+      "pID": "23122",
+      "title": "Fox 12 Plus",
+      "keyword": "06月18日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox 12 Plus",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7f107007ddef24b9045ee7f68e6bebe8-thumbnail.jpg",
+      "pkInfoTitle": "Seattle Storm vs. Portland Fire",
+      "modifyTitle": "Fox 12 Plus",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fsea-por",
+          "name": "Seattle Storm vs. Portland Fire"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23167",
+      "pID": "23167",
+      "title": "FIFA World Cup",
+      "keyword": "06月18日02:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a309e281f76b6d1c792aba6a64a79306-thumbnail.jpg",
+      "pkInfoTitle": "Uzbekistan vs. Colombia",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-17%2Fuzb-col",
+          "name": "Uzbekistan vs. Colombia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T01:30:38.505Z",
-  "shanghaiTime": "2026-06-18T09:30:38.505Z",
-  "count": 8,
+  "timestamp": "2026-06-18T02:00:53.413Z",
+  "shanghaiTime": "2026-06-18T10:00:53.413Z",
+  "count": 14,
   "mode": "today",
   "source": "no_data"
 }
