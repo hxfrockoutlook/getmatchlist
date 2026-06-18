@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "06月18日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-407803228821652306.flv?expire=1782387048&sign=d4a2be4548572a8e95bdf8f80aaa9bb1&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-407803228821652306_850_flv&t_id=037-202606181930488B1AB376F55265D8AEFC-nV7YYl"
-        }
-      ]
-    },
-    {
       "mgdbId": "23275",
       "pID": "23275",
       "title": "2nd Test",
@@ -96,11 +72,35 @@
           "name": "Fremantle vs. Geelong Cats"
         }
       ]
+    },
+    {
+      "mgdbId": "23235",
+      "pID": "23235",
+      "title": "Women's VNL 2026",
+      "keyword": "06月18日12:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f34273f1b492d90dbd116d7ea0900b86-thumbnail.jpg",
+      "pkInfoTitle": "Serbia vs. Italy",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-18%2Fser-ita",
+          "name": "Serbia vs. Italy"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T11:30:50.471Z",
-  "shanghaiTime": "2026-06-18T19:30:50.471Z",
+  "timestamp": "2026-06-18T12:01:07.674Z",
+  "shanghaiTime": "2026-06-18T20:01:07.674Z",
   "count": 4,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
