@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23226",
-      "pID": "23226",
-      "title": "Twins.TV",
-      "keyword": "06月19日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Twins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8ce9a1c1b7030aeb7b123c7a943f99d-thumbnail.jpg",
-      "pkInfoTitle": "Minnesota Twins vs. Texas Rangers",
-      "modifyTitle": "Twins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fmin-tex",
-          "name": "Minnesota Twins vs. Texas Rangers"
-        }
-      ]
-    },
-    {
       "mgdbId": "23227",
       "pID": "23227",
       "title": "Mariners.TV",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-18T22:00:57.859Z",
-  "shanghaiTime": "2026-06-19T06:00:57.859Z",
-  "count": 3,
+  "timestamp": "2026-06-18T22:30:42.637Z",
+  "shanghaiTime": "2026-06-19T06:30:42.637Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
