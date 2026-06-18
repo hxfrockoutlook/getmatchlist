@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23161",
-      "pID": "23161",
-      "title": "FIFA World Cup",
-      "keyword": "06月18日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/765cf636cf77b72df889feffe7c2cae5-thumbnail.jpg",
-      "pkInfoTitle": "Ghana vs. Panama",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-17%2Fgha-pan",
-          "name": "Ghana vs. Panama"
-        }
-      ]
-    },
-    {
       "mgdbId": "23131",
       "pID": "23131",
       "title": "MLB.TV",
@@ -218,9 +194,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-18T01:00:50.803Z",
-  "shanghaiTime": "2026-06-18T09:00:50.803Z",
-  "count": 9,
+  "timestamp": "2026-06-18T01:30:38.505Z",
+  "shanghaiTime": "2026-06-18T09:30:38.505Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
