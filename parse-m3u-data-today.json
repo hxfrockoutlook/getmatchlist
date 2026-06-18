@@ -5,7 +5,7 @@
       "mgdbId": "23275",
       "pID": "23275",
       "title": "2nd Test",
-      "keyword": "06月18日10:00",
+      "keyword": "06月19日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -16,7 +16,7 @@
       "modifyTitle": "2nd Test",
       "presenters": "",
       "matchInfo": {
-        "time": "06月18日10:00"
+        "time": "06月19日00:00"
       },
       "nodes": [
         {
@@ -29,7 +29,7 @@
       "mgdbId": "23236",
       "pID": "23236",
       "title": "Women's VNL 2026",
-      "keyword": "06月18日13:00",
+      "keyword": "06月19日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -40,7 +40,7 @@
       "modifyTitle": "Women's VNL 2026",
       "presenters": "",
       "matchInfo": {
-        "time": "06月18日13:00"
+        "time": "06月19日00:00"
       },
       "nodes": [
         {
@@ -53,7 +53,7 @@
       "mgdbId": "23237",
       "pID": "23237",
       "title": "Women's VNL 2026",
-      "keyword": "06月18日13:30",
+      "keyword": "06月19日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -64,7 +64,7 @@
       "modifyTitle": "Women's VNL 2026",
       "presenters": "",
       "matchInfo": {
-        "time": "06月18日13:30"
+        "time": "06月19日00:00"
       },
       "nodes": [
         {
@@ -72,11 +72,35 @@
           "name": "Thailand vs. Bulgaria"
         }
       ]
+    },
+    {
+      "mgdbId": "23173",
+      "pID": "23173",
+      "title": "FIFA World Cup",
+      "keyword": "06月19日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/dc557d38db6b0044dc5799fab13c5e64-thumbnail.jpg",
+      "pkInfoTitle": "Czechia vs. South Africa",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-18%2Fcze-rsa",
+          "name": "Czechia vs. South Africa"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T15:30:55.465Z",
-  "shanghaiTime": "2026-06-18T23:30:55.465Z",
-  "count": 3,
+  "timestamp": "2026-06-18T16:01:05.359Z",
+  "shanghaiTime": "2026-06-19T00:01:05.359Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
