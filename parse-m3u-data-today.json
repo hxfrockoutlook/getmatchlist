@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23131",
-      "pID": "23131",
-      "title": "MLB.TV",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a312ecd5fd1da4fb5cabf790f96f7c3b-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. New York Yankees",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fchw-nyy",
-          "name": "Chicago White Sox vs. New York Yankees"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23132",
-      "pID": "23132",
-      "title": "BravesVision",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3e14d3c4360c12d7f794ff7c01109732-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fsf-atl",
-          "name": "San Francisco Giants vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
       "mgdbId": "23133",
       "pID": "23133",
       "title": "CLEGuardians.TV",
@@ -70,54 +22,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fcle-mil",
           "name": "Cleveland Guardians vs. Milwaukee Brewers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23118",
-      "pID": "23118",
-      "title": "USA Net",
-      "keyword": "06月18日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "USA Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9cfa911c403b20909820c79c64ebe5de-thumbnail.jpg",
-      "pkInfoTitle": "New York Liberty vs. Chicago Sky",
-      "modifyTitle": "USA Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fny-chi",
-          "name": "New York Liberty vs. Chicago Sky"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23030",
-      "pID": "23030",
-      "title": "TBS",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "TBS",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
-      "pkInfoTitle": "AEW: Wednesday Night Dynamite",
-      "modifyTitle": "TBS",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fdynamite%2F2026-06-17",
-          "name": "AEW: Wednesday Night Dynamite"
         }
       ]
     },
@@ -314,9 +218,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-18T02:30:41.894Z",
-  "shanghaiTime": "2026-06-18T10:30:41.894Z",
-  "count": 13,
+  "timestamp": "2026-06-18T03:00:49.054Z",
+  "shanghaiTime": "2026-06-18T11:00:49.054Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
