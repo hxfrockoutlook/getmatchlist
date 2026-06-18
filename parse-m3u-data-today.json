@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23130",
-      "pID": "23130",
-      "title": "NESN",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NESN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/afea344de742bb9d77ad123529b609c3-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Blue Jays vs. Boston Red Sox",
-      "modifyTitle": "NESN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Ftor-bos",
-          "name": "Toronto Blue Jays vs. Boston Red Sox"
-        }
-      ]
-    },
-    {
       "mgdbId": "23131",
       "pID": "23131",
       "title": "MLB.TV",
@@ -338,9 +314,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-18T02:00:53.413Z",
-  "shanghaiTime": "2026-06-18T10:00:53.413Z",
-  "count": 14,
+  "timestamp": "2026-06-18T02:30:41.894Z",
+  "shanghaiTime": "2026-06-18T10:30:41.894Z",
+  "count": 13,
   "mode": "today",
   "source": "no_data"
 }
