@@ -96,11 +96,59 @@
           "name": "Cleveland Guardians vs. Milwaukee Brewers"
         }
       ]
+    },
+    {
+      "mgdbId": "23226",
+      "pID": "23226",
+      "title": "Twins.TV",
+      "keyword": "06月19日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Twins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e8ce9a1c1b7030aeb7b123c7a943f99d-thumbnail.jpg",
+      "pkInfoTitle": "Minnesota Twins vs. Texas Rangers",
+      "modifyTitle": "Twins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fmin-tex",
+          "name": "Minnesota Twins vs. Texas Rangers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23179",
+      "pID": "23179",
+      "title": "Herzegovina",
+      "keyword": "06月19日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Herzegovina",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c74f341f16d2a8721199312543c52e62-thumbnail.jpg",
+      "pkInfoTitle": "Switzerland vs. Bosnia",
+      "modifyTitle": "Herzegovina",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-18%2Fsui-bih",
+          "name": "Switzerland vs. Bosnia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T18:30:49.111Z",
-  "shanghaiTime": "2026-06-19T02:30:49.111Z",
-  "count": 4,
+  "timestamp": "2026-06-18T19:00:53.037Z",
+  "shanghaiTime": "2026-06-19T03:00:53.038Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
