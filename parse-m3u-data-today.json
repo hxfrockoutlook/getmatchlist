@@ -96,11 +96,35 @@
           "name": "Switzerland vs. Bosnia"
         }
       ]
+    },
+    {
+      "mgdbId": "23227",
+      "pID": "23227",
+      "title": "Mariners.TV",
+      "keyword": "06月19日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Mariners.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/35ce677c79e0574b0a1aa8ae8592df1c-thumbnail.jpg",
+      "pkInfoTitle": "Baltimore Orioles vs. Seattle Mariners",
+      "modifyTitle": "Mariners.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fbal-sea",
+          "name": "Baltimore Orioles vs. Seattle Mariners"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T20:00:54.192Z",
-  "shanghaiTime": "2026-06-19T04:00:54.192Z",
-  "count": 4,
+  "timestamp": "2026-06-18T20:30:49.787Z",
+  "shanghaiTime": "2026-06-19T04:30:49.788Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
