@@ -120,11 +120,83 @@
           "name": "San Francisco Giants vs. Atlanta Braves"
         }
       ]
+    },
+    {
+      "mgdbId": "23133",
+      "pID": "23133",
+      "title": "CLEGuardians.TV",
+      "keyword": "06月18日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CLEGuardians.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/86e592fc67e2846a81ed5364d52d9c5a-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Milwaukee Brewers",
+      "modifyTitle": "CLEGuardians.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fcle-mil",
+          "name": "Cleveland Guardians vs. Milwaukee Brewers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23118",
+      "pID": "23118",
+      "title": "USA Net",
+      "keyword": "06月18日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "USA Net",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/9cfa911c403b20909820c79c64ebe5de-thumbnail.jpg",
+      "pkInfoTitle": "New York Liberty vs. Chicago Sky",
+      "modifyTitle": "USA Net",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-17%2Fny-chi",
+          "name": "New York Liberty vs. Chicago Sky"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23030",
+      "pID": "23030",
+      "title": "TBS",
+      "keyword": "06月18日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "TBS",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+      "pkInfoTitle": "AEW: Wednesday Night Dynamite",
+      "modifyTitle": "TBS",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月18日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fdynamite%2F2026-06-17",
+          "name": "AEW: Wednesday Night Dynamite"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-17T23:30:43.696Z",
-  "shanghaiTime": "2026-06-18T07:30:43.696Z",
-  "count": 5,
+  "timestamp": "2026-06-18T00:00:53.282Z",
+  "shanghaiTime": "2026-06-18T08:00:53.282Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
