@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23133",
-      "pID": "23133",
-      "title": "CLEGuardians.TV",
-      "keyword": "06月18日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CLEGuardians.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/86e592fc67e2846a81ed5364d52d9c5a-thumbnail.jpg",
-      "pkInfoTitle": "Cleveland Guardians vs. Milwaukee Brewers",
-      "modifyTitle": "CLEGuardians.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-17%2Fcle-mil",
-          "name": "Cleveland Guardians vs. Milwaukee Brewers"
-        }
-      ]
-    },
-    {
       "mgdbId": "23134",
       "pID": "23134",
       "title": "Marquee Sports Net",
@@ -218,9 +194,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-18T03:00:49.054Z",
-  "shanghaiTime": "2026-06-18T11:00:49.054Z",
-  "count": 9,
+  "timestamp": "2026-06-18T03:30:42.687Z",
+  "shanghaiTime": "2026-06-18T11:30:42.687Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
