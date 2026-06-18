@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23235",
-      "pID": "23235",
-      "title": "Women's VNL 2026",
-      "keyword": "06月18日12:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f34273f1b492d90dbd116d7ea0900b86-thumbnail.jpg",
-      "pkInfoTitle": "Serbia vs. Italy",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月18日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-18%2Fser-ita",
-          "name": "Serbia vs. Italy"
-        }
-      ]
-    },
-    {
       "mgdbId": "23236",
       "pID": "23236",
       "title": "Women's VNL 2026",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-18T15:01:07.996Z",
-  "shanghaiTime": "2026-06-18T23:01:07.996Z",
-  "count": 4,
+  "timestamp": "2026-06-18T15:30:55.465Z",
+  "shanghaiTime": "2026-06-18T23:30:55.465Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
