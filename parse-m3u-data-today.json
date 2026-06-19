@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23231",
-      "pID": "23231",
-      "title": "Royals.TV",
-      "keyword": "06月19日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Royals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0739848adc9ffec5dbca3083dd1e1d3d-thumbnail.jpg",
-      "pkInfoTitle": "St. Louis Cardinals vs. Kansas City Royals",
-      "modifyTitle": "Royals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fstl-kc",
-          "name": "St. Louis Cardinals vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23191",
-      "pID": "23191",
-      "title": "FIFA World Cup",
-      "keyword": "06月19日01:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/843e05a773eb43ee7ee39cefc739f5fe-thumbnail.jpg",
-      "pkInfoTitle": "Mexico vs. South Korea",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-18%2Fmex-kor",
-          "name": "Mexico vs. South Korea"
-        }
-      ]
-    },
-    {
       "mgdbId": "23031",
       "pID": "23031",
       "title": "AMC",
@@ -98,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T03:00:50.455Z",
-  "shanghaiTime": "2026-06-19T11:00:50.455Z",
-  "count": 4,
+  "timestamp": "2026-06-19T03:30:49.768Z",
+  "shanghaiTime": "2026-06-19T11:30:49.768Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
