@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-119578793147630418.flv?expire=1782471661&sign=467e7e11372a999b501e74793cf7f5d5&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-119578793147630418_850_flv&t_id=037-202606191901017740D7C57DB9A999C331-pk7Zrx"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23318",
-      "pID": "23318",
-      "title": "Women's VNL 2026",
-      "keyword": "06月19日08:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/53ae04eb5fcf52733bf67ff272a06ec9-thumbnail.jpg",
-      "pkInfoTitle": "Dominican Republic vs. Serbia",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-19%2Fdom-ser",
-          "name": "Dominican Republic vs. Serbia"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-119578793147630418.flv?expire=1782473450&sign=58c46fef6c9dbd83ecff7fe5ca0df8e5&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-119578793147630418_850_flv&t_id=037-20260619193050E7851C998CADAF98AD08-O07VTO"
         }
       ]
     },
@@ -144,10 +120,34 @@
           "name": "Ukraine vs. Netherlands"
         }
       ]
+    },
+    {
+      "mgdbId": "23383",
+      "pID": "23383",
+      "title": "Round 2",
+      "keyword": "06月19日10:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Round 2",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fcfaff510b50af223cbba10c2fb4e9f6-thumbnail.jpg",
+      "pkInfoTitle": "US Open",
+      "modifyTitle": "Round 2",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日10:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=golf%2F2026-06-19%2Fus-open",
+          "name": "US Open"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T11:01:03.873Z",
-  "shanghaiTime": "2026-06-19T19:01:03.873Z",
+  "timestamp": "2026-06-19T11:30:53.564Z",
+  "shanghaiTime": "2026-06-19T19:30:53.564Z",
   "count": 6,
   "mode": "today",
   "source": "cba_live"
