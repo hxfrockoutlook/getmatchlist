@@ -26,78 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23387",
-      "pID": "23387",
-      "title": "PDC.TV",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PDC.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
-      "pkInfoTitle": "Slovak Darts Open | Day 1",
-      "modifyTitle": "PDC.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=darts%2F2026%2Fet9%2Fday-1",
-          "name": "Slovak Darts Open | Day 1"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23397",
-      "pID": "23397",
-      "title": "UFC Fight Pass",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "UFC Fight Pass",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ac81da4c84cb145678a2159f6be56a9c-thumbnail.jpg",
-      "pkInfoTitle": "Cage Warriors 206: Unplugged",
-      "modifyTitle": "UFC Fight Pass",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cage-warriors-206-unplugged",
-          "name": "Cage Warriors 206: Unplugged"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23304",
-      "pID": "23304",
-      "title": "Marquee Sports Net",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marquee Sports Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/763a9528aa8d96bde7e04136136cee12-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Blue Jays vs. Chicago Cubs",
-      "modifyTitle": "Marquee Sports Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Ftor-chc",
-          "name": "Toronto Blue Jays vs. Chicago Cubs"
-        }
-      ]
-    },
-    {
       "mgdbId": "23394",
       "pID": "23394",
       "title": "United Rugby Championship",
@@ -122,33 +50,33 @@
       ]
     },
     {
-      "mgdbId": "23395",
-      "pID": "23395",
-      "title": "Fox League",
+      "mgdbId": "23332",
+      "pID": "23332",
+      "title": "FIFA World Cup",
       "keyword": "06月20日00:00",
-      "sportItemId": "8",
+      "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "Fox League",
+      "competitionName": "FIFA World Cup",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c5d6e361ac9571c2379ad8465dd81671-thumbnail.jpg",
-      "pkInfoTitle": "Hull KR vs. Leigh Leopards",
-      "modifyTitle": "Fox League",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6d4f090bfc3d475caabfc9f7f06d6ea0-thumbnail.jpg",
+      "pkInfoTitle": "Scotland vs. Morocco",
+      "modifyTitle": "FIFA World Cup",
       "presenters": "",
       "matchInfo": {
         "time": "06月20日00:00"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=super-league%2F2026-06-19%2Fhul-lei",
-          "name": "Hull KR vs. Leigh Leopards"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-19%2Fsco-mar",
+          "name": "Scotland vs. Morocco"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-19T21:30:50.950Z",
-  "shanghaiTime": "2026-06-20T05:30:50.950Z",
-  "count": 6,
+  "timestamp": "2026-06-19T22:00:52.753Z",
+  "shanghaiTime": "2026-06-20T06:00:52.753Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
