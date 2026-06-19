@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23229",
-      "pID": "23229",
-      "title": "YES",
-      "keyword": "06月19日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "YES",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a312ecd5fd1da4fb5cabf790f96f7c3b-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. New York Yankees",
-      "modifyTitle": "YES",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fchw-nyy",
-          "name": "Chicago White Sox vs. New York Yankees"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23230",
-      "pID": "23230",
-      "title": "BravesVision",
-      "keyword": "06月19日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3e14d3c4360c12d7f794ff7c01109732-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fsf-atl",
-          "name": "San Francisco Giants vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
       "mgdbId": "23231",
       "pID": "23231",
       "title": "Royals.TV",
@@ -146,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T02:30:42.893Z",
-  "shanghaiTime": "2026-06-19T10:30:42.893Z",
-  "count": 6,
+  "timestamp": "2026-06-19T03:00:50.455Z",
+  "shanghaiTime": "2026-06-19T11:00:50.455Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
