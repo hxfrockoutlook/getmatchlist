@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23394",
-      "pID": "23394",
-      "title": "United Rugby Championship",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "United Rugby Championship",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7e694ffe6f13605efc65bb623372cd15-thumbnail.jpg",
-      "pkInfoTitle": "Leinster vs. Bulls",
-      "modifyTitle": "United Rugby Championship",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=united-rugby-championship%2F2026-06-19%2Flei-bul",
-          "name": "Leinster vs. Bulls"
-        }
-      ]
-    },
-    {
       "mgdbId": "23332",
       "pID": "23332",
       "title": "FIFA World Cup",
@@ -74,9 +50,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T22:00:52.753Z",
-  "shanghaiTime": "2026-06-20T06:00:52.753Z",
-  "count": 3,
+  "timestamp": "2026-06-19T22:30:46.179Z",
+  "shanghaiTime": "2026-06-20T06:30:46.179Z",
+  "count": 2,
   "mode": "today",
   "source": "no_data"
 }
