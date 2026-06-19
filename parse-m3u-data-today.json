@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "23390",
-      "pID": "23390",
-      "title": "ONE Championship",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ONE Championship",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/cc6d5cf4b19c441df2cac75dc845ff40-thumbnail.jpg",
-      "pkInfoTitle": "ONE Friday Fights 159 & The Inner Circle 19",
-      "modifyTitle": "ONE Championship",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=one-friday-fights-159--the-inner-circle-19",
-          "name": "ONE Friday Fights 159 & The Inner Circle 19"
-        }
-      ]
-    },
-    {
       "mgdbId": "23323",
       "pID": "23323",
       "title": "Women's VNL 2026",
@@ -122,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T17:00:52.608Z",
-  "shanghaiTime": "2026-06-20T01:00:52.608Z",
-  "count": 5,
+  "timestamp": "2026-06-19T17:30:45.874Z",
+  "shanghaiTime": "2026-06-20T01:30:45.874Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
