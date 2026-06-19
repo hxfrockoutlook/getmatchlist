@@ -2,6 +2,30 @@
   "success": true,
   "data": [
     {
+      "mgdbId": "",
+      "pID": "983488708402",
+      "title": "抖音CBA直播间",
+      "keyword": "06月19日19:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBA联赛",
+      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "抖音CBA直播间",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日19:30"
+      },
+      "nodes": [
+        {
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-119578793147630418.flv?expire=1782471661&sign=467e7e11372a999b501e74793cf7f5d5&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-119578793147630418_850_flv&t_id=037-202606191901017740D7C57DB9A999C331-pk7Zrx"
+        }
+      ]
+    },
+    {
       "mgdbId": "23318",
       "pID": "23318",
       "title": "Women's VNL 2026",
@@ -122,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T10:30:44.289Z",
-  "shanghaiTime": "2026-06-19T18:30:44.289Z",
-  "count": 5,
+  "timestamp": "2026-06-19T11:01:03.873Z",
+  "shanghaiTime": "2026-06-19T19:01:03.873Z",
+  "count": 6,
   "mode": "today",
-  "source": "no_data"
+  "source": "cba_live"
 }
