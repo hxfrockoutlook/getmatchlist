@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23319",
-      "pID": "23319",
-      "title": "Women's VNL 2026",
-      "keyword": "06月19日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4302a1830b840d91033184767d535528-thumbnail.jpg",
-      "pkInfoTitle": "Ukraine vs. Netherlands",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-19%2Fukr-net",
-          "name": "Ukraine vs. Netherlands"
-        }
-      ]
-    },
-    {
       "mgdbId": "23383",
       "pID": "23383",
       "title": "Round 2",
@@ -168,10 +144,34 @@
           "name": "France vs. China"
         }
       ]
+    },
+    {
+      "mgdbId": "23322",
+      "pID": "23322",
+      "title": "Women's VNL 2026",
+      "keyword": "06月19日13:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/31237fd565bb752448647f6af118bedc-thumbnail.jpg",
+      "pkInfoTitle": "Bulgaria vs. Canada",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-19%2Fbul-can",
+          "name": "Bulgaria vs. Canada"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T13:00:57.363Z",
-  "shanghaiTime": "2026-06-19T21:00:57.363Z",
+  "timestamp": "2026-06-19T13:30:57.429Z",
+  "shanghaiTime": "2026-06-19T21:30:57.429Z",
   "count": 7,
   "mode": "today",
   "source": "no_data"
