@@ -72,11 +72,179 @@
           "name": "Chicago White Sox vs. Detroit Tigers"
         }
       ]
+    },
+    {
+      "mgdbId": "23306",
+      "pID": "23306",
+      "title": "YES",
+      "keyword": "06月20日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "YES",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg",
+      "pkInfoTitle": "Cincinnati Reds vs. New York Yankees",
+      "modifyTitle": "YES",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fcin-nyy",
+          "name": "Cincinnati Reds vs. New York Yankees"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23307",
+      "pID": "23307",
+      "title": "Marlins.TV",
+      "keyword": "06月20日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marlins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg",
+      "pkInfoTitle": "San Francisco Giants vs. Miami Marlins",
+      "modifyTitle": "Marlins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fsf-mia",
+          "name": "San Francisco Giants vs. Miami Marlins"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23308",
+      "pID": "23308",
+      "title": "Rays.TV",
+      "keyword": "06月20日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rays.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e8410e69102f710645ed14f84aaf270e-thumbnail.jpg",
+      "pkInfoTitle": "Washington Nationals vs. Tampa Bay Rays",
+      "modifyTitle": "Rays.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fwsh-tb",
+          "name": "Washington Nationals vs. Tampa Bay Rays"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23309",
+      "pID": "23309",
+      "title": "BravesVision",
+      "keyword": "06月20日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "BravesVision",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg",
+      "pkInfoTitle": "Milwaukee Brewers vs. Atlanta Braves",
+      "modifyTitle": "BravesVision",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fmil-atl",
+          "name": "Milwaukee Brewers vs. Atlanta Braves"
+        }
+      ]
+    },
+    {
+      "mgdbId": "22996",
+      "pID": "22996",
+      "title": "Cats",
+      "keyword": "06月20日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Cats",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7759e49d995ae6ec03cdc47e1e31ee2c-thumbnail.jpg",
+      "pkInfoTitle": "BC Lions vs. Hamilton Tiger",
+      "modifyTitle": "Cats",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-19%2Fbc-ham",
+          "name": "BC Lions vs. Hamilton Tiger"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23301",
+      "pID": "23301",
+      "title": "NBC Sports BO",
+      "keyword": "06月20日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports BO",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b40c435b22b21881fdf5eba133f6bfed-thumbnail.jpg",
+      "pkInfoTitle": "Toronto Tempo vs. Connecticut Sun",
+      "modifyTitle": "NBC Sports BO",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-19%2Ftor-con",
+          "name": "Toronto Tempo vs. Connecticut Sun"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23302",
+      "pID": "23302",
+      "title": "ION",
+      "keyword": "06月20日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ION",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0fe5c4879054ec1b08ec581b55c5682c-thumbnail.jpg",
+      "pkInfoTitle": "Washington Mystics vs. New York Liberty",
+      "modifyTitle": "ION",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-19%2Fwsh-ny",
+          "name": "Washington Mystics vs. New York Liberty"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T23:00:51.172Z",
-  "shanghaiTime": "2026-06-20T07:00:51.172Z",
-  "count": 3,
+  "timestamp": "2026-06-19T23:30:42.412Z",
+  "shanghaiTime": "2026-06-20T07:30:42.412Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
