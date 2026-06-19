@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23185",
-      "pID": "23185",
-      "title": "FIFA World Cup",
-      "keyword": "06月19日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/13c6171581ad666d7f581701ad9cff04-thumbnail.jpg",
-      "pkInfoTitle": "Canada vs. Qatar",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-18%2Fcan-qat",
-          "name": "Canada vs. Qatar"
-        }
-      ]
-    },
-    {
       "mgdbId": "23228",
       "pID": "23228",
       "title": "NBC Sports Phil",
@@ -146,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T00:00:53.269Z",
-  "shanghaiTime": "2026-06-19T08:00:53.269Z",
-  "count": 6,
+  "timestamp": "2026-06-19T00:30:50.924Z",
+  "shanghaiTime": "2026-06-19T08:30:50.924Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
