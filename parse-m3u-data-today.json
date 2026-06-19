@@ -168,11 +168,35 @@
           "name": "TNA: Impact"
         }
       ]
+    },
+    {
+      "mgdbId": "23232",
+      "pID": "23232",
+      "title": "NBC Sports CA",
+      "keyword": "06月19日01:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBC Sports CA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e8cc687540db7b4862b162bee6fa5aec-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Angels vs. Athletics",
+      "modifyTitle": "NBC Sports CA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日01:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Flaa-ath",
+          "name": "Los Angeles Angels vs. Athletics"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T01:30:44.795Z",
-  "shanghaiTime": "2026-06-19T09:30:44.795Z",
-  "count": 7,
+  "timestamp": "2026-06-19T02:00:55.853Z",
+  "shanghaiTime": "2026-06-19T10:00:55.853Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
