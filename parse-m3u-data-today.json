@@ -168,11 +168,59 @@
           "name": "Leinster vs. Bulls"
         }
       ]
+    },
+    {
+      "mgdbId": "23324",
+      "pID": "23324",
+      "title": "FIFA World Cup",
+      "keyword": "06月20日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/258445f7ce12077e10855a702d01aadf-thumbnail.jpg",
+      "pkInfoTitle": "United States vs. Australia",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-19%2Fusa-aus",
+          "name": "United States vs. Australia"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23395",
+      "pID": "23395",
+      "title": "Fox League",
+      "keyword": "06月20日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c5d6e361ac9571c2379ad8465dd81671-thumbnail.jpg",
+      "pkInfoTitle": "Hull KR vs. Leigh Leopards",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=super-league%2F2026-06-19%2Fhul-lei",
+          "name": "Hull KR vs. Leigh Leopards"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T18:30:49.848Z",
-  "shanghaiTime": "2026-06-20T02:30:49.848Z",
-  "count": 7,
+  "timestamp": "2026-06-19T19:01:02.414Z",
+  "shanghaiTime": "2026-06-20T03:01:02.414Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
