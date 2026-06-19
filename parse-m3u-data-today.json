@@ -24,11 +24,107 @@
           "name": "Dominican Republic vs. Serbia"
         }
       ]
+    },
+    {
+      "mgdbId": "22875",
+      "pID": "22875",
+      "title": "Fox Footy",
+      "keyword": "06月19日09:40",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/45e27731fd1a84d3a01c0795000e4746-thumbnail.jpg",
+      "pkInfoTitle": "Gold Coast SUNS vs. Hawthorn",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日09:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-19%2Fgcfc-haw",
+          "name": "Gold Coast SUNS vs. Hawthorn"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23275",
+      "pID": "23275",
+      "title": "2nd Test",
+      "keyword": "06月19日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "2nd Test",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg",
+      "pkInfoTitle": "England vs. New Zealand",
+      "modifyTitle": "2nd Test",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026%2Feng-nzl%2F2nd-test",
+          "name": "England vs. New Zealand"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23021",
+      "pID": "23021",
+      "title": "Fox League",
+      "keyword": "06月19日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a6234ffcd973f2d22b65f051da4bb31b-thumbnail.jpg",
+      "pkInfoTitle": "Knights vs. Dragons",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-19%2Fnew-st.",
+          "name": "Knights vs. Dragons"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23319",
+      "pID": "23319",
+      "title": "Women's VNL 2026",
+      "keyword": "06月19日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4302a1830b840d91033184767d535528-thumbnail.jpg",
+      "pkInfoTitle": "Ukraine vs. Netherlands",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-19%2Fukr-net",
+          "name": "Ukraine vs. Netherlands"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T09:30:51.051Z",
-  "shanghaiTime": "2026-06-19T17:30:51.051Z",
-  "count": 1,
+  "timestamp": "2026-06-19T10:00:58.056Z",
+  "shanghaiTime": "2026-06-19T18:00:58.056Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
