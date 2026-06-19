@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23031",
-      "pID": "23031",
-      "title": "AMC",
-      "keyword": "06月19日01:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AMC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
-      "pkInfoTitle": "TNA: Impact",
-      "modifyTitle": "AMC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=tna%2Fimpact%2F2026-06-18",
-          "name": "TNA: Impact"
-        }
-      ]
-    },
-    {
       "mgdbId": "23232",
       "pID": "23232",
       "title": "NBC Sports CA",
@@ -50,9 +26,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T03:30:49.768Z",
-  "shanghaiTime": "2026-06-19T11:30:49.768Z",
-  "count": 2,
+  "timestamp": "2026-06-19T04:00:49.884Z",
+  "shanghaiTime": "2026-06-19T12:00:49.884Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
