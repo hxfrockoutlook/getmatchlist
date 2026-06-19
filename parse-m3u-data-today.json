@@ -98,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "23320",
-      "pID": "23320",
-      "title": "Women's VNL 2026",
-      "keyword": "06月19日12:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c95f74a7eca74c455183e78c7079701f-thumbnail.jpg",
-      "pkInfoTitle": "Japan vs. Czechia",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-19%2Fjap-cze",
-          "name": "Japan vs. Czechia"
-        }
-      ]
-    },
-    {
       "mgdbId": "23321",
       "pID": "23321",
       "title": "Women's VNL 2026",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T15:00:59.672Z",
-  "shanghaiTime": "2026-06-19T23:00:59.672Z",
-  "count": 7,
+  "timestamp": "2026-06-19T15:30:56.737Z",
+  "shanghaiTime": "2026-06-19T23:30:56.737Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
