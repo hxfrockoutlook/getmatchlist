@@ -98,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "23322",
-      "pID": "23322",
-      "title": "Women's VNL 2026",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/31237fd565bb752448647f6af118bedc-thumbnail.jpg",
-      "pkInfoTitle": "Bulgaria vs. Canada",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-19%2Fbul-can",
-          "name": "Bulgaria vs. Canada"
-        }
-      ]
-    },
-    {
       "mgdbId": "23323",
       "pID": "23323",
       "title": "Women's VNL 2026",
@@ -146,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-19T16:30:47.645Z",
-  "shanghaiTime": "2026-06-20T00:30:47.645Z",
-  "count": 6,
+  "timestamp": "2026-06-19T17:00:52.608Z",
+  "shanghaiTime": "2026-06-20T01:00:52.608Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
