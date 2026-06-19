@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "06月19日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-119578793147630418.flv?expire=1782473450&sign=58c46fef6c9dbd83ecff7fe5ca0df8e5&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-119578793147630418_850_flv&t_id=037-20260619193050E7851C998CADAF98AD08-O07VTO"
-        }
-      ]
-    },
-    {
       "mgdbId": "22875",
       "pID": "22875",
       "title": "Fox Footy",
@@ -144,11 +120,35 @@
           "name": "US Open"
         }
       ]
+    },
+    {
+      "mgdbId": "23320",
+      "pID": "23320",
+      "title": "Women's VNL 2026",
+      "keyword": "06月19日12:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c95f74a7eca74c455183e78c7079701f-thumbnail.jpg",
+      "pkInfoTitle": "Japan vs. Czechia",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-19%2Fjap-cze",
+          "name": "Japan vs. Czechia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T11:30:53.564Z",
-  "shanghaiTime": "2026-06-19T19:30:53.564Z",
+  "timestamp": "2026-06-19T12:01:07.366Z",
+  "shanghaiTime": "2026-06-19T20:01:07.366Z",
   "count": 6,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
