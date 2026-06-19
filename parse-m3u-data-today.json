@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23227",
-      "pID": "23227",
-      "title": "Mariners.TV",
-      "keyword": "06月19日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Mariners.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/35ce677c79e0574b0a1aa8ae8592df1c-thumbnail.jpg",
-      "pkInfoTitle": "Baltimore Orioles vs. Seattle Mariners",
-      "modifyTitle": "Mariners.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月19日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fbal-sea",
-          "name": "Baltimore Orioles vs. Seattle Mariners"
-        }
-      ]
-    },
-    {
       "mgdbId": "23185",
       "pID": "23185",
       "title": "FIFA World Cup",
@@ -144,10 +120,34 @@
           "name": "Atlanta Dream vs. Indiana Fever"
         }
       ]
+    },
+    {
+      "mgdbId": "23231",
+      "pID": "23231",
+      "title": "Royals.TV",
+      "keyword": "06月19日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Royals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0739848adc9ffec5dbca3083dd1e1d3d-thumbnail.jpg",
+      "pkInfoTitle": "St. Louis Cardinals vs. Kansas City Royals",
+      "modifyTitle": "Royals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月19日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-18%2Fstl-kc",
+          "name": "St. Louis Cardinals vs. Kansas City Royals"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-18T23:30:41.458Z",
-  "shanghaiTime": "2026-06-19T07:30:41.458Z",
+  "timestamp": "2026-06-19T00:00:53.269Z",
+  "shanghaiTime": "2026-06-19T08:00:53.269Z",
   "count": 6,
   "mode": "today",
   "source": "no_data"
