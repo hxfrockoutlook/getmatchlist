@@ -48,11 +48,35 @@
           "name": "Scotland vs. Morocco"
         }
       ]
+    },
+    {
+      "mgdbId": "23305",
+      "pID": "23305",
+      "title": "Tigers.TV",
+      "keyword": "06月20日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Tigers.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/06cec066993770c81ab112f5e54f8e02-thumbnail.jpg",
+      "pkInfoTitle": "Chicago White Sox vs. Detroit Tigers",
+      "modifyTitle": "Tigers.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fchw-det",
+          "name": "Chicago White Sox vs. Detroit Tigers"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T22:30:46.179Z",
-  "shanghaiTime": "2026-06-20T06:30:46.179Z",
-  "count": 2,
+  "timestamp": "2026-06-19T23:00:51.172Z",
+  "shanghaiTime": "2026-06-20T07:00:51.172Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
