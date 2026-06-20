@@ -98,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "23364",
-      "pID": "23364",
-      "title": "FIFA World Cup",
-      "keyword": "06月21日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/54f7a274a5fd459731a79a7d56520d53-thumbnail.jpg",
-      "pkInfoTitle": "Germany vs. Ivory Coast",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-20%2Fger-civ",
-          "name": "Germany vs. Ivory Coast"
-        }
-      ]
-    },
-    {
       "mgdbId": "23444",
       "pID": "23444",
       "title": "Rangers Sports Network",
@@ -242,9 +218,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T22:01:05.321Z",
-  "shanghaiTime": "2026-06-21T06:01:05.321Z",
-  "count": 10,
+  "timestamp": "2026-06-20T22:30:49.260Z",
+  "shanghaiTime": "2026-06-21T06:30:49.260Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
