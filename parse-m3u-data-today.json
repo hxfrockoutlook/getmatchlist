@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23022",
-      "pID": "23022",
-      "title": "Fox League",
-      "keyword": "06月20日05:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/30c46083eb18055de074f5a6a6e2e0c8-thumbnail.jpg",
-      "pkInfoTitle": "Wests Tigers vs. Dolphins",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日05:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-20%2Fwes-dol",
-          "name": "Wests Tigers vs. Dolphins"
-        }
-      ]
-    },
-    {
       "mgdbId": "22903",
       "pID": "22903",
       "title": "Fox Footy",
@@ -48,10 +24,34 @@
           "name": "GWS GIANTS vs. Carlton"
         }
       ]
+    },
+    {
+      "mgdbId": "23023",
+      "pID": "23023",
+      "title": "Fox League",
+      "keyword": "06月20日07:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/80b5d073b41e918855d83afa6314e90e-thumbnail.jpg",
+      "pkInfoTitle": "Titans vs. Panthers",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日07:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-20%2Fgol-pen",
+          "name": "Titans vs. Panthers"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T07:00:51.601Z",
-  "shanghaiTime": "2026-06-20T15:00:51.601Z",
+  "timestamp": "2026-06-20T07:30:47.208Z",
+  "shanghaiTime": "2026-06-20T15:30:47.208Z",
   "count": 2,
   "mode": "today",
   "source": "no_data"
