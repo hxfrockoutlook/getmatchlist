@@ -240,11 +240,35 @@
           "name": "Netherlands vs. Sweden"
         }
       ]
+    },
+    {
+      "mgdbId": "23441",
+      "pID": "23441",
+      "title": "Tigers.TV",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Tigers.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/06cec066993770c81ab112f5e54f8e02-thumbnail.jpg",
+      "pkInfoTitle": "Chicago White Sox vs. Detroit Tigers",
+      "modifyTitle": "Tigers.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fchw-det",
+          "name": "Chicago White Sox vs. Detroit Tigers"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T17:01:00.248Z",
-  "shanghaiTime": "2026-06-21T01:01:00.248Z",
-  "count": 10,
+  "timestamp": "2026-06-20T17:30:52.012Z",
+  "shanghaiTime": "2026-06-21T01:30:52.012Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
