@@ -98,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "22998",
-      "pID": "22998",
-      "title": "CFL+",
-      "keyword": "06月21日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CFL+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e67a044783c1549e59ae7c8873502047-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Argonauts vs. Ottawa RedBlacks",
-      "modifyTitle": "CFL+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-20%2Ftor-ott",
-          "name": "Toronto Argonauts vs. Ottawa RedBlacks"
-        }
-      ]
-    },
-    {
       "mgdbId": "23441",
       "pID": "23441",
       "title": "Tigers.TV",
@@ -336,11 +312,107 @@
           "name": "Germany vs. Ivory Coast"
         }
       ]
+    },
+    {
+      "mgdbId": "23444",
+      "pID": "23444",
+      "title": "Rangers Sports Network",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rangers Sports Network",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/86c51b0095c76e5125e2ba00ff4d5020-thumbnail.jpg",
+      "pkInfoTitle": "San Diego Padres vs. Texas Rangers",
+      "modifyTitle": "Rangers Sports Network",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fsd-tex",
+          "name": "San Diego Padres vs. Texas Rangers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23445",
+      "pID": "23445",
+      "title": "BravesVision",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "BravesVision",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg",
+      "pkInfoTitle": "Milwaukee Brewers vs. Atlanta Braves",
+      "modifyTitle": "BravesVision",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fmil-atl",
+          "name": "Milwaukee Brewers vs. Atlanta Braves"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23446",
+      "pID": "23446",
+      "title": "Marlins.TV",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marlins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg",
+      "pkInfoTitle": "San Francisco Giants vs. Miami Marlins",
+      "modifyTitle": "Marlins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fsf-mia",
+          "name": "San Francisco Giants vs. Miami Marlins"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23447",
+      "pID": "23447",
+      "title": "Rays.TV",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rays.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e8410e69102f710645ed14f84aaf270e-thumbnail.jpg",
+      "pkInfoTitle": "Washington Nationals vs. Tampa Bay Rays",
+      "modifyTitle": "Rays.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fwsh-tb",
+          "name": "Washington Nationals vs. Tampa Bay Rays"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T20:00:57.003Z",
-  "shanghaiTime": "2026-06-21T04:00:57.003Z",
-  "count": 14,
+  "timestamp": "2026-06-20T20:30:56.866Z",
+  "shanghaiTime": "2026-06-21T04:30:56.866Z",
+  "count": 17,
   "mode": "today",
   "source": "no_data"
 }
