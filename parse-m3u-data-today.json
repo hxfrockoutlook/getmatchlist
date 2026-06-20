@@ -2,150 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23306",
-      "pID": "23306",
-      "title": "YES",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "YES",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg",
-      "pkInfoTitle": "Cincinnati Reds vs. New York Yankees",
-      "modifyTitle": "YES",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fcin-nyy",
-          "name": "Cincinnati Reds vs. New York Yankees"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23307",
-      "pID": "23307",
-      "title": "Marlins.TV",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Miami Marlins",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fsf-mia",
-          "name": "San Francisco Giants vs. Miami Marlins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23308",
-      "pID": "23308",
-      "title": "Rays.TV",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rays.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8410e69102f710645ed14f84aaf270e-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. Tampa Bay Rays",
-      "modifyTitle": "Rays.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fwsh-tb",
-          "name": "Washington Nationals vs. Tampa Bay Rays"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23309",
-      "pID": "23309",
-      "title": "BravesVision",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fmil-atl",
-          "name": "Milwaukee Brewers vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22996",
-      "pID": "22996",
-      "title": "Cats",
-      "keyword": "06月20日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cats",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7759e49d995ae6ec03cdc47e1e31ee2c-thumbnail.jpg",
-      "pkInfoTitle": "BC Lions vs. Hamilton Tiger",
-      "modifyTitle": "Cats",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-19%2Fbc-ham",
-          "name": "BC Lions vs. Hamilton Tiger"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23032",
-      "pID": "23032",
-      "title": "USA",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "USA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-      "pkInfoTitle": "WWE: Friday Night Smackdown",
-      "modifyTitle": "USA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fsmackdown%2F2026-06-19",
-          "name": "WWE: Friday Night Smackdown"
-        }
-      ]
-    },
-    {
       "mgdbId": "23310",
       "pID": "23310",
       "title": "Rangers Sports Network",
@@ -190,54 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fcle-hou",
           "name": "Cleveland Guardians vs. Houston Astros"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23312",
-      "pID": "23312",
-      "title": "Apple TV",
-      "keyword": "06月20日00:15",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Apple TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0739848adc9ffec5dbca3083dd1e1d3d-thumbnail.jpg",
-      "pkInfoTitle": "St. Louis Cardinals vs. Kansas City Royals",
-      "modifyTitle": "Apple TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:15"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fstl-kc",
-          "name": "St. Louis Cardinals vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23340",
-      "pID": "23340",
-      "title": "FIFA World Cup",
-      "keyword": "06月20日00:30",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f99bc8d8020299f14f5595ed8210fe69-thumbnail.jpg",
-      "pkInfoTitle": "Brazil vs. Haiti",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-19%2Fbra-hai",
-          "name": "Brazil vs. Haiti"
         }
       ]
     },
@@ -384,11 +192,35 @@
           "name": "Boston Red Sox vs. Seattle Mariners"
         }
       ]
+    },
+    {
+      "mgdbId": "23348",
+      "pID": "23348",
+      "title": "FIFA World Cup",
+      "keyword": "06月20日03:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/edcdc7f424c4e1844b7b066bbd2b3936-thumbnail.jpg",
+      "pkInfoTitle": "Türkiye vs. Paraguay",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日03:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-19%2Ftur-par",
+          "name": "Türkiye vs. Paraguay"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T02:30:43.551Z",
-  "shanghaiTime": "2026-06-20T10:30:43.551Z",
-  "count": 16,
+  "timestamp": "2026-06-20T03:00:51.192Z",
+  "shanghaiTime": "2026-06-20T11:00:51.192Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
