@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "23000",
-      "pID": "23000",
-      "title": "CFL+",
-      "keyword": "06月21日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CFL+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg",
-      "pkInfoTitle": "Montreal Alouettes vs. Edmonton Elks",
-      "modifyTitle": "CFL+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-20%2Fmtl-edm",
-          "name": "Montreal Alouettes vs. Edmonton Elks"
-        }
-      ]
-    },
-    {
       "mgdbId": "23444",
       "pID": "23444",
       "title": "Rangers Sports Network",
@@ -240,11 +216,59 @@
           "name": "Saskatchewan Roughriders vs. Calgary Stampeders"
         }
       ]
+    },
+    {
+      "mgdbId": "23448",
+      "pID": "23448",
+      "title": "MLB.TV",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MLB.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. Philadelphia Phillies",
+      "modifyTitle": "MLB.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fnym-phi",
+          "name": "New York Mets vs. Philadelphia Phillies"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23449",
+      "pID": "23449",
+      "title": "MLB.TV",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MLB.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6e82030998e177b0e85a1a6d6d6d9962-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Houston Astros",
+      "modifyTitle": "MLB.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fcle-hou",
+          "name": "Cleveland Guardians vs. Houston Astros"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T23:00:55.566Z",
-  "shanghaiTime": "2026-06-21T07:00:55.566Z",
-  "count": 10,
+  "timestamp": "2026-06-20T23:30:49.148Z",
+  "shanghaiTime": "2026-06-21T07:30:49.148Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
