@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23305",
-      "pID": "23305",
-      "title": "Tigers.TV",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Tigers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/06cec066993770c81ab112f5e54f8e02-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. Detroit Tigers",
-      "modifyTitle": "Tigers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fchw-det",
-          "name": "Chicago White Sox vs. Detroit Tigers"
-        }
-      ]
-    },
-    {
       "mgdbId": "23306",
       "pID": "23306",
       "title": "YES",
@@ -142,54 +118,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-19%2Fbc-ham",
           "name": "BC Lions vs. Hamilton Tiger"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23301",
-      "pID": "23301",
-      "title": "NBC Sports BO",
-      "keyword": "06月20日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports BO",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b40c435b22b21881fdf5eba133f6bfed-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Tempo vs. Connecticut Sun",
-      "modifyTitle": "NBC Sports BO",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-19%2Ftor-con",
-          "name": "Toronto Tempo vs. Connecticut Sun"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23302",
-      "pID": "23302",
-      "title": "ION",
-      "keyword": "06月20日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ION",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0fe5c4879054ec1b08ec581b55c5682c-thumbnail.jpg",
-      "pkInfoTitle": "Washington Mystics vs. New York Liberty",
-      "modifyTitle": "ION",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-19%2Fwsh-ny",
-          "name": "Washington Mystics vs. New York Liberty"
         }
       ]
     },
@@ -408,11 +336,59 @@
           "name": "Minnesota Lynx vs. Golden State Valkyries"
         }
       ]
+    },
+    {
+      "mgdbId": "23316",
+      "pID": "23316",
+      "title": "Sportsnet LA",
+      "keyword": "06月20日02:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Sportsnet LA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c12603876fc61be7d66840690d9b2571-thumbnail.jpg",
+      "pkInfoTitle": "Baltimore Orioles vs. Los Angeles Dodgers",
+      "modifyTitle": "Sportsnet LA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日02:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fbal-lad",
+          "name": "Baltimore Orioles vs. Los Angeles Dodgers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23317",
+      "pID": "23317",
+      "title": "Mariners.TV",
+      "keyword": "06月20日02:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Mariners.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/02a2fd07ea55992126e844c4bc1daecb-thumbnail.jpg",
+      "pkInfoTitle": "Boston Red Sox vs. Seattle Mariners",
+      "modifyTitle": "Mariners.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日02:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fbos-sea",
+          "name": "Boston Red Sox vs. Seattle Mariners"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T02:00:57.872Z",
-  "shanghaiTime": "2026-06-20T10:00:57.872Z",
-  "count": 17,
+  "timestamp": "2026-06-20T02:30:43.551Z",
+  "shanghaiTime": "2026-06-20T10:30:43.551Z",
+  "count": 16,
   "mode": "today",
   "source": "no_data"
 }
