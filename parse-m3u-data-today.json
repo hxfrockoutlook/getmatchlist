@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "23442",
-      "pID": "23442",
-      "title": "YES",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "YES",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg",
-      "pkInfoTitle": "Cincinnati Reds vs. New York Yankees",
-      "modifyTitle": "YES",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fcin-nyy",
-          "name": "Cincinnati Reds vs. New York Yankees"
-        }
-      ]
-    },
-    {
       "mgdbId": "23393",
       "pID": "23393",
       "title": "DAZN",
@@ -166,30 +142,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-20%2Fsea-phx",
           "name": "Seattle Storm vs. Phoenix Mercury"
-        }
-      ]
-    },
-    {
-      "mgdbId": "22985",
-      "pID": "22985",
-      "title": "LALIGA 2",
-      "keyword": "06月21日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "LALIGA 2",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4e44af48b56ccb3bd87b68c2c0a26876-thumbnail.jpg",
-      "pkInfoTitle": "Almería vs. Málaga",
-      "modifyTitle": "LALIGA 2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=laliga-2%2F2026-06-20%2Falm-mcf",
-          "name": "Almería vs. Málaga"
         }
       ]
     },
@@ -290,6 +242,30 @@
       ]
     },
     {
+      "mgdbId": "23445",
+      "pID": "23445",
+      "title": "BravesVision",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "BravesVision",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg",
+      "pkInfoTitle": "Milwaukee Brewers vs. Atlanta Braves",
+      "modifyTitle": "BravesVision",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fmil-atl",
+          "name": "Milwaukee Brewers vs. Atlanta Braves"
+        }
+      ]
+    },
+    {
       "mgdbId": "23446",
       "pID": "23446",
       "title": "Marlins.TV",
@@ -362,9 +338,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T21:00:55.474Z",
-  "shanghaiTime": "2026-06-21T05:00:55.474Z",
-  "count": 15,
+  "timestamp": "2026-06-20T21:30:48.055Z",
+  "shanghaiTime": "2026-06-21T05:30:48.055Z",
+  "count": 14,
   "mode": "today",
   "source": "no_data"
 }
