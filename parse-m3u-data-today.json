@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23457",
-      "pID": "23457",
-      "title": "Women's VNL 2026",
-      "keyword": "06月20日12:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6840c277f0ea1e26460abccc7b80d076-thumbnail.jpg",
-      "pkInfoTitle": "Japan vs. Dominican Republic",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-20%2Fjap-dom",
-          "name": "Japan vs. Dominican Republic"
-        }
-      ]
-    },
-    {
       "mgdbId": "23458",
       "pID": "23458",
       "title": "Women's VNL 2026",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T15:01:00.154Z",
-  "shanghaiTime": "2026-06-20T23:01:00.154Z",
-  "count": 7,
+  "timestamp": "2026-06-20T15:30:58.470Z",
+  "shanghaiTime": "2026-06-20T23:30:58.470Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
