@@ -312,11 +312,35 @@
           "name": "Brazil vs. Haiti"
         }
       ]
+    },
+    {
+      "mgdbId": "23313",
+      "pID": "23313",
+      "title": "Rockies.TV",
+      "keyword": "06月20日00:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rockies.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8ac078f08b2afdc08721512da99232ef-thumbnail.jpg",
+      "pkInfoTitle": "Pittsburgh Pirates vs. Colorado Rockies",
+      "modifyTitle": "Rockies.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fpit-col",
+          "name": "Pittsburgh Pirates vs. Colorado Rockies"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T00:30:42.526Z",
-  "shanghaiTime": "2026-06-20T08:30:42.526Z",
-  "count": 13,
+  "timestamp": "2026-06-20T01:00:46.273Z",
+  "shanghaiTime": "2026-06-20T09:00:46.273Z",
+  "count": 14,
   "mode": "today",
   "source": "no_data"
 }
