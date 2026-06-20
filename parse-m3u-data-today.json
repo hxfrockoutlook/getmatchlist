@@ -2,6 +2,30 @@
   "success": true,
   "data": [
     {
+      "mgdbId": "",
+      "pID": "983488708402",
+      "title": "抖音CBA直播间",
+      "keyword": "06月20日19:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBA联赛",
+      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "抖音CBA直播间",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日19:30"
+      },
+      "nodes": [
+        {
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-407814975693521746.flv?expire=6a3fad70&sign=c448851f9484b63e09c142e45888392e&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-407814975693521746_850_flv&t_id=037-2026062019010496761A464672D69C3987-gWSOD2"
+        }
+      ]
+    },
+    {
       "mgdbId": "23455",
       "pID": "23455",
       "title": "Women's VNL 2026",
@@ -120,11 +144,35 @@
           "name": "Netherlands vs. Poland"
         }
       ]
+    },
+    {
+      "mgdbId": "23388",
+      "pID": "23388",
+      "title": "PDC.TV",
+      "keyword": "06月20日11:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "PDC.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+      "pkInfoTitle": "Slovak Darts Open | Day 2",
+      "modifyTitle": "PDC.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=darts%2F2026%2Fet9%2Fday-2",
+          "name": "Slovak Darts Open | Day 2"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T10:30:45.313Z",
-  "shanghaiTime": "2026-06-20T18:30:45.313Z",
-  "count": 5,
+  "timestamp": "2026-06-20T11:01:06.750Z",
+  "shanghaiTime": "2026-06-20T19:01:06.750Z",
+  "count": 7,
   "mode": "today",
-  "source": "no_data"
+  "source": "cba_live"
 }
