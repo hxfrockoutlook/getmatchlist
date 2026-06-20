@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23023",
-      "pID": "23023",
-      "title": "Fox League",
-      "keyword": "06月20日07:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/80b5d073b41e918855d83afa6314e90e-thumbnail.jpg",
-      "pkInfoTitle": "Titans vs. Panthers",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日07:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-20%2Fgol-pen",
-          "name": "Titans vs. Panthers"
-        }
-      ]
-    },
-    {
       "mgdbId": "23455",
       "pID": "23455",
       "title": "Women's VNL 2026",
@@ -72,11 +48,107 @@
           "name": "USA vs. Italy"
         }
       ]
+    },
+    {
+      "mgdbId": "22904",
+      "pID": "22904",
+      "title": "Fox Footy",
+      "keyword": "06月20日09:35",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/89a51c42fe2d08ea964d139ef732eaf8-thumbnail.jpg",
+      "pkInfoTitle": "Collingwood vs. Port Adelaide",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日09:35"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-20%2Fcoll-port",
+          "name": "Collingwood vs. Port Adelaide"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23024",
+      "pID": "23024",
+      "title": "Fox League",
+      "keyword": "06月20日09:35",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ae3467b32b9fbe99ebf669d0127757e8-thumbnail.jpg",
+      "pkInfoTitle": "Bulldogs vs. Sea Eagles",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日09:35"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-20%2Fcan-man",
+          "name": "Bulldogs vs. Sea Eagles"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23275",
+      "pID": "23275",
+      "title": "2nd Test",
+      "keyword": "06月20日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "2nd Test",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg",
+      "pkInfoTitle": "England vs. New Zealand",
+      "modifyTitle": "2nd Test",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026%2Feng-nzl%2F2nd-test",
+          "name": "England vs. New Zealand"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23456",
+      "pID": "23456",
+      "title": "Women's VNL 2026",
+      "keyword": "06月20日10:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d586528f9e509f3ecf8771bac4a1b46b-thumbnail.jpg",
+      "pkInfoTitle": "Netherlands vs. Poland",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日10:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-20%2Fnet-pol",
+          "name": "Netherlands vs. Poland"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T09:30:45.503Z",
-  "shanghaiTime": "2026-06-20T17:30:45.503Z",
-  "count": 3,
+  "timestamp": "2026-06-20T10:00:56.807Z",
+  "shanghaiTime": "2026-06-20T18:00:56.807Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
