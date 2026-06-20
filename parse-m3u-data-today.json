@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23313",
-      "pID": "23313",
-      "title": "Rockies.TV",
-      "keyword": "06月20日00:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8ac078f08b2afdc08721512da99232ef-thumbnail.jpg",
-      "pkInfoTitle": "Pittsburgh Pirates vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fpit-col",
-          "name": "Pittsburgh Pirates vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
       "mgdbId": "23314",
       "pID": "23314",
       "title": "NBC Sports CA",
@@ -194,9 +170,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T04:00:58.206Z",
-  "shanghaiTime": "2026-06-20T12:00:58.206Z",
-  "count": 8,
+  "timestamp": "2026-06-20T04:30:42.851Z",
+  "shanghaiTime": "2026-06-20T12:30:42.851Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
