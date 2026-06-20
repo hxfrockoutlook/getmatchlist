@@ -50,6 +50,30 @@
       ]
     },
     {
+      "mgdbId": "23312",
+      "pID": "23312",
+      "title": "Apple TV",
+      "keyword": "06月20日00:15",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Apple TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0739848adc9ffec5dbca3083dd1e1d3d-thumbnail.jpg",
+      "pkInfoTitle": "St. Louis Cardinals vs. Kansas City Royals",
+      "modifyTitle": "Apple TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fstl-kc",
+          "name": "St. Louis Cardinals vs. Kansas City Royals"
+        }
+      ]
+    },
+    {
       "mgdbId": "23313",
       "pID": "23313",
       "title": "Rockies.TV",
@@ -216,11 +240,35 @@
           "name": "Türkiye vs. Paraguay"
         }
       ]
+    },
+    {
+      "mgdbId": "22876",
+      "pID": "22876",
+      "title": "Fox Footy",
+      "keyword": "06月20日03:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/9ec6670606b2ffe9548010a834ea998e-thumbnail.jpg",
+      "pkInfoTitle": "Adelaide Crows vs. Melbourne",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日03:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-20%2Fadel-melb",
+          "name": "Adelaide Crows vs. Melbourne"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T03:00:51.192Z",
-  "shanghaiTime": "2026-06-20T11:00:51.192Z",
-  "count": 9,
+  "timestamp": "2026-06-20T03:30:45.631Z",
+  "shanghaiTime": "2026-06-20T11:30:45.631Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
