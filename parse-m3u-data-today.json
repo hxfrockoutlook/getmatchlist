@@ -21,31 +21,7 @@
       "nodes": [
         {
           "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f26.douyinliving.com/media/stream-407814975693521746.flv?expire=6a3fad70&sign=c448851f9484b63e09c142e45888392e&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-407814975693521746_850_flv&t_id=037-2026062019010496761A464672D69C3987-gWSOD2"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23455",
-      "pID": "23455",
-      "title": "Women's VNL 2026",
-      "keyword": "06月20日08:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/5a504c693c5cea05a9a6d9e75f8505d0-thumbnail.jpg",
-      "pkInfoTitle": "USA vs. Italy",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日08:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-20%2Fusa-ita",
-          "name": "USA vs. Italy"
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-407814975693521746.flv?expire=1782559849&sign=bece838c627bea04f49307f4c04f5e45&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-407814975693521746_850_flv&t_id=037-2026062019304919047782C11F50F84207-OA347E"
         }
       ]
     },
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T11:01:06.750Z",
-  "shanghaiTime": "2026-06-20T19:01:06.750Z",
-  "count": 7,
+  "timestamp": "2026-06-20T11:30:51.392Z",
+  "shanghaiTime": "2026-06-20T19:30:51.392Z",
+  "count": 6,
   "mode": "today",
   "source": "cba_live"
 }
