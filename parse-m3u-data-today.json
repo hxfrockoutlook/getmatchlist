@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23024",
-      "pID": "23024",
-      "title": "Fox League",
-      "keyword": "06月20日09:35",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ae3467b32b9fbe99ebf669d0127757e8-thumbnail.jpg",
-      "pkInfoTitle": "Bulldogs vs. Sea Eagles",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日09:35"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-20%2Fcan-man",
-          "name": "Bulldogs vs. Sea Eagles"
-        }
-      ]
-    },
-    {
       "mgdbId": "23275",
       "pID": "23275",
       "title": "2nd Test",
@@ -146,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T12:01:06.090Z",
-  "shanghaiTime": "2026-06-20T20:01:06.090Z",
-  "count": 6,
+  "timestamp": "2026-06-20T12:30:50.677Z",
+  "shanghaiTime": "2026-06-20T20:30:50.677Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
