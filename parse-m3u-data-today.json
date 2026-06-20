@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23459",
-      "pID": "23459",
-      "title": "Women's VNL 2026",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/acf0c1a681e24e6c3ec956395c3b9016-thumbnail.jpg",
-      "pkInfoTitle": "Thailand vs. Canada",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-20%2Ftha-can",
-          "name": "Thailand vs. Canada"
-        }
-      ]
-    },
-    {
       "mgdbId": "23467",
       "pID": "23467",
       "title": "PGA Tour",
@@ -192,11 +168,83 @@
           "name": "Türkiye vs. Germany"
         }
       ]
+    },
+    {
+      "mgdbId": "22998",
+      "pID": "22998",
+      "title": "CFL+",
+      "keyword": "06月21日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CFL+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/e67a044783c1549e59ae7c8873502047-thumbnail.jpg",
+      "pkInfoTitle": "Toronto Argonauts vs. Ottawa RedBlacks",
+      "modifyTitle": "CFL+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-20%2Ftor-ott",
+          "name": "Toronto Argonauts vs. Ottawa RedBlacks"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23438",
+      "pID": "23438",
+      "title": "ABC",
+      "keyword": "06月21日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ABC",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fbfa453d83555c93919687160a06abb7-thumbnail.jpg",
+      "pkInfoTitle": "Indiana Fever vs. Atlanta Dream",
+      "modifyTitle": "ABC",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-20%2Find-atl",
+          "name": "Indiana Fever vs. Atlanta Dream"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23356",
+      "pID": "23356",
+      "title": "FIFA World Cup",
+      "keyword": "06月21日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/49a8f0a47c0834f20f40db7218f3ced4-thumbnail.jpg",
+      "pkInfoTitle": "Netherlands vs. Sweden",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-20%2Fned-swe",
+          "name": "Netherlands vs. Sweden"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T16:30:56.443Z",
-  "shanghaiTime": "2026-06-21T00:30:56.443Z",
-  "count": 8,
+  "timestamp": "2026-06-20T17:01:00.248Z",
+  "shanghaiTime": "2026-06-21T01:01:00.248Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
