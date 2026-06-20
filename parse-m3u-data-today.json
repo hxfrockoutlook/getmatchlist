@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23456",
-      "pID": "23456",
-      "title": "Women's VNL 2026",
-      "keyword": "06月20日10:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d586528f9e509f3ecf8771bac4a1b46b-thumbnail.jpg",
-      "pkInfoTitle": "Netherlands vs. Poland",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日10:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-20%2Fnet-pol",
-          "name": "Netherlands vs. Poland"
-        }
-      ]
-    },
-    {
       "mgdbId": "23388",
       "pID": "23388",
       "title": "PDC.TV",
@@ -120,10 +96,34 @@
           "name": "China vs. Brazil"
         }
       ]
+    },
+    {
+      "mgdbId": "23459",
+      "pID": "23459",
+      "title": "Women's VNL 2026",
+      "keyword": "06月20日13:30",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/acf0c1a681e24e6c3ec956395c3b9016-thumbnail.jpg",
+      "pkInfoTitle": "Thailand vs. Canada",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日13:30"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-20%2Ftha-can",
+          "name": "Thailand vs. Canada"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T13:00:55.595Z",
-  "shanghaiTime": "2026-06-20T21:00:55.595Z",
+  "timestamp": "2026-06-20T13:31:04.290Z",
+  "shanghaiTime": "2026-06-20T21:31:04.290Z",
   "count": 5,
   "mode": "today",
   "source": "no_data"
