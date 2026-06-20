@@ -98,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "23002",
-      "pID": "23002",
-      "title": "AFLE+",
-      "keyword": "06月21日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AFLE+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/67ffdb3628a436114baa101077b6a29a-thumbnail.jpg",
-      "pkInfoTitle": "Paris Lights vs. Alpine Rams",
-      "modifyTitle": "AFLE+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-20%2Fpar-alp",
-          "name": "Paris Lights vs. Alpine Rams"
-        }
-      ]
-    },
-    {
       "mgdbId": "23471",
       "pID": "23471",
       "title": "OKTAGON.TV",
@@ -214,30 +190,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-20%2Find-atl",
           "name": "Indiana Fever vs. Atlanta Dream"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23356",
-      "pID": "23356",
-      "title": "FIFA World Cup",
-      "keyword": "06月21日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/49a8f0a47c0834f20f40db7218f3ced4-thumbnail.jpg",
-      "pkInfoTitle": "Netherlands vs. Sweden",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-20%2Fned-swe",
-          "name": "Netherlands vs. Sweden"
         }
       ]
     },
@@ -384,11 +336,35 @@
           "name": "Almería vs. Málaga"
         }
       ]
+    },
+    {
+      "mgdbId": "23392",
+      "pID": "23392",
+      "title": "UFC Fight Pass",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "UFC Fight Pass",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4e6a350f1630085facab883877538f22-thumbnail.jpg",
+      "pkInfoTitle": "Cage Warriors 207",
+      "modifyTitle": "UFC Fight Pass",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cage-warriors-207",
+          "name": "Cage Warriors 207"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T19:00:58.914Z",
-  "shanghaiTime": "2026-06-21T03:00:58.914Z",
-  "count": 16,
+  "timestamp": "2026-06-20T19:30:49.605Z",
+  "shanghaiTime": "2026-06-21T03:30:49.605Z",
+  "count": 15,
   "mode": "today",
   "source": "no_data"
 }
