@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23275",
-      "pID": "23275",
-      "title": "2nd Test",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "2nd Test",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg",
-      "pkInfoTitle": "England vs. New Zealand",
-      "modifyTitle": "2nd Test",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026%2Feng-nzl%2F2nd-test",
-          "name": "England vs. New Zealand"
-        }
-      ]
-    },
-    {
       "mgdbId": "23388",
       "pID": "23388",
       "title": "PDC.TV",
@@ -122,30 +98,6 @@
       ]
     },
     {
-      "mgdbId": "23460",
-      "pID": "23460",
-      "title": "Women's VNL 2026",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ea6c4318049d3a4cc782f591ea9a34ef-thumbnail.jpg",
-      "pkInfoTitle": "Türkiye vs. Germany",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-20%2Ft%C3%BCr-ger",
-          "name": "Türkiye vs. Germany"
-        }
-      ]
-    },
-    {
       "mgdbId": "22998",
       "pID": "22998",
       "title": "CFL+",
@@ -166,30 +118,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-20%2Ftor-ott",
           "name": "Toronto Argonauts vs. Ottawa RedBlacks"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23438",
-      "pID": "23438",
-      "title": "ABC",
-      "keyword": "06月21日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fbfa453d83555c93919687160a06abb7-thumbnail.jpg",
-      "pkInfoTitle": "Indiana Fever vs. Atlanta Dream",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-20%2Find-atl",
-          "name": "Indiana Fever vs. Atlanta Dream"
         }
       ]
     },
@@ -360,11 +288,59 @@
           "name": "Cage Warriors 207"
         }
       ]
+    },
+    {
+      "mgdbId": "23000",
+      "pID": "23000",
+      "title": "CFL+",
+      "keyword": "06月21日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CFL+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg",
+      "pkInfoTitle": "Montreal Alouettes vs. Edmonton Elks",
+      "modifyTitle": "CFL+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-20%2Fmtl-edm",
+          "name": "Montreal Alouettes vs. Edmonton Elks"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23364",
+      "pID": "23364",
+      "title": "FIFA World Cup",
+      "keyword": "06月21日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/54f7a274a5fd459731a79a7d56520d53-thumbnail.jpg",
+      "pkInfoTitle": "Germany vs. Ivory Coast",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-20%2Fger-civ",
+          "name": "Germany vs. Ivory Coast"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T19:30:49.605Z",
-  "shanghaiTime": "2026-06-21T03:30:49.605Z",
-  "count": 15,
+  "timestamp": "2026-06-20T20:00:57.003Z",
+  "shanghaiTime": "2026-06-21T04:00:57.003Z",
+  "count": 14,
   "mode": "today",
   "source": "no_data"
 }
