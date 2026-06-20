@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23388",
-      "pID": "23388",
-      "title": "PDC.TV",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PDC.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
-      "pkInfoTitle": "Slovak Darts Open | Day 2",
-      "modifyTitle": "PDC.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=darts%2F2026%2Fet9%2Fday-2",
-          "name": "Slovak Darts Open | Day 2"
-        }
-      ]
-    },
-    {
       "mgdbId": "23467",
       "pID": "23467",
       "title": "PGA Tour",
@@ -50,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "15856",
-      "pID": "15856",
-      "title": "Peacock",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Peacock",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
-      "pkInfoTitle": "Pro Motocross: High Point",
-      "modifyTitle": "Peacock",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=smx-wk21",
-          "name": "Pro Motocross: High Point"
-        }
-      ]
-    },
-    {
       "mgdbId": "23393",
       "pID": "23393",
       "title": "DAZN",
@@ -94,54 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=ryan-garner-vs-michael-magnesi",
           "name": "Ryan Garner vs. Michael Magnesi"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23443",
-      "pID": "23443",
-      "title": "Marquee Sports Net",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marquee Sports Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/763a9528aa8d96bde7e04136136cee12-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Blue Jays vs. Chicago Cubs",
-      "modifyTitle": "Marquee Sports Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Ftor-chc",
-          "name": "Toronto Blue Jays vs. Chicago Cubs"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23439",
-      "pID": "23439",
-      "title": "ABC",
-      "keyword": "06月21日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ABC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b2818a77fa2cde6b51ae1977cf818735-thumbnail.jpg",
-      "pkInfoTitle": "Seattle Storm vs. Phoenix Mercury",
-      "modifyTitle": "ABC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-20%2Fsea-phx",
-          "name": "Seattle Storm vs. Phoenix Mercury"
         }
       ]
     },
@@ -338,9 +242,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T21:30:48.055Z",
-  "shanghaiTime": "2026-06-21T05:30:48.055Z",
-  "count": 14,
+  "timestamp": "2026-06-20T22:01:05.321Z",
+  "shanghaiTime": "2026-06-21T06:01:05.321Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
