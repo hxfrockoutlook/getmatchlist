@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23303",
-      "pID": "23303",
-      "title": "ION",
-      "keyword": "06月20日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ION",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f3c64f130c71a3f3c74c40e491bd96db-thumbnail.jpg",
-      "pkInfoTitle": "Minnesota Lynx vs. Golden State Valkyries",
-      "modifyTitle": "ION",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-19%2Fmin-gs",
-          "name": "Minnesota Lynx vs. Golden State Valkyries"
-        }
-      ]
-    },
-    {
       "mgdbId": "23316",
       "pID": "23316",
       "title": "Sportsnet LA",
@@ -168,10 +144,34 @@
           "name": "Adelaide Crows vs. Melbourne"
         }
       ]
+    },
+    {
+      "mgdbId": "23022",
+      "pID": "23022",
+      "title": "Fox League",
+      "keyword": "06月20日05:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/30c46083eb18055de074f5a6a6e2e0c8-thumbnail.jpg",
+      "pkInfoTitle": "Wests Tigers vs. Dolphins",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日05:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-20%2Fwes-dol",
+          "name": "Wests Tigers vs. Dolphins"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T04:30:42.851Z",
-  "shanghaiTime": "2026-06-20T12:30:42.851Z",
+  "timestamp": "2026-06-20T05:00:53.716Z",
+  "shanghaiTime": "2026-06-20T13:00:53.716Z",
   "count": 7,
   "mode": "today",
   "source": "no_data"
