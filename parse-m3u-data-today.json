@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "22876",
-      "pID": "22876",
-      "title": "Fox Footy",
-      "keyword": "06月20日03:15",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/9ec6670606b2ffe9548010a834ea998e-thumbnail.jpg",
-      "pkInfoTitle": "Adelaide Crows vs. Melbourne",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日03:15"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-20%2Fadel-melb",
-          "name": "Adelaide Crows vs. Melbourne"
-        }
-      ]
-    },
-    {
       "mgdbId": "23022",
       "pID": "23022",
       "title": "Fox League",
@@ -48,10 +24,34 @@
           "name": "Wests Tigers vs. Dolphins"
         }
       ]
+    },
+    {
+      "mgdbId": "22903",
+      "pID": "22903",
+      "title": "Fox Footy",
+      "keyword": "06月20日06:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/141e3b0497f6d37d9da7d4f2a06ad918-thumbnail.jpg",
+      "pkInfoTitle": "GWS GIANTS vs. Carlton",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日06:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-20%2Fgws-carl",
+          "name": "GWS GIANTS vs. Carlton"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T06:00:57.378Z",
-  "shanghaiTime": "2026-06-20T14:00:57.378Z",
+  "timestamp": "2026-06-20T06:30:50.213Z",
+  "shanghaiTime": "2026-06-20T14:30:50.213Z",
   "count": 2,
   "mode": "today",
   "source": "no_data"
