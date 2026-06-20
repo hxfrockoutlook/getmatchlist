@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "",
-      "pID": "983488708402",
-      "title": "抖音CBA直播间",
-      "keyword": "06月20日19:30",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBA联赛",
-      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
-      "competitionLogo": "",
-      "pkInfoTitle": "抖音CBA直播间",
-      "modifyTitle": "",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日19:30"
-      },
-      "nodes": [
-        {
-          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
-          "url": "http://pull-flv-f11.douyinliving.com/media/stream-407814975693521746.flv?expire=1782559849&sign=bece838c627bea04f49307f4c04f5e45&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&unique_id=stream-407814975693521746_850_flv&t_id=037-2026062019304919047782C11F50F84207-OA347E"
-        }
-      ]
-    },
-    {
       "mgdbId": "22904",
       "pID": "22904",
       "title": "Fox Footy",
@@ -144,11 +120,35 @@
           "name": "Slovak Darts Open | Day 2"
         }
       ]
+    },
+    {
+      "mgdbId": "23457",
+      "pID": "23457",
+      "title": "Women's VNL 2026",
+      "keyword": "06月20日12:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6840c277f0ea1e26460abccc7b80d076-thumbnail.jpg",
+      "pkInfoTitle": "Japan vs. Dominican Republic",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日12:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-20%2Fjap-dom",
+          "name": "Japan vs. Dominican Republic"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T11:30:51.392Z",
-  "shanghaiTime": "2026-06-20T19:30:51.392Z",
+  "timestamp": "2026-06-20T12:01:06.090Z",
+  "shanghaiTime": "2026-06-20T20:01:06.090Z",
   "count": 6,
   "mode": "today",
-  "source": "cba_live"
+  "source": "no_data"
 }
