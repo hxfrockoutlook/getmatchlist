@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23314",
-      "pID": "23314",
-      "title": "NBC Sports CA",
-      "keyword": "06月20日01:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports CA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8cc687540db7b4862b162bee6fa5aec-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Angels vs. Athletics",
-      "modifyTitle": "NBC Sports CA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日01:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Flaa-ath",
-          "name": "Los Angeles Angels vs. Athletics"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23315",
-      "pID": "23315",
-      "title": "Apple TV",
-      "keyword": "06月20日01:45",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Apple TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bf560e6a2cb2ca186061b2d0cb239c13-thumbnail.jpg",
-      "pkInfoTitle": "Minnesota Twins vs. Arizona Diamondbacks",
-      "modifyTitle": "Apple TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日01:45"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fmin-ari",
-          "name": "Minnesota Twins vs. Arizona Diamondbacks"
-        }
-      ]
-    },
-    {
       "mgdbId": "23316",
       "pID": "23316",
       "title": "Sportsnet LA",
@@ -94,30 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-19%2Fbos-sea",
           "name": "Boston Red Sox vs. Seattle Mariners"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23348",
-      "pID": "23348",
-      "title": "FIFA World Cup",
-      "keyword": "06月20日03:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/edcdc7f424c4e1844b7b066bbd2b3936-thumbnail.jpg",
-      "pkInfoTitle": "Türkiye vs. Paraguay",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日03:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-19%2Ftur-par",
-          "name": "Türkiye vs. Paraguay"
         }
       ]
     },
@@ -170,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T05:00:53.716Z",
-  "shanghaiTime": "2026-06-20T13:00:53.716Z",
-  "count": 7,
+  "timestamp": "2026-06-20T05:30:46.751Z",
+  "shanghaiTime": "2026-06-20T13:30:46.751Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
