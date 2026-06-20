@@ -74,54 +74,6 @@
       ]
     },
     {
-      "mgdbId": "23471",
-      "pID": "23471",
-      "title": "OKTAGON.TV",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "OKTAGON.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/151a85042c914ef772580afecb70ea09-thumbnail.jpg",
-      "pkInfoTitle": "OKTAGON 90",
-      "modifyTitle": "OKTAGON.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=oktagon-90",
-          "name": "OKTAGON 90"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23441",
-      "pID": "23441",
-      "title": "Tigers.TV",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Tigers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/06cec066993770c81ab112f5e54f8e02-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. Detroit Tigers",
-      "modifyTitle": "Tigers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fchw-det",
-          "name": "Chicago White Sox vs. Detroit Tigers"
-        }
-      ]
-    },
-    {
       "mgdbId": "23442",
       "pID": "23442",
       "title": "YES",
@@ -338,30 +290,6 @@
       ]
     },
     {
-      "mgdbId": "23445",
-      "pID": "23445",
-      "title": "BravesVision",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fmil-atl",
-          "name": "Milwaukee Brewers vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
       "mgdbId": "23446",
       "pID": "23446",
       "title": "Marlins.TV",
@@ -408,11 +336,35 @@
           "name": "Washington Nationals vs. Tampa Bay Rays"
         }
       ]
+    },
+    {
+      "mgdbId": "23396",
+      "pID": "23396",
+      "title": "Paramount+",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Paramount+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b0450e24554efd9c39cc2367b93307fd-thumbnail.jpg",
+      "pkInfoTitle": "UFC Fight Night: Kape vs. Horiguchi",
+      "modifyTitle": "Paramount+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=ufc-fight-night-kape-vs-horiguchi",
+          "name": "UFC Fight Night: Kape vs. Horiguchi"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T20:30:56.866Z",
-  "shanghaiTime": "2026-06-21T04:30:56.866Z",
-  "count": 17,
+  "timestamp": "2026-06-20T21:00:55.474Z",
+  "shanghaiTime": "2026-06-21T05:00:55.474Z",
+  "count": 15,
   "mode": "today",
   "source": "no_data"
 }
