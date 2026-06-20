@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23462",
-      "pID": "23462",
-      "title": "ESPN AU",
-      "keyword": "06月20日07:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ESPN AU",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bfddd25248ea73c124bd3a1cf58905f6-thumbnail.jpg",
-      "pkInfoTitle": "Sydney Ice Dogs vs. Sydney Bears",
-      "modifyTitle": "ESPN AU",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日07:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=aihl%2F2026-06-20%2Fsid-syb",
-          "name": "Sydney Ice Dogs vs. Sydney Bears"
-        }
-      ]
-    },
-    {
       "mgdbId": "23455",
       "pID": "23455",
       "title": "Women's VNL 2026",
@@ -146,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-20T10:00:56.807Z",
-  "shanghaiTime": "2026-06-20T18:00:56.807Z",
-  "count": 6,
+  "timestamp": "2026-06-20T10:30:45.313Z",
+  "shanghaiTime": "2026-06-20T18:30:45.313Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
