@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23383",
-      "pID": "23383",
-      "title": "Round 2",
-      "keyword": "06月20日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Round 2",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fcfaff510b50af223cbba10c2fb4e9f6-thumbnail.jpg",
-      "pkInfoTitle": "US Open",
-      "modifyTitle": "Round 2",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月20日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=golf%2F2026-06-19%2Fus-open",
-          "name": "US Open"
-        }
-      ]
-    },
-    {
       "mgdbId": "23332",
       "pID": "23332",
       "title": "FIFA World Cup",
@@ -240,10 +216,34 @@
           "name": "Washington Mystics vs. New York Liberty"
         }
       ]
+    },
+    {
+      "mgdbId": "23032",
+      "pID": "23032",
+      "title": "USA",
+      "keyword": "06月20日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "USA",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+      "pkInfoTitle": "WWE: Friday Night Smackdown",
+      "modifyTitle": "USA",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月20日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fsmackdown%2F2026-06-19",
+          "name": "WWE: Friday Night Smackdown"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-19T23:30:42.412Z",
-  "shanghaiTime": "2026-06-20T07:30:42.412Z",
+  "timestamp": "2026-06-20T00:00:57.239Z",
+  "shanghaiTime": "2026-06-20T08:00:57.239Z",
   "count": 10,
   "mode": "today",
   "source": "no_data"
