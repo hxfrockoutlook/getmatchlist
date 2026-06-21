@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23532",
-      "pID": "23532",
-      "title": "Women's VNL 2026",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6daf8052a5f74582f63e6dbe922b45ad-thumbnail.jpg",
-      "pkInfoTitle": "Thailand vs. Netherlands",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-21%2Ftha-net",
-          "name": "Thailand vs. Netherlands"
-        }
-      ]
-    },
-    {
       "mgdbId": "23006",
       "pID": "23006",
       "title": "AFLE+",
@@ -146,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-21T16:30:49.258Z",
-  "shanghaiTime": "2026-06-22T00:30:49.258Z",
-  "count": 6,
+  "timestamp": "2026-06-21T17:00:53.378Z",
+  "shanghaiTime": "2026-06-22T01:00:53.378Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
