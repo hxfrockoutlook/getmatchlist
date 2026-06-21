@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23275",
-      "pID": "23275",
-      "title": "2nd Test",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "2nd Test",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg",
-      "pkInfoTitle": "England vs. New Zealand",
-      "modifyTitle": "2nd Test",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cricket%2F2026-06-21%2Feng-nzl",
-          "name": "England vs. New Zealand"
-        }
-      ]
-    },
-    {
       "mgdbId": "23389",
       "pID": "23389",
       "title": "PDC.TV",
@@ -46,30 +22,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=darts%2F2026%2Fet9%2Fday-3",
           "name": "Slovak Darts Open | Day 3"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23533",
-      "pID": "23533",
-      "title": "Women's VNL 2026",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/67764fdf99e2ed4fb9ddbb1ddb6f4a2a-thumbnail.jpg",
-      "pkInfoTitle": "Türkiye vs. China",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-21%2Ft%C3%BCr-chi",
-          "name": "Türkiye vs. China"
         }
       ]
     },
@@ -360,10 +312,58 @@
           "name": "Minnesota Twins vs. Arizona Diamondbacks"
         }
       ]
+    },
+    {
+      "mgdbId": "23508",
+      "pID": "23508",
+      "title": "CBS",
+      "keyword": "06月22日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBS",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ae0f6ac8f273c00705348c19b7645dfb-thumbnail.jpg",
+      "pkInfoTitle": "Golden State Valkyries vs. Las Vegas Aces",
+      "modifyTitle": "CBS",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-21%2Fgs-lv",
+          "name": "Golden State Valkyries vs. Las Vegas Aces"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23541",
+      "pID": "23541",
+      "title": "NASCAR Cup Series",
+      "keyword": "06月22日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NASCAR Cup Series",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/26315d454a0248ee5dd951da4bef3cf7-thumbnail.jpg",
+      "pkInfoTitle": "Anduril 250",
+      "modifyTitle": "NASCAR Cup Series",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nascar%2F2026-06-21%2Fanduril-250",
+          "name": "Anduril 250"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T19:30:50.651Z",
-  "shanghaiTime": "2026-06-22T03:30:50.651Z",
+  "timestamp": "2026-06-21T20:00:58.811Z",
+  "shanghaiTime": "2026-06-22T04:00:58.811Z",
   "count": 15,
   "mode": "today",
   "source": "no_data"
