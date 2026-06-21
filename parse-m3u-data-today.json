@@ -5,7 +5,7 @@
       "mgdbId": "23275",
       "pID": "23275",
       "title": "2nd Test",
-      "keyword": "06月21日10:00",
+      "keyword": "06月22日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -16,7 +16,7 @@
       "modifyTitle": "2nd Test",
       "presenters": "",
       "matchInfo": {
-        "time": "06月21日10:00"
+        "time": "06月22日00:00"
       },
       "nodes": [
         {
@@ -29,7 +29,7 @@
       "mgdbId": "23389",
       "pID": "23389",
       "title": "PDC.TV",
-      "keyword": "06月21日11:00",
+      "keyword": "06月22日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -40,7 +40,7 @@
       "modifyTitle": "PDC.TV",
       "presenters": "",
       "matchInfo": {
-        "time": "06月21日11:00"
+        "time": "06月22日00:00"
       },
       "nodes": [
         {
@@ -53,7 +53,7 @@
       "mgdbId": "23004",
       "pID": "23004",
       "title": "AFLE+",
-      "keyword": "06月21日13:00",
+      "keyword": "06月22日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -64,7 +64,7 @@
       "modifyTitle": "AFLE+",
       "presenters": "",
       "matchInfo": {
-        "time": "06月21日13:00"
+        "time": "06月22日00:00"
       },
       "nodes": [
         {
@@ -77,7 +77,7 @@
       "mgdbId": "23531",
       "pID": "23531",
       "title": "Women's VNL 2026",
-      "keyword": "06月21日13:00",
+      "keyword": "06月22日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -88,7 +88,7 @@
       "modifyTitle": "Women's VNL 2026",
       "presenters": "",
       "matchInfo": {
-        "time": "06月21日13:00"
+        "time": "06月22日00:00"
       },
       "nodes": [
         {
@@ -101,7 +101,7 @@
       "mgdbId": "23532",
       "pID": "23532",
       "title": "Women's VNL 2026",
-      "keyword": "06月21日13:30",
+      "keyword": "06月22日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
@@ -112,7 +112,7 @@
       "modifyTitle": "Women's VNL 2026",
       "presenters": "",
       "matchInfo": {
-        "time": "06月21日13:30"
+        "time": "06月22日00:00"
       },
       "nodes": [
         {
@@ -125,7 +125,7 @@
       "mgdbId": "23006",
       "pID": "23006",
       "title": "AFLE+",
-      "keyword": "06月21日15:10",
+      "keyword": "06月22日00:00",
       "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
@@ -136,7 +136,7 @@
       "modifyTitle": "AFLE+",
       "presenters": "",
       "matchInfo": {
-        "time": "06月21日15:10"
+        "time": "06月22日00:00"
       },
       "nodes": [
         {
@@ -144,11 +144,35 @@
           "name": "Berlin Thunder vs. Rhein Fire"
         }
       ]
+    },
+    {
+      "mgdbId": "23406",
+      "pID": "23406",
+      "title": "FIFA World Cup",
+      "keyword": "06月22日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ec3d94756c3620c631cdb4810d68c1f1-thumbnail.jpg",
+      "pkInfoTitle": "Spain vs. Saudi Arabia",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-21%2Fesp-ksa",
+          "name": "Spain vs. Saudi Arabia"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T15:31:01.365Z",
-  "shanghaiTime": "2026-06-21T23:31:01.365Z",
-  "count": 6,
+  "timestamp": "2026-06-21T16:01:01.010Z",
+  "shanghaiTime": "2026-06-22T00:01:01.010Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
