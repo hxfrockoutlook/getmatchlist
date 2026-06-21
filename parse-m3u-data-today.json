@@ -2,102 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23389",
-      "pID": "23389",
-      "title": "PDC.TV",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PDC.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
-      "pkInfoTitle": "Slovak Darts Open | Day 3",
-      "modifyTitle": "PDC.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=darts%2F2026%2Fet9%2Fday-3",
-          "name": "Slovak Darts Open | Day 3"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23516",
-      "pID": "23516",
-      "title": "Space City Home Network",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Space City Home Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6e82030998e177b0e85a1a6d6d6d9962-thumbnail.jpg",
-      "pkInfoTitle": "Cleveland Guardians vs. Houston Astros",
-      "modifyTitle": "Space City Home Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fcle-hou",
-          "name": "Cleveland Guardians vs. Houston Astros"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23517",
-      "pID": "23517",
-      "title": "Royals.TV",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Royals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0739848adc9ffec5dbca3083dd1e1d3d-thumbnail.jpg",
-      "pkInfoTitle": "St. Louis Cardinals vs. Kansas City Royals",
-      "modifyTitle": "Royals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fstl-kc",
-          "name": "St. Louis Cardinals vs. Kansas City Royals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23518",
-      "pID": "23518",
-      "title": "Marquee Sports Net",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marquee Sports Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/763a9528aa8d96bde7e04136136cee12-thumbnail.jpg",
-      "pkInfoTitle": "Toronto Blue Jays vs. Chicago Cubs",
-      "modifyTitle": "Marquee Sports Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Ftor-chc",
-          "name": "Toronto Blue Jays vs. Chicago Cubs"
-        }
-      ]
-    },
-    {
       "mgdbId": "23519",
       "pID": "23519",
       "title": "Rangers Sports Network",
@@ -288,11 +192,59 @@
           "name": "Boston Red Sox vs. Seattle Mariners"
         }
       ]
+    },
+    {
+      "mgdbId": "23509",
+      "pID": "23509",
+      "title": "NBA TV",
+      "keyword": "06月22日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "NBA TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6b96715c9e70234680b7f6ca1d9dc78a-thumbnail.jpg",
+      "pkInfoTitle": "Washington Mystics vs. Minnesota Lynx",
+      "modifyTitle": "NBA TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-21%2Fwsh-min",
+          "name": "Washington Mystics vs. Minnesota Lynx"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23422",
+      "pID": "23422",
+      "title": "FIFA World Cup",
+      "keyword": "06月22日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b7974e3df742c4f561f925dab6ab3d59-thumbnail.jpg",
+      "pkInfoTitle": "Uruguay vs. Cape Verde",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-21%2Furu-cpv",
+          "name": "Uruguay vs. Cape Verde"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T21:30:55.894Z",
-  "shanghaiTime": "2026-06-22T05:30:55.894Z",
-  "count": 12,
+  "timestamp": "2026-06-21T22:00:58.284Z",
+  "shanghaiTime": "2026-06-22T06:00:58.284Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
