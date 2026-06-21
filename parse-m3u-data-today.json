@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23520",
-      "pID": "23520",
-      "title": "Rockies.TV",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8ac078f08b2afdc08721512da99232ef-thumbnail.jpg",
-      "pkInfoTitle": "Pittsburgh Pirates vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fpit-col",
-          "name": "Pittsburgh Pirates vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23521",
-      "pID": "23521",
-      "title": "Peacock",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Peacock",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/bf560e6a2cb2ca186061b2d0cb239c13-thumbnail.jpg",
-      "pkInfoTitle": "Minnesota Twins vs. Arizona Diamondbacks",
-      "modifyTitle": "Peacock",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fmin-ari",
-          "name": "Minnesota Twins vs. Arizona Diamondbacks"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23508",
-      "pID": "23508",
-      "title": "CBS",
-      "keyword": "06月22日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBS",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ae0f6ac8f273c00705348c19b7645dfb-thumbnail.jpg",
-      "pkInfoTitle": "Golden State Valkyries vs. Las Vegas Aces",
-      "modifyTitle": "CBS",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-21%2Fgs-lv",
-          "name": "Golden State Valkyries vs. Las Vegas Aces"
-        }
-      ]
-    },
-    {
       "mgdbId": "23541",
       "pID": "23541",
       "title": "NASCAR Cup Series",
@@ -218,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-21T22:30:45.809Z",
-  "shanghaiTime": "2026-06-22T06:30:45.809Z",
-  "count": 9,
+  "timestamp": "2026-06-21T23:00:51.706Z",
+  "shanghaiTime": "2026-06-22T07:00:51.706Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
