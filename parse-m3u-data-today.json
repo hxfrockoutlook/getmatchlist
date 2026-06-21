@@ -26,126 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23511",
-      "pID": "23511",
-      "title": "YES",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "YES",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg",
-      "pkInfoTitle": "Cincinnati Reds vs. New York Yankees",
-      "modifyTitle": "YES",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fcin-nyy",
-          "name": "Cincinnati Reds vs. New York Yankees"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23512",
-      "pID": "23512",
-      "title": "BravesVision",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fmil-atl",
-          "name": "Milwaukee Brewers vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23513",
-      "pID": "23513",
-      "title": "Tigers.TV",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Tigers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/06cec066993770c81ab112f5e54f8e02-thumbnail.jpg",
-      "pkInfoTitle": "Chicago White Sox vs. Detroit Tigers",
-      "modifyTitle": "Tigers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fchw-det",
-          "name": "Chicago White Sox vs. Detroit Tigers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23514",
-      "pID": "23514",
-      "title": "Marlins.TV",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Miami Marlins",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fsf-mia",
-          "name": "San Francisco Giants vs. Miami Marlins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23515",
-      "pID": "23515",
-      "title": "Rays.TV",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rays.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8410e69102f710645ed14f84aaf270e-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. Tampa Bay Rays",
-      "modifyTitle": "Rays.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fwsh-tb",
-          "name": "Washington Nationals vs. Tampa Bay Rays"
-        }
-      ]
-    },
-    {
       "mgdbId": "23516",
       "pID": "23516",
       "title": "Space City Home Network",
@@ -238,30 +118,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fsd-tex",
           "name": "San Diego Padres vs. Texas Rangers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23414",
-      "pID": "23414",
-      "title": "FIFA World Cup",
-      "keyword": "06月22日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/90c9450f391bd2f08f9c479d88fbc11d-thumbnail.jpg",
-      "pkInfoTitle": "Belgium vs. Iran",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-21%2Fbel-irn",
-          "name": "Belgium vs. Iran"
         }
       ]
     },
@@ -434,9 +290,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-21T21:00:52.831Z",
-  "shanghaiTime": "2026-06-22T05:00:52.831Z",
-  "count": 18,
+  "timestamp": "2026-06-21T21:30:55.894Z",
+  "shanghaiTime": "2026-06-22T05:30:55.894Z",
+  "count": 12,
   "mode": "today",
   "source": "no_data"
 }
