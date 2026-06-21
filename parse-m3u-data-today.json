@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23026",
-      "pID": "23026",
-      "title": "Fox League",
-      "keyword": "06月21日06:05",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b6887bc60e8bea1b52d424755462b463-thumbnail.jpg",
-      "pkInfoTitle": "Storm vs. Raiders",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日06:05"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-21%2Fmel-can",
-          "name": "Storm vs. Raiders"
-        }
-      ]
-    },
-    {
       "mgdbId": "23527",
       "pID": "23527",
       "title": "Women's VNL 2026",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-21T08:30:47.939Z",
-  "shanghaiTime": "2026-06-21T16:30:47.939Z",
-  "count": 4,
+  "timestamp": "2026-06-21T09:00:51.171Z",
+  "shanghaiTime": "2026-06-21T17:00:51.171Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
