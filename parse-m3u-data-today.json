@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23530",
-      "pID": "23530",
-      "title": "Women's VNL 2026",
-      "keyword": "06月21日12:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ff53242e52cde2a71baf531452dee8d1-thumbnail.jpg",
-      "pkInfoTitle": "Japan vs. Italy",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日12:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-21%2Fjap-ita",
-          "name": "Japan vs. Italy"
-        }
-      ]
-    },
-    {
       "mgdbId": "23004",
       "pID": "23004",
       "title": "AFLE+",
@@ -144,10 +120,34 @@
           "name": "Thailand vs. Netherlands"
         }
       ]
+    },
+    {
+      "mgdbId": "23006",
+      "pID": "23006",
+      "title": "AFLE+",
+      "keyword": "06月21日15:10",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "AFLE+",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6ab1922d212e6c5f52169092fbeb6f62-thumbnail.jpg",
+      "pkInfoTitle": "Berlin Thunder vs. Rhein Fire",
+      "modifyTitle": "AFLE+",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日15:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-21%2Fber-rhe",
+          "name": "Berlin Thunder vs. Rhein Fire"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T15:01:00.460Z",
-  "shanghaiTime": "2026-06-21T23:01:00.460Z",
+  "timestamp": "2026-06-21T15:31:01.365Z",
+  "shanghaiTime": "2026-06-21T23:31:01.365Z",
   "count": 6,
   "mode": "today",
   "source": "no_data"
