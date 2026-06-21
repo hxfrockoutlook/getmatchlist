@@ -2,6 +2,30 @@
   "success": true,
   "data": [
     {
+      "mgdbId": "",
+      "pID": "983488708402",
+      "title": "抖音CBA直播间",
+      "keyword": "06月21日19:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBA联赛",
+      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "抖音CBA直播间",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日19:30"
+      },
+      "nodes": [
+        {
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f26.douyinliving.com/media/stream-696051012741366610.flv?expire=6a40fee6&sign=98f77af628a2806d0f4c54b95c9eb2f1&major_anchor_level=vip&s_anchor=1&arch_hrchy=s2&unique_id=stream-696051012741366610_850_flv&t_id=037-20260621190054E693DCE8CCA5586B8104-ekHyxZ"
+        }
+      ]
+    },
+    {
       "mgdbId": "23527",
       "pID": "23527",
       "title": "Women's VNL 2026",
@@ -22,30 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-21%2Fcze-dom",
           "name": "Czechia vs. Dominican Republic"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23027",
-      "pID": "23027",
-      "title": "Fox League",
-      "keyword": "06月21日08:15",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg",
-      "pkInfoTitle": "Roosters vs. Sharks",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日08:15"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-21%2Fsyd-cro",
-          "name": "Roosters vs. Sharks"
         }
       ]
     },
@@ -120,11 +120,35 @@
           "name": "Canada vs. Poland"
         }
       ]
+    },
+    {
+      "mgdbId": "23389",
+      "pID": "23389",
+      "title": "PDC.TV",
+      "keyword": "06月21日11:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "PDC.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+      "pkInfoTitle": "Slovak Darts Open | Day 3",
+      "modifyTitle": "PDC.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=darts%2F2026%2Fet9%2Fday-3",
+          "name": "Slovak Darts Open | Day 3"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T10:30:45.328Z",
-  "shanghaiTime": "2026-06-21T18:30:45.328Z",
-  "count": 5,
+  "timestamp": "2026-06-21T11:00:56.934Z",
+  "shanghaiTime": "2026-06-21T19:00:56.934Z",
+  "count": 6,
   "mode": "today",
-  "source": "no_data"
+  "source": "cba_live"
 }
