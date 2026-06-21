@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23392",
-      "pID": "23392",
-      "title": "UFC Fight Pass",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "UFC Fight Pass",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4e6a350f1630085facab883877538f22-thumbnail.jpg",
-      "pkInfoTitle": "Cage Warriors 207",
-      "modifyTitle": "UFC Fight Pass",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=cage-warriors-207",
-          "name": "Cage Warriors 207"
-        }
-      ]
-    },
-    {
       "mgdbId": "23396",
       "pID": "23396",
       "title": "Paramount+",
@@ -70,30 +46,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=cfl%2F2026-06-20%2Fssk-cgy",
           "name": "Saskatchewan Roughriders vs. Calgary Stampeders"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23448",
-      "pID": "23448",
-      "title": "MLB.TV",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg",
-      "pkInfoTitle": "New York Mets vs. Philadelphia Phillies",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fnym-phi",
-          "name": "New York Mets vs. Philadelphia Phillies"
         }
       ]
     },
@@ -192,11 +144,35 @@
           "name": "AEW: Saturday Night Collision"
         }
       ]
+    },
+    {
+      "mgdbId": "23450",
+      "pID": "23450",
+      "title": "Rockies.TV",
+      "keyword": "06月21日01:10",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rockies.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8ac078f08b2afdc08721512da99232ef-thumbnail.jpg",
+      "pkInfoTitle": "Pittsburgh Pirates vs. Colorado Rockies",
+      "modifyTitle": "Rockies.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日01:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fpit-col",
+          "name": "Pittsburgh Pirates vs. Colorado Rockies"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T01:00:52.345Z",
-  "shanghaiTime": "2026-06-21T09:00:52.345Z",
-  "count": 8,
+  "timestamp": "2026-06-21T01:30:47.843Z",
+  "shanghaiTime": "2026-06-21T09:30:47.843Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
