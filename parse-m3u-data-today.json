@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23006",
-      "pID": "23006",
-      "title": "AFLE+",
-      "keyword": "06月22日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "AFLE+",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6ab1922d212e6c5f52169092fbeb6f62-thumbnail.jpg",
-      "pkInfoTitle": "Berlin Thunder vs. Rhein Fire",
-      "modifyTitle": "AFLE+",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afle%2F2026-06-21%2Fber-rhe",
-          "name": "Berlin Thunder vs. Rhein Fire"
-        }
-      ]
-    },
-    {
       "mgdbId": "23533",
       "pID": "23533",
       "title": "Women's VNL 2026",
@@ -170,26 +146,26 @@
       ]
     },
     {
-      "mgdbId": "23515",
-      "pID": "23515",
-      "title": "Rays.TV",
+      "mgdbId": "23514",
+      "pID": "23514",
+      "title": "Marlins.TV",
       "keyword": "06月22日00:00",
       "sportItemId": "8",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "Rays.TV",
+      "competitionName": "Marlins.TV",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8410e69102f710645ed14f84aaf270e-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. Tampa Bay Rays",
-      "modifyTitle": "Rays.TV",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg",
+      "pkInfoTitle": "San Francisco Giants vs. Miami Marlins",
+      "modifyTitle": "Marlins.TV",
       "presenters": "",
       "matchInfo": {
         "time": "06月22日00:00"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fwsh-tb",
-          "name": "Washington Nationals vs. Tampa Bay Rays"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fsf-mia",
+          "name": "San Francisco Giants vs. Miami Marlins"
         }
       ]
     },
@@ -264,11 +240,59 @@
           "name": "Toronto Blue Jays vs. Chicago Cubs"
         }
       ]
+    },
+    {
+      "mgdbId": "23519",
+      "pID": "23519",
+      "title": "Rangers Sports Network",
+      "keyword": "06月22日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rangers Sports Network",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/86c51b0095c76e5125e2ba00ff4d5020-thumbnail.jpg",
+      "pkInfoTitle": "San Diego Padres vs. Texas Rangers",
+      "modifyTitle": "Rangers Sports Network",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fsd-tex",
+          "name": "San Diego Padres vs. Texas Rangers"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23414",
+      "pID": "23414",
+      "title": "FIFA World Cup",
+      "keyword": "06月22日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/90c9450f391bd2f08f9c479d88fbc11d-thumbnail.jpg",
+      "pkInfoTitle": "Belgium vs. Iran",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-21%2Fbel-irn",
+          "name": "Belgium vs. Iran"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T18:30:50.502Z",
-  "shanghaiTime": "2026-06-22T02:30:50.502Z",
-  "count": 11,
+  "timestamp": "2026-06-21T19:00:53.521Z",
+  "shanghaiTime": "2026-06-22T03:00:53.521Z",
+  "count": 12,
   "mode": "today",
   "source": "no_data"
 }
