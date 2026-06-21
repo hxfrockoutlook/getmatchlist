@@ -144,11 +144,35 @@
           "name": "Minnesota Twins vs. Arizona Diamondbacks"
         }
       ]
+    },
+    {
+      "mgdbId": "23018",
+      "pID": "23018",
+      "title": "Fox Footy",
+      "keyword": "06月21日03:10",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Footy",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b121b6e3326b8d8e6b2b8c9841c4890f-thumbnail.jpg",
+      "pkInfoTitle": "Richmond vs. North Melbourne",
+      "modifyTitle": "Fox Footy",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日03:10"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-21%2Frich-nmfc",
+          "name": "Richmond vs. North Melbourne"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T03:00:50.822Z",
-  "shanghaiTime": "2026-06-21T11:00:50.822Z",
-  "count": 6,
+  "timestamp": "2026-06-21T03:30:45.274Z",
+  "shanghaiTime": "2026-06-21T11:30:45.274Z",
+  "count": 7,
   "mode": "today",
   "source": "no_data"
 }
