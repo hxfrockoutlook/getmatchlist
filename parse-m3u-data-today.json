@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23461",
-      "pID": "23461",
-      "title": "Women's VNL 2026",
-      "keyword": "06月21日04:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Women's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/37ac74a15dd0383d9be586f5d6152d09-thumbnail.jpg",
-      "pkInfoTitle": "Serbia vs. USA",
-      "modifyTitle": "Women's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-21%2Fser-usa",
-          "name": "Serbia vs. USA"
-        }
-      ]
-    },
-    {
       "mgdbId": "23019",
       "pID": "23019",
       "title": "Fox Sports 503",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-21T07:00:50.664Z",
-  "shanghaiTime": "2026-06-21T15:00:50.664Z",
-  "count": 4,
+  "timestamp": "2026-06-21T07:30:52.567Z",
+  "shanghaiTime": "2026-06-21T15:30:52.567Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
