@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23467",
-      "pID": "23467",
-      "title": "PGA Tour",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "PGA Tour",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fcfaff510b50af223cbba10c2fb4e9f6-thumbnail.jpg",
-      "pkInfoTitle": "US Open | Round 3",
-      "modifyTitle": "PGA Tour",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=golf%2F2026-06-20%2Fus-open",
-          "name": "US Open | Round 3"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23393",
-      "pID": "23393",
-      "title": "DAZN",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DAZN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/946c8db429b487d649e05f6422c6d49d-thumbnail.jpg",
-      "pkInfoTitle": "Ryan Garner vs. Michael Magnesi",
-      "modifyTitle": "DAZN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=ryan-garner-vs-michael-magnesi",
-          "name": "Ryan Garner vs. Michael Magnesi"
-        }
-      ]
-    },
-    {
       "mgdbId": "23392",
       "pID": "23392",
       "title": "UFC Fight Pass",
@@ -70,102 +22,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=cage-warriors-207",
           "name": "Cage Warriors 207"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23444",
-      "pID": "23444",
-      "title": "Rangers Sports Network",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rangers Sports Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/86c51b0095c76e5125e2ba00ff4d5020-thumbnail.jpg",
-      "pkInfoTitle": "San Diego Padres vs. Texas Rangers",
-      "modifyTitle": "Rangers Sports Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fsd-tex",
-          "name": "San Diego Padres vs. Texas Rangers"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23445",
-      "pID": "23445",
-      "title": "BravesVision",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Atlanta Braves",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fmil-atl",
-          "name": "Milwaukee Brewers vs. Atlanta Braves"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23446",
-      "pID": "23446",
-      "title": "Marlins.TV",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Miami Marlins",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fsf-mia",
-          "name": "San Francisco Giants vs. Miami Marlins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23447",
-      "pID": "23447",
-      "title": "Rays.TV",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rays.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e8410e69102f710645ed14f84aaf270e-thumbnail.jpg",
-      "pkInfoTitle": "Washington Nationals vs. Tampa Bay Rays",
-      "modifyTitle": "Rays.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fwsh-tb",
-          "name": "Washington Nationals vs. Tampa Bay Rays"
         }
       ]
     },
@@ -264,11 +120,83 @@
           "name": "Cleveland Guardians vs. Houston Astros"
         }
       ]
+    },
+    {
+      "mgdbId": "23440",
+      "pID": "23440",
+      "title": "CBS",
+      "keyword": "06月21日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBS",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/028d3f042bd2a74d8f85f441c8580c78-thumbnail.jpg",
+      "pkInfoTitle": "Chicago Sky vs. Dallas Wings",
+      "modifyTitle": "CBS",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-20%2Fchi-dal",
+          "name": "Chicago Sky vs. Dallas Wings"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23372",
+      "pID": "23372",
+      "title": "FIFA World Cup",
+      "keyword": "06月21日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2602454adf1f99d24e3a2961102316eb-thumbnail.jpg",
+      "pkInfoTitle": "Ecuador vs. Curaçao",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-20%2Fecu-cuw",
+          "name": "Ecuador vs. Curaçao"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23033",
+      "pID": "23033",
+      "title": "TNT",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "TNT",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+      "pkInfoTitle": "AEW: Saturday Night Collision",
+      "modifyTitle": "TNT",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fcollision%2F2026-06-20",
+          "name": "AEW: Saturday Night Collision"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-20T23:30:49.148Z",
-  "shanghaiTime": "2026-06-21T07:30:49.148Z",
-  "count": 11,
+  "timestamp": "2026-06-21T00:00:56.195Z",
+  "shanghaiTime": "2026-06-21T08:00:56.195Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
