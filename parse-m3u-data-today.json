@@ -74,30 +74,6 @@
       ]
     },
     {
-      "mgdbId": "23406",
-      "pID": "23406",
-      "title": "FIFA World Cup",
-      "keyword": "06月22日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ec3d94756c3620c631cdb4810d68c1f1-thumbnail.jpg",
-      "pkInfoTitle": "Spain vs. Saudi Arabia",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-21%2Fesp-ksa",
-          "name": "Spain vs. Saudi Arabia"
-        }
-      ]
-    },
-    {
       "mgdbId": "23533",
       "pID": "23533",
       "title": "Women's VNL 2026",
@@ -194,30 +170,6 @@
       ]
     },
     {
-      "mgdbId": "23514",
-      "pID": "23514",
-      "title": "Marlins.TV",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Marlins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg",
-      "pkInfoTitle": "San Francisco Giants vs. Miami Marlins",
-      "modifyTitle": "Marlins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fsf-mia",
-          "name": "San Francisco Giants vs. Miami Marlins"
-        }
-      ]
-    },
-    {
       "mgdbId": "23515",
       "pID": "23515",
       "title": "Rays.TV",
@@ -240,11 +192,83 @@
           "name": "Washington Nationals vs. Tampa Bay Rays"
         }
       ]
+    },
+    {
+      "mgdbId": "23516",
+      "pID": "23516",
+      "title": "Space City Home Network",
+      "keyword": "06月22日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Space City Home Network",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/6e82030998e177b0e85a1a6d6d6d9962-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Houston Astros",
+      "modifyTitle": "Space City Home Network",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fcle-hou",
+          "name": "Cleveland Guardians vs. Houston Astros"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23517",
+      "pID": "23517",
+      "title": "Royals.TV",
+      "keyword": "06月22日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Royals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0739848adc9ffec5dbca3083dd1e1d3d-thumbnail.jpg",
+      "pkInfoTitle": "St. Louis Cardinals vs. Kansas City Royals",
+      "modifyTitle": "Royals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fstl-kc",
+          "name": "St. Louis Cardinals vs. Kansas City Royals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23518",
+      "pID": "23518",
+      "title": "Marquee Sports Net",
+      "keyword": "06月22日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marquee Sports Net",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/763a9528aa8d96bde7e04136136cee12-thumbnail.jpg",
+      "pkInfoTitle": "Toronto Blue Jays vs. Chicago Cubs",
+      "modifyTitle": "Marquee Sports Net",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Ftor-chc",
+          "name": "Toronto Blue Jays vs. Chicago Cubs"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T18:01:07.117Z",
-  "shanghaiTime": "2026-06-22T02:01:07.117Z",
-  "count": 10,
+  "timestamp": "2026-06-21T18:30:50.502Z",
+  "shanghaiTime": "2026-06-22T02:30:50.502Z",
+  "count": 11,
   "mode": "today",
   "source": "no_data"
 }
