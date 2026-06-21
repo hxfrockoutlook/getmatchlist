@@ -26,102 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23448",
-      "pID": "23448",
-      "title": "MLB.TV",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg",
-      "pkInfoTitle": "New York Mets vs. Philadelphia Phillies",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fnym-phi",
-          "name": "New York Mets vs. Philadelphia Phillies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23449",
-      "pID": "23449",
-      "title": "MLB.TV",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "MLB.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6e82030998e177b0e85a1a6d6d6d9962-thumbnail.jpg",
-      "pkInfoTitle": "Cleveland Guardians vs. Houston Astros",
-      "modifyTitle": "MLB.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fcle-hou",
-          "name": "Cleveland Guardians vs. Houston Astros"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23440",
-      "pID": "23440",
-      "title": "CBS",
-      "keyword": "06月21日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CBS",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/028d3f042bd2a74d8f85f441c8580c78-thumbnail.jpg",
-      "pkInfoTitle": "Chicago Sky vs. Dallas Wings",
-      "modifyTitle": "CBS",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-20%2Fchi-dal",
-          "name": "Chicago Sky vs. Dallas Wings"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23033",
-      "pID": "23033",
-      "title": "TNT",
-      "keyword": "06月21日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "TNT",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
-      "pkInfoTitle": "AEW: Saturday Night Collision",
-      "modifyTitle": "TNT",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=aew%2Fcollision%2F2026-06-20",
-          "name": "AEW: Saturday Night Collision"
-        }
-      ]
-    },
-    {
       "mgdbId": "23450",
       "pID": "23450",
       "title": "Rockies.TV",
@@ -242,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-21T02:30:42.799Z",
-  "shanghaiTime": "2026-06-21T10:30:42.799Z",
-  "count": 10,
+  "timestamp": "2026-06-21T03:00:50.822Z",
+  "shanghaiTime": "2026-06-21T11:00:50.822Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
