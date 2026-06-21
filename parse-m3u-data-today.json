@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23018",
-      "pID": "23018",
-      "title": "Fox Footy",
-      "keyword": "06月21日03:10",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Footy",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b121b6e3326b8d8e6b2b8c9841c4890f-thumbnail.jpg",
-      "pkInfoTitle": "Richmond vs. North Melbourne",
-      "modifyTitle": "Fox Footy",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日03:10"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-21%2Frich-nmfc",
-          "name": "Richmond vs. North Melbourne"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23398",
-      "pID": "23398",
-      "title": "FIFA World Cup",
-      "keyword": "06月21日04:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/2056a3155d2e5ea1e2e8d32ba080c81e-thumbnail.jpg",
-      "pkInfoTitle": "Tunisia vs. Japan",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-20%2Ftun-jpn",
-          "name": "Tunisia vs. Japan"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23025",
-      "pID": "23025",
-      "title": "Fox League",
-      "keyword": "06月21日04:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox League",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/0ccbe4e31f0e759e477a534001034ba7-thumbnail.jpg",
-      "pkInfoTitle": "Warriors vs. Cowboys",
-      "modifyTitle": "Fox League",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日04:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-21%2Fnew-nor",
-          "name": "Warriors vs. Cowboys"
-        }
-      ]
-    },
-    {
       "mgdbId": "23461",
       "pID": "23461",
       "title": "Women's VNL 2026",
@@ -144,11 +72,35 @@
           "name": "Bulgaria vs. Ukraine"
         }
       ]
+    },
+    {
+      "mgdbId": "23026",
+      "pID": "23026",
+      "title": "Fox League",
+      "keyword": "06月21日06:05",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/b6887bc60e8bea1b52d424755462b463-thumbnail.jpg",
+      "pkInfoTitle": "Storm vs. Raiders",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日06:05"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-21%2Fmel-can",
+          "name": "Storm vs. Raiders"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T06:00:55.492Z",
-  "shanghaiTime": "2026-06-21T14:00:55.492Z",
-  "count": 6,
+  "timestamp": "2026-06-21T06:30:45.665Z",
+  "shanghaiTime": "2026-06-21T14:30:45.665Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
