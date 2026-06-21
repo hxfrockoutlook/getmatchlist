@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23019",
-      "pID": "23019",
-      "title": "Fox Sports 503",
-      "keyword": "06月21日05:15",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Fox Sports 503",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg",
-      "pkInfoTitle": "St Kilda vs. Western Bulldogs",
-      "modifyTitle": "Fox Sports 503",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月21日05:15"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-21%2Fstk-wb",
-          "name": "St Kilda vs. Western Bulldogs"
-        }
-      ]
-    },
-    {
       "mgdbId": "23526",
       "pID": "23526",
       "title": "Women's VNL 2026",
@@ -96,10 +72,34 @@
           "name": "Czechia vs. Dominican Republic"
         }
       ]
+    },
+    {
+      "mgdbId": "23027",
+      "pID": "23027",
+      "title": "Fox League",
+      "keyword": "06月21日08:15",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg",
+      "pkInfoTitle": "Roosters vs. Sharks",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日08:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-21%2Fsyd-cro",
+          "name": "Roosters vs. Sharks"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T08:00:54.822Z",
-  "shanghaiTime": "2026-06-21T16:00:54.822Z",
+  "timestamp": "2026-06-21T08:30:47.939Z",
+  "shanghaiTime": "2026-06-21T16:30:47.939Z",
   "count": 4,
   "mode": "today",
   "source": "no_data"
