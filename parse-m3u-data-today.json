@@ -168,11 +168,83 @@
           "name": "Richmond vs. North Melbourne"
         }
       ]
+    },
+    {
+      "mgdbId": "23398",
+      "pID": "23398",
+      "title": "FIFA World Cup",
+      "keyword": "06月21日04:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/2056a3155d2e5ea1e2e8d32ba080c81e-thumbnail.jpg",
+      "pkInfoTitle": "Tunisia vs. Japan",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日04:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-20%2Ftun-jpn",
+          "name": "Tunisia vs. Japan"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23025",
+      "pID": "23025",
+      "title": "Fox League",
+      "keyword": "06月21日04:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox League",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/0ccbe4e31f0e759e477a534001034ba7-thumbnail.jpg",
+      "pkInfoTitle": "Warriors vs. Cowboys",
+      "modifyTitle": "Fox League",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日04:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=nrl%2F2026-06-21%2Fnew-nor",
+          "name": "Warriors vs. Cowboys"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23461",
+      "pID": "23461",
+      "title": "Women's VNL 2026",
+      "keyword": "06月21日04:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Women's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/37ac74a15dd0383d9be586f5d6152d09-thumbnail.jpg",
+      "pkInfoTitle": "Serbia vs. USA",
+      "modifyTitle": "Women's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日04:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=womensvnl%2F2026-06-21%2Fser-usa",
+          "name": "Serbia vs. USA"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T03:30:45.274Z",
-  "shanghaiTime": "2026-06-21T11:30:45.274Z",
-  "count": 7,
+  "timestamp": "2026-06-21T04:00:54.309Z",
+  "shanghaiTime": "2026-06-21T12:00:54.309Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
