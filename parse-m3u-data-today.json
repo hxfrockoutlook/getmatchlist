@@ -50,6 +50,30 @@
       ]
     },
     {
+      "mgdbId": "23448",
+      "pID": "23448",
+      "title": "MLB.TV",
+      "keyword": "06月21日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "MLB.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg",
+      "pkInfoTitle": "New York Mets vs. Philadelphia Phillies",
+      "modifyTitle": "MLB.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-20%2Fnym-phi",
+          "name": "New York Mets vs. Philadelphia Phillies"
+        }
+      ]
+    },
+    {
       "mgdbId": "23449",
       "pID": "23449",
       "title": "MLB.TV",
@@ -170,9 +194,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-21T01:30:47.843Z",
-  "shanghaiTime": "2026-06-21T09:30:47.843Z",
-  "count": 7,
+  "timestamp": "2026-06-21T02:00:57.056Z",
+  "shanghaiTime": "2026-06-21T10:00:57.056Z",
+  "count": 8,
   "mode": "today",
   "source": "no_data"
 }
