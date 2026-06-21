@@ -192,11 +192,35 @@
           "name": "Serbia vs. USA"
         }
       ]
+    },
+    {
+      "mgdbId": "23019",
+      "pID": "23019",
+      "title": "Fox Sports 503",
+      "keyword": "06月21日05:15",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Fox Sports 503",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg",
+      "pkInfoTitle": "St Kilda vs. Western Bulldogs",
+      "modifyTitle": "Fox Sports 503",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月21日05:15"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=afl%2F2026-06-21%2Fstk-wb",
+          "name": "St Kilda vs. Western Bulldogs"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-21T05:00:53.607Z",
-  "shanghaiTime": "2026-06-21T13:00:53.607Z",
-  "count": 8,
+  "timestamp": "2026-06-21T05:30:44.007Z",
+  "shanghaiTime": "2026-06-21T13:30:44.007Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
