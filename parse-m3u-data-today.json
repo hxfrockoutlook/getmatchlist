@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23519",
-      "pID": "23519",
-      "title": "Rangers Sports Network",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rangers Sports Network",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/86c51b0095c76e5125e2ba00ff4d5020-thumbnail.jpg",
-      "pkInfoTitle": "San Diego Padres vs. Texas Rangers",
-      "modifyTitle": "Rangers Sports Network",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fsd-tex",
-          "name": "San Diego Padres vs. Texas Rangers"
-        }
-      ]
-    },
-    {
       "mgdbId": "23520",
       "pID": "23520",
       "title": "Rockies.TV",
@@ -242,9 +218,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-21T22:00:58.284Z",
-  "shanghaiTime": "2026-06-22T06:00:58.284Z",
-  "count": 10,
+  "timestamp": "2026-06-21T22:30:45.809Z",
+  "shanghaiTime": "2026-06-22T06:30:45.809Z",
+  "count": 9,
   "mode": "today",
   "source": "no_data"
 }
