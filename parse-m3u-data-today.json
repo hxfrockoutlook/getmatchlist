@@ -1,34 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "23430",
-      "pID": "23430",
-      "title": "FIFA World Cup",
-      "keyword": "06月22日01:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/cfaa953171592d7565947af1bb442d70-thumbnail.jpg",
-      "pkInfoTitle": "New Zealand vs. Egypt",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日01:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-21%2Fnzl-egy",
-          "name": "New Zealand vs. Egypt"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-22T03:00:54.444Z",
-  "shanghaiTime": "2026-06-22T11:00:54.444Z",
-  "count": 1,
+  "data": [],
+  "timestamp": "2026-06-22T03:30:49.983Z",
+  "shanghaiTime": "2026-06-22T11:30:49.983Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
