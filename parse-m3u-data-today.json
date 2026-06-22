@@ -26,30 +26,6 @@
       ]
     },
     {
-      "mgdbId": "23422",
-      "pID": "23422",
-      "title": "FIFA World Cup",
-      "keyword": "06月22日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b7974e3df742c4f561f925dab6ab3d59-thumbnail.jpg",
-      "pkInfoTitle": "Uruguay vs. Cape Verde",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-21%2Furu-cpv",
-          "name": "Uruguay vs. Cape Verde"
-        }
-      ]
-    },
-    {
       "mgdbId": "23525",
       "pID": "23525",
       "title": "NBC",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-22T00:00:59.374Z",
-  "shanghaiTime": "2026-06-22T08:00:59.374Z",
-  "count": 4,
+  "timestamp": "2026-06-22T00:30:50.295Z",
+  "shanghaiTime": "2026-06-22T08:30:50.295Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
