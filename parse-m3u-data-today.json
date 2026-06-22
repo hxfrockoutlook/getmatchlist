@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23525",
-      "pID": "23525",
-      "title": "NBC",
-      "keyword": "06月22日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg",
-      "pkInfoTitle": "New York Mets vs. Philadelphia Phillies",
-      "modifyTitle": "NBC",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-21%2Fnym-phi",
-          "name": "New York Mets vs. Philadelphia Phillies"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23510",
-      "pID": "23510",
-      "title": "ESPN",
-      "keyword": "06月22日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ESPN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3450fe54e1086d89c47efc10e791bf9a-thumbnail.jpg",
-      "pkInfoTitle": "New York Liberty vs. Los Angeles Sparks",
-      "modifyTitle": "ESPN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-21%2Fny-la",
-          "name": "New York Liberty vs. Los Angeles Sparks"
-        }
-      ]
-    },
-    {
       "mgdbId": "23430",
       "pID": "23430",
       "title": "FIFA World Cup",
@@ -74,9 +26,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-22T02:30:49.018Z",
-  "shanghaiTime": "2026-06-22T10:30:49.018Z",
-  "count": 3,
+  "timestamp": "2026-06-22T03:00:54.444Z",
+  "shanghaiTime": "2026-06-22T11:00:54.444Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
