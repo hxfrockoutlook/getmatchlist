@@ -2,32 +2,32 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23612",
-      "pID": "23612",
-      "title": "Netflix",
+      "mgdbId": "23484",
+      "pID": "23484",
+      "title": "FIFA World Cup",
       "keyword": "06月23日00:00",
-      "sportItemId": "8",
+      "sportItemId": "1",
       "matchStatus": "1",
       "matchField": "",
-      "competitionName": "Netflix",
+      "competitionName": "FIFA World Cup",
       "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",
-      "pkInfoTitle": "WWE: Monday Night RAW",
-      "modifyTitle": "Netflix",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg",
+      "pkInfoTitle": "France vs. Iraq",
+      "modifyTitle": "FIFA World Cup",
       "presenters": "",
       "matchInfo": {
         "time": "06月23日00:00"
       },
       "nodes": [
         {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fraw%2F2026-06-22",
-          "name": "WWE: Monday Night RAW"
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-22%2Ffra-irq",
+          "name": "France vs. Iraq"
         }
       ]
     }
   ],
-  "timestamp": "2026-06-22T20:31:02.600Z",
-  "shanghaiTime": "2026-06-23T04:31:02.600Z",
+  "timestamp": "2026-06-22T21:00:53.710Z",
+  "shanghaiTime": "2026-06-23T05:00:53.710Z",
   "count": 1,
   "mode": "today",
   "source": "no_data"
