@@ -1,9 +1,34 @@
 {
   "success": true,
-  "data": [],
-  "timestamp": "2026-06-22T16:30:54.023Z",
-  "shanghaiTime": "2026-06-23T00:30:54.023Z",
-  "count": 0,
+  "data": [
+    {
+      "mgdbId": "23476",
+      "pID": "23476",
+      "title": "FIFA World Cup",
+      "keyword": "06月23日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d4451c233beb8599ad755857139ca7a6-thumbnail.jpg",
+      "pkInfoTitle": "Argentina vs. Austria",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月23日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-22%2Farg-aut",
+          "name": "Argentina vs. Austria"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-22T17:01:02.949Z",
+  "shanghaiTime": "2026-06-23T01:01:02.949Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
