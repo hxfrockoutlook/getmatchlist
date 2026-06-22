@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23509",
-      "pID": "23509",
-      "title": "NBA TV",
-      "keyword": "06月22日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBA TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/6b96715c9e70234680b7f6ca1d9dc78a-thumbnail.jpg",
-      "pkInfoTitle": "Washington Mystics vs. Minnesota Lynx",
-      "modifyTitle": "NBA TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月22日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-21%2Fwsh-min",
-          "name": "Washington Mystics vs. Minnesota Lynx"
-        }
-      ]
-    },
-    {
       "mgdbId": "23525",
       "pID": "23525",
       "title": "NBC",
@@ -72,10 +48,34 @@
           "name": "New York Liberty vs. Los Angeles Sparks"
         }
       ]
+    },
+    {
+      "mgdbId": "23430",
+      "pID": "23430",
+      "title": "FIFA World Cup",
+      "keyword": "06月22日01:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/cfaa953171592d7565947af1bb442d70-thumbnail.jpg",
+      "pkInfoTitle": "New Zealand vs. Egypt",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月22日01:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-21%2Fnzl-egy",
+          "name": "New Zealand vs. Egypt"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-22T00:30:50.295Z",
-  "shanghaiTime": "2026-06-22T08:30:50.295Z",
+  "timestamp": "2026-06-22T01:00:57.547Z",
+  "shanghaiTime": "2026-06-22T09:00:57.547Z",
   "count": 3,
   "mode": "today",
   "source": "no_data"
