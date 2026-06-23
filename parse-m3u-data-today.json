@@ -1,9 +1,34 @@
 {
   "success": true,
-  "data": [],
-  "timestamp": "2026-06-23T16:30:56.978Z",
-  "shanghaiTime": "2026-06-24T00:30:56.978Z",
-  "count": 0,
+  "data": [
+    {
+      "mgdbId": "23542",
+      "pID": "23542",
+      "title": "FIFA World Cup",
+      "keyword": "06月24日00:00",
+      "sportItemId": "1",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "FIFA World Cup",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/fd2bdcc0ef335982c658f336171246a4-thumbnail.jpg",
+      "pkInfoTitle": "Portugal vs. Uzbekistan",
+      "modifyTitle": "FIFA World Cup",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-23%2Fpor-uzb",
+          "name": "Portugal vs. Uzbekistan"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-23T17:01:10.855Z",
+  "shanghaiTime": "2026-06-24T01:01:10.855Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
