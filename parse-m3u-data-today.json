@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23594",
-      "pID": "23594",
-      "title": "Rockies.TV",
-      "keyword": "06月23日00:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4873f0911f944515ab540d25ede0c505-thumbnail.jpg",
-      "pkInfoTitle": "Boston Red Sox vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日00:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fbos-col",
-          "name": "Boston Red Sox vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
       "mgdbId": "23595",
       "pID": "23595",
       "title": "Angels.TV",
@@ -122,9 +98,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-23T04:00:52.391Z",
-  "shanghaiTime": "2026-06-23T12:00:52.391Z",
-  "count": 5,
+  "timestamp": "2026-06-23T04:30:42.957Z",
+  "shanghaiTime": "2026-06-23T12:30:42.957Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
