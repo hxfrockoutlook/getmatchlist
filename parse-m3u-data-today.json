@@ -2,78 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23591",
-      "pID": "23591",
-      "title": "CHSN",
-      "keyword": "06月23日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CHSN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/7ebea8210dbfabd258b377d08738fde1-thumbnail.jpg",
-      "pkInfoTitle": "Cleveland Guardians vs. Chicago White Sox",
-      "modifyTitle": "CHSN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fcle-chw",
-          "name": "Cleveland Guardians vs. Chicago White Sox"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23592",
-      "pID": "23592",
-      "title": "Twins.TV",
-      "keyword": "06月23日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Twins.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/287312a08774a059d811080a426e96c1-thumbnail.jpg",
-      "pkInfoTitle": "Los Angeles Dodgers vs. Minnesota Twins",
-      "modifyTitle": "Twins.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Flad-min",
-          "name": "Los Angeles Dodgers vs. Minnesota Twins"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23593",
-      "pID": "23593",
-      "title": "Cardinals.TV",
-      "keyword": "06月23日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Cardinals.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/befc90bc75e31b7a6c1d0cad6d4fcc88-thumbnail.jpg",
-      "pkInfoTitle": "Arizona Diamondbacks vs. St. Louis Cardinals",
-      "modifyTitle": "Cardinals.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fari-stl",
-          "name": "Arizona Diamondbacks vs. St. Louis Cardinals"
-        }
-      ]
-    },
-    {
       "mgdbId": "23594",
       "pID": "23594",
       "title": "Rockies.TV",
@@ -194,9 +122,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-23T03:00:56.446Z",
-  "shanghaiTime": "2026-06-23T11:00:56.446Z",
-  "count": 8,
+  "timestamp": "2026-06-23T03:30:47.265Z",
+  "shanghaiTime": "2026-06-23T11:30:47.265Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
