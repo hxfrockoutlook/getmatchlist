@@ -1,82 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "23595",
-      "pID": "23595",
-      "title": "Angels.TV",
-      "keyword": "06月23日01:38",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Angels.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c9732d1788e0513ba664db42fee02cde-thumbnail.jpg",
-      "pkInfoTitle": "Baltimore Orioles vs. Los Angeles Angels",
-      "modifyTitle": "Angels.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日01:38"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fbal-laa",
-          "name": "Baltimore Orioles vs. Los Angeles Angels"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23596",
-      "pID": "23596",
-      "title": "ESPN",
-      "keyword": "06月23日02:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ESPN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/92092666a36f7574efbd9171cac4984a-thumbnail.jpg",
-      "pkInfoTitle": "Atlanta Braves vs. San Diego Padres",
-      "modifyTitle": "ESPN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fatl-sd",
-          "name": "Atlanta Braves vs. San Diego Padres"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23500",
-      "pID": "23500",
-      "title": "FIFA World Cup",
-      "keyword": "06月23日03:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/aa16f1715060b271db98cd3685a23547-thumbnail.jpg",
-      "pkInfoTitle": "Jordan vs. Algeria",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日03:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-22%2Fjor-alg",
-          "name": "Jordan vs. Algeria"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-23T05:00:53.602Z",
-  "shanghaiTime": "2026-06-23T13:00:53.602Z",
-  "count": 3,
+  "data": [],
+  "timestamp": "2026-06-23T05:30:49.190Z",
+  "shanghaiTime": "2026-06-23T13:30:49.190Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
