@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23484",
-      "pID": "23484",
-      "title": "FIFA World Cup",
-      "keyword": "06月23日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg",
-      "pkInfoTitle": "France vs. Iraq",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-22%2Ffra-irq",
-          "name": "France vs. Iraq"
-        }
-      ]
-    },
-    {
       "mgdbId": "23584",
       "pID": "23584",
       "title": "Tigers.TV",
@@ -360,10 +336,34 @@
           "name": "Norway vs. Senegal"
         }
       ]
+    },
+    {
+      "mgdbId": "23594",
+      "pID": "23594",
+      "title": "Rockies.TV",
+      "keyword": "06月23日00:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rockies.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4873f0911f944515ab540d25ede0c505-thumbnail.jpg",
+      "pkInfoTitle": "Boston Red Sox vs. Colorado Rockies",
+      "modifyTitle": "Rockies.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月23日00:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fbos-col",
+          "name": "Boston Red Sox vs. Colorado Rockies"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-23T00:30:49.112Z",
-  "shanghaiTime": "2026-06-23T08:30:49.112Z",
+  "timestamp": "2026-06-23T01:00:49.488Z",
+  "shanghaiTime": "2026-06-23T09:00:49.489Z",
   "count": 15,
   "mode": "today",
   "source": "no_data"
