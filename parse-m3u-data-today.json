@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23550",
-      "pID": "23550",
-      "title": "FIFA World Cup",
-      "keyword": "06月24日00:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/cdcd53f827629723ce2b16a3d55dcbcd-thumbnail.jpg",
-      "pkInfoTitle": "England vs. Ghana",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-23%2Feng-gha",
-          "name": "England vs. Ghana"
-        }
-      ]
-    },
-    {
       "mgdbId": "23686",
       "pID": "23686",
       "title": "Sportsnet",
@@ -50,9 +26,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-23T22:01:02.501Z",
-  "shanghaiTime": "2026-06-24T06:01:02.501Z",
-  "count": 2,
+  "timestamp": "2026-06-23T22:30:55.131Z",
+  "shanghaiTime": "2026-06-24T06:30:55.131Z",
+  "count": 1,
   "mode": "today",
   "source": "no_data"
 }
