@@ -50,30 +50,6 @@
       ]
     },
     {
-      "mgdbId": "23583",
-      "pID": "23583",
-      "title": "CW Seattle",
-      "keyword": "06月23日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CW Seattle",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/f1884f99f02d64a7d1cd4cee83b4a139-thumbnail.jpg",
-      "pkInfoTitle": "Dallas Wings vs. Seattle Storm",
-      "modifyTitle": "CW Seattle",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-22%2Fdal-sea",
-          "name": "Dallas Wings vs. Seattle Storm"
-        }
-      ]
-    },
-    {
       "mgdbId": "23500",
       "pID": "23500",
       "title": "FIFA World Cup",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-23T04:30:42.957Z",
-  "shanghaiTime": "2026-06-23T12:30:42.957Z",
-  "count": 4,
+  "timestamp": "2026-06-23T05:00:53.602Z",
+  "shanghaiTime": "2026-06-23T13:00:53.602Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
