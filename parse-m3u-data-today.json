@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23584",
-      "pID": "23584",
-      "title": "Tigers.TV",
-      "keyword": "06月23日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Tigers.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/214e71b6918ed7e995fcb66b6cded21d-thumbnail.jpg",
-      "pkInfoTitle": "New York Yankees vs. Detroit Tigers",
-      "modifyTitle": "Tigers.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fnyy-det",
-          "name": "New York Yankees vs. Detroit Tigers"
-        }
-      ]
-    },
-    {
       "mgdbId": "23585",
       "pID": "23585",
       "title": "Rays.TV",
@@ -94,30 +70,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fphi-wsh",
           "name": "Philadelphia Phillies vs. Washington Nationals"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23580",
-      "pID": "23580",
-      "title": "NBC Sports BO",
-      "keyword": "06月23日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports BO",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/64f04cbd4685bf040d7f62fd04c40722-thumbnail.jpg",
-      "pkInfoTitle": "Chicago Sky vs. Connecticut Sun",
-      "modifyTitle": "NBC Sports BO",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月23日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-22%2Fchi-con",
-          "name": "Chicago Sky vs. Connecticut Sun"
         }
       ]
     },
@@ -360,11 +312,83 @@
           "name": "Boston Red Sox vs. Colorado Rockies"
         }
       ]
+    },
+    {
+      "mgdbId": "23595",
+      "pID": "23595",
+      "title": "Angels.TV",
+      "keyword": "06月23日01:38",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Angels.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/c9732d1788e0513ba664db42fee02cde-thumbnail.jpg",
+      "pkInfoTitle": "Baltimore Orioles vs. Los Angeles Angels",
+      "modifyTitle": "Angels.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月23日01:38"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fbal-laa",
+          "name": "Baltimore Orioles vs. Los Angeles Angels"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23596",
+      "pID": "23596",
+      "title": "ESPN",
+      "keyword": "06月23日02:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ESPN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/92092666a36f7574efbd9171cac4984a-thumbnail.jpg",
+      "pkInfoTitle": "Atlanta Braves vs. San Diego Padres",
+      "modifyTitle": "ESPN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月23日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-22%2Fatl-sd",
+          "name": "Atlanta Braves vs. San Diego Padres"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23583",
+      "pID": "23583",
+      "title": "CW Seattle",
+      "keyword": "06月23日02:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CW Seattle",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/f1884f99f02d64a7d1cd4cee83b4a139-thumbnail.jpg",
+      "pkInfoTitle": "Dallas Wings vs. Seattle Storm",
+      "modifyTitle": "CW Seattle",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月23日02:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-22%2Fdal-sea",
+          "name": "Dallas Wings vs. Seattle Storm"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-23T01:30:45.605Z",
-  "shanghaiTime": "2026-06-23T09:30:45.605Z",
-  "count": 15,
+  "timestamp": "2026-06-23T02:00:52.207Z",
+  "shanghaiTime": "2026-06-23T10:00:52.207Z",
+  "count": 16,
   "mode": "today",
   "source": "no_data"
 }
