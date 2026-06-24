@@ -72,35 +72,11 @@
           "name": "Athletics vs. San Francisco Giants"
         }
       ]
-    },
-    {
-      "mgdbId": "23685",
-      "pID": "23685",
-      "title": "USA Net",
-      "keyword": "06月24日02:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "USA Net",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/3e84ae089438b3c81f80bee662c940d5-thumbnail.jpg",
-      "pkInfoTitle": "New York Liberty vs. Las Vegas Aces",
-      "modifyTitle": "USA Net",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wnba%2F2026-06-23%2Fny-lv",
-          "name": "New York Liberty vs. Las Vegas Aces"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-24T04:30:43.899Z",
-  "shanghaiTime": "2026-06-24T12:30:43.899Z",
-  "count": 4,
+  "timestamp": "2026-06-24T05:00:52.731Z",
+  "shanghaiTime": "2026-06-24T13:00:52.731Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
