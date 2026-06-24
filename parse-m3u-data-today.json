@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23686",
-      "pID": "23686",
-      "title": "Sportsnet",
-      "keyword": "06月24日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Sportsnet",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/21cdd8d878e2cc2761d56b4a07a46da3-thumbnail.jpg",
-      "pkInfoTitle": "Houston Astros vs. Toronto Blue Jays",
-      "modifyTitle": "Sportsnet",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fhou-tor",
-          "name": "Houston Astros vs. Toronto Blue Jays"
-        }
-      ]
-    },
-    {
       "mgdbId": "23687",
       "pID": "23687",
       "title": "Rays.TV",
@@ -216,11 +192,131 @@
           "name": "Milwaukee Brewers vs. Cincinnati Reds"
         }
       ]
+    },
+    {
+      "mgdbId": "23694",
+      "pID": "23694",
+      "title": "CHSN",
+      "keyword": "06月24日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CHSN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/7ebea8210dbfabd258b377d08738fde1-thumbnail.jpg",
+      "pkInfoTitle": "Cleveland Guardians vs. Chicago White Sox",
+      "modifyTitle": "CHSN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fcle-chw",
+          "name": "Cleveland Guardians vs. Chicago White Sox"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23695",
+      "pID": "23695",
+      "title": "Twins.TV",
+      "keyword": "06月24日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Twins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/287312a08774a059d811080a426e96c1-thumbnail.jpg",
+      "pkInfoTitle": "Los Angeles Dodgers vs. Minnesota Twins",
+      "modifyTitle": "Twins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Flad-min",
+          "name": "Los Angeles Dodgers vs. Minnesota Twins"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23696",
+      "pID": "23696",
+      "title": "Cardinals.TV",
+      "keyword": "06月24日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Cardinals.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/befc90bc75e31b7a6c1d0cad6d4fcc88-thumbnail.jpg",
+      "pkInfoTitle": "Arizona Diamondbacks vs. St. Louis Cardinals",
+      "modifyTitle": "Cardinals.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fari-stl",
+          "name": "Arizona Diamondbacks vs. St. Louis Cardinals"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23720",
+      "pID": "23720",
+      "title": "ESPN",
+      "keyword": "06月24日00:00",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "ESPN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg",
+      "pkInfoTitle": "2026 NBA Draft | Round 1",
+      "modifyTitle": "ESPN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=2026-nba-draft--round-1",
+          "name": "2026 NBA Draft | Round 1"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23613",
+      "pID": "23613",
+      "title": "CW",
+      "keyword": "06月24日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CW",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
+      "pkInfoTitle": "WWE: NXT",
+      "modifyTitle": "CW",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fnxt%2F2026-06-23",
+          "name": "WWE: NXT"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-23T23:30:48.635Z",
-  "shanghaiTime": "2026-06-24T07:30:48.635Z",
-  "count": 9,
+  "timestamp": "2026-06-24T00:00:56.196Z",
+  "shanghaiTime": "2026-06-24T08:00:56.196Z",
+  "count": 13,
   "mode": "today",
   "source": "no_data"
 }
