@@ -1,9 +1,106 @@
 {
   "success": true,
-  "data": [],
-  "timestamp": "2026-06-24T10:30:47.755Z",
-  "shanghaiTime": "2026-06-24T18:30:47.755Z",
-  "count": 0,
+  "data": [
+    {
+      "mgdbId": "",
+      "pID": "983488708402",
+      "title": "抖音CBA直播间",
+      "keyword": "06月24日19:30",
+      "sportItemId": "2",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "CBA联赛",
+      "padImg": "http://catvod.957.de5.net/抖音CBA.png",
+      "competitionLogo": "",
+      "pkInfoTitle": "抖音CBA直播间",
+      "modifyTitle": "",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日19:30"
+      },
+      "nodes": [
+        {
+          "name": "抖音CBA直播 [非直播时间为CCTV13直播]",
+          "url": "http://pull-flv-f11.douyinliving.com/media/stream-407837741640844114.flv?expire=1782903663&sign=6e79ad9e6270f76649289eb74d28b2aa&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&unique_id=stream-407837741640844114_850_flv&t_id=037-202606241901023435645EC2D1B78A5F26-L9ycdX"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23821",
+      "pID": "23821",
+      "title": "DAZN",
+      "keyword": "06月24日09:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "DAZN",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8d9729417b9dbabdb82bc7ab6d70d819-thumbnail.jpg",
+      "pkInfoTitle": "Crocker vs. Paro",
+      "modifyTitle": "DAZN",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日09:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=crocker-vs-paro",
+          "name": "Crocker vs. Paro"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23790",
+      "pID": "23790",
+      "title": "Men's VNL 2026",
+      "keyword": "06月24日11:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/d0b7b643153448b6c8f05f4c5b65b34e-thumbnail.jpg",
+      "pkInfoTitle": "Bulgaria vs. Italy",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-24%2Fbul-ita",
+          "name": "Bulgaria vs. Italy"
+        }
+      ]
+    },
+    {
+      "mgdbId": "23791",
+      "pID": "23791",
+      "title": "Men's VNL 2026",
+      "keyword": "06月24日11:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/34fe98af79cacf93e823947e2678ac6d-thumbnail.jpg",
+      "pkInfoTitle": "China vs. Türkiye",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日11:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-24%2Fchi-t%C3%BCr",
+          "name": "China vs. Türkiye"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-06-24T11:01:04.981Z",
+  "shanghaiTime": "2026-06-24T19:01:04.981Z",
+  "count": 4,
   "mode": "today",
-  "source": "no_data"
+  "source": "cba_live"
 }
