@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23821",
-      "pID": "23821",
-      "title": "DAZN",
-      "keyword": "06月24日09:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "DAZN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/8d9729417b9dbabdb82bc7ab6d70d819-thumbnail.jpg",
-      "pkInfoTitle": "Crocker vs. Paro",
-      "modifyTitle": "DAZN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日09:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=crocker-vs-paro",
-          "name": "Crocker vs. Paro"
-        }
-      ]
-    },
-    {
       "mgdbId": "23790",
       "pID": "23790",
       "title": "Men's VNL 2026",
@@ -98,9 +74,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-24T13:30:51.093Z",
-  "shanghaiTime": "2026-06-24T21:30:51.093Z",
-  "count": 4,
+  "timestamp": "2026-06-24T14:01:11.479Z",
+  "shanghaiTime": "2026-06-24T22:01:11.479Z",
+  "count": 3,
   "mode": "today",
   "source": "no_data"
 }
