@@ -72,11 +72,35 @@
           "name": "Cuba vs. USA"
         }
       ]
+    },
+    {
+      "mgdbId": "23774",
+      "pID": "23774",
+      "title": "Marlins.TV",
+      "keyword": "06月25日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Marlins.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8bc1028c808db5ef1a1e9b9c2fadcbd3-thumbnail.jpg",
+      "pkInfoTitle": "Texas Rangers vs. Miami Marlins",
+      "modifyTitle": "Marlins.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月25日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-24%2Ftex-mia",
+          "name": "Texas Rangers vs. Miami Marlins"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-24T16:00:59.474Z",
-  "shanghaiTime": "2026-06-25T00:00:59.474Z",
-  "count": 3,
+  "timestamp": "2026-06-24T16:30:48.423Z",
+  "shanghaiTime": "2026-06-25T00:30:48.423Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
