@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23720",
-      "pID": "23720",
-      "title": "ESPN",
-      "keyword": "06月24日00:00",
-      "sportItemId": "2",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "ESPN",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg",
-      "pkInfoTitle": "2026 NBA Draft | Round 1",
-      "modifyTitle": "ESPN",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=2026-nba-draft--round-1",
-          "name": "2026 NBA Draft | Round 1"
-        }
-      ]
-    },
-    {
       "mgdbId": "23697",
       "pID": "23697",
       "title": "Rockies.TV",
@@ -170,9 +146,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-24T03:30:44.998Z",
-  "shanghaiTime": "2026-06-24T11:30:44.998Z",
-  "count": 7,
+  "timestamp": "2026-06-24T04:00:47.978Z",
+  "shanghaiTime": "2026-06-24T12:00:47.978Z",
+  "count": 6,
   "mode": "today",
   "source": "no_data"
 }
