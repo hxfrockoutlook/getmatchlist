@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23792",
-      "pID": "23792",
-      "title": "Men's VNL 2026",
-      "keyword": "06月24日11:30",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c371527f5b22ec5a352cc1c192c4aad3-thumbnail.jpg",
-      "pkInfoTitle": "Serbia vs. Japan",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日11:30"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-24%2Fser-jap",
-          "name": "Serbia vs. Japan"
-        }
-      ]
-    },
-    {
       "mgdbId": "23793",
       "pID": "23793",
       "title": "Men's VNL 2026",
@@ -72,10 +48,34 @@
           "name": "Ukraine vs. Brazil"
         }
       ]
+    },
+    {
+      "mgdbId": "23795",
+      "pID": "23795",
+      "title": "Men's VNL 2026",
+      "keyword": "06月24日15:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/acc995adc9310e4458143b107641f555-thumbnail.jpg",
+      "pkInfoTitle": "Cuba vs. USA",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日15:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-24%2Fcub-usa",
+          "name": "Cuba vs. USA"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-24T14:31:01.203Z",
-  "shanghaiTime": "2026-06-24T22:31:01.203Z",
+  "timestamp": "2026-06-24T15:01:07.240Z",
+  "shanghaiTime": "2026-06-24T23:01:07.241Z",
   "count": 3,
   "mode": "today",
   "source": "no_data"
