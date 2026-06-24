@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23692",
-      "pID": "23692",
-      "title": "SNY",
-      "keyword": "06月24日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "SNY",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ce1598f7c03f46b086999e6a6f057def-thumbnail.jpg",
-      "pkInfoTitle": "Chicago Cubs vs. New York Mets",
-      "modifyTitle": "SNY",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fchc-nym",
-          "name": "Chicago Cubs vs. New York Mets"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23693",
-      "pID": "23693",
-      "title": "Reds.TV",
-      "keyword": "06月24日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Reds.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/b050a693b257514184ece1a12e68cce6-thumbnail.jpg",
-      "pkInfoTitle": "Milwaukee Brewers vs. Cincinnati Reds",
-      "modifyTitle": "Reds.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fmil-cin",
-          "name": "Milwaukee Brewers vs. Cincinnati Reds"
-        }
-      ]
-    },
-    {
       "mgdbId": "23694",
       "pID": "23694",
       "title": "CHSN",
@@ -142,30 +94,6 @@
         {
           "pID": "https://ppv.hxfkof.dpdns.org/?id=2026-nba-draft--round-1",
           "name": "2026 NBA Draft | Round 1"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23613",
-      "pID": "23613",
-      "title": "CW",
-      "keyword": "06月24日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "CW",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
-      "pkInfoTitle": "WWE: NXT",
-      "modifyTitle": "CW",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wwe%2Fnxt%2F2026-06-23",
-          "name": "WWE: NXT"
         }
       ]
     },
@@ -314,9 +242,9 @@
       ]
     }
   ],
-  "timestamp": "2026-06-24T02:30:57.563Z",
-  "shanghaiTime": "2026-06-24T10:30:57.563Z",
-  "count": 13,
+  "timestamp": "2026-06-24T03:00:52.054Z",
+  "shanghaiTime": "2026-06-24T11:00:52.054Z",
+  "count": 10,
   "mode": "today",
   "source": "no_data"
 }
