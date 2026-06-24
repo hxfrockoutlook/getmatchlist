@@ -1,82 +1,9 @@
 {
   "success": true,
-  "data": [
-    {
-      "mgdbId": "23698",
-      "pID": "23698",
-      "title": "Angels.TV",
-      "keyword": "06月24日01:38",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Angels.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/c9732d1788e0513ba664db42fee02cde-thumbnail.jpg",
-      "pkInfoTitle": "Baltimore Orioles vs. Los Angeles Angels",
-      "modifyTitle": "Angels.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日01:38"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fbal-laa",
-          "name": "Baltimore Orioles vs. Los Angeles Angels"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23699",
-      "pID": "23699",
-      "title": "BravesVision",
-      "keyword": "06月24日01:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "BravesVision",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/92092666a36f7574efbd9171cac4984a-thumbnail.jpg",
-      "pkInfoTitle": "Atlanta Braves vs. San Diego Padres",
-      "modifyTitle": "BravesVision",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日01:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fatl-sd",
-          "name": "Atlanta Braves vs. San Diego Padres"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23700",
-      "pID": "23700",
-      "title": "NBC Sports BA",
-      "keyword": "06月24日01:45",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "NBC Sports BA",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/08698c07dc99127fbd3881e54908f083-thumbnail.jpg",
-      "pkInfoTitle": "Athletics vs. San Francisco Giants",
-      "modifyTitle": "NBC Sports BA",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日01:45"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fath-sf",
-          "name": "Athletics vs. San Francisco Giants"
-        }
-      ]
-    }
-  ],
-  "timestamp": "2026-06-24T05:00:52.731Z",
-  "shanghaiTime": "2026-06-24T13:00:52.731Z",
-  "count": 3,
+  "data": [],
+  "timestamp": "2026-06-24T05:30:48.862Z",
+  "shanghaiTime": "2026-06-24T13:30:48.862Z",
+  "count": 0,
   "mode": "today",
   "source": "no_data"
 }
