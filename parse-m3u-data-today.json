@@ -2,30 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23697",
-      "pID": "23697",
-      "title": "Rockies.TV",
-      "keyword": "06月24日00:40",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Rockies.TV",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/4873f0911f944515ab540d25ede0c505-thumbnail.jpg",
-      "pkInfoTitle": "Boston Red Sox vs. Colorado Rockies",
-      "modifyTitle": "Rockies.TV",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日00:40"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fbos-col",
-          "name": "Boston Red Sox vs. Colorado Rockies"
-        }
-      ]
-    },
-    {
       "mgdbId": "23698",
       "pID": "23698",
       "title": "Angels.TV",
@@ -120,35 +96,11 @@
           "name": "New York Liberty vs. Las Vegas Aces"
         }
       ]
-    },
-    {
-      "mgdbId": "23570",
-      "pID": "23570",
-      "title": "FIFA World Cup",
-      "keyword": "06月24日02:00",
-      "sportItemId": "1",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "FIFA World Cup",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/e5751355526b1d77d9bbc4358249a482-thumbnail.jpg",
-      "pkInfoTitle": "Colombia vs. Congo DR",
-      "modifyTitle": "FIFA World Cup",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月24日02:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=wc%2F2026-06-23%2Fcol-cod",
-          "name": "Colombia vs. Congo DR"
-        }
-      ]
     }
   ],
-  "timestamp": "2026-06-24T04:00:47.978Z",
-  "shanghaiTime": "2026-06-24T12:00:47.978Z",
-  "count": 6,
+  "timestamp": "2026-06-24T04:30:43.899Z",
+  "shanghaiTime": "2026-06-24T12:30:43.899Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
