@@ -96,11 +96,35 @@
           "name": "Texas Rangers vs. Miami Marlins"
         }
       ]
+    },
+    {
+      "mgdbId": "23775",
+      "pID": "23775",
+      "title": "SNY",
+      "keyword": "06月25日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "SNY",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/ce1598f7c03f46b086999e6a6f057def-thumbnail.jpg",
+      "pkInfoTitle": "Chicago Cubs vs. New York Mets",
+      "modifyTitle": "SNY",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月25日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-24%2Fchc-nym",
+          "name": "Chicago Cubs vs. New York Mets"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-24T17:00:55.792Z",
-  "shanghaiTime": "2026-06-25T01:00:55.792Z",
-  "count": 4,
+  "timestamp": "2026-06-24T17:30:53.725Z",
+  "shanghaiTime": "2026-06-25T01:30:53.725Z",
+  "count": 5,
   "mode": "today",
   "source": "no_data"
 }
