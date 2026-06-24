@@ -2,54 +2,6 @@
   "success": true,
   "data": [
     {
-      "mgdbId": "23793",
-      "pID": "23793",
-      "title": "Men's VNL 2026",
-      "keyword": "06月25日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/92971ed507dc03e120de3a7e597453c4-thumbnail.jpg",
-      "pkInfoTitle": "Argentina vs. Germany",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月25日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-24%2Farg-ger",
-          "name": "Argentina vs. Germany"
-        }
-      ]
-    },
-    {
-      "mgdbId": "23794",
-      "pID": "23794",
-      "title": "Men's VNL 2026",
-      "keyword": "06月25日00:00",
-      "sportItemId": "8",
-      "matchStatus": "1",
-      "matchField": "",
-      "competitionName": "Men's VNL 2026",
-      "padImg": "",
-      "competitionLogo": "https://api.ppv.to/assets/thumb/22fc14decc77c5723c7fdeb90f706117-thumbnail.jpg",
-      "pkInfoTitle": "Ukraine vs. Brazil",
-      "modifyTitle": "Men's VNL 2026",
-      "presenters": "",
-      "matchInfo": {
-        "time": "06月25日00:00"
-      },
-      "nodes": [
-        {
-          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-24%2Fukr-bra",
-          "name": "Ukraine vs. Brazil"
-        }
-      ]
-    },
-    {
       "mgdbId": "23795",
       "pID": "23795",
       "title": "Men's VNL 2026",
@@ -120,11 +72,35 @@
           "name": "Chicago Cubs vs. New York Mets"
         }
       ]
+    },
+    {
+      "mgdbId": "23796",
+      "pID": "23796",
+      "title": "Men's VNL 2026",
+      "keyword": "06月25日00:00",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Men's VNL 2026",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/8883a3747f3171a5a58292988cbb520a-thumbnail.jpg",
+      "pkInfoTitle": "Poland vs. Belgium",
+      "modifyTitle": "Men's VNL 2026",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月25日00:00"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mensvnl%2F2026-06-24%2Fpol-bel",
+          "name": "Poland vs. Belgium"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-24T17:30:53.725Z",
-  "shanghaiTime": "2026-06-25T01:30:53.725Z",
-  "count": 5,
+  "timestamp": "2026-06-24T18:01:07.668Z",
+  "shanghaiTime": "2026-06-25T02:01:07.668Z",
+  "count": 4,
   "mode": "today",
   "source": "no_data"
 }
