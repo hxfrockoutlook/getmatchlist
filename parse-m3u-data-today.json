@@ -312,11 +312,35 @@
           "name": "WWE: NXT"
         }
       ]
+    },
+    {
+      "mgdbId": "23697",
+      "pID": "23697",
+      "title": "Rockies.TV",
+      "keyword": "06月24日00:40",
+      "sportItemId": "8",
+      "matchStatus": "1",
+      "matchField": "",
+      "competitionName": "Rockies.TV",
+      "padImg": "",
+      "competitionLogo": "https://api.ppv.to/assets/thumb/4873f0911f944515ab540d25ede0c505-thumbnail.jpg",
+      "pkInfoTitle": "Boston Red Sox vs. Colorado Rockies",
+      "modifyTitle": "Rockies.TV",
+      "presenters": "",
+      "matchInfo": {
+        "time": "06月24日00:40"
+      },
+      "nodes": [
+        {
+          "pID": "https://ppv.hxfkof.dpdns.org/?id=mlb%2F2026-06-23%2Fbos-col",
+          "name": "Boston Red Sox vs. Colorado Rockies"
+        }
+      ]
     }
   ],
-  "timestamp": "2026-06-24T00:30:46.225Z",
-  "shanghaiTime": "2026-06-24T08:30:46.225Z",
-  "count": 13,
+  "timestamp": "2026-06-24T01:00:49.385Z",
+  "shanghaiTime": "2026-06-24T09:00:49.385Z",
+  "count": 14,
   "mode": "today",
   "source": "no_data"
 }
